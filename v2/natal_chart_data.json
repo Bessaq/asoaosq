@@ -1,0 +1,11 @@
+{
+  "name": "Test Person",
+  "year": 1990,
+  "month": 7,
+  "day": 15,
+  "hour": 14,
+  "minute": 30,
+  "latitude": -23.5505,
+  "longitude": -46.6333,
+  "tz_str": "America/Sao_Paulo"
+}

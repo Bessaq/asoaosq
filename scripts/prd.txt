@@ -1,0 +1,71 @@
+# Overview
+A API de Astrologia é um sistema robusto para cálculos astrológicos, oferecendo funcionalidades para gerar mapas natais, calcular trânsitos planetários, analisar aspectos entre planetas e gerar representações visuais em SVG. O objetivo inicial também incluía a capacidade de responder a perguntas e gerar interpretações astrológicas com base em uma coleção de livros fornecida, utilizando técnicas de RAG (Retrieval-Augmented Generation). No entanto, devido a limitações de recursos no ambiente de execução durante a criação do índice vetorial (FAISS), essa funcionalidade foi temporariamente pausada e será substituída por uma busca textual mais simples em uma fase posterior.
+
+A API é construída usando FastAPI e utiliza a biblioteca Kerykeion para os cálculos astrológicos e geração de gráficos.
+
+# Core Features
+## Cálculo de Mapas Natais
+- What it does: Ele faz um calculo do mapa astrologico natal com as informaçoes do dia, horario e local de nascimento
+- Why it's important: É uma das funções principais do app
+- How it works at a high level: Ele diz quais os planetas, signos, casas do mapa astrolgico e faz um SVG do mapa
+
+## Cálculo de Trânsitos
+- What it does: Ele faz um calculo do mapa astrologico natal com as informaçoes do dia, horario e local de nascimento e um mapa de transitos com as datas atuais, com as informaçoes do dia, horario e local. Ele calcula os aspectos entre as informações do mapa natal e o mapa de transitos
+- Why it's important: Ele calcula os aspectos entre as informações do mapa natal e o mapa de transitos
+- How it works at a high level: Ele diz quais os planetas, signos, casas do mapa astrolgico, quais os aspectos entre os dois e faz um SVG do mapa
+
+## Personalização de Sistema de Casas
+- What it does: Permite ao usuário escolher qual sistema de casas astrológicas será usado em seus cálculos e interpretações — como Placidus, Sistema Igual, Casa Solar, Koch, entre outros. Essa escolha afeta diretamente a posição das casas no mapa natal e, consequentemente, a interpretação astrológica.
+- Why it's important: Na astrologia, o sistema de casas define como os 12 setores da vida (relacionamentos, carreira, lar, etc.) são distribuídos no mapa. Diferentes tradições astrológicas usam diferentes sistemas, e astrólogos experientes costumam ter preferências bem definidas. Oferecer essa personalização torna o app mais preciso e confiável, respeitando a diversidade de métodos e permitindo que o usuário se conecte com a abordagem que mais ressoa com ele.
+- How it works at a high level: O app recalcula automaticamente o mapa natal usando as fórmulas correspondentes ao sistema escolhido. Esse sistema será aplicado também aos trânsitos, progressões e outros recursos do app. O app atualiza os gráficos, posições das cúspides e interpretações com base no novo sistema. O usuário pode trocar de sistema a qualquer momento para comparar abordagens e experimentar diferentes pontos de vista astrológicos.
+
+## Geração de Gráficos SVG
+- What it does: Gera mapas astrológicos (como o mapa natal, trânsitos, sinastria etc.) em formato SVG, um tipo de gráfico vetorial interativo e escalável que pode ser exibido com nitidez em qualquer tamanho de tela, seja no app ou para exportação.
+- Why it's important: O mapa astrológico é a principal representação visual da astrologia. Usar gráficos em SVG permite visualizações mais bonitas, claras, responsivas e com possibilidade de interatividade (como clicar em planetas para ver interpretações ou deslizar no tempo). Além disso, por ser um formato vetorial, o SVG garante qualidade máxima sem perda de resolução — ideal tanto para estudo quanto para impressão ou compartilhamento. Isso também contribui para uma experiência profissional e moderna dentro do app.
+- How it works at a high level: A partir dos dados do mapa (posição dos planetas, casas, signos, aspectos etc.), o sistema constrói um gráfico circular com base em coordenadas matemáticas. O motor de renderização converte essas informações em um arquivo SVG, com camadas para signos, planetas, linhas de aspectos, cúspides das casas, etc. O SVG é injetado dinamicamente na interface do app, permitindo zoom, interatividade e personalização de cores, temas ou estilos visuais. O usuário pode baixar o SVG, compartilhar ou até animar partes do gráfico (ex: movimento dos trânsitos ao longo do tempo). Todo o processo é feito em tempo real, garantindo performance e visual limpo.
+
+## Suporte a Idiomas
+- What it does: Permite que o usuário escolha o idioma em que deseja usar o app, incluindo a interface, os relatórios astrológicos, interpretações e notificações. O sistema pode detectar automaticamente o idioma do dispositivo ou permitir seleção manual entre os idiomas suportados. Oferece ao usuário a opção de navegar no app, ler interpretações e gerar análises astrológicas em vários idiomas — compreendendo e utilizando também conteúdos astrológicos originários de diferentes línguas. Por meio de RAG, o app é capaz de consultar livros, artigos e fontes astrológicas em múltiplos idiomas (como inglês, francês, espanhol, português, etc.) e gerar respostas contextualizadas na linguagem do usuário.
+- Why it's important: A astrologia é um campo global — pessoas do mundo inteiro a utilizam como ferramenta de autoconhecimento. Oferecer múltiplos idiomas torna o app acessível para mais usuários, aumenta o alcance internacional e melhora a experiência do usuário ao permitir que ele leia conteúdos astrológicos em sua língua nativa. Também demonstra cuidado e profissionalismo no desenvolvimento do produto. A astrologia tem raízes e interpretações espalhadas por todo o mundo. Muitos conceitos profundos estão documentados em obras clássicas escritas em diferentes idiomas. Ter um sistema que não apenas traduz, mas realmente entende e consulta essas fontes ao compor uma resposta, garante mais precisão, riqueza cultural e profundidade analítica. Isso transforma o app em uma ferramenta de estudo, consulta e orientação de alto nível, acessível globalmente.
+- How it works at a high level: O usuário escolhe seu idioma preferido (ou o app detecta automaticamente). Quando solicita uma análise, relatório ou resposta personalizada, o sistema ativa o motor RAG. Esse motor busca respostas em uma base de dados construída com obras astrológicas em diversos idiomas, extraindo trechos relevantes conforme o contexto da pergunta e do mapa analisado. Em seguida, a LLM (modelo de linguagem) gera a resposta final já traduzida ou escrita diretamente no idioma do usuário, mantendo o significado original das fontes. Esse processo é contínuo: novos livros, artigos e escolas de astrologia podem ser adicionados à base de conhecimento, expandindo o repertório do app.
+
+## Interpretações Textuais
+- What it does: Gera textos interpretativos personalizados para cada usuário, com base em seu mapa natal, trânsitos, progressões e outros fatores. Mas vai além: as interpretações são alimentadas por uma base viva de conhecimento astrológico — composta por livros, tratados, artigos e escolas de pensamento — que o app consulta automaticamente por meio de inteligência artificial (RAG).
+- Why it's important: A astrologia é um campo vasto e rico em interpretações simbólicas. Ao integrar uma base de conhecimento ao processo, o app não se limita a fórmulas genéricas: ele entrega textos profundos, contextualizados e alinhados com diferentes correntes astrológicas. Isso permite: Respeitar tradições (ex: Hellenística, Védica, Moderna Psicológica). Aproximar o usuário de fontes clássicas, mesmo que ele não as conheça. Produzir textos que são ao mesmo tempo instrutivos e vivenciais. Gerar confiança e sofisticação — o app deixa de ser um horóscopo e se torna um oráculo consultivo com embasamento real.
+- How it works at a high level: O app interpreta a estrutura do mapa (signos, planetas, casas, aspectos, padrões). A inteligência artificial identifica os elementos mais relevantes para o contexto atual do usuário. Em vez de usar textos fixos, o sistema busca passagens relevantes em sua base astrológica, com livros em vários idiomas e tradições. O modelo de linguagem (LLM) combina essas referências e as traduz em uma interpretação fluida, original e coerente com o estilo textual escolhido pelo usuário (analítico, poético, prático, espiritual, etc.). O usuário pode ver a origem das interpretações (ex: "baseado em Liz Greene, Dane Rudhyar, Ptolomeu") ou optar por uma abordagem mais direta. Essa arquitetura também permite que o app aprenda com o tempo, aprimorando seus textos conforme o estilo de leitura ou feedback dos usuários.
+
+# User Experience
+[Describe the user journey and experience. Include:
+- User personas
+- Key user flows
+- UI/UX considerations]
+
+# Technical Architecture
+[Outline the technical implementation details:
+- System components
+- Data models
+- APIs and integrations
+- Infrastructure requirements]
+
+# Development Roadmap
+[Break down the development process into phases:
+- MVP requirements
+- Future enhancements
+- Do not think about timelines whatsoever -- all that matters is scope and detailing exactly what needs to be build in each phase so it can later be cut up into tasks]
+
+# Logical Dependency Chain
+[Define the logical order of development:
+- Which features need to be built first (foundation)
+- Getting as quickly as possible to something usable/visible front end that works
+- Properly pacing and scoping each feature so it is atomic but can also be built upon and improved as development approaches]
+
+# Risks and Mitigations
+[Identify potential risks and how they'll be addressed:
+- Technical challenges
+- Figuring out the MVP that we can build upon
+- Resource constraints]
+
+# Appendix
+[Include any additional information:
+- Research findings
+- Technical specifications]

@@ -1,0 +1,34 @@
+/home/ubuntu/astrologia_api/analise_kerykeion.md
+/home/ubuntu/astrologia_api/analise_swisseph.md
+/home/ubuntu/astrologia_api/analise_astrodatabank.md
+/home/ubuntu/astrologia_api/analise_astro_com_ferramentas.md
+/home/ubuntu/astrologia_api/analise_astrodraw.md
+/home/ubuntu/astrologia_api/melhores_praticas_api_astrologia.md
+/home/ubuntu/astrologia_api/arquitetura_api_astrologia.md
+/home/ubuntu/astrologia_api/fluxo_dados_integracao.md
+
+# Added by Claude Task Master
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dev-debug.log
+# Dependency directories
+node_modules/
+# Environment variables
+.env
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+# OS specific
+.DS_Store
+# Task files
+tasks.json
+tasks/ 

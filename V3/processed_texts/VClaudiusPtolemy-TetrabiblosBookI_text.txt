@@ -1,0 +1,2443 @@
+* Claudius
+Ptolemy DtMJ
+* DM]
+*
+'DM]
+<• 'DM]
+*
+DM]
+*
+!DM]
+* DM
+* DiM] Tetrabiblos
+Book I
+Translated
+by Robert Schmidt
+Edited
+by Robert Hand DM]
+*
+DM]
+* DM]
+* Dm]
+*
+DM]
+« DM
+* DM
+Project Hindsight * Greek Track
+Volume V DM
+* DM
+DM Claudius Ptolemy Tetrabiblos
+Book I
+Translated by
+Robert Schmidt
+Edite d by
+Robert Hand Project Hindsight
+Greek Track
+Volume V Project HiNDSIGHT is funded entirely
+by the astrological community through subscriptions and donations. ©Copyright 1994 by
+Robert Schmidt Published by The Golden Hind Press, Plutão .O. Box 002,
+Berkeley Springs, WV 25411. Table of Contents
+Introduction to Ptolemy's Tetrabiblos by Robert Hand.i
+Translator s Preface by Robert Schmidt. vii
+General Note. x
+Oikeiõsis & Sunoikeiõsis & corresponding verbal forms . x
+Schêmatismos.xi
+The Tetrabiblos, Book 1.. 1
+1. Introduction. 1
+2. That the Knowledge Through Astronomy Is Attainable, and to
+What Extern . 3
+3. That It Is Also Beneficiai . Mercúrio Júpiter . Concerning the Power of the Wandering Stars .14
+5. Concerning Benefic and Malefíc Planets .16
+6. Concerning Masculine and Feminine Planets .16
+7. Concerning Diurnal and Nocturnal Planets.17
+8. Concerning the Power of the Figurations Relative to the
+Sun.18 Mercúrio . Concerning the Power of the Fixed Stars.20
+Concerning the Formations farther north than the Zodiac
+.22
+Concerning the Formations farther south than the Zodiac
+.23
+10. Concerning the Seasons of the Year .24
+11. Concerning the Power of the Four Angles .25
+12. Concerning Tropical, Equipartite, Solid, and Bicorporeal
+Zõidia.27
+13. Concerning Masculine and Feminine Zõidia.28
+14. Concerning the Twelfth-Parts that Are Configured .29
+15. Concerning Zõidia that Command and in Like Manner
+Obey.30
+] 6. Concerning Zõidia that See and Are Equipollent to Each
+Other .31
+17. Concerning Unconnected Zõidia.31
+18. Concerning the Houses of Each Star.32
+19. Concerning Trigons..33
+20. Concerning Exalíations .37
+21. Concerning the Disposition of the Boundaries.38
+22. Concerning Places and Degrees of Each Zõidion.45 23. Conceming Faces, Chariots, and the Like.46
+24. Concerning Applications and Separations and the Other Powers
+.48
+Appendix I
+Ptolemy's Hypotheses of the Planets
+Book Gêmeos .50 Appendix Gêmeos Translation Conventions.58 Introduction to Ptolemy's Tetrabiblos
+by
+Robert Hand
+Ptolemy's Tetrabiblos is without doubt the single most influential book
+in all of Western Astrology. Its effect upon astrology is as great as Isaac
+Newton's Principia on Physics. On several occasions in the history of
+Western Astrology the study of the subject has been entirely transformed by the efforts of reformers to bring astrology back to what
+they saw as the “pure” astrology represented in this book. Rightly or
+wrongly, the reformers thought that astrology had started with Ptolemy
+and then been “corrupted” by later astrologers, most especially the
+Arabic astrologers of the Middle Ages.
+Yet as we have already seen in the previous volumes of Project
+Hindsight, Ptolemy did not invent Western Astrology; he did not
+represent the mainstream of astrological practice; nor, influential as his
+book was, was he the single strongest influence on the technical practice
+of astrology.1 It is even widely maintained that Ptolemy was not a
+practicing astrologer. So why, we have the right to ask, was his work
+so influential?
+There are several factors that led to this. First of all we have to
+realize that Ptolemy had as much influence on astrology as Newton on
+Physics paríly because in many ways Ptolemy was as great a figure in
+the history of Science as Newton. He was not as innovative as Newton
+or in some ways as insightful, but far more than Newton he was the
+creator of a synthesis that brought together the understanding of all
+nature into a single whole. Aristotle provided the philosophical basis for
+what Ptolemy did, but Ptolemy worked out the details, especially in the
+sublunary sphere.
+Modem historians remember Ptolemy as the author of the
+Almagest2. A few will grudgingly admit that he also wrote a work on 1 Of the earliest astrologers whom we can name, that distinction probably
+must go to Dorotheus of Sidon who was clearly the strongest single influence
+on Arabic astrology and consequently on medieval and renaissance astrology.
+Much of the “purging of Arabic influences” that went on in the Renaissance
+was actually a purging of Dorothean practices.
+2 This title is actually a corruption of the Arabic Al Megiste, which simply
+means the “lhe greatest.”
+3 astrology. But most people are unaware that he also wrote a Geography,
+a Harmonics, an Optics, the Hypothesis of the Planets\ the Phases of
+the Fixed Stars and various smaller works. Robert Schmidfs studies of
+these works indicate that they all make a complete whole, a massive
+study of almost every aspect of the physical and, through astrology,
+even the psychological worlds. I am unaware of such a massive
+synthesis having been attempted by anyone else in history.
+We cannot let the fact that his ideas have been superseded in
+almost every area about which he wrote obscure our appreciation of the
+awesome scale of what he attempted. He was in many ways the greatest
+scientist of the ancient world even if there are others of that time whose
+work has held up better in the face of modern revisionism. Imagine
+what an effect it would have had on astrology if Newton had written a
+treatise on astrology. I think the reader can also imagine how Newton's
+astrology would have affected the reception of the ideas and methods
+of lesser astrologers writing at the same time. Even where a Newton
+might have been out of touch with the methods of practical astrology
+and put forth ideas that were theoretically sound but practically useless,1 2
+his ideas would have triumphed over those of the lesser lights simply
+on the basis of his prestige overall.
+Something like this happened with Ptolemy. He was an astrologer.
+I think we can believe that. But I think that we can also assume that he
+was more of a theoretician than a practicing astrologer3 as we would
+understand it. Schmidt is also of the opinion that astrology played a
+central role in Ptolemy's synthesis, a position with which I concur.
+Astrology for Ptolemy was the connecting link between the greater
+cosmos, macrocosm if you wili, the sublunary sphere and humanity. But
+that does not mean that Ptolemy was especially concerned with the day
+to day issues of chart iníerpretation.
+Pto!emy's practical astrology is actually a bit on the crude side. 1 A portion of which appears in an appendix to this work. Which is not to imply that I believe that Ptolemy’s hypotheses are
+theoretically useless.
+2 As examples of high levei practicing astrologers we can mention
+Thrasyllus who was the astrologer for the Emperor Tiberius and Babillus who
+3 worked for severa! of his successors. Both were regarded as very ieamed and
+wise men, not Street comer Chaldeans, and both clearly did practical work
+under very demanding circumstances. ii Houses are referred to at most minimally. Otherwise why would
+astrologers have so long debated what house System Ptolemy used?
+Aspects appear to be from sign to sign, something not unusual in Greek
+practice, but Ptolemy is not very clear about this. House rulership, an
+important tool for most of his contemporaries, does not appear
+prominently, but it does appear, almost always in the form of the
+AImuten, i.e., the planet having the most dignities in a given location.
+Then there are other areas where Ptolemy clearly has a very well
+worked out technical corpus, but it is described almost as if it were
+incidental. I believe it is quite clear that Ptolemy is not primarily
+concerned with teaching all of astrology. Yet it is also quite clear that
+he had a considerable mastery of the subject. All of this leads to an
+important fact. Ptolemy's Tetrabiblos cannot, should not and was
+probably not intended to be a canon for what is and is not legitimate in
+astrology! However, having said this, I must also note an exception.
+There are clearly some things that Ptolemy did not approve of and did
+intend to debunk. For example horary and electional astrology do not
+meet with his approval.1 There was no way that Ptolemy could makc
+these forms of astrology fit in with his natural philosophy. Other widely
+used techniques of natal astrology were rejected for similar reasons.2
+With all of this is Ptolemy important for us? The answer is yes.
+Whatever the deficiencies of the Tetrabiblos may be as a practical
+astrology text, it is the best example of an astrology based on a coherent
+natural philosophy that there is. If we are ever to generate a theory of
+astrology, we must closely examine Ptolemy. If the details of his natural
+philosophy have been rendered obsolete by modern Science, there is, I
+believe much that can be salvaged by appropriate revisions. For
+example, and I plan to work this out in greater detail in future writings,
+I believe that Ptolemy shows us the foundation for a study of cycles and
+their affects that could revolutionize our understanding of astrology. For
+in Ptolemy, as in many other Greek authors, we see a quality that is lost
+in modern thinking, the close relationship between mathematical
+abstraction and human experience. His use of the four primary qualities
+shows that they are phases in cycles, and at the same time they are
+qualities that we can experience. 1 See section 2 of Book I.
+2 These include decanic faces, mortomoiria, dõdekatêmoria and other
+smaller harmonic divisions. We also need to study Ptolemy to fínd out what he really said,
+because of his enormous influence. All of the very influential work of
+Placidus was nothing more than an attempt to interpret Ptolemy's
+murkier passages. Every word and every line of the Tetrabiblos has
+been scrutinized in both the original Greek and translations as well as
+translations of translations. In fact most of our knowledge of Ptolemy
+comes frorn what amounts to translations of a translation. The popular
+Ashmand translation, the first reasonably decent translation of Ptolemy
+into English, was a translation of the Proclus paraphrase of the
+Tetrabiblos and relied heavily on Latin translations as well as the
+“original Greek” of the paraphrase. The so-called Proclus paraphrase1
+was itself a kind of translation. The original Greek of Ptolemy was quite
+complex and rhetorical.2 By the Byzantine period changes in Greek had
+made it sufficiently difficult reading so that someone wrote a paraphrase
+in simpler Greek which was attributed to Proclus. By the time of
+Ashmand the Proclus paraphrase was widely regarded as superior to the
+original text of Ptolemy. This probably only means that it was clearer
+to most readers of Greek than Ptolemy's text. A great deal of the
+material attributed to Ptolemy seems actually to be the result of
+misunderstandings based on the Proclus paraphrase or various Latin
+translations. It is not at all clear, for example, that Placidus had access
+to anything but a Latin translation of the Proclus paraphrase,
+Finally in the 20th Century we have the Robbins translation, based
+on Ptolemy's text, not the paraphrase. Widely regarded as the proper
+scholarly academic translation Robbins translation is as far off the beam
+as anything that preceded him and has already eaused some misunder¬
+standings in modern astrology. The Translator’s Preface by Robert
+Schmidt goes into the problems with Robbins' translation at some
+length.
+All of these difficulties with previous texts and translations have led
+us to do this new translation. In fact the whole of Project Hindsight
+started out because of a desire to do a retranslation of Ptolemy. In this
+translation by Robert Schmidt the overriding goal is an accurate
+rendering of the original text. The technical tenns have all been
+translated one to one, that is, every Greek term and every variation of 1 It is almost certainly not the work of Proclus, but of a Byzantine writer
+of several hundred years later.
+2 See Transiatofs Preface. iv every Greek term has been translated where possible into its nearcst
+English equivalent so that there is one and only one English word for
+every Greek word. Exceptions are recorded in the notes. Previous
+translations have tended to lump together different Greek words under
+single English words resulting in the obscuring of distinctions that
+Ptolemy was in fact making.
+In addition this is the first English translation of Ptolemy's original
+text that is aimed at the concems of astrologers. Robbins could not have
+cared less about astrology and this led to some very basic sloppiness on
+his part. This is also the first English translation based on the defmitive
+Boer edition of the Tetrabiblos published by Teubner. Robbins
+assembled an edition of the text based on what was available to him.
+The Boer edition is based on a much more comprehensive examination
+of the surviving manuscripts. The result is that some very serious
+problems have been cleared up.
+To take one example, the tables of the terms that Ptolemy claimed
+to have found in an old manuscript, the so-called Ptolemaic terms, used
+by Lilly et al.,1 are badly garbled by Robbins or the versions of the text
+that he had access to. Ashmand presents the correct terms, but mixed
+in with several variants with no distinction between the variants and the
+actual ones. In fact it is not clear that either he or Wilson2 knew which
+were which. No wonder the use of terms (or boundaries as we have
+been calling lhem) has declined in modem astrology!
+We need to do two things with regard to Ptolemy. First of all we
+need to recognize him for everything he did. Therefore we need to have
+the most accurate possible rendition of what he did. He was a towering
+figure in his time and in the history of astrology whose prestige did
+much to legitimize astrology throughout history. In fact the decline in
+astrology's prestige carne about in part directly as a result of the decline
+of Ptolemy's prestige. Ptolemy, flaws and all, can serve as a paradigm
+for the ways in which a true Science (as opposed to craft) of astrology
+could be created.
+Second we need to recognize that Ptolemy is only one of the major
+astrologers of the ancient world who shaped the Western Astrological 1 It tums out that Lilly's rendition of Ptolemy's terms is very close to
+correct. See the notes for section 21 of Book 1.
+* James Wilson of the Dictionary of Astrology also did a translation of the Proclus paraphrase which remains rightfully obscure. v tradition. He cannot serve as a canon of astrological truth with regard
+to the teachings of other astrologers, but he can serve as a canon of
+truth for evaluating ideas that are supposedly derived from him. We
+hope that this translation will help astrologers in getting to exactly what
+Ptolemy said.
+Final note: Except in this introduction, all of the notes that follow are
+those of Robert Schmidt, the translator, unless they are marked with the
+initials [RH]. Those are notes by your editor. Vi TranslatorVs Preface
+by
+Robert Schmidt
+Why have we chosen to retranslate Ptolemy's Tetrabiblosl Fair
+question! The obvious answer is: for several reasons. First of all, of the
+two relatively modern and fairly accessible English translations, the one
+by Ashmand was not made from the text of the Tetrabiblos itself, but
+rather from a Greek paraphrase of it often attributed to Proclus.
+Although this paraphrase seems to be interesting in places, it deviates
+significantly—and in Ashmand's translation of it, often wildly—from
+Ptolemy’s own work. Furthermore, I suspect that Ashmand was highly
+influenced by Lalin translations of the paraphrase, which already belong
+to the tradition of misinterpretation.
+Robbins' Greek text is admittedly compiled from a somewhat
+incomplete selection of manuscripts. That, however, does not
+automatically make it inferior. But we were somewhat surprisingly able
+to establish the probable superiority of the Teubner text edited by Boll
+and Boer in 1940. There is a significant difference in the ordcr and
+numerical values of the Ptolemaic boundaries (traditionally called
+“teirns”) between these two texts. By a very careful translation of
+Ptolemy's own description of his table, we were able to show the
+complete agreement of the Teubner text with Ptolemy's stated principies
+of assignment. This gives us considerable confidence in their text. And
+even though most of the differences between these two texts are
+insignificant, there are a few more places where it seems to be highly
+important, particularly if we keep in mind that in translating Ptolemy,
+every word counts.
+The second reason for this new translation has to do with the
+existing translations lhemselves. We have already ruled out Ashmand’s
+for the reasons stated. Robbins' translation is in a certain sense worse.
+Let us State flatly at the outset that it is not even good as a guide to
+reading the Greek text (which is all the Loeb Classic Library translations often claim to be). It abounds in errors in almost every
+paragraph and at every levei, from the merely grammatical to the
+conceptually anachronistic. Some are certainly due to the extreme
+difficulty of the text, for which I am extremely sympathetic. Others may
+be due to simple carelessness, which is irritating and surprising to
+discover, but something that can at least be forgiven. However, the vii worst errors result from his condescending and judgmental attitude
+toward what he is translating, which blinds him to the true conceptual
+issues involved and permits him to give complex and subtle arguments
+short shrift. Tf he has that attitude, then he has no business doing the
+translation—he can only muddy the waters.
+Thus, we have felt obliged to do a fair amount of Robbins' bashing
+in our footnotes. Although we have only cited a representative sampling
+of his errors, we could point to scores of others. Our intention in these
+footnotes is not only to justify this new translation, but also to alert
+those who may already have formed an opinion about various matters
+on the basis of his translation, as well as any who may have been taken
+in by its air of academic respectability. Having established this point,
+we hope to discontinue this practice in our upcoming translations of the
+remaining books of the Tetrabiblos.
+Incidentally, we do not claim that the translation offered here is
+impeccable. It has been done under the somewhat brutal monthly
+requirements of the project. But we have made an honest effort to deal
+with the grammar and complexities of argumentation throughout. We
+have not tried to make the text seem easier or more accessible than it
+really is. (It was evidcntly difficuit even for Greek speaking scholars,
+if the Proclus paraphrase is any indication.) But the good news is that
+Ptolemy's writing really does make sense ultimately. It may be slow
+going at first, but it always pays off in the end.
+Our first and major task has been to lay bare the structure of
+Ptolemy's reasoning. In order to do this, we have had to contend with
+The Ptolemaic Sentence, which is something truly awesome to behold.
+(I have often said that Ptolemy's ideal book would consist of a single
+sentence!) The Ptolemaic Sentence is the translator's agony and ecstasy.
+Because the Greek language readily admits of nesting phrases inside of
+phrases inside of phrases, and because it possesses a huge number of
+“particles” that allows it to do in writing what we can only do with
+verbal ernphasis, it is possible for the Greek writer to indulge in a truly
+non-linear yet highly rigorous style of logical and rhetorical reasoning.
+And against the background of this complex but very secure grammatical structure. he can carry off yet a second levei of inference,
+speculation, suggestion, and subtext without explicitíy drawing attention
+to it. This he does by varying the wording in parallel or obliqúe
+constructions, varying the constructions themselves in parallel or
+antithetical arguments, and varying the arguments in preview, viii recapitulations, and hierarchical developments.
+Ptolemy does this to an extent I have never before encountered in
+any Greek writer. It is just that it does not always come off very well
+in English! In the revised edition of this translation we will certainly
+spare no efforts to make the translation more readable than it now is.
+But it is never going to sound like Hemmingway.
+The third reason for a new and highly literal translation concems
+Ptolemy's extensive reconceptualization and reorganization of the
+tradition. It is quite evident that the first order of his business is to
+translate all the dominant astrological concepts from the tradition into
+the language of Aristotelian natural philosophy. Viewed without the
+usual modem condescension, this is certainly a tour de force. At the risk
+of sounding a bit anachronistic myself, I might say that he interprets
+them all as “functions” of the four primary “arguments” hot, cold, wet,
+dry. And strangely enough, the astrological concepts do admit of such
+interpretation to a surprising extent, and without inconsistency.
+(Consider the dignities, for example.) Since the Aristotelian doctrine of
+the primary qualities has a high degree of logical coherence (quite apart
+from the question of its validity) the considerable success of this
+reconceptualization argues strongly for the internai consistency and
+adequacy of astrological thinking.
+But what about the few remaining concepts that do not admit of
+such a direct interpretation? It is often said that Ptolemy eviscerated the
+astrological tradition in the attempt to make it scientific. This may be
+so. However it may be more accurate to say that he sorted out the
+concepts of the tradition in accordance with his commitment to the
+Aristotelian natural philosophy, interpreting most of them “objectively”
+as we said abo ve, but distributing as many of the remai nder as he could
+into different leveis of our experience, but always in terms of íhose four
+primary qualities. Some of them turn out to be interpretable in terms of
+our subjective experience of the primary qualities (“solid” signs, for
+example); others in more metaphorical and subtly suggestive ways,
+sometimes only in a passing but significant mention (cf the odd passing
+reference to ‘face,’ for example), at other times only in terms of an
+exploration of the root meanings of the verbs associated with them.
+Thus, even if some of the concepts do not belong to the astrological
+doctrine per se, they at least belong to an astrological way of thinking.
+Some might regard this as so much sophistry or ad hoc reasoning.
+However, I think it intensifies the argument in favor of an overall ix consistency in astrological thinking. This hypothesis can only be fully
+explored on the basis of an uncompromisingly accurate and literal
+translation. General Note
+Oikeiõsis & Sunoikeiõsis & corresponding verbal forais: These two
+word are an important part of Ptolemy's astrological vocabulary and
+consequently of that of íater astrologers as well. And they are just as
+maddening as the other astrological terms we have discussed from the
+beginning of this project. The problem here is that oikeiõsis has an
+active and a passive side. Related to the common astrological term
+oikeios meaning ‘house,’ this abstract noun can mean ‘to appropriate’
+something and ‘to make it kin;’ or else, ‘to have an affinity’ for
+something and ‘to be attracted’ to it. In addition to the active and
+passive voices, the Greek language has a frequently used “middle”
+voice, in which a subject performs an act on himself, by means of his
+own resources, in his own interest, or in some other manner with
+reference to himself. (Incidentally, it is even thought that the passive
+voice developed out of the middle.) This voice is very difficult for us
+to reexperience directly, but it is possible that the present word, as well
+as many of the equivocai Greek words we have been describing in our
+translations, are not just intemally contradictory, but have their
+immediate unity in this “middie” realm so characteristic of Greek
+thinking.
+This term is usually employed to describe some relationship of
+kinship betwecn members of the same genus; that is, between signs or
+between planets, but not usually (by Ptolemy at least) between pianet
+and sign. In this latter circumstance the prefix sun is added to produce
+sunoikeiõsis. It seems to have the general meaning of ‘being bound in
+kinship.’ It is almost aíways the case that the pianet is said to have such
+an sunoikeiõsis in relation to a sign. This seems to convey the idea of
+dependency of the pianet on the sign, as if it were being ‘adopted’ by
+it.
+Oikeiõsis was traditionally transSated as ‘familiarity’ in Latin, which
+was a semanticalíy compatible translation for that language. However,
+‘familiarity’ has pretty much degenerated into ‘aquaintance’ in English.
+We have not yet decided on a regular translation for it, but have
+decided to experiment with several possibilities in this translation. We x will try using various noun and verb forms of ‘kin,’ ‘familiar’ (to see
+if the word can be rehabilitatcd), ‘congenial,’ etc., always noting the
+usage.
+We may have had a little better luck with sunoikeiõsis as
+‘affiliation,’ which seems to be in the same general semantic field and
+can be made to convey a mild form of dependency. However, we are
+by no means committed to this word as of yet.
+Schêmatismos: This seems to be Ptolemy's preferred word for aspect. In
+the General Note to our translation of Paulus's Introductory Matters, we
+discussed the word schêma, also frequently used by Greek astrologers
+for aspect, and translated literally by us as ‘figure.’ However, Ptolemy’s
+form of this root is a little more abstract and conveys the idea of
+‘figuration.' After seeing how he regarded the coordination of the
+planets in the Hypotheses of the Planeis (see appendix), it occurred to
+us that he may have in mind not just the angular shape created by the
+positions of two bodies, buí more the “attitude” or “bearing” that one
+planet assumes relative to the other through an internai impulse of its
+own. It may be like the “figures” or “fígurations” assumed by the
+performers of a dance. In any case, we have consistentiy translated it by
+“figuration” to keep it distinct from schêma (‘figure’).
+Schêmatismos seems be the general expression referring to the
+“fígurations” that a body can have to another body, or to a place in the
+zodiac, or to the horizon of the earth. The prefix sun is added mostly
+when Ptolemy wishes to restrict the meaning to the “figuration” that one
+planet assumes in relation to another planet. We have thus consistentiy
+translated suschêmatismos as ‘configuration.’ xi Xll The Tetrabiblos, Book I
+1. Introduction
+Of the matters that prepare the goal of prognostication through
+astronomy,1 O Syrus, the greatest and most authoritative are two. One 1 This phrase has been translated quite literally. Robbins has here “Of the
+means of prediction through astronomy.” Later on in the passage Robbins tries
+to equate the first of these means with astronomy proper as presented in the
+Almagest, and the second with astrology itself, and this has been the traditional
+interpretation. However, apart from the fact that it should seem rather illogicai
+to think of astronomy itself as one of the methods of prediction through
+astronomy, the beginning of Book Gêmeos also distinguishes the two major parts of
+the prognostic art, and they tum out to be universal and genethliological
+astrology, not astronomy and astrology. The simplest way of maintaining
+systematic consistency here is to regard astronomy and the material discussed
+in Book I of the Tetrabiblos not as the two major divisions of the prognostic
+art, but as preparatory to the prognostic art itself. This is in fact exactly the
+sense oí the verb paraskeuazõ used in this sentence. It is worth noting that
+Ashmand translated this opening as “The studies preliminary to astronomical
+prognostication. .
+Misreadings of this passage may also be the source of the recurrent notion
+that for the Greeks astronomy and astrology were originally one, or else sister
+Sciences, or something of that sort. According to the present passage they are
+not. The two studies preparatory to the study of astrology are astronomy proper
+and the subject matter of Book I of the Tetrabiblos, which is not astrology
+either, but rather an ingenious application of Aristotelian natural philosophy.
+The major divisions of astrology itself are universal and genethliological
+astrology, and the study of these does not begin until Book Gêmeos of the
+Tetrabiblos. Nor is the relalionship between astronomy and astrology one of pure vs.
+applied, or theoretical vs. practical. The prognostic discipline does in fact use
+astronomy, but it also uses Book I of the Tetrabiblos. In either case, this mere
+use does not constitute one of the said relationships.
+In fact, in the
+Aristotelian/Ptolemaic scheme of things, it would seem that Book I of the
+Tetrabiblos is in fact the applied version of astronomical Science in as much as
+the formal ceiestial configurations studicd in astronomy are there endowed with
+material qualities, or rather qualities capable of effecting change in the material
+world. (We caution the reader that the subalternation of the Sciences, and the
+distinction between theoretical and practical, had a totally different meaning 1 is first both in order and in power, according to which we apprehend
+when the figurations* 1 of the motions of the sim, moon, and stars occur
+relative to each other and to the earth; the other is second [in order and
+in power], according to which we investigate the changes in that which
+is encompassed by these figures, as produced by the individual physical
+characteristics2 of these figures themselves. Now the first, which has its
+own theory and is intelligible by itself even if the goal arising from its
+combination wiíh the second should not be accomplished, has been
+systematically covered for you in its own treatise3 in the most
+demonstrative manner possible. At the present time, we will give an
+account of the second matter, which is not self-sufficient like the first.
+We will do this in a manner that is consonant with philosophy, and also
+in such a way that he who subjects himself to a truth-loving aim may
+neither compare the graspings4 of the second with the ever-holding
+firmness of the first, not pretending to be able to discem that part of
+material quality5 which is faint and inscrutable in many things, nor yet within Aristotelian thinking than it does today.) [Additional by RH] All of this
+is not to imply that there was the kind of gulf between astrology and astronomy
+either socially, scientifically or logically that there is today.
+1 ‘Figurations’ as used in this text means roughly the same thing as aspects
+in common astrological terminology, as it has throughout this series of
+translations. See the translatofs General Note. [RH]
+idiotropia. LiteraUy, it would mean something like ‘with its own quality
+of tuming.’ Although this is a fairly common, general term for the specific
+characteristics belonging to a body, it is hard to think that it did not have some
+further signifícance for Ptolemy and astrologers generally, because the special
+characteristics in question are the productive powers of the celestial bodies and
+their configurations—that is, the ones that give a special tum to the atmosphere
+and thus have influence in the sublunaiy sphere (cf. the beginning of the next
+section).
+We should perhaps be cautious about identifying this treatise with the
+Almagest. Nearly all of Ptolemy's treatises with specific astronomical content
+were addressed to Syrus, and the Greek word for ‘treatise,’ that is suntaxis,
+could apply to any one of them. Júpiter katalêpsis.
+5 Here we are réfemng to the realm of the material, as opposed to formal
+cause. This does not allow the kind of definition and clarity that formal causes
+allow. Cf. Aristotle's Metaphysics, Book I, where he discusses the four types of
+cause. [RH]
+A o 2 shying away from such investigation that material quality does admit of,
+since most occurrences, and the most whole ones, do so clearly exhibit
+a cause from the surrounding heavens.
+And since everything that has a nature hard for the multitude to
+attain is readily impugned, and with regard to the two modes of
+apprehending,1 the allegations against the first could only come from the
+blind, while those against the second have plausible grounds (for either
+the difficulty of several matters occasioned the opinion that the second
+was completely incomprehensible, or else the difficulty of taking
+precautions against what is known [to be forthcoming] disparaged even
+the goal as useless) we will try, before the explanation of particulars, to
+investigate in a few words the measure of the both the possibility and
+the usefulness of such foreknowledge. 2. That the Knowledge Through Astronomy ls Attainable, and to
+What Extent
+It will be quite clear to everyone through a few expíanations that a
+certain power is spread about from the etheric and eternal nature2 and
+reaches to the entire and wholly mutable region around the earth, with
+the primary sublunar elements, fire and air, being surrounded and
+turned3 by motions in the region of the ether, while they surround and
+tum everything else along with themselves, earth and water and the
+plants and animais within them.
+For, through his annual seasonal changes, the Sun, along with the 1 i.e., the modes of knowing described above. [RH]
+2 above the Moon. [RH]
+3 Although Robbins has the more general word ‘changed’ here, we think
+our translation is appropriate. As is evident in Pto!emy's work On the
+Hypotheses of the Planets (see Appendix 1), the influence of the ether upon the
+mundane world is through the actua! transmission of motion by contact. It is the
+peculiar properly of the ether to move in perfect circles, not just around the
+earth but around any other center as well. For example, the ethereal epicyclic
+sphere rotates around its deferent circle as a center. And when a revolving
+etheric body is in contact with the air and fire masses, it tends to make them
+move in circles as well. This whole view is very “materiaüstic,” although not
+“mechanistic,” since the planets move by their own volition.
+3 environing atmosphere,1 is always somehow disposing everything in the
+earthly environment for the generation of animais, the fruit-bearing of
+plants, the flowing of waters, and the changing back2 of bodies; not
+only this, but through his daily revolutions he also disposes everything
+in the earthly environment for heating, moistening, drying, and cooling,
+in an orderly manner and in accordance with the like3 figures that are
+made relative to our zenith. Júpiter 5
+And the Moon distributes her effluence to us, this effluence being
+greatest in the direction of the earth since the Moon is nearest the earth,
+though most inanimate and animate things are sympathetic to her and
+change along with her, the rivers increasing and decreasing their flow
+with her light, while the seas curb their own onrush with her risings and
+settings, and plants and animais either in whole or in part wax or wane
+long with her.
+And the transits of the fixed and wandering stars give most
+conspicious indications for the environing atmosphere, which are
+buming, windy, and snowy, by which the things on the earth are also
+suitably disposed.
+And their confígurations with each other—since up to that time the
+distributions3 are in a certain sense assembling and commingling—bring
+to completion changes that are extreme and diverse, the power of the
+Sun predominating for the universal part of the quality being ordered,
+while the remaining stars cooperate or inhibit according to the
+particular, the Moon more conspicuously and more continuously as she
+does in synodic moons6 or half-moons or whole moons, while the stars 1 to periechon. Literally “that which contains or surrounds”, is also used
+as a word for “atmosphere.” This our replacement for the usual translation,
+“ambient,” which obscures the natural philosophy which at the root of this.
+Ambient is unnecessarily amorphous. [RH]
+2 metatropê. Phenomena such as seasonal color changes?
+3 homoiotropos. Júpiter Literally, ‘the place at the summit.’
+5 diadõsis. This refers to some kind of propogation that goes down from
+the planets to the sublunary sphere and míxes lhere. Ptolemy seems to be
+leaving it purposely undefined and anything that we do here to define it will be
+a departure from Ptolemy. The reader is referred to the appendix containing a
+portion of Ptolemy's Hypotheses.
+6 new moons. [RH] Júpiter more at regular periods1 and more unnoticeably, as they do in their
+appearances and concealments and inclinations.2
+But when things are viewed in this way, it would seem to all to
+follow that not only is it necessary for what was hitherto commingled
+to be somehow disposed by the motion of these stars, but it is also
+necessary that the germination and maturity of the seeds be formed and
+shaped in relation to the appropriate quality of the environing atmosphere at that time. The more observant farmers and herdsmen, at
+least, conjecture the quality of the issue from the winds that occur at
+breeding or at sowing of seed. And on the whole, we see that the things
+which are broadly indicated by the more conspicuous configurations of
+Sun and Moon and stars can be wholly foreknown even by those who
+do not inquire in manner of physical inquiry,3 but merely by
+observation—the things which are from a greater power and a more
+fundamental order, such as the differences of the seasons and of the
+winds (for the cause of these things is wholly the Sun), even by those
+who are altogether ignorant; what is more, even by some of the
+non-rational animais. But the things that are less so can be foreknown
+by those who are already by necessity accustomed to observation, as the
+particular indications of the storms and winds which are made more
+regularly by the configurations of the Moon and the fixed stars relative
+to the Sun are foreknown by sailors. Yet, because they are not able to
+know accurately the times and places of these configurations owing to
+a laek of training, nor are they able to know the periods of the
+wandering stars as fully as possible and the times when these stars
+themselves contribute, it happens that they are often mistaken.
+If, then, one has come to a precise understanding of the motions of
+all the stars and the Sun and the Moon, so that neither the place nor the
+time of any of their figurations should escape his notice, while having
+discemed [all] their natures by means of the continuous inquiry from
+still earlier times—even if not their underlying natures per se, but only
+their natural productive capacities (for example, that it is the nature of
+the Sun to heat and the nature of the Moon to moisten and similarly
+with the remainder of the stars)—and if for such entities he is
+competent to determine the qualitative characteristic resulting from the 1 as opposed to continuously. [RH]
+prosneusis.
+3 in other words like an ancient physicist. [RH] 2 commixture of all of them, what is to prevent him from being able to
+tell on each given occasion the specific characteristic of the environing
+atmosphere from the State of the phenomena at that time, for example,
+that it wi.ll be warmer or wetter? And what is to prevent him from also
+knowing for each individual man the general quality of his individual
+commixture from the environing atmosphere at his formation, for
+example, that his body is such and such, his soul such and such? And
+from knowing the occurrences chronologically, because such and such
+an environing atmosphere is commensurable with such and such a
+commixture, or even becomes conducive to prosperity, while some other
+one is incommensurable and conducive to affliction?
+So the possibility of such knowledge can certainly be seen through
+these and similar matters. In what follows, we would consider that such
+knowledge has come under the charge of impossibility in a plausible but
+not a fitting manner. For firstly, the misteps—albeit many, as in a great
+and many-sided study—of those who do not understand the work
+precisely have occasioned an opinion that even those things which prove
+true are due to luck. But this is incorrect; for, such is not an inability
+of the Science but rather of those who handle it.
+Then also, the majority, claiming validity in the name of this art for
+another one whose purpose is finding,1 deceive the ignorant by seeming
+to foretell many things even about those matters that do not possess any
+nature at all subject to prognostication; while to the more inquisitive
+they equally provide an occasion for íorming a judgment against those
+things that do have a nature subject to prophecy. This is not as it ought
+to be; for, one need not confute a philosophy when some of those
+pretending to it are exposed as charlatans.
+But for all that, it is clear that even if someone should approach the
+astrológica! Sciences2 as searchingly and as legitimately as possible, it tou porizein heneken. This may refer to horary astrology as an art of
+discovery. In Greek geometry, this verb meant to fitmish something which was
+already present but merely needed to be found. Robbins has ‘for the sake of
+gain,’ which we think is incorrect. He also, following Cardano, connects this
+other art with the numerous other mantic arts. However, the objects of these
+other arts are stili intrinsically subject to prognostication, so we do not see how
+they can be intended in this passage. However, preexistent things, which are
+often the object of horary, are not intrinsically subject to prognostication per se.
+2 mathemata. 6 is possible for him to stumble, not because of any of the reasons
+mentioned, but because of the nature of the subject itself and his
+weakness in relation to the grandeur of his calling. For in general,
+besides the fact that every study concerning the quality of matter is
+conjectural and not affirmative, and especially one that is blended from
+many dissimilars, it is furthermore the case that configurations of the
+wandering stars can arise that resemble more or less closely the ancient
+configurations (from which we adapt the prognostications observed for
+them by our predecessors to the configurations that obtain for the
+present), and these for long periods of time. But they are by no means
+without variations, since a collective recurrence of all the bodies with
+exactness in the heavens and with the earth1—unless one should hold
+a vain opinion concerning the apprehension and comprehension of the
+ungraspable—is completed either not at all, or at least not within a span
+of time perceptible2 to a man, so that for this reason predictions
+sometimes fail owing to the dissimilarity of the underlying examples.
+Concerning the investigation, then, of the occurrences that take
+place in the environing atmosphere, this alone would be the diffículty
+since in this case no cause is taken into account along with the motion
+of the heavens. But concerning genethliological investigations, and in
+general those about the individual cause of each commixture, the
+contributing causes and those which arise from the specifíc characteristic of the things being combined are seen to be neither small nor
+arbitrary.
+For, the differences of seed are most potent in relation to the
+specific characteristic3 of the genus, since indeed if the environing
+atmosphere and the horizon are assumed to be the same, each of the
+seeds prevails in regard to fully impressing its appropriate universal
+shape, for example, a man and a horse and others Júpiter The places of birth, 1 Robbins' translation has the earth moving here!
+2 The quality of being perceptible can be predicated of a length of time
+here because for the Greeks time was the motion of the heavens, which can be
+perceived.
+“ to idion. Júpiter This section enumerates the other factors, besides celestial ones that can
+effect the development of something or someone. The first of these is the ‘seed’
+which roughly corresponds to what we would call genetic potential. ‘Seed’ here
+is not restricted to plant seeds, is a general term for that which Controls the 7 too, cause no small variations in the things which are being combined.
+For, with the seeds being assumed to be the same also according to
+genus (human, for example), and with the State of the environing
+atmosphere the same, those who are bom differ much both in body and
+in soul as a result of the difference in the regions.* 1 In addition to these,
+with all the above being assumed as indistinguishable, rearing and habit
+contribute something toward the particular course of life.2 Unless each
+of these things is distinctly taken together with the causes from the
+environing atmosphere, even if it be the case that this certainly has the
+greatest power (since the environing atmosphere becomes a contributing
+cause for those very things being what they are, while they in no way
+cause it),3 they can furnish a great impasse for those who believe that
+everything in such cases can be recognized from the motion of the
+things in heaven alone, even those which are not entirely its responsibility.
+With these things being so, it would not be fitting to abolish the
+whole of [this prognostic art] for the reason that such foreknowledge
+may at times miss the mark (just as we do not reject the pilofs art
+because it often trips up), but as with great promises, and so also in
+diviné ones, one must be content to welcome and believe what is
+possible. Nor again would it be fitting for us as humans to require that
+everything issuing from it hit the mark, but rather to join in appreciating
+its beauty, even in those matters where it was not its responsibility to
+supply all. And just as we do not fault physicians for speaking both
+about the illness and the specific characteristics of the patient when they
+examine someone, so also here it is not fitting to be vexed with those
+who take for granted race, country, and rearing, or anything else that
+has already occurred. development of an organism. [RH]
+1 The second non-astrological factor is the place of birth as a region of the
+earth with its own climate, cultural conditions and so tbrth. [RH]
+* The íhird factor is the nature of the environment in which one is reared.
+This is not, in other words, a system of complete astrological determinism.
+[RH]
+The factors listed above, which must be taken into consideration with
+astrological effects, are also somewhat the product of those astrological effects
+but not totally. [RH]
+o ' 8 3. That It Is AIso Beneficiai
+We have made it fairly clear, then, in a summary fashion, how the goal
+of prognostication through astronomy becomes possible, and that it may
+extend only to occurrences in the environing atinosphere itself and the
+things which accrue to man pursuant to such a cause—these would be
+in regard to the original capacities of powers and activities of the body
+and soul, and what they experience chronologically, as well as longness
+or shortness of life; furthermore, these would also concern as many of
+the externai matters as have an authoritative and natural involvement
+with the principais, as acquisition and cohabitation have for the body,
+and esteem and honor for the soul, as well their fortunes chronologi¬
+cally.
+The remaining part of our task would be to inquire in a few words
+about its usefulness, firstly, for those who make distinctions, by
+considering in what manner and to what end we will understand the
+value of its usefulness. For if it is in relation to the goods of the soul,
+what would be more conducive to its welfare, joy, and satisfaction
+generally than such foreknowledge, according to which we come to see
+human and divine matters together?1 And if it is in relation to the goods
+of the body, such a inode of apprehending would recognize better than
+any others what is appropriate and suitable to the capacities of each
+commixture. But if it does not contribute toward wealth or reputation
+or the like, it will be possible to say the same thing about all
+philosophy. However, we may not justly condemn either the former
+[astrology] or the latter [philosophy] on that account as we would be
+relinquishing something which is useful for greater goods.
+But to one who examines generally it would appear that those
+finding fault with this apprehension for its uselessness are those who do
+not look at any of the supreme reasons but only at this—that the
+foreknowledge of what will always and in every way be is superfluous,
+and this quite simply and indiscriminately. For, first of all, it is
+necessary to consider that even for events that will necessarily result,
+the unexpected is apt to cause delirious confusion and mad joy, while
+foreknowing habituates and trains the soul to attend to distant events as 1 Astrology as an evidence of the working out of divine wil! is perhaps one of its most uplifting qualities. Ií is hard to see how anyone but the most militant
+materialist can be upset by this. [RH] Mercúrio though they were present, and prepares it to accept each of the arriving
+events with peace and tranquillity.1
+Then, too, one need not believe that every single thing thus accrues
+to man pursuant to a cause above as if it were ordained for each
+individual from the beginning by some inescapable and divine ordinance
+and resulted of necessity, there being not a single other cause able to
+counteract it in the least. Rather, we should believe that it is the motion
+of the heavens that is produced in accordance with a fate2 which is
+divine and immutable, while the alteration of mundane things, in
+accordance with a fate which is natural and mutable, takes its first cause
+from above by accident3 and is concomitant4 with it.
+We should also believe that some things do happen to men through
+more general circumstances and not from the peculiar natural capacities
+of each individual—as whenever they perish in great numbers from
+conflagrations or plagues or deluges in accordance with great and
+unpreventable changes of the environing atmosphere, since the lesser
+cause always yields to the greater and stronger5—, while other things
+happen, in accordance with the natural idiosyncracy of each individual,
+through minor and random antipathies of the environing atmosphere.
+For, with things being distinguished in this way, it is clear that both in
+general and in particular, for all the occurrences that happen with a first
+cause which is irresistible and greater than every counteracting cause,
+it is necessary that these always and in every way result. But for all
+occurrences which are not so, those that meet with counteracting causes
+can be easily reversed, while those that do not fmd them available do
+indeed follow their primary natures, yet through ignorance6 and by no 1 Altbough we do not know that Ptolemy was a Stoic, this is an extremely Stoic sentiment. [RH]
+< Netuno ■ heimarmene. 3 i.e., from the circumstances of things. Júpiter kata epakolouathêsis. The idea seems to be that whereas a fate heimarmene is something allotted once and for all ahead of time, the celestial cause is something that pursues us.
+5 This is Ptolemy's answer to the problem of mass disasters. The general
+condition takes precedence over the fate of the individual. [RH]
+6 agnoian. [RH]
+10 means through the necessity1 of a powerful [fate].
+One could observe that this same thing also happens for absolutely
+everything that has natural origins. For, even of stones and plants and
+animais, and furthermore of wounds and sufferings and illnesses, some
+naturally cause something by necessity, but others [only] if none of its
+contraries should counteract. One should believe, then, that even natural
+philosophers predict what happens to men with foreknowledge of such
+a kind, and not by coming forward with empty opinions, since some
+things are unpreventable because the productive causes happen to be
+many and great, while others allow of being reversed for the opposite
+reason, just as any physician who is able to diagnose2 illnesses has
+foreknowledge of those which always destroy and those which leave
+room for aid.
+For those matters which are able to turn out differently, one must
+heed the genethlialogist3 when he says, for example, that to such and
+such a commixture, with such and such a peculiar character of the
+environing atmosphere, if the underlying proportions are changed in the
+direction or more or less, such and such an affection will accrue to it,
+as also [one would heed] the physician when he says that this sore will
+spread and cause putrefaction, and the miner, for the sake of argument,
+when he says that the lodestone attracts iron. For just as each of these,
+if left to itself through ignorance of the counteracting causes, will
+always and in every way result pursuant to the power of its primary
+nature, but neither will the sore achieve the spreading or the putrefac¬
+tion if it meets with the contrary treatment, nor the lodestone attract iron
+when it is rubbed with garlic—and these preventatíves themselves will
+counteract naturally and by fate—so also for those matters of 1 anankê. [Additional by RH] Here wc have an instance of a theme that occurs within the Corpus Hermeticum, that in addition to one's irrevocable fate.
+heimarrnené, the individual is subject to additional fate which is caused by
+ignorance. agnoia = anangke. In Vettius Valens we discovered that this is ruled
+by Saturn.
+This theme is developed very strongly in the passages that follow, that the
+most compelling reason to employ astrology is to overcome that part of one's
+fate that is due to anangke bom of agnoia even if one canr.ot do much about
+heimarmene. [RH]
+' sémeioõ. Liteially, ‘to infer from signs.’
+3 Natal astro!oger.
+11 prognostication, if the things that will happen to men are unknown, or
+if they are known and do not meet with counteracting causes, they will
+always and in every way resuit following in the train of the first cause.
+But if they are foreknown and obtain the use of remedies, again
+naturally and by fate, they will be either completely fail to be generated
+or made more moderate.
+And in a word, since such a power is the same for the things
+regarded as wholes and for those regarded as parts, one would wonder
+why in the world all trust in the possibility of foreknowledge in
+universal matters and in its usefulness for prevention—for the majority
+agree that they have foreknowledge of the seasons and what the fixed
+stars indicate1 and the figurations of the Moon, and they take many
+precautions for protecting themselves, giving heed to powers of cooling
+for the summer and powers of warming for the winter, and generally
+preparing their natures ahead of time for that which is temperate; and
+furthermore, they watch what the fixed stars indicate for the safety of
+the season's produce2 and for sailing departures, and they observe the
+figurations of the Moon’s light for their fullness in order to commence
+breeding and planting, and no one ever makes allegations against them
+of impossibility or uselessness—but on the other hand, for particular
+matters arising from the commixture of the remaining specific properties
+(for example, more and less wintry weather or burning heat), and for
+the individual idiosyncrasies, some believe neither that foreknowing is
+in this case possible, nor that there are many things that admit of being
+prevented. And yet, since it is seíf-evident that if we should happen to
+have pre-cooled ourselves against burning heat in general, we will be
+less burned by it, like [measures] can act even against things that
+increase some such commixture specifically to an excessive amouní of
+heat. But then, the cause of such an error is not only the difficulty and
+strangeness of the foreknowledge of particulars, which in nearly
+everything else instills distrust. But since, for the most part, the power
+of counteraction does not allow of being joined with prognostic, the
+difficulty is also due to the fact that, as the primary natures keep being
+produced without impediment owing to the rarity of so peifect a Robbins has “the significance of the constellations,” which is totally
+wrong. These are the weather indications connecíed with the heliacal risings and
+settings of the fixed stars.
+2 hõra, as an altemative for ta hõraia.
+1 12 disposition, this occasions the opinion that absolutely all events are
+immutable and irresistible.
+But just as it is the case with prognostic itself that even if it should
+not be altogether infallible, at least the possibility of it has seemed
+worthy of the most serious attention, so in the same fashion for the goal
+of prevention, though it too is not therapeutic for everything, yet it is
+fitting that it should be greeted and embraced and held of no mean
+value for the several things—however few or minor they should be—in
+which it is therapeutic.
+Having come (so it seems) to these same conclusions, the Egyptians, who have most advanced such capabilities of the art,
+completely bound medicine to astronomical prognostic. For, they would
+never have contrived certain evil-averting sacrifices and vigils and
+therapies1 for the universal and particular conditions that come on and
+abide due to the environing atmosphere, if the opinion of the
+unchangeability and irreversibility of the future had come into existence
+among them. But now, in placing that which is capable of resisting
+according to the concomitant natures in the second place of the
+reckoning according to fate, they have conjoined to the prognostic
+power a capacity for utility and benefit through what they call
+iatromathematical [systems], in order that, on the one hand, by means
+of astronomy, it may succeed in learning the qualities of the underlying
+commixtures and the occurrences that will take place through the
+environing atmosphere, and their special causes, since without the
+assistance of this knowledge these remcdies are liable to fali in most
+instances, seeing that the same remedies are not in the right measure for
+every body and affection; and on the other hand, by means of the
+medicai art, frorn the things which are properly sympathetic and the
+antipathetic to each, they accomplish the goal2 by as much as possible
+taking precautions against future sufferings and making therapies for
+present ones.
+But let these matters be sufficiently formulated for our summary.
+We will forthwith give an account in the introductory manner,
+beginning from the specific characteristic of each of the heavenly bodies ! therapeia. Can also mean Service paid to a god, which seems rather likely
+in this context. For some reason, Robbins has bowdlerized this entire phrase.
+2 diateleõ. In mee contrast to the astrological term apoteleõ.
+i3 that concerns the productive1 itself, in accordance with the observations
+by the ancients, once they have been made suitable for a natural manner
+of inquiry, starting ffom the power of the wandering stars and of the
+Sun and the Moon. Júpiter . Concerning the Power of the Wandering Stars
+The Sun is taken as having the active part2 of its essence in heating and
+in slightly3 drying. These become more easily perceptible to us than the
+others, Júpiter most of all because of the Sun's size and that which is obvious
+about the seasonal changes, in as much as the more he approaches our
+zenith, the more he so disposes us.
+The Moon has a higher degree of her power in moistening because
+of proximity to the earth (quite obviously) and the exhalation of
+moisture, and she so disposes by the outright softening of bodies and by
+causing them to putrify for the most part; while she also partakes
+slightly of heating due to the illumination ffom the Sun.
+The star of Kronos has a higher degree of its quality in cooling and
+in slightly drying because it is the most distant, so it seems, from the
+warmth of the Sun and, aí the same time, ffom the exhalation of
+moisture around the earth. But powers for this star and for the
+remainder also establish themselves through the careful observation of
+their figurations to the Sun and to the Moon, in as much as some of
+these stars appear to cooperate [with the Sun and the Moon] in giving
+a certain turn to the State of the environing atmosphere in the direction
+of more or less, other stars a different turn.5
+The star of Ares has a nature chiefly to dry and to burn, 1 ‘The productive itself’ refers to the idea of production in the Platonic
+sense of the word, idea. Each of the heavenly bodies participates in this idea in
+its own speciiic manner.
+Action is one of the proper attributes of an essence.
+3 Throughout this section Robbins takes this adverb with the verb of the
+main sentence (e. Vênus ., “and, to a certain degree, drying”), which is incorrect and
+subtly changes the meaning. Júpiter Most likeíy, the other active parts of its essence, not the other planets as
+Robbins interprets it.
+5 It is not ciear from the context alone whether different powers than the
+ones assigned here are intended.
+14 appropriately both for the fiery nature of its color and for its proximity
+to the Sun, since the solar sphere lies underneath it.
+The star of Zeus has an active [partj of its power which is
+temperate, between (as is also the case with its motion) what is cooling
+in accordance with Kronos and what is burning in accordance with
+Ares; for, it warms and moistens at the same time, and because its
+warming [part] is the greater one beneath the underlying spheres, it
+becomes productive of fertile winds.
+And the star of Aphrodite is productive of the same things in
+accordance with its temperate [activityj, but in the opposite manner; for,
+it warms1 slightly due to its proximity to the Sun, but mostly it moistens
+just like the Moon, and it [does this] by appropriating the exhalation of
+moisture from the atmosphere environing the earth by means of the
+magnitude of its own light.
+The star of Hermes is, on the whole, taken to be sometimes drying
+and absorptive of moisture because it is never distant in longitude from
+the warmth of the Sun, and equally moistening at other times because
+it lies upon the lunar sphere proximate to the earth; and it makes rapid
+changes in both [states], filling with wind,2 as it were, by the keeness
+of its motion in the vicinity of3 the Sun itself. 1 It is worth noting that the “warming” of Ptolemy becomes cooling in the
+Renaissance. The Renaissance astrologers thought that Venus was cold and wet.
+[RH]
+2 pneumatoumenos.
+3 peri. Literally, round about the Sun!
+15 5. Concerning Benefic and Malefic Planets
+With these things being so. since of the four fluidilies1 two are the
+ferlile and productive ones, that of the hot and that of the weí (for,
+everything is compounded and increased by them), while two are
+destructive and passive, that of the dry and that of the cold (through
+which all things are in tum separated and destroyed), the ancients
+accepted two of the planets, the star of Zeus and the star of Aphrodite,
+and the Moon as well, as being benefic because of being temperate and
+having their surplus in the hot and the wet. But they accepted the star
+of Kronos and the star of Ares as being productive of the opposite
+nature, the one on account of its excessive coldness, the other on
+account of its excessive dryness. And they accepted the Sun and the star
+of Hermes as being capable of both because of the commonality of their
+natures, and as changing in keeping with that planet which they should
+happen to be attending. 6. Concerning Masculine and Feminine Planets
+Again, since the primary genera of natures are two, the masculine and
+the feminine, while, of the powers mentioned abo ve, that of the wet
+essence happens to be especially feminine (for, in general this part is
+innate to greater degree in all females, but the others are more in
+males), they have fairly handed down to us that the Moon and the star
+of Aphrodite are feminine because of having their excess in the wet. chuma. Evidently used because the four primary qualities “flow” into each other. Robbins translates this as ‘humors.’ But the present word is neuter,
+and the word for humor as a physiological term (chumos) is masculine. In any
+case, Ptolerny could not be talking about humors here because they are
+compounds of lhe primary qualities taken two by two, and are not identified
+with the qualities individually (as far as we know at this time). [Additional by
+RH1 From here on in Book I Ptolerny uses these four qualities exclusively and
+never refers to the elements that became so dominant in later astrology.
+Unfortunately later astrologers consistently converted Ptolemy's “weí” to
+“water,” “cold” to “earth ” “hot” to “fire” and “dry” to “air.” The problem is
+that according to Aristoteíían philosophy Water = Cold and Wet, Earth = Cold
+and Dry, Fire = Hot and Dry, and Air = Hot and Wet. Or if one uses the Stoic
+sysíem of elements, one gets Water = Wet, Earth = Dry, Fire = Hot, and AirCoid. What astrologers did was correct according to neither system of elements.
+16 But the Sun, the star of Kronos, the star of Zeus, and the star of Ares
+are traditionally masculine. And the star of Hermes is common to both
+genera, in accordance with which he is productive equally of the dry
+essence and the wet essence.1
+And they say that the stars are being made masculine and feminine
+during their figurations to the Sun. For, while they are east2 relative to
+the Sun and preceding3 him, they are becoming masculine, Júpiter but while
+they are west5 relative to him and following6, they are being made
+feminine. This also happens during their figurations relative to the
+horizon. For, in the figurations from rising up to culminating, or from
+setting up to anti-culmination under the earth, they are becoming
+masculine, since they are eastern;7 but in the remaining two quadrants
+they are being made feminine, since they are western.8 7. Concerning Diurnal and Nocturnal Planets
+Similarly, since the two most conspicuous of the intervals which make
+up time are these, and the interval of the day happens to be more This is not as clear as one would like, but the text does appear to be
+saying that Hot = Masculine, Wet = Feminine, Dry = Masculine, and Cold =
+Feminine. lf Ptolemy is completely in accord with standard Aristotelianism in
+which Hot and Cold are both active, whereas Wet and Dry are both passive,
+then Ptolemy here classifies Hot = Active & Masculine, Cold = Active &
+Feminine, Wet = Passive & Feminine, and Dry = Passive & Masculine. If this
+analysis is correct it has all manner of interesting symbolic consequences for
+astrology. [RH]
+1 2 heõios pros ton helion. Also called ‘matutine.’ The expression ‘oriental of the Sun,’ which seems to have the same application, may have originated in a confused translation of lhe present phrase.
+3 That is, earlier than the Sun in the order of the zodiac.
+1 In both this and the next phrase, the reader shouid understand that the masculinization and feminization of the planets is on top of the planets' intrinsic
+nature. They do not suddenly change sex. [RH]
+5 hesperios pros ton helion. Also called ‘vesperíine.’ Similar remarks can be made about the expression ‘Occidental of the Sun’ as in the note above.
+6 That is, later than the Sun in the order of the zodiac.
+7 apèliõtikos. Unequivocally refers to a direction in this conlext, and not a wind.
+8 libukos. Unequivocally refers to a direction hcre. 17 masculine because of the heat and vigor in it, but nighí is more
+feminine because of its moisture and gift of rest, they have accordingly
+handed down that the Moon and the star of Aphrodite are noctumal, but
+that the Sun and the star of Zeus are diurnal, and the star of Hermes
+common in regard to these, being diurnal in the morning figure and
+noctumal in the evening figure.1 And they also assigned to each of the
+sects the two planets of the destructive essence, not however for the
+same physical reasons but for the opposite ones. For, when stars that are
+similar to stars of a good mixture become familiar2 with them, they
+make their beneficiai character greater, though when unfamiliars3 to the
+destructive stars hold intercourse4 with them, they undo much of the
+affliction.5 Whence, since the star of Kronos is productive of cold, they
+apportioned it to the heat of day. But since the star of Ares is dry, they
+apportioned it to the moisture of the night. For, thus each star, in
+meeting with due measure by mixture, is made akin6 to the sect that
+provides the tempering. 8. Concerning the Power of the Figurations Relative to the Sun
+Yet now, also by means of their configurations to the Sun, the Moon
+and three7 of the planets assume the more and less in their proper
+powers. For, the Moon, from its rising up to the first quarter, is 1 The preceding references to figures are to the Greek word, schêma, and
+the phrasing is translated literally. However, we and virtually everyone else
+assume that moming figure = morning star and evening figure = evening star.
+Also Ptolemy in the Phases defines ‘phase’ as a ‘figure’, so that we can
+mentally substitute ‘phase’ for ‘figure’, which makes it even clearer. [RH]
+oikeiõ. Used here as a present passive participle.
+1 anoikeios. Júpiter meignunii. Used here as a present passive participle.
+J This implies an interesting definition of what other astrologers call
+'‘benefic” and “malefic.” A benefic is a planet which improves its nature when
+that nature is reinforced, whereas a malefic is a planet whose nature is
+improved when ít is counteracted. [RH]
+6 oikeios gignetai.
+7
+Superior planets, Mars, Júpiter and Satum. We have no clear basis in this
+text for assuming that Mercury and Venus do anything comparable. They may
+be too close to the Sun to vary in this way. [RH]
+* 18 increasingly1 more productive of moisture, from first quarter to whole
+moon, of heat, from whole moon up to second quarter, of dryness, and
+from second quarter up to concealment, of coldness.
+And the wandering stars that are eastern2 are increasingly more
+productive of moisture from their rising3 up to the first station, of heat
+from the first station up to the acronycal rising, Júpiter of dryness from the
+acronycal rising up to the second station, and of coldness from the
+second station up to setting.5
+And it is clear that as the planets commingle with each other they
+create a great variety of differences of quality in our environing
+atmosphere, with the specific power of each planet prevailing for the
+most part, but [the power] being changed quantitatively by the power
+of the ones being configured. 1 kata tên auxêsis. [Additional by RH] This is one of those seeminlngly
+trivial items which in fact lies at the basis of a fundamental misunderstanding
+of Ptolemy. As rendered in most translations, based in part on incorrect
+emendations of the original text, Ptolemy has seemed to say that the whole first
+quarter of the Moon is wet, the second quarter hot, the third quarter dry and the
+last quarter cold. But if the Greek is interpreted correctly Ptolemy is saying
+something quite different. He is saying that wetness increases as the Moon
+moves toward the first quarter until il is the predominam quality. Then in the
+second quarter heat increases until it is the dominant quality. In the third quarter
+it is the same with dryness and in the last with cold. We have here not four
+boxes containing qualities but four phases in the continuous ebb and flow of the
+four qualities. Furthermore in section 10 we discover that the seasons have the
+same ebb and flow of qualities. However, later astrologers converted the
+increasing wetness of the first quarter phase of the Moon to a constant levei of
+airiness. And they did the same with the wetness of the spring. By this means
+they equated the 90° of the lunar cycle with spring. However, if the wetness
+increases through the first 90° then cold must predominate at the beginning.
+This means that the New Moon cyclically equates to the Sun at 0o Capricom
+as a cold point not to the Sun at 0o Aries as a wet point. This may be one of
+the most fundamental misunderstandings ol Ptolemy that has evcr occurred with
+tragic consequences for weather forecasting and mundane astrology. The reader
+should also note that this corrected correlation is theoretically consistem and
+conforms to modem studies of biological clocks.
+‘ eastern with respect to the Sun, i.e. moming stars. [RH]
+3 Heliacal rising. [RHj Júpiter Rising at sunset. [RHJ
+5 Helical setting. [RH]
+19 Mercúrio . Concerning the Power of the Fixed Stars
+As it is next in order to run through the natures of the fixed stars with
+regard to what they produce on their own, we will set out the specific
+characteristics observed for them by explaining their similarity to the
+natures of the wandering stars. And first of all, the natures of the stars
+that occupy the formations around the ecliptic circle itself.
+The stars in the head of Aries, then, have a productive effect which
+is mixed similarly to the power of Ares and the power of Kronos; those
+in the mouth, similarly to the power of Hermes and slightly like that of
+Kronos; those in the hind foot, similarly to the power of Ares; and those
+in the tail, to that of Aphrodite.
+Of the stars in Taurus, those upon the line cutting it off have a
+mixture like the star of Aphrodite and slightly like that of Kronos; those
+in the Pleiades, like the Moon and the star of Ares; of those in the head,
+the bright and somewhat reddish star of the Hyades (called the Torch1)
+has a mixture like the star of Ares, while the reniainder like the star of
+Kronos and slightly like Hermes; and those in the points of the horn,
+like the star of Ares.
+Of the stars in Gemini, those upon the feet share a similar quality
+with the star of Hermes and somewhat with the star of Aphrodite; the
+bright stars in the thighs, with the star of Kronos; of the two bright stars
+in the heads, the one in the preceding head (also called the star of
+Apollo2) shares with the star of Hermes, while the one in the following
+head (also called the star of Heracles3) with the star of Ares.
+Of the stars in Câncer, the two upon the feet produce the same
+action as the star of Hermes and somewhat the same as the star of Ares;
+the stars in the claws, Júpiter as the star of Kronos and the star of Hermes; the
+cloud-like cluster in the breast (called the Manger5), as the star of Ares
+and the Moon; and the two on either side of it (called the Asses), as the
+star of Ares and the Sun.
+Of the stars in Leo, the two upon the head cause a similar [effect]
+as the star of Kronos and slightly as the star of Ares; the three stars in 1 Aldebaran. [RH]
+2 Castor. [RH]
+3 Pollux. [RH] Júpiter The Scales of Libra. See page 21, note 1. [RH]
+5 Praesaepe. [RH]
+20 the throat, as the star of Kronos does and slightly as the star of Hermes;
+the bright star upon the heart (called Regulus), as the star of Ares and
+the star of Zeus; the stars in the hip and the bright star upon the tail, as
+the star of Kronos and the star of Aphrodite; and the stars in the thighs,
+as the star of Aphrodite and slightly as the star of Hermes.
+Of the stars for Virgo, those in the head and the one upon the tip
+of the Southern wing have a productive [effectj like the star of Hermes
+and slightly like the star of Ares; the remaining bright stars of the wing
+and those along the girdles, like the star of Hermes and slightly like the
+star of Aphrodite; the bright star in the northem wing (called
+Vindemiatrix), like the star of Kronos and the star of Hermes; the
+so-called Spica, like the star of Aphrodite and slightly like the star of
+Ares; and the stars in the tips of the feet and the train of the robe, like
+the star of Hermes and slightly like the star of Ares.
+Of the Claws of Scorpio,1 the stars at their tips2 dispose in the same
+manner as the star of Zeus and in somewhat the same manner as star of
+Hermes, while lhe stars in the middle dispose in the same manner as the
+star of Kronos and in somewhat the same manner as the star of Ares.
+Of the stars in the body of Scorpio, the bright stars in the forehead
+cause the same [effect] as the star of Ares causes and somewhat the
+same as the star of Kronos causes; the three stars in the body, the
+middle one of which is reddish-brown and fairly bright (and is called
+Antares), as the star of Ares does and somewhat as the star of Zeus; the
+stars upon the joints, as the star of Kronos does and somewhat as the
+star of Aphrodite; the stars upon the sting, as the star of Hermes and as
+the star of Ares; and the following cloud-like cluster, as the star of Ares
+and the Moon.
+Of the stars around in Sagittarius, those upon the point of the arrow
+have a productive [effect] like the star of Ares and the Moon; those in
+the bow and the hand-grip, like the star of Zeus and the star of Ares; 1 Altemative name for Libra. [Additional by RH.] Among many Greek
+authors, including Ptolemy, it was conventional to consider Libra as the claws
+of Scorpio. Many modem astrologers have regarded this as an indication lhat
+Libra is a relatively recent constellation made by splitting the claws off the
+scorpion. However, it appears more likely that this is simply an altemative
+tradition. Scales in approximately the same location among the stars as Libra
+are to be found in early Mesopotamian sources.
+2 Alpha and Beta Librae, the Scales. [RH]
+21 the cluster in the face, like the Sun and the star of Ares; those in the
+shoulder-blades1 and back, like the star of Zeus and slightly like the star
+of Hermes; and the quadrangle upon the tail, like the star of Aphrodite
+and slightly like the star of Kronos.
+Of the stars in Capricorn, those upon the horns act in the saine
+fashion as the star of Aphrodite and in slightly the same fashion as the
+star of Ares; the stars in the mouth, in the same fashion as the star of
+Kronos, and slightly like the star of Aphrodite; those in the feet and in
+the belly, as the star of Ares and the star of Hermes; and the stars upon
+the tail, as the star of Kronos and the star of Zeus.
+Of the stars in Aquarius, those in the shoulders dispose similarly to
+the star of Kronos and to the star of Hermes, together with those in the
+left arm and in the cloak; the stars upon the thighs, more like the star
+of Hermes, less like the star of Kronos; and the stars in the flow of
+water, similarly to the star of Kronos and somewhat so to the star of
+Zeus.
+Of the stars in Pisces, those in the head of the Southern fish act the
+same as the star of Hermes and somewhat the same as the star of
+Kronos; the stars in the body, as the star of Zeus and the star of
+Hermes; the stars upon the tail and upon the Southern cord, as the star
+of Kronos acts and somewhat as the star of Hermes does; the stars in
+the body and in the spine of the northem fish, as the star of Zeus does
+and somewhat as the star of Aphrodite; the stars in the northem cord,
+as the star of Kronos and the star of Zeus; and the bright star upon the
+knot, as the star of Ares and somewhat as the star of Hermes.
+Concerning the Formations farther north than the Zodiac
+Of the formations farther north than the zodiac, the bright stars in Ursa
+Minor have a qualíty like the star of Kronos and somewhat like the star
+of Aphrodite.
+The stars in Ursa Major, like the star of Ares.
+The stars in the cluster of Coma Berenices beneath the tail of the
+Bear, like the Moon and the star of Zeus.
+The bright stars in Draco, like the star of Kronos and the star of 1 Robbins’ text has the Greek word for ‘cloak’ here. 22 Zeus.1
+The stars in Cepheus, like the star of Kronos and the star of Zeus.
+The stars in Bootes, a quality like the star of Hermes and the star
+of Kronos; but the bright and reddish-brown star called Arcturus, like
+the star of Ares and the star of Zeus.
+The stars in Corona Septentrionalis, like the star of Aphrodite and
+the star of Hermes.
+The stars for the Geniculator, like the star of Hermes.
+The stars in Lyra, like the star of Aphrodite and the star of Hermes.
+And the stars in Cygnus similarly.
+The stars for Cassiopeia, like the star of Kronos and the star of
+Aphrodite.
+The stars for Perseus, a quality like the star of Zeus and the star of
+Kronos; but the cluster in the hilt of the sword, like the star of Ares and
+the star of Hermes.
+The bright stars in Auriga, like the star of Ares and the star of
+Hermes.
+The stars for Ophiuchus, a quality like the star of Kronos and
+somewhat like the star of Aphrodite.
+The stars in his serpent, like the star of Kronos and the star of
+Ares.
+The stars for Sagitta, a quality like the star of Ares and somewhat
+like the star of Aphrodite.
+The stars in Aquila, like the star of Ares and the star of Zeus.
+The stars in Delphinus, like the star of Kronos and the star of Ares.
+The bright stars for Pegasus, like the star of Ares and the star of
+Hermes.
+The stars in Andromeda, like the star of Aphrodite.
+And the stars in Triangulum, like the star of Hermes.
+Conceming the Formations farther south than the Zodiac
+Of the stars in formations farther south than the zodiac, the bright star
+in the mouth of Pisces Australis has an action like the star of Aphrodite
+and the star of Hermes.
+The stars in Cetus, like the star of Kronos. 1 The Greek text of Robbins has the planet Ares associated with Draco as
+well as these two.
+23 Of the stars in Orion, those upon his shoulders have an action like
+the star of Ares and the star of Hermes; but the remaining bright stars,
+like the star of Zeus and the star of Kronos.
+Of the stars in Eridanus, the last and bright star, like the star of
+Zeus; but the remaining stars, like the star of Kronos.
+The stars in Lepus, like the star of Kronos and the star of Hermes.
+Of the stars in Canis, the others, like the star of Aphrodite; but the
+bright star in his mouth, like the star of Zeus and somewhat like the star
+of Ares.
+The bright star in Procyon, like the star of Hermes and somewhat
+like the star of Ares.
+The bright stars for Hydra, like the star of Kronos and the star of
+Aphrodite.
+The stars in Crater, like the star of Aphrodite and somewhat like
+the star of Hermes.
+The stars in Corvus, like the star of Ares and the star of Kronos.
+The bright stars in Argo, like the star of Kronos and the star of
+Zeus.
+Of the stars in Centaurus, the ones in the human body, like the star
+of Aphrodite and the star of Hermes; but bright stars in the horse, like
+the star of Aphrodite and the star of Zeus.
+The bright stars in Lupus, like the star of Kronos and somewhat
+like the star of Ares.
+The stars in Ara, like the star of Aphrodite and somewhat like the
+star of Hermes.
+And the bright stars in Corona Australis, like the star of Kronos
+and the star of Hermes.
+The individual powers of the fixed stars, then,
+observations of the ancients, happen to be such as these. under the 10, Concerning the Seasons of the Year
+And there being four seasons of the year, which are spring, summer,
+autumn, and winter, the spring has its excess in the wet because of its
+diffusion during the past cold, and with the heat just beginning. The
+summer has its surpíus in the hot because of the proximity of the Sun
+to our zenith; the autumn has its excess in the dry because of the
+sucking up of the waters during the burning heat. And the winter has its
+surplus in the cold because the Sun is farthest removed from our 24 zenith.1
+For this reason, there being no single beginning of the zodiac by
+nature as it is a circle, they postulate that the twelfth-part starting from
+the spring equinox, that of Aries, is also the starting point of them all,
+making the wet excess of the spring be the initial cause2 of the zodiac,
+as though of a living thing, and making the remaining seasons [the
+causes] for what comes next [in the zodiac]. This is because the first
+age of all living things, almost like the spring, has a surplus of wetness,
+being tender and still delicate. And the second age, which is up to the
+prime of life, has its surplus in the hot, almost like the suminer. And
+third age, which is already past the prime and at the beginning of decay,
+already has its surplus in the dry, almost like the autumn. And the last
+age, which is near dissolution, has its excess in the cold, as does the
+winter. 11. Concerning the Power of the Four Angles
+Similarly,3 too, there being four places and angles of the horizon, from
+which the winds blowing generally also ha ve their origin, the place in
+the oriental regions has its surplus, too, in the dry because when the
+Sun comes to be upon it, whatever was made wet from the night then
+first begins to be made dry; and the winds that blow from it, which we
+more commonly call Apeliotes4 are without moisture and drying. The
+place in the region of midday is itself the hottest because of the fiery
+heat of the culminations of the Sun, and because, in accordance with the
+inclination of our inhabited world, these culminations incline more 1 Note that starting with spnng the sequence of qualities is Wet, Hot, Dry
+and Cold. This is different from the day cycle as described further on. [RH]
+2 prokatarktikos. This word indicates much more than a merely convenient
+spatial origin; it is here implied that the spring the originating cause of the
+overall qualitative character of the zodiac. This would seem to reduce the
+importance of the zodiac itself to that of a marker for the position of the Sun
+(and to a lesser extern the other planets) and the seasonal changes brought about
+thereby! Remember that Aristotie himsclf regards the Sun as the primary cause
+of all sublunary change.
+3 Here in the diumal cycle we find that, starting with dawn, the sequence
+of qualities is Dry, Hot, Wet, Cold. This is traversing lhe cycle of qualities in
+the reverse direction from the year cycle in the previous section. [RH] Júpiter Literally, ‘the wind from the Sun.’
+25 toward the region of midday;1 and the winds that blow from it, which
+we commonly call Notos, are hot and productive of swelling.2 The place
+in the Occidental regions is itself wet because when the Sun comes to
+be upon it, whatever was dried out3 from the day then first begins to be
+made wet; and the winds carried from it, which we more commonly call
+Zephyrus, are fresh and moistening. The place in the regions of the
+Bear4 is itself the coldest because in accordance with the inclination of
+the inhabited world, the culminations of the Sun, which are the causes
+of heat, are far removed from it, as is the case when the Sun is
+anticulminating; and the winds blowing from it, which are commonly
+called Boreas, are truly cold and compressive.5
+The distinguishing of these matters is useful for being abíe to judge
+every turn6 that the commixtures7 take on every occasion. For, it is easy
+to see that since the productive [parfj of the power of the stars in a
+certain sense alters its course by means of such conditions of season or
+age or angle, and in congenial8 conditions they have a quality which is
+more unmixed and an actualization which is stronger (for example, in
+hot conditions those which are productive of heat have this nature, in
+cold conditions those productive of cold), while in the opposite
+conditions they have a quality which is mixed and an actualization
+which is weaker (as those productive of heat in cold conditions and
+those productive of moisture in dry conditions and in the others
+similarly according to the proportion of the quality commixed with the
+mixture. Mercúrio 1 mésêmbria. That is, the south.
+2 plêrõtikos.
+3 passive from anapopinõ. Literally, ‘what was not drunk off;' that is, what
+was left after the water was drawn off. Júpiter That is, Ursa Major.
+5 puknõtikos.
+6 That is, how they change.
+7 sunkrasis. Robbins has ‘temperaturas’ here, which is totally inconsistent
+with PtolemyVs usage in this book.
+;.:í' oikeios. Mercúrio This amounts to a system of dignities in which planets are reinforced or
+inhibited in their expression by the qualitative nature of the sign, quadrant of
+the year or quadrant of the mundane sphere in which they tind themselves. This
+is an idea that was not widely deveíoped by any sources with which we are
+familiar, but it warrants inquiry. [RH]
+26 12. Concerning Tropical, Equipartite, Solid, and Bicorporeal Zõidia
+With these things set forth, it would be in order to adjoin the traditional,
+specific natural characteristics of the zodiacal twelfth-parts themselves.
+Now, the more general mixtures for each of them are analogous to the
+seasons which arise in them, but some of their peculiarities are also
+established from their congeniality1 with the Sun and the Moon and the
+stars, which we will recount in the following sections, setting first the
+powers of the twelfth-parts themselves alone in their purity, regarded by
+themselves and in relation to each other.
+The first distinctions, then, are of the so-called tropical, equipartite,
+solid, and bicorporeal twelfth-parts. Now, two are tropical, the first
+thirty degree interval from the summer tropic, that of Câncer, and the
+first from the winter tropic, that along Capricorn. These have received
+their names from an accident;2 for, the Sun turns when he comes to be
+at the beginnings of them, reversing in the opposite direction of his
+latitudinal passage, causing summer in Câncer and winter in Capricorn.
+And two are called equipartite, the first twelfth-part from the spring
+equipartition, that of Aries, and the one from the autumn equipartition,
+that of the Claws.3 These, again, have been named from an accident,
+since when the Sun comes to be at the beginning of them, he makes the
+nights everywhere equal to the days.
+Of the remaining eight twelfth-parts, four are called solid, and four
+are called bicorporeal. And those following the tropical and equipartite
+twelfth-parts are solid, Taurus, Leo, Scorpio, and Aquarius, since the
+wetness, hotness, dryness, and coldness of the seasons that begin in
+those preceding twelfth-parts bear down upon us more firmly4 when the
+Sun comes to be in these twelfth-parts, not because the conditions
+naturally arising at that time are more unmixed, but rather after we have
+already continued a long time in them, we also for that reason perceive 1 oike.iõsis.
+2 This is ‘accident’ meaning not essentiai or intrinsic. In modem language
+this is almost the same as a coincidence. Here Ptolemy is explicitly divorcing
+the signs from the constellations. [RH]
+3 Libra. See page 21, note 1. [RHj Júpiter stereõteron. This gives us a somewhat better idea of how to understand
+the “solidity” of these zõidia.
+27 íheir power more sensibly.1
+Those following the solid twelfth-parts are bicorporeal, Gemini,
+Virgo, Sagittarius, and Pisces because of being in between the solid and
+tropical and equipartite twelfth-parts, and, as it were, sharing the
+specific naturai characteristics of the two States of weather at their ends
+and at their beginnings.2 13. Concerning Masculine and Feminine Zõidia
+Again, they similarly assigned six of the twelfth-parts to the masculine
+and diurnal nature, and six to the feminine and nocturnal nature. The
+order given to them was every oiher one because day is always coupled
+to night, and female is always found close to male. With the beginning
+taken from Aries for the reasons we have said, and similarly also with
+the male holding the first position since indeed the active is foremost
+over the passive in power, the twelfth-parts Aries and the Claws3 were
+thought to be masculine and diurnal since indeed the equipartite circle
+drawn through them produces the foremost and most powerful
+movement of the whole. And the next twelfth-parts in sequence were
+thought to follow in order every other one, as we said.
+Some, however, use a series of masculine and feminine twelfthparts and make the beginning of the masculine ffom the rising
+twelfth-part, which they call “marking the hour.” For, just as a few take
+the beginning of the tropics ffom the lunar zõidion because it makes a
+quicker turn than the others, so also they take the beginning of the
+masculines from the twelfth-part marking the hour because it is farther 1 The reader should note that the logic of either solid or fixed has no
+connection with the symbolism of the constellations. It has meaning only in the
+context of a seasonal zodiac. Yel this was in his time a traditionaí classification.
+This strongly indicates that the Greek astrologers were thinking tropically
+whatever they were doing with measurements. [RH]
+2 These divisions clearly correspond to the modern quadruplicities,
+although the members of these classifications do not seem to be regarded a
+unity as is the case with the trigons or triplicities. It is also interesting to see
+that the “mutability" of the bicorporeal signs is here not something shared as
+a quality by the whole zõidion, but consists in its having a different character
+at opposite ends.
+J Libra. See page 21, note 1. [RH] 28 east. And some, similarly, again make use of the order of every other
+one; others divide into whole quadrants and believe the quadrant from
+the Hõroskopos up to the Midheaven and the one conversely from the
+descendent up to the Midheaven under the earth to be eastern and
+masculine, while the remaining two quadrants are western and feminine.
+They have also adapted other appellations to the twelfth-parts from
+the shapes in them. I mean, for example, ‘quadruped,’ ‘terrestrial,’
+‘dominant,’ ‘fertile,’ and the like, which, being self-explanatory and
+self-evident, we think it superfluous to recount in detail, since the
+quality arising from such types can be set forth in whichever of the
+predictions it should seem useful. 14. Concerning the Twelfth-Parts that Are Configured
+Those parts of the zodiac are in the first place congenial to each other
+which configure with each other.
+These are all those which have a diametrical interval, containing
+two right angles and six twelfth-parts and 180 degrees; and all the ones
+which have a triangular interval, containing one and a third right angles
+and Júpiter twelfth-parts and 120 degrees; and all the ones said to square,
+containing one right angle and three twelfth-parts and 90 degrees; and
+all the ones that make a hexagonal interval, containing two-thirds of a
+right angle and 2 twelfth-parts and 60 degrees.
+We may learn the reason why only these intervals were traditionally
+accepted from the following. Now, the rationale for the diameter is
+self-evident since indeed it causes meetings upon a straight line. And if
+we take the two greatest fractions and superfractions1 that are in
+harmony, after the fractions one-haif and one-third are taken of the
+diameter of two right angles, the partition into two results in the interval
+of a square, while that into three results in the interval of a hexagon and
+a triangle. And after the superfractions one and one-haif2 and one and epimorion. Literally, a part upon (i.e., in addition to) a whole. Also called a ‘superparticular’ from the Latin. [Additional by RH] Whereas regular fractions
+are parts of unity (1), superfractions are unity plus a fraction.
+2 hêmiolios. Also called ‘sesquialter’ from the Latin. The superfraction 1V2
+turns into the ratio V2.
+29 one-third are taken of the square of one right angle, the superfraction
+one and one-half makes the interval of the square in relation to that of
+the hexagon, while again the superfraction one and one-third makes the
+interval of a triangle to that of the square.
+Yet, of these configurations, triangies and hexagons are called
+harmonious because they are set together from twelfth-parts of the same
+genus, either entirely of masculine ones or entirely of feminine. But
+squares and diametrical oppositions are disharmonious because they take
+their interval in such a way as to set twelfth-parts of the same genus
+counter to each other.* * 3 15. Concerning Zõidia that Cominand and in Like Manner Obey
+Similarly, those sections figured at an equal interval from the same
+equipartite point4 (or from the other one as well) are said to be
+commanding and obeying because of their ascending and descending in
+equal times and being upon equal parallels.5 And of these the ones in
+the summer semicircle are called commanding and those in the winter
+semicircle obeying because when the Sun comes to be in the former, he
+makes the day longer than the night, while in the latter shorter. ! epitritos. Also called ‘sesquitertian’ froin the Latin. The superfraction IV3
+tums into the ratio of Júpiter /s.
+x meníoi. This particíe indicates that the upcoming paragraph will give
+Ptolemy’s own preferred reason for the harmonious and disharmonious character
+of the traditional configurations. His reasoning follows the “natural meíhod,”
+that is, the method of Aristotelian natural philosophy which is most appropriate
+for material quality.
+3 The Greek uses two senses of the antithesis. Interpreting this usage, the
+Greek seems to be saying that the square blocks the synthesis that would come
+from a trine or sextile, while the opposition sets two harmoniously related signs
+in opposition to each other. [RH] Júpiter isêmerinos sêmeion. That is, equinoctial point. Here the noun clearly
+means ‘point’ instead of ‘sign,’ as in common mathematical usage.
+5 i.e. parallels at the same distance but opposite sides of the equator. Were
+they parallel on the same side, Ptolemy would have said ‘same parallel’, not
+‘equal parallel’. [RH] 30 16. Concerning Zoidia that See and Are Equipollent to Each
+Other
+Again, they say that parts equally distant from the same tropic point1 (or
+from the other one as well) are equipollent to each other because when
+the Sun comes to be in each of them, he produces days equally as long
+as the days, nights as the nights, and equally long intervals of the proper
+hours.2 And these are said to see each other both for the aforesaid
+reason and since indeed each of them rises from the same parts of the
+horizon and sets in the same parts.3 17. Concerning Unconnected Zõidia
+Segments are called unconnected4 and alienated5 whenever they simply
+do not have a single one of the aforementioned relationships of mutual
+familiarity.6 These are the ones that do not happen to belong to either
+the commanding or obeying zõidia, or the seeing or equipollent zõidia;
+and furthermore, they are those which, arising either after one or after
+five twelfth-parts, are taken to have absolutely no share in the four
+configurations set out (that of the diametrical opposition, the triangle,
+the square, and the hexagon), since indeed those which arise after one7
+are, as it were, averted from one another, while those which arise after
+five8 divide the whole circle into unequal parts, though the other
+figurations make equal divisions of the perimeter. 1 tropikos sêmeion. That is, solstitial point.
+2 That is, the seasonal hours obtained by dividing the entire period of day
+(or night) into twelve equal hours.
+3 The traditional classification that is lacking in Ptoleniy is that of
+like-engirding zõidia (c/ Paulus section 12), namely, those which are the houses
+of the same planet. Júpiter asundetos.
+5 apêllotriõmenos.
+6 oikeiõsis.
+7 The semi-sextile.
+8 The quincunx or inconjunct.
+31 18. Concerning the Houses of Each Star
+The planets, too, are affiliated1 to parts of the zodiac through their
+so-called houses, trigons, exaltations, boundaries, and such like. And the
+matter concerning the houses has the following nature. Since the most
+northern of the 12 zõidia are Câncer and Leo, which in drawing closer
+than the others to our zenith thereby happen to be more able to procure
+heat and warmth, they portioned out these two as houses to the greatest
+and most authoritative planets, that is, to the lights, with Leo going to
+the Sun since it is a masculine zõidion, and Câncer going to the Moon
+since it is feminine. And accordingly, they laid down that the semicircle
+ífom Leo up to Capricorn was solar, while the semicircle from Aquarius
+to Câncer was lunar, in order that in each of the semicircles one zõidion
+could be apportioned to each of the five planets appropriately,2 the one
+being figured in relation to the Sun, and the other in relation to the
+Moon, in keeping with the spheres of their motions and their natural
+characteristics.
+For, to the star of Kronos, as it is more cooling in its nature in
+accordance with the contrariety of heat,3 and as it occupies the highest
+zone far from the lights, were given the zõidia diametrically opposite
+those of Câncer and Leo—that is, Capricorn and Aquarius—also
+because of the cold and wintry weather happening in these twelfth-parts,
+and furthermore because the diametrical configuration is disharmonious
+for beneficence.
+And to the star of Zeus, as it is temperate and under the sphere of 1 This is a passive form of sunoikeioõ, which literally means ‘to bind in
+kinship,’ but more generally means ‘to affiliate.’ Note that when Ptolemy tums
+to a discussion of the relationships of the planets to the zõidia, he uses this verb
+rather than the verb oikeioõ, which he had used when discussing the
+relationships of the zõidia to each other. In the passive, sunoikeioõ may mean
+either to be in the condition of kinship with something, or else to be bound into
+this condition. Because of this ambiguity, it is not clear from the present context
+alone whether the planet is akin to a part of lhe zodiac ahead of time, or is only
+adapted to the nature of the zõidion through its residence there. However, we
+believe that this sudden emphasis on the prefix sim indicates that the planet is
+understood to play the latter subordinate role. See the General Note in the
+translator's preface. 2 oikeiõs.
+n Which is, of course, the quality of cold. 32 Kronos, were given the two zõidia adjacent to the preceding ones,
+Sagittarius and Pisces, which are windy and fertile and in a triangular
+interval with the lights, which is that of a harmonious and benefic
+configuration.
+And next, to the star of Ares, as it is more drying in its nature and
+as it occupies the sphere under Zeus, again were given the twelfth- parts
+adjacent to the former and having a similar nature, Aries and Scorpio,
+making a square interval with the lights in keeping with its destructive
+and disharmonious quality.
+And to the star of Aphrodite, as it is more temperate and is under
+the sphere of Ares, were given the two zõidia adjacent to the former
+which are most fertile, the Claws1 and Taurus, since they observe the
+harmony of the hexagonal interval, and since this star is at most no
+more than two twelfth-parts apart frorn the Sun on either side.
+And finally, to the star of Hermes, as it never distant frorn the Sun
+by more than one twelfth-part on either side, and as it is beneath the
+other spheres while being in a certain sense closer to both the lights,
+were given the remaining two twelfth-parts contiguous to the houses of
+the former, that is, Gemini and Virgo.
+19. Concerning Trígons
+And the [planetary] affíliation relative to trigons happens to be such as
+the following. Since the trigonal and equilateral shape is most
+harmonious with itself, and2 the zodiac is bounded by three circles (the 1 Libra. See page 21, note 1. [RH]
+2 Robbins takes the clause introduced by ‘and’ as the consequence of the
+first clause, translating 'kai' by ‘also,’ and then makes a deprecaíing remark
+about numerological reasoning. Although this is grammatically possible, wc do
+not think it is correct, and have taken ‘kai as a coordinate conjunction.
+[Additional by RH] The difference between our rendition of this passage and
+the Robbins is that Robbins makes the three circle reference seem to be
+somewhat gratuitous. However if one makes the 'kai' an ‘and' rather than an
+‘also’, it connects the three circles to the triplicities as a cause of the tripliciíies’
+existence rather than an inrelevant numerological device. In other words the text
+argues that there are triplicities not only because of the stability of the triangle,
+but also because in each of these triplicities there is one sign nearest the tropic
+of Câncer, one near the equator (equipartite circle) and one nearest the tropic
+of Capricom. It is seems as if virtuaíly no statemem is irrelevant or superfluous 33 equipartite circle* 1 and the two tropics), while its 12 parts are divided
+into Júpiter equilateral trigons, the first trigon, which is through the zõidia of
+Aries and Leo and Sagittarius, since it is composed of three masculine
+Zõidia and contains the houses of the Sun and Zeus and Ares, was given
+to Zeus and the Sun, Ares being out of the solar sect. The Sun assumes
+the first co-rulership2 of it by day, while the star of Zeus assumes it by
+night. Also, Aries is nearer the equipartite circle, Leo the summer
+tropic, and Sagittarius the winter tropic. This trigon is made principally
+northern through the co-rulership of Zeus, since indeed this planet is
+fertile and windy, appropriately for the winds from the north. However,
+owing to the house of Ares, it takes ou a certain admixture of the west
+and is appointed the northwest, since indeed the planet of Ares is
+productive of such winds because of its lunar sect and the feminine
+character of the occident.3
+The second trigon, which is through the zõidia of Taurus and Virgo
+and Capricorn, is composed of three feminine zõidia. Accordingly, it
+was given to the Moon and to Aphrodite, its ruler by night being the
+Moon, but by day the star of Aphrodite. Also, Taurus is nearer the
+summer circle, Virgo the equipartite circle, and Capricorn the winter
+one. This trigon becomes principally Southern through the ruJership of
+Aphrodite, since indeed this star is productive of similar winds through
+the heat and moisture of its power. However, by receiving in addition
+an admixture of the east (because the house of Kronos occurs within it)
+it is appointed the southeast in antithesis to the first triplicity, since
+indeed the star of Kronos is also productive of such winds, being itself
+akin to the orient because its sect is according to the Sun. in Ptolemy's writing.
+1 equator. [RH]
+The Teubner lext has a sun preceding the word for mlership. This is
+possibly of some importance because of the way in which later astrologers used
+Ptoiemy's triplicity rulerships. Those astrologers who used the three rulership
+system alvvays granted some dignity to the triplicity ruler of the other sect, i.e.,
+the night ruler in a day chart and vice versa. Those who used the Ptolemaic
+system tended to use only the ruler that was in sect. This word translated as
+‘co-rulership’ seems to imply that even for Ptoiemy the ruler out of sect may
+have had some importance. [RH j * Greek prefix for co-, not the planet!
+3 The Greek names for winds and lheif names for directions are usually the
+same, and Robbins often seems to confuse them here.
+34 The third trigon, which is through Gernini and the Claws1 and
+Aquarius, is composed of three masculine zõidia, and having no
+relationship to the star of Ares, while having one to the star of Kronos
+and that of Hermes by their houses, to these were apportioned in turn
+the star of Kronos to rule by day because of his sect and the star of
+Mercury by night. Also, the twelfth-part of Gemini is near the summer
+circle, that of the Claws2 is near the equipartite circle, and that of
+Aquarius is near the winter circle. This trigon is indeed principally
+appointed the east because of the star of Kronos, but the northeast by
+admixture because the sect of the star of Zeus is affiliated with the sect
+of the star of Kronos in accordance with the diurnal determination.3
+The fourth trigon, which is through Câncer and Scorpio and Pisces,
+was left to the sole remaining planet, which is the star of Ares and
+which has a relationship to it through the house of Scorpio, and to the
+ones co-ruling with it because of the sect and the femininity of the
+zõidia, the Moon by night and the star of Aphrodite by day. Also, Câncer is near the summer circle, Scorpio nearer the winter circle, and
+Pisces nearer the equipartite circle. And this trigon is principally
+appointed the west because of the rulership of Ares and the Moon, but
+the Southwest by admixture through the co-rulership of Aphrodite. Júpiter 1 Libra. See page 21, note 1. [RH]
+2 Libra. See page 21, note 1. [RH]
+3 The word is logos, which can rnean a definition or division. Here it is
+clearly being used as a synonym for sect. [RH] Júpiter Ptolemy's triplicity rulership is a modification of the more cornmon one
+found in other Greek authors. It seems as if Ptolemy wanted to simplify the
+usual system by elimininating the third or cornmon ruler. The third ruier was
+always less important than the diurnal and nocturna! rulers and had equai power
+by day and by night. Usually the third ruler was simply the only remaining
+planet not already assigned rulership to the triplicity that was also of the same
+sect as the triplicity (except in the case of the Câncer, Scorpio, Pisces triplicity).
+Below is a table showing the more cornmon triplicity rulership system with the
+rulers excluded by Ptolemy in italics.
+35 The signs of the first
+triplicity are ruled by the Sun,
+Diurn.
+Noct. Comm.
+Zeus and Ares. The Sun is the
+most diumai ruler. It gets the
+TQ/
+O
+\
+$
+day rulership. Zeus is less
+diurna!, but not noctumal,
+<3717 r>
+$
+3>
+cf
+therefore it gets the night ruler¬ Gêmeos ship. Ares is excluded because
+?
+V
+it is nocturnal. Kronos is added
+0 Hl X
+J>
+cf
+by other authors because it is Mercúrio of the same sect even though it
+has no major dignities in this
+triplicity. That is probably why
+Ptolemy rejects it.
+The second triplicity consists of Taurus, Virgo and Capricorn, which are
+ruled by Aphrodite, Hermes, and Kronos respectively. Of these Hermes is not
+especially noctumal, and Kronos is definitely diumai. This leaves only
+Aphrodite. However, the Moon is noctumal and is exalted in Taurus. So
+Aphrodite, which is more diurnal than the Moon, gets the day rulership and the
+Moon gets the night rulership. Ares is added as the common ruler by other
+authors because it is of the same sect. However, probably again because it has
+no dignity in this triplicity, Ptolemy rejects it.
+The third triplicity consists of Gemini, Libra and Aquarius, which are ruled
+by Hermes, Aphrodite and Kronos respectively. Of these Kronos is the most
+diurnal and gets the day rulership. Hermes is less diumai and gets the night
+rulership. Aphrodite is noctumal and rejected entirely. Other authors add Zeus
+because it is of the same sect even though it has no major dignity in this
+triplicity. Again Ptolemy rejects it.
+The last triplicity consists of Câncer, Scorpio and Písces, which are ruled
+by the Moon, Ares and Zeus respectively. Here we have a different situation.
+Using Ptolemy's two-ruler system, we have only Ares left to mie in both day
+and night. However, the other authors make Aphrodite the day ruler because
+she is exalted in Pisces and is the least nocturnal of the planets qualified for
+rulership. The Moon, ruling Câncer, is the most noctumal and gets the night
+rulership. Ares, however is more than just the remaining noctumal planei as it
+was with lhe Taurus, Virgo, Capricorn group. It is an actual ruler in this
+triplicity, namely of Scorpio. This makes it the only common ruler that has
+major dignity within its triplicity. This is undoubtedly why Ptolemy makes it
+the primary ruler of this triplicity both day and night. [RH]
+' 36 20. Concerning Exaltations
+The so-called exaltations of the wandering stars have the following
+rationale.
+Now, since the Sun, when he enters Aries, makes a transition to the
+higher and northern semicircle, and in the Claws1 passes into the lower
+and Southern one, they have fittingly assigned Aries to him as his
+exaltation, wherein the length of the day and the heating power of his
+nature begin to increase; and they have assigned the Claws as his
+depression for the opposite reasons.
+The star of Kronos, in order to be set opposite to the Sun once
+again just as it was also in the case of their houses, took the reverse:
+Libra as its exaltation and Aries as its depression. For where heat
+increases there cold diminishes, and where cold increases there heat
+diminishes.
+Again, since the Moon, when she becomes conjunct in Aries, the
+exaltation of the Sun, makes an appearance and begins to increase her
+light and, as it were, her height in Taurus, the first zõidion of her own
+trigon, this was called her exaltation; and the diametrically opposite
+zõidion, Scorpio, was called her depression.
+Next, the star of Zeus, being productive of the fertile north winds,
+again increases and executes its own special power when it becomes
+farthest north,2 especially in Câncer; whence they have made this
+zõidion its exaltation, Capricom its depression.3
+The star of Ares, being by nature a cause of heat, is even more so
+in Capricom since it becomes more caustic by becoming most southerly,
+and it properly took Capricom as exaltation and Câncer as depression. 1 Libra. See page 21, note 1. [RH]
+2 The word ‘especially’ (malista) is ignored by Robbins (unless he took it
+as a redundant superlative with “farthest north”). Syntactically, it almost has to
+go with the phrase “in Câncer.”
+3 lt is the natural power of the star of Zeus to produce the fertile north
+winds. These normally occur in the summer when the Sun is in Câncer. When
+the star of Zeus is in Câncer as weli, this reinforces the usual effect. This is
+becausc the star of Zeus in Canccr is the farthest north it ever gets. Robbins'
+translation altogether misses the middle point (i.e., the winds happening when
+the Sun is in Câncer) and thus obliterates the physical reasoning here, just as
+he does in the upcoming treatment of Ares.
+37 the antithesis of the star of Zeus.
+Again, the star of Venus, being by nature capable of moistening, is
+even more so in Pisces in which the beginning of the moist spring gives
+notice1 *, and what with increasing its own proper power, it had its
+exaltation in Pisces and its depression in Virgo.
+The star of Hermes is the reverse, reasonably being somewhat more
+dry in its opposite [effect] in Virgo wherein the dry autumn gives
+notice, and it is, as it were, exalted, while in Pisces it is, as it were,
+depressed.
+21. Concerning the Disposition of the Boundaries
+Two ways of [disposing] the boundaries are adduced above ail. One is
+the Egyptian way, that which is on the whole related to the proprietary
+rights of the houses; the other is the Chaldaean way, that which is
+related to the rulerships of the trigons.
+The commonly adduced Egyptian way of disposing the boundaries
+actually does not preserve quite so well3 an analogy of order or of
+individual quantity. For firstly, as far as the order is concerned, they
+have partly given the first places to the rulers of the houses, partly to
+those of the trigons, and sometimes to those of the exaltations. If they
+have followed the houses, for example, why have they made the first
+assignment, say, in Libra to the star of Kronos and not to the star of
+Aphrodite? And why to the star of Zeus in Aries and not to the star of
+Ares? Or if they have followed the trigons, why have they made the
+first assignment in Capricorn to the star of Hermes and not to the star
+of Aphrodite? Or if they have followed the exaltations, why that in
+Câncer to the star of Ares and not to the star of Zeus? Or if they have
+followed the planets having the greatest number of these, why have they
+made the first assignment in Aquarius to the star of Hermes, which has
+only a trigon, and not to the star of Kronos? For, Aquarius is the house
+and trigon of this planet. Or why have they made first assignment in 1 Spring offícially begins when the Sun enters Aries. However, according
+to chapter 11, Pisces is one of the bicorporeal signs, which share the weather
+of the signs contiguous to them. Thus, the spring “gives notice” of its imminenl
+arrival when the Sun is in tlie last part of Pisces.
+‘ hypoxêros.
+3 as the Chaldean.
+38 Capricorn to the star of Hermes since it does not have any relationship
+of rulership to this zõidion at all? And one ought to find some same
+analogy in the order of the remainder.
+Secondly, the quantity of the boundaries also appears to have
+nothing analogical about it. For, the number totaied up for each
+individual star from all the boundaries, in relation to which they say that
+the temporal quantities of them are distributed, has neither a proper nor
+an easily demonstrated rationale. And even if we trust this totalled
+number as being outright agreed upon by the Egyptians, the same
+number would be found as the total in many ways and by interchanging
+the quantities differently by zõidion. And what some try to argue in a
+seemingly plausible and subtle manner concerning these things—that the
+times figured for each star in the ascensional determination of every
+zone in some way total up to the same quantity—is false. For, in the
+first place, they follow the common doctrine, the one constructed with
+even excesses of the ascensions, which is not even close to the truth.1
+According to this doctrine, for the parallel through the lower regions of
+Egypt, they would have the twelfth-parts Virgo and the Claws2 each
+ascending in 38lh times,3 the twelfth-parts Leo and Scorpio in 35 each,
+though it is shown through diagrams4 that these ascend in more than 35
+times while the twelfth-parts Virgo and the Claws5 ascend in less.
+Then, too, those who have tried to construct such a doctrine seem
+no longer to have followed the quantity of terms adduced by the
+majority, nor in the same manner, and to have been forced to falsify
+many [boundaries] and to even use portions of degrees here and there
+for the sake of saving what is proposed for them, which, as we have 1 This is a reference to the systems of ascensions inherited from the
+Babylonians, System A and System B. These systems made two erroneous
+assumptions: First, that the ascensions of the opposite signs had to add up to
+60°; Second that from the signs of shortest ascension (Aries and Pisces) to the
+signs of long ascensions (Virgo and Libra), as lhe ascensions increased from
+sign to sign (or decreased), they did so by a fixed amount. See my introduction
+to Vettius Valens, Anthology, Book I. [RH]
+2 Libra. See page 21, note 1. [RH]
+3 ‘Times’ as used in Ptolemy and others are actually degrees passing of the
+meridian. [RH] Júpiter This usually means through geometrical demonstrations.
+5 Libra. See page 21, note 1. [RH]
+39 said, are not those being held on the true viewi
+Nevertheless, the boundaries adduced by many as trustworthy
+because of immemorial tradition are set down in the following manner.
+Boundaries According To The Egyptians Aries Taurus Gemini V 6 6 $ 8 $ 6 12 ¥ 6 14 ¥ 8 20 ri 8 22 0* 5 25 ri 7) 5 30 tf Libra Virgo 1 7 ri 6 6 ¥ 7 7 6 12 Mercúrio 6 13 Mercúrio 5 11 Mercúrio 10 17 $ 5 17 ¥ 6 19 ri 7 18 ri Júpiter 21 5 27 tf 7 24 ri 7 26 ¥ 6 24 tf 7 28 3 30 ri 6 30 ri Júpiter 30 tf 6 30 ri 2 30 ¥ Scorpio 6 Leo tf 8 6 Câncer Sagitt. Capri. ri 6 6 tf 7 i ri 12 12 ¥ 8 14 Mercúrio Júpiter n Mercúrio 7 21 ¥ 8 19 $ 7 28 ri 5 24 tf 2 30 ri Aquar. Pisces ¥ 7 7 ¥ 7 7 Mercúrio 12 12 5 17 ri 7 14 Mercúrio 6 13 ri Júpiter 16 ¥ Júpiter 21 Mercúrio 8 22 ri 7 20 ¥ 3 19 ri 5 26 ri Júpiter 26 tf 5 25 tf Mercúrio 28 5 30 2 30 6 30 tf Júpiter 30 tf Júpiter 30 ri ri The number of each of these is totalled thus: 57 degrees for Kronos, 79
+for Zeus, 66 for Ares, 82 for Aphrodite, 76 for Hermes. Together they
+come to 360 degrees.
+The Chaldaean way has a certain simple and more plausible
+analogical integrity. though not so self-sufficient in relation to the
+masterships of the trigons and the order of quantity,1 so that one can 1 That is, the order and assignment of the Chaldean boundaries is more
+artificial. 40 nevertheless easily impugn them even without a tabulation.1 For, in the
+first trigon of Aries and Leo and Sagittarius, which has the same
+division [into boundaries] for each of these zõidion, the ruler of the
+trigon, the star of Zeus, accepts first of all; then the ruler of the next
+trigon (I mean the star of Aphrodite); then the ruler of Gemini, the star
+of Kronos and that of Hermes; finally, the ruler of the remaining trigon,
+the star of Ares. In the second trigon of Taurus and Virgo and
+Capricom, which again has the same division by zõidion, the star of
+Aphrodite accepts first; then the star of Kronos again and that of
+Hermes; after this the star of Ares; and finally the star of Zeus. This
+order is all but observed for the remaining two trigons. However, there
+being two rulers of the same trigon (I mean the star of Kronos and that
+of Hermes), the star of Kronos appropriately takes the first place of the
+order by day, while Hermes takes it by night.
+Also, the quantity for each boundary happens to be a simple matter.
+For, in order that the quantity of the terms of each planet should be one
+degree short of the one assigned ahead of it, in accordance with the
+reduction of the order from first place, they always gave to the first
+boundary 8 degrees, to the second 7, to the third 6, to the fourth 5, to
+the fifth Júpiter , the degrees of the zõidion being filled up in this manner.
+From this, 88 degrees by day are totalled up for the star of Kronos, but
+66 by night, 72 to the star of Zeus, 69 to the star of Ares, 75 to the star
+of Aphrodite, and 66 to the star of Hermes by day, but 78 by night.
+These come to 360 in all.
+Of these boundaries, then, those in the Egyptian manner have more
+credibility, as we have said, both because in the Egyptian writers their
+totais have been deemed worth recording as being useful, and because
+the degrees of the boundaries in the Egyptian arrangement of
+paradigmatic births are on the whole in accord with them.
+Nevertheless, since these writers themselves nowhere make clear
+the arrangement [of the boundaries] or their number, the lack of
+agreement among them concerning the order could reasonably be
+viewed with suspicion and easily criticized. 1 The significant differences between the Teubner text and Robbins' at this
+point have led him to a rather different sense here. However, it does seem as
+if Ptolemy wants to dismiss the Chaldean boundaries out of hand as being not
+so credible. See the paragraph after the next one.
+41 Before going so far, however,1 we have happened upon an ancient
+and much deteriorated manuscript copy containing a natural and
+harmonious account of the order and number of the boundaries, with the
+degree-descriptions of the aforesaid births and the number of the totais
+being found to be in agreement with the record of the ancients. The
+wording of the book was quite lengthy and with much demonstration of
+something or other, but hard to make out owing to its deterioration and
+scarcely capable of tracing out and impressing upon me even its general
+purport, despite the assistance of a table of the boundaries, which was
+somewhat better preserved by being placed somewhat nearer the end of
+the book. The form, then, left by the general impression of them2 is as
+follows.
+As for the order according to each twelfth-part, the exaltations and
+the trigons and the houses are employed. For, in general, the star having
+twp of these rulerships is placed in the front rank in the same zõidion,
+even if it should be malefic: But wherever this does not obtain, the
+malefics are always placed last, the rulers of the exaltation first, then
+the rulers of the trigon, then the rulers of the house, then, for the next
+[boundary rulers], analogously [do the same] in the next zõidion in
+order,3 again with those having two rulerships upward in the next
+[zõidion] being placed ahead of the one having a single rulership in the
+same zõidion. Júpiter Nevertheless, since no boundaries are given to the lights, 1 Connecting the particle êdê with the preceding sentence.
+2 The metaphor here has to do with affixing a seal to wax. Whereas the
+text itself made no impression on Ptolemy due to its illegibility. the table made
+this imprint on his mind.
+3 This phrase and the next one are the keys to understanding how to
+establish the order of the boundaries after the first, and they have both been
+mistranslated by Robbins, who does not give enough information in his
+translation to make the ordering determinant. This phrase simply says that after
+taking the rulers in the prescribed order for a given zõidion, you move on to the
+next zõidion and again consider the exaltation ruler first, then, the trigon ruler,
+etc. Júpiter This phrase takes care of the only exception to the instructions of the
+preceding phrase. which occurs in going from Ares to Kronos in Gemini
+(instead of vice versa). The word ‘upward’ specifies that this condition obtains
+only when the planei of double rulership in the next zõidion is also upcoming
+in the order exaltation, trigon, house. This quaíification rules out the only other
+example of a succeeding double rulership—that is, where Kronos is followed
+42 Câncer and Leo, which are houses of the Sun and the Moon, are
+apportioned to the malefics because of being disadvantaged in the order.
+Câncer was apportioned to the star of Ares, but Leo to the star of
+Kronos, in which the order proper to them is preserved.
+But for the quantity of the boundaries, as when no star is found
+with two types of ruler either in the zõidion itself or even in the next
+zõidia up to a fourth-part, 7 degrees each are given to the benefics (that
+is, to the star of Aphrodite and that of Zeus), but 5 degrees each to the
+malefics (that is, to the star of Kronos and that of Ares), and 6 degrees
+are given to the star of Hermes, which is common, for a total of 30
+degrees. But since indeed there are always some having two relations
+[of rulership] (for, the star of Venus is made the sole ruler of the trigon
+of Taurus and Capricorn, since the Moon is not employed for the
+boundaries), one additional degree is given to each of the planets which
+are so, whether they are in the zõidion itself or in the next zõidia up to
+a quadrant for which the glyphs* 1 were lying adjacent.2 But the degrees
+added to the double rulers are subtracted from the remaining single
+rulers, as for the most part3 from the star of Kronos and then even from
+Zeus, because their motions are more ponderous. And the exposition of
+these boundaries is just as follows.
+Boundaries According To Ptolemy4 by Hermes in Aquarius, instead of Aphrodite.
+1 stigma.
+2 Robbins has some gibberish here about the planets being marked with
+dots, where it is clear that Ptolemy just wants to specify that the planets are in
+the same row.
+3 Evidently, the quantitative rule proposed by Ptolemy is not totally
+prescriptive. Júpiter Of the existing translations of Ptolemy into English, this is the fírst to
+present Ptolemy's terms based on the authoritative Teubner edition. While the
+precise number of degrees in each term may not be totally defmitive here, the
+order of the rulers is. This is important because the terms as presented here are
+almost exactly the same as those used by William Lilly and the other
+astrologers of 17th Centuiy England. The only difference is in Gemini where
+Lilly has Júpiter 6, 914, $ 2\ <? 26 and b 30, due to a difference of one degree in the
+length of the term of Mercúrio . From what we know, the Lilly variant has as much
+claim to authenticity as the version given in the Teubner text. According to Dr.
+Lee Lehman, the Ptolemaic terms as given here show promise of being
+43 Aries Taurus Gemini 6 6 Mercúrio 8 8 Mercúrio 8 14 2 7 15 2 7 21 \ 7 22 d 5 26 b b Júpiter 30 c* Júpiter 30 Libra 2 Câncer Leo Virgo i 7 d* 6 6 b 6 6 2 7 7 6 13 7 13 2 7 13 Mercúrio 6 13 2 7 20 Mercúrio 6 19 > 5 18 Júpiter 26 cf 6 26 Mercúrio 7 27 \ 6 25 b Júpiter 30 b 3 30 d Mercúrio Scorpio 7 20 Sagitt. Capri. b 6 24 5 30 d 6 30 Aquar. Pisces b 6 6 d 6 6 V 8 8 Mercúrio 6 6 b 6 6 Mercúrio 5 11 V 8 14 Mercúrio 6 14 2 6 12 2 6 12 8 19 Mercúrio 7 21 2 5 19 V 7 19 Mercúrio 8 20 2 6 20 5 24 2 6 27 b 6 25 d 6 25 V 5 25 d 6 26 3 30 d 5 30 b 5 30 Júpiter 30 2 * 6 30 b 30 d Mercúrio b 8 8 6 14 5 From the totaling of them are also rnade 57 degrees for Kronos, 79
+for Zeus, 66 for Ares, 82 for Aphrodite, 76 for Hermes. 360 degrees
+in all. statistically significant in a sample of New York City suicide cases. See Lee
+Lehman, Essential Dignities, West Chester, PA, Whitford Press, 1989.
+Robbins' terms are simply incorrect, probably due to the texts he chose to
+use. Ashmand and Wilson give the same sets but both ha ve variants for tenn
+rulers and the sizes of the terms in several cases. Wilson tries to justify these
+double sets of rulers on iogical grounds, but it is clear that he was simply
+dealing with a text that preserved multiple traditions. In both the Ashmand and
+Wilson versions of the terms, the actual set of terms given here is completely
+presented along with the variants, but the reader has no way of knowing vvhich
+are the variants and which are the more usual values. [RH]
+44 22. Concerning Places and Degrees of Each Zõidion
+Some have also divided the mlerships into even finer segments, calling
+them ‘degrees’1 and ‘places.’2 And assuming place to be the twelfth-part
+of a twelfth-part (that is, 2lh degrees), they also give the rulership of
+it to the zõidia in order (and others even in accordance with certain
+illogical orders). Again, for degree, they give each one from the
+beginning to each of the stars, following the order of the Chaldaean
+boundaries. These, then, having a rationale which is merely plausible
+and not physical, but rather a vain opinion, we will pass by.
+But that it is indeed reasonable to start the twelfth-parts and the
+boundaries from the tropical and equipartite points—that we will not
+omit, as it happens to be worth dwelling over. This is both because the
+writers in a certain fashion3 make this clear, and especially because we
+see from the previous demonstrations that the natures and powers and
+[planetary] affiliations of the twelfth-parts and boundaries derive their
+cause from the tropical and equipartite origins and not from any other
+starting points. For, if other starting points are assumed, we will either
+be forced no longer to use the natures of the zõidia in prognostication,
+or else, if we use them, we will be forced to make mistakes because of
+the overlappings and separations of the intervals that secure the powers
+in them. Júpiter moira.
+2 topos.
+3 põs. Robbins translates this as ‘quite,’ implying that a commitment to the tropical zodiac was explicit in the earlier writers, whereas in this context it
+should be translated ‘somehow’ or ‘in a certain fashion,’ implying that this is
+an inference or surmise on Ptolemy's part. Júpiter Robbins translates this pronoun as ‘planeis,’ which is highly unlikely
+without a nearby antecedent noun. 1 see no reason why it cannot still be
+referring to twelfth-parts and boundaries. [Additional by RH] Ptolemy's whole
+argument is that the qualities of the signs and their subdivisions arise from their
+connection with the seasons. If we begin the signs at any other points, we cause
+that connection to be weakened or destroyed, especially if the beginning point
+is sidereal and subject to precession.
+45 23. Concerning Faces, Chariots, and the Like.
+The affiliations of the stars and the twelfth-parts would be more or less
+like these.1
+But planets are also said to be in their own face2 whenever each of
+them should maintain the very same figuration in relation to the Sun or
+the Moon that its house has to their houses—whenever, for example, the
+star of Aphrodite should (for the sake of argument) make a hexagonal
+interval relative to the lights while being west3 relatiye to the Sun and
+east4 relative to the Moon, in keeping with their houses from of old.
+And the planets are also said to be in their own chariots and Although Robbins does not make this connection in his translation,
+Píolemy is here referring to the faces, chariots, and rejoicings (implied in “the
+Like”) in the very title of this section. This must be understood in order to
+comprehend the argumentative structure of this section. According to Antiochus
+(section 43), “Planets are in their own chariots whenever they should be found
+in their own house, exaltation, or boundaries. And they rejoice at these places
+even if they are found under the beams of the Sun.” It is, however, quite a
+surprise to see Tace’ listed here as a gerieral term for dignity. Might its later
+exclusive
+association with decans be a historicál accident?
+2
+idioprosõpeõ. That is, even though the term ‘face’ is generaüy
+synonymous with ‘affiliation’ in the pre-Ptolemaic tradition, it also has the
+deviant usage that follows. Decanic face as a dignity is conspicuousiy absent
+in Ptolemy's list of dignities, perhaps because of an association which they may
+have with the extra-zodiacal constellations of the fíxed stars, which wouid be
+incompatible with Ptolemy’s overalí tropical approach.
+hesperios. Robbins has ‘Occidental’ here. This would more properly
+translate the Greek word dutikos, which literalíy has the meaning of ‘pertaining
+to setting’ and is its semantic equivalent. Temporally speaking, hesperios means
+‘tovvard evening;’ spatially, Toward the evening regions’—that is, the west. To
+preveni confusion with the Greek word dutikos, we wil) consistently translate
+hesperios as ‘west.’ Cf notes to section 24 for ‘Occidental’ as a translation of
+dutikos. Júpiter heõios. Analogous to the abo ve, Robbins has ‘oriental’ here. This would
+more properly translate the Greek word anatolikos, which literalíy has the
+meaning of ‘pertaining to rising’ and is its semantic equivalent. Temporally,
+heõios means ‘in the moming;' spatially, ‘toward the moming regions’—that
+is, the east. To prevent confusion with the Greek word anatolikos, we will
+consistently translate heõios as ‘east.’ Cf. notes to section 24 for ‘oriental’ as
+à translation of anatolikos.
+46 thrones and the like whenever they should happen to be affiliated with
+the places in which they are taken in accordance with two or more of
+the ways set out earlier1—then especially,2 as the power of the planets
+for actualization increases by means of the similar and cooperative
+[character] of the kindred3 property of twelfth-parts which contain them.
+And they do say that planets rejoice4 whenever, even if the
+affiliation5 of the zõidia which contain them should not be made with
+regard to the planets themselves, it is [made] nevertheless with regard
+to planets of the same sect6 (though there is far more sympathy when
+it is so7) and they8 likewise share in the similitude9 even in such a
+fashion.10 1 i.e. dignities. [RH]
+2 Ptolemy does not say that the term ‘chariot’ applies only when a planet
+should have two or more dignities, as the Robbins' translation implies, but that
+it is a deviant usage of the term, which we know from the Antiochus quotation
+above was primarily used when the planet had only one of the dignities.
+Ptolemy may, however, be suggesting that the words ‘chariot’ and ‘throne’
+apply most naturally to the condition he describes, and that their synonymity
+with ‘affiliation’ is more an inexact generalization of that natural meaning.
+Robbins takes the word ‘especially’ (mallon) with the verb ‘increases’ and thus
+misses the structure of the whole argument.
+3 homophulos. Literally, ‘of the same race or stock.’ Júpiter chairõ.
+5 affiliation = dignity. [RH]
+6 ín other words, a planet which disposes of a certain degree will be
+dignified if there is another planet in that degree of the same sect. [RH]
+7 That is, when the affiliation is with regard to the planets themselves.
+8 That is, the planets occupying the dignity of a sect-mate. Mercúrio with one of the qualities of the sign. [RH]
+10 Robbins understood this sentence to say that rejoicing was restricted to
+the situation in which a zodiacal position was not occupied by the planet it
+dignifíes but by one of its sect-mates instead. He then wondered why Vettius
+Valens (and many others, we might add) had used it in a broader sense to
+indicate the basic condition of planetary dignity. The point here is that rejoicing
+was recognized by some of Ptolemy's predecessors even in this case, though it
+occurs to a greater degree when the planet is in its own dignity. However,
+Ptolemy seems to imply that the term ‘rejoice,’ in so far as it is the adoption
+of a similitude through sympathy for an object having that similitude, has more
+to do with relationships between planets than those between planets and zõidia,
+and may more properly be applied to the condition he describes that the general 47 Similarly, whenever they should be taken in alien places and in
+those of the opposiíe sect, much of their proper power is paralyzed
+because the inixture from the dissimilar [character] of the containing
+zõidia produces a certain diverse and blended nature. 24. Concerning Applications and Separations and the Other
+Powers
+In general, the preceding planets are said to apply to the following
+planets, while the following planets are said to separate from the
+preceding planets, as long as the interval between them should not be
+great. This obtains whether it occurs bodily or even by one of the
+accepted figurations, except that for the applications and separations of
+the bodies themselves, it is also useful to observe their latitudes with
+regard to admitting only those transits* 1 which are found on the same
+sides of the ecliptic circle. But for the applications and separations by
+means of the configurations this is superfluous, with all the rays being
+always carried and similarly meeting from every direction on the same
+sides, namely toward the center of the earth.
+From all these matters it is immediately and easily seen that one
+must investigate the quality of each of the stars by means of their own
+individual physical characteristics, and furthermore from the characteristics of the twelfth-parts which contain them, or even from the
+characteristics of the configurations in relation to the Sun and the
+angles, in the manner w;e have set out for these individually.
+One must investigate the power of the stars First from their being
+either oriental2 and additive to their own motions3 (for then they are condition of affiliation. This is all the more likely when we realize that Ptolemy
+considered the planets to have souls and would therefore be liíerally capable of
+sympathy or antipathy for each other (see appendix). However, the relationship
+between planei and zõidion might, then, be better expressed by Ptoíemy's word
+‘affiliation.’ Again, there may be a suggestion of termínological revision here.
+This paragraph is a kind of iogical inversion of the preceding one in which he
+emphasized the greatest range of application of a word; here he emphasizes the
+least.
+1 parodos. That is, one of the bodi.es passing by the other.
+2 anatoiikos. Literally, ‘pertaining to the rising places.’ Cf. notes to section
+23.
+48 especially strong), or Occidental* 1 and subtractive in their own motions2
+(for then they have an energy that is weaker). Then, too, from how they
+relate to the horizon, for when they are culminating or post-ascending
+the Midheaven, they are especially powerful; but they are second in
+power whenever they should be on the horizon itself or should be
+post-ascending. And [with regard to the horizon] they are more
+powerful whenever they are upon the oriental horizon, but less so
+whenever they should culminate under the earth or should be configured
+differently to the rising place; but if they are not so, they happen to be
+entirely impotent. End of Book I 3 We are not yet sure whether Ptolemy means direct motion or accelerating
+motion by this phrase. There also seems to be some confusion in the subsequent
+tradition.
+1 dutikos. Literally, ‘pertaining to the seiting places.’ Cf. notes to section
+23.
+2 As with note 2 above, we are not yet sure whether Ptolemy means
+retrograde motion or decelerating motion by this phrase. 49 Appendix I
+Ptolemy's Hypotheses of the Planets
+Book Gêmeos [Translator's Note—This little studied writing of Ptolemy attempts to understand the
+motions of the celestial bodies as all of one piece, rather than relatively and in isolation
+from each other (as in the Almagest). It contains Ptolemy's presentation of the idea of
+“nested” planetary spheres in which there is no empty and wasted space—all are parts of
+one contimious etheric body.
+The excerpt here translated is of importance for understanding how Ptolemy regarded
+the workings of the ether and the transmission of the planetary impulses through it. This
+is only suggested in section 2 of the Tetrabiblos itself. It is remarkabie for its doctrine that
+the planets have souls, with the planetary motions originating fforn the life force of the
+planets themselves. This is directly contrary to the Aristotelian doctrine that motion was
+communicated by contact from the outer celestial sphere inward. For Ptolemy, the motive
+impulse works from the inside outward. Furthermore, the planets voluntarily coordinate
+their own motions with one another as though in a cosmic dance. There is also the hint
+that the etheric element in man, which is the seat of his intellectual activity and his sparks
+of thought, is capable of “tuming” his body in much the same way that the etheric
+element in the heavens, and the ray-emanating planets therein, “tums” the sublunary
+sphere.
+The work survives only partly in Greek, but entirely in Arabic translation.
+Unforiunately, the portion we are presently interested in survives only in Arabic, and we
+have made a provisional translation of it from a German translation of the Arabic, so we
+are quite far removed from the original Greek texl. Later, we hope to translate the entire
+work directly from Greek and Arabic.] We have for the most part set forth the relationships of the motions of
+the spheres that have been estabíished through observations that reach
+up to our own day. However, as we have given the examples for their
+motions and the intervals of their arrangement in simple ways in the
+greatest circles that they describe in their motions, it still remains for us
+to describe the forms of the bodies in which we conceive those spheres;
+in addition, we stick to that which is suitable to the nature of spherical
+bodies and that which necessarily befits the principies which are
+appropriate to the eternally immutable essence.
+Now, as for what pertains to the enumeration of the views of the
+ancients and their teachings on these matters, as well as the correction
+of the tnislakes encountered therein, this is not our present business,
+because those are things already assumed by people who want to judge
+what is only presented as a hypothesis according to the things that really
+are, and according to that which is correct and estabíished, as far as it
+fits the method that we have taken for the eternal, rotating motion. 50 But as for what pertains to the conditions of the bodies in which
+the aforesaid [motion] is tound and their reciprocai relationship, we now
+want to explain that here, after we have first distinguished and premised
+the general phenomena that commonly make an appearance with them
+in a physical-mathematical respect.
+The physical view, now, leads us to maintain that the etheric bodies
+admit no influences and do not alter—if they indeed in the whole time
+are ever different frorn each other—in conformity with that which befits
+their wondrous essence,1 and with its resemblance to the power of the
+stars that exist in those etheric bodies, whose rays penetrate unhindered
+and uninfluenced all the things scattered around in them. Furthermore,
+it brings us to the claim that the etheric bodies never alter (which we
+have already said), that is, that their forms are round and their
+actualities are the actualities of things that are similar to each other in
+their parts. For every one of these motions that differ in quantity or in
+kind, there is a body which moves around poles, in time and place, that
+are proper to it, with its own proper motion and in conformity with the
+power of every single star. From this body the beginning of the motion
+takes place, originating from its principal powers, which are equivalent
+to the powers present in us, and which move bodies of the same kind
+as it, which are similar to the parts of a whole animal, according to the
+relationships that are suitable to every single one of them. And indeed,
+with these bodies this happens without coercion or power to constrain
+them from without; for, there is nothing stronger than that which admits
+of no influence that could constrain it.
+Also, on account of the behavior of a naturally ponderous and not
+independent motion, this motion of etheric bodies is not equivalent to
+the phenomena in such bodies which in the stale of their natural motion
+rise and fali.2 Because firstly, these latter motions are by nature not
+proper to bodies that move in substances like themselves; on the 1 This tells us in no uncertain terms that “essential dignities” are not truly
+essential at all according to Ptolemy, because the true essence of planets is
+etheric and therefore unchanging. And being etheric they are composed of the
+substance of the higher mind, that. nous. This position is not peculiar to
+Ptolemy. [RH]
+2 This refers to bodies which are not etheric, that is, composed of the four
+lower elements, fire, air, water and earth. Etheric bodies move in circles;
+elemental bodies rise or fali to their natural positions. [RH]
+51 contrary, every one of thern stands still and rests if it comes to be in
+some substance that is related to it. But if it is brought into something
+that is not similar and not related to it, and the impediments are
+removed, then it strives to its own proper place.1
+Further, if this entire assumed substance is animated, then it is
+exempt from the corporeal motion, that is, from that which takes place
+in a straight direcíion and in a changeable manner, and there dwells in
+it the uniformly rotating motion in all its purity with absolute self-determination, for which there is no impediment, as is befitting the
+wondrous understanding and the unimpeded will. For it there is no
+fluctuation, and no alteration of intention is met with, as long as that
+one motion has such an ordering that it exists in opposition to the three
+spatial directions.
+i ,<:
+Às regards the mathematical view, one fmds that application of the
+things described and in íheir connection with every single one of the
+motions that show themselves to us is possible in two ways. In the first
+way, one prescribes a complete sphere for every motion, either hollow,
+as in the case of spheres that enclose on another or the earth; or dense,
+not hollow, as those which move the stars and are called epicycles. In
+the other way, one does not postulate an entire sphere, but rather only
+a piece of one, lying on both sides of the greatest of the circles found
+on that sphere (namely, the circle on which the longitudinal motion is
+completed), and with the portion enclosing this circle on both sides
+corresponding to the amount of latitude. Accordingly, if this piece is
+taken from an epicycle, its form is similar to a tambourine, but if it is
+taken from a hollow sphere, it is similar to a girdle or to a ring or a
+flywheel, as Plato says. The mathematical consideration proves that
+there is no difference between the two types described; for, the motions
+that are assumed for complete spheres can, when combined in this
+manner and compared with the motions of the said truncated pieces, be
+brought into agreement with them, on account of the similarity of the
+motions in relation to the appearances.
+Now, those men who started off their comparison with the spherical
+motions as we look upon them, led the acceptance of the complete
+sphere back to a physical observation; for, they have seen that in the ! Only etheric bodies move within their own element, in circles. Elemental
+bodies come to a síate of rest when they come to their own proper place in the
+cosmos. [RH] 52 spheres that we construct, the spherical motion necessaríly has two
+points that touch the sphere, namely, the so-called poles, and one
+surmised the same things in the adoption of the truncated pieces. In the
+complete sphere it is self-evident. They base themselves, then, as
+Aristotle did, on the claim that the poles of the enclosed spheres are
+attached to the encompassing spheres. However, as no connection
+remains between the inner spheres and the first exterior sphere, the
+motion of all the spheres is also not uniformly fast, but rather different
+in diverse fashions, so they were constrained to seek an understanding
+of the type in which every single star moves with the primary motion
+(as we observe them to move and as them show themselves to us)
+because the spheres that are between us and them are different in their
+position and in their motion. For this reason, Aristotle used motions
+which are similar to being unwound.
+It is not necessary, however, for us to ascribe things to the etheric
+bodies that we necessaríly accept in the bodies present to us, and we do
+not need to think that something corresponding to that which hinders
+objects present to us also hinders the celestial nature, which is so
+entirely different from them in essence and activity. Furthermore, we do
+not find that the poles that we know of are the first causes for the
+motion of rotation; for, there is no difficulty in accepting that the
+spheres move in another manner—say, like the spheres that rotate
+without being supported on one and the same externai object. The poles,
+therefore, do not effect the motion m the place proper to them, but
+rather they only bear the weight of the spheres. Also, those points are
+not causes of the origin of motion (because it is not possible that an
+object at rest should be the cause of a motion), but rather the cause is
+always something cther than these points.
+If we also conceive of a sphere that does not move itself and that
+is not driven by nature or by an object surrounding it of like nature,
+then for this we also need no poles, neither for the motion of the
+spheres nor for the fact that they rotate and return back to the same
+place. Further, if the spheres had the beginning of their motion out of
+themselves, then the claim that they are supported on something else
+without this being in their interior is a claim that one must find
+laughable. This is the same case as in the motion of the spheres of the
+whole world; for, the inner is here the origin. The inner is either that
+which is inner; then, because it is that which is inner in essence, the
+motion also happens in relation to it and through it. Or else, it is the
+origin, so that, because it is the origin of this eternal and rotating
+53 motion, it is also that whence it comes. For, in both cases the ground
+is this: that the moving power is immutable and one and the same. Not
+only this, but even if the distances are equal in both the directions
+according to which the things go, as in hovering things, then they ací
+one and the same in the equality of inclination if their distance firom the
+places toward which they tend is one and the same.
+In short, if it is hard to conceive that the celestial motions do not
+happen around fixed poles, then one must realize that it is even harder
+to imagine the type of these poles, and how the extended surfaces of the
+spheres standing in externai connection therewith are bound on and pull
+the spheres enclosed therein, and by.what means these poles obtain their
+connection with every single one of thern. For, if we affix them as
+points, then we bind bodies to things that are not bodies at all, and
+bring things that have such and such a magnitude and power together
+with something that has no magnitude and is nothing at all. But if we
+affix them as bodies, and if these bodies are similar to wooden pegs or
+to our lugs, and if they are not different and not contrary to the things
+that are fastened around them, which we can observe, then we can
+ascribe these properties of theirs to no nature. However, if they are
+opposed to that which exists around them, say, through the density that
+is found in the pegs that are in wood, then we must accordingly
+absolutely deny the property of remaining in their places, because the
+denser bodies become, the more they sink in relation to those of greater
+fineness, and strive toward the midpoint of the world.
+, But if the stars are ensouled and move fhemselves voluntarily, and
+if voluntary motion is also the cause for the fact that, of the kinds of
+animais, birds have a power by means of which they move themselves
+and circle in the heights above though they are contrary to their
+surroundings in regard to density, then we may not suppose that the
+stars are contrary to their surroundings in their density, but are only
+different in the power that maintains the rays in them, just as the clouds
+are also.contrary to the air surrounding them only in their color (as long
+as they remain dry), and as colored fluidities -are [not] different in
+density from otheFuncolored fluidities if those/fluidities are similar to
+one anoíher in density. - But if we admit that the poles can stand fast, then to what spheres
+are the poles of both those conjoined spheres attached? For, it is
+impossible that they are attached to both at the same time on account
+of the State of the motion. But if they are not attached to one, then they
+are attached to this without being fixed to another. And which of the 54 poles is it, then, that moves the free sphere in it? Therefore, here we
+also find ourselves in an embarrassment.
+If, now, a friend of natural philosophy says that the cause of the
+stationing of bodies that move themselves is one or the other of the
+mentioned kinds, then that introduces no distinction and no difference
+(I mean, whether he says that the cause for that is the whole spheres or
+the pieces that are in between in them), just as little as there exists a
+difference on the ground that a sphere that excludes another is hollow,
+and is one not hollow.
+The friend of natural philosophy couid also say, if he wants, that
+it happens through the kind of the motion that takes place for pieces
+that resemble rings or tambourines, on many grounds. In the first place
+because the celestial bodies do not have many motions on account of
+the behavior of the spheres which tum one another, as it is quite
+possible to imagine that this occurs with just a few motions. For, in all
+spherical bodies of the truncated type, the motion, which is a tuming
+one, is like the motion of the ether, which goes forth in its primary
+motion since nothing hinders it therein, so that the ether sets it in
+motion through its own rotation and through the power inherent in it for
+its own proper motions, as happens with things that move with a single
+motion, while this is opposed in many ways in spite of those motions,
+or as things that swim in the flowing water.
+Furthermore, it is not appropriate to think that there couid be
+something present in nature which would be senseless and useless—
+namely, the complete spheres in the motions, when it would suffice that
+they took place with a small porticn of the same—which is exactly the
+same as with the sphere that properly moves its stars in its totality,
+namely the sphere of the fixed stars, about which one is required to
+maintain this on account of that which is observed of their relationship,
+while we are not required to maintain the same for other objects.
+For the same reason we have seen that Hermes and Aphrodite are
+not placed above the Sun, but rather between the Sun and the Moon so
+that this should not, according to appearance and according to the
+demonstrated intervals, leave empty a large space, as though nature had
+forgotten it and left it so that it was not used, while it is in fact capable
+of holding the distances of both of those planets which are nearer the
+earth than the others, so that this space is filled up by means of these
+two alone.
+This same senselessness and absurdity also resuits for the spheres
+which roll around each other, quite apart from the mighty increase in
+55 their numbers; for, they take up a large space in the ether, and are not
+necessary for the motions that the stars display, but on the contrary they
+roll around together in a single direction so that a single motion arises
+therefrom. The most astonishing thing here, however, is that the last
+spheres allow the first spheres to move them, and the enclosed spheres
+the spheres enclosing them, the multiply-anomalous1 the simple, quite
+in contradiction to natural doctrine.
+Furthermore, the motions of all spheres proceed from every single
+sphere that is above them, together with their own proper motion.
+Therefore, they move not only with the motions proper to them, but
+rather even with alien motions that do not belong to them. Which of the
+motions proper to Kronos does one also find for Zeus? Or, to name
+even more mutually exclusive planets, which motion proper to Kronos
+does the Moon possess?
+Furthermore, there is no possibility of finding the power that moves
+the first of the spheres rolling and running around each other in the
+arrangement of spheres; for, the beginning of the motion, which
+proceeds from the stars, spreads out through connection so that in the
+greatest of its distances it moves the things proper to it from outside,
+without having connection with the first of the spheres under the stars
+that turn around each other. If this beginning were to reach the last
+sphere around which it turns, then this does not agree with regard to its
+motion being similar to the primary motion; but rather, the matter is the
+other way round, because the beginning moves in it, although no cause
+is found for this property through which the beginning of this motion
+can arise, as this cannot be shown for the sphere that turns with the
+beginning motion.
+If someone now imagines that the earth and the air are turned with
+the tuming of that which surrounds them both, and that it compels them
+both to movement. and if one takes the birds we perceive as an example
+of the things present in the heavens (and such comparisons are naturally
+not unfamiliar)—as it is the case with the birds among the animais
+familiar to us, that if they move themselves with their own proper
+motion, the origin of that motion is in the life force lying within them,
+then an impulse arises from this life force, which next draws into the
+muscles, then from the muscles into the feet (for exainpíe) or into the
+fore-feet (that is, the wings), and here comes to an end; and these things i.e. that which is anomalous in many ways. [FJd]
+56 complete the transfer of motion from one to the other without their own
+motions having to agree with the motions of things that are between
+them, nor do their motions have to agree with the motions of the things
+surrounding them; and there is no compelling reason to accept that the
+motions of all or most birds happen through their contact with each
+other, but rather the necessary requirement holds directly that they
+indeed do not touch one another if we do not want one of them to
+hinder the other—so we may conceive things in just the same manner
+in the case of the celestial motions, and hold the view that every star
+has a life force in its essence and moves itself, and lends a motion to
+the bodies which are united to it through their nature, the source for this
+motion always being in the one located beside to it, and its propagation
+occurring to the one ajoined[ Júpiter ] thereto, just as the star itself has first
+given the motion to the epicycle, then to the eccentric circle, then to the
+circle whose center is the center of the world. At the same time,
+however, this motion that the life force imparts is different in different
+places; for, the power of the understanding in us is not the same as the
+power of the impulse itself, and this again is not the same as the power
+of the muscles, nor this the same as the power of the feet; but rather,
+they are in a certain regard different in their inclination toward the
+outside.
+Now, as for the generally turning motion of the ether, it stands in
+contact with all substances separated by it; however, it does not agree
+with the motions peculiar to those separated by it, nor do they agree
+with it in its primary turning motion. But the bodies that are allotted to
+each single one of the stars assumes, on its own account and on the
+account of the stars alone only, only a position vis-a-vis the ether at
+which it is possible to receive that motion up above, and the ether sets
+it turning because its place is in the same ether.
+As concerns the parts of these bodies, they are free and loose in
+order to shift and to rotate in one place in the totality of that body in
+manifold ways and in branchings of rnany kinds, except that their
+motion is a uniformly turning one—just as with the circle of hands
+bound in dance or the circle of people who execute military drill, in that
+each supports the other in the maneuvers and they bind their strengths
+together without their bodies coming together, so that their bodies do
+not hinder them ffom acting, nor are the bodies hindered from acting by
+them. . . . 57 Appendix il
+Transiation Conventions A ’J, 1 The foliowing words consistently translate the indicated Greek word.
+ruler, rulership: oikodespotês, oikodespoteia
+ruler: kurios
+master, mastership: despotès, despoteia
+-lord: -kratõr (as in horatokratõr, lord of boundaries)
+-steward: -dektõr (as in oikodektõr, steward of the house)
+zõidion: zõidion (See General Notes in Paulus Alexandrinus and
+Vettius Valens Book I.)
+place: topos (See General Note in Paulus Alexandrinus.)
+sect: hairesis
+boundaries: horia
+face: prosõpon
+trigon: trigõnon, i.e, triplicity.
+house: oikos
+kinship, familarity, congeniality: oikeiõsis.
+affiliation: sunoikeiõsis.
+dwelling: oikotêr
+exaltation: hupsõma
+depression: tapeinõma
+figure: schèma
+figuration: schêmatismos
+configuration: suschêmatismos
+to figure: schêmatizõ
+to configure: suschêmatizõ
+to come to the attention of (by application, etc): hupodedeiktai
+superiority: kathuperterésis
+east: heõios (also sometimes translated as ‘moming’)
+west: hesperios (also sometimes translated as ‘evening’)
+oriental: anatolikos
+orient: anatolê (sometimes in plural)
+Occidental: dutikos 58 occident: dusmos (sometimes in plural)
+to contemplate: theõreõ
+to regard: epitheõreõ
+to scrutinize: katopteuõ
+to testify or bear witness to: epimarturõ
+All four of the above words appear to refer to aspect relationships. The
+words theoreõ and katopteuõ refer to aspects in either direction, i.e.,
+into preceding and succeeding signs. However, katopteuõ seems to have
+a negative overtone suggesting that it refers particularly to diffícult
+aspects. The word epitheõreõ is limited to aspects into the succeeding
+signs but, like theoreõ, can refer to both diffícult and good aspects.
+hõroskopos: hõroskopos
+to mark the birth-hour: horoskõpeõ
+to divide the hour: Hõronomeõ See the General Note to the Anonymous.
+midheaven: mesouranema
+to culminate: mesouraneõ
+pivot: kentron
+pre-ascension: proanophora
+post-ascension: epanophora
+decline: apoklima
+rise: anatellõ
+arise: epitellõ
+set: duneõ
+hide: kruptõ
+co-rise: paranatellõ See General Note in the Anonymous.
+ascend, (of nodes): anabibazõ
+descend, (of nodes): katabibazõ
+contact: kollêsis
+appiication: sunaphê
+separation: apporoia
+circumambulation: peripatos 59 degree: moira (See General Notes in Paulus Alexandrinus and Vettius
+Valens Book I.)
+monomoiria: monomoiria (See the sections in Paulus Alexandrinus on
+monomoiria.)
+crisis: klimaktêr
+to take delight in, rejoice: chairõ
+to have dealings with: chrêmatizõ
+Such dealings evidently include any or all of the administrative or
+goveming functions (i.e., dispositions) performed by the planetary ruler.
+master, lord or steward. Possibly the planefs role as spear bearer, and
+any configuration it enters into.
+illustration: hupodeignia
+A somewhat irregular word for 'example', that has just a trace of Ssign'
+or 'token.'
+image: eikõn
+Another irregular word for example that may have the sense of a
+visualization.
+occupancy: Epochê See the General Note in the Anonymous.
+under bond: sundesmos.
+Literally, that which ties together. Evidently a more general kind of
+connection than conjunction (sunodos). See Paulus, Chapter 35.
+commencement: katarchê
+beginning: archê 60 The Golden HindPress

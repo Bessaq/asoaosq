@@ -1,0 +1,158 @@
+# Em app/routers/svg_chart_router.py
+from fastapi import APIRouter, HTTPException, Depends
+from fastapi.responses import Response
+from app.models import SVGChartRequest, NatalChartRequest, TransitRequest, HOUSE_SYSTEM_MAP
+from kerykeion import AstrologicalSubject
+from kerykeion.charts import MakeSvgChart
+from app.security import verify_api_key
+import io
+import base64
+from typing import Dict
+
+# Criar o diretório app/routers se não existir (necessário para organização)
+# Note: A estrutura de diretórios app/routers/ precisa existir
+# Este comentário é para o desenvolvedor, não para o código em si.
+
+router = APIRouter(prefix="/api/v1", tags=["svg_charts"])
+
+def _create_subject(data: NatalChartRequest | TransitRequest, default_name: str) -> AstrologicalSubject:
+    """Cria um objeto AstrologicalSubject a partir dos dados da requisição."""
+    house_system_code = HOUSE_SYSTEM_MAP.get(data.house_system, "P")
+    return AstrologicalSubject(
+        name=getattr(data, 'name', default_name) or default_name,
+        year=data.year,
+        month=data.month,
+        day=data.day,
+        hour=data.hour,
+        minute=data.minute,
+        lng=data.longitude,
+        lat=data.latitude,
+        tz_str=data.tz_str,
+        houses_system_identifier=house_system_code
+    )
+
+@router.post("/svg_chart", 
+             response_class=Response, 
+             dependencies=[Depends(verify_api_key)],
+             responses={
+                 200: {
+                     "content": {"image/svg+xml": {}},
+                     "description": "Retorna o gráfico SVG diretamente."
+                 },
+                 422: {"description": "Erro de validação nos dados de entrada."},
+                 500: {"description": "Erro interno ao gerar o gráfico."}
+             })
+async def generate_svg_chart(data: SVGChartRequest):
+    """Gera um gráfico SVG para um mapa natal, trânsito ou combinação."""
+    try:
+        natal_subject = _create_subject(data.natal_chart, "Natal Chart")
+        
+        transit_subject = None
+        if data.transit_chart and (data.chart_type == "transit" or data.chart_type == "combined"):
+            transit_subject = _create_subject(data.transit_chart, "Transit")
+        
+        # Gerar o gráfico SVG com base no tipo
+        if data.chart_type == "natal":
+            chart = MakeSvgChart(natal_subject, chart_type="Natal")
+        elif data.chart_type == "transit" and transit_subject:
+            chart = MakeSvgChart(transit_subject, chart_type="Transit")
+        elif data.chart_type == "combined" and transit_subject:
+            # Kerykeion usa 'Synastry' para gráficos combinados natal+trânsito
+            chart = MakeSvgChart(natal_subject, chart_type="Synastry", second_obj=transit_subject)
+        else:
+            # Caso onde transit_chart é necessário mas não fornecido
+            if data.chart_type in ["transit", "combined"] and not transit_subject:
+                 raise ValueError(f"Dados de trânsito ('transit_chart') são necessários para o tipo de gráfico '{data.chart_type}'.")
+            raise ValueError("Configuração de tipo de gráfico inválida ou dados ausentes.")
+
+        # Aplicar tema (Kerykeion >= 0.9.0)
+        try:
+            if hasattr(chart, 'set_theme'):
+                chart.set_theme(data.theme)
+            else:
+                # Fallback ou aviso se o método não existir
+                print("Aviso: Método set_theme não encontrado na versão atual do Kerykeion.")
+        except Exception as theme_err:
+             print(f"Aviso: Não foi possível aplicar o tema '{data.theme}': {theme_err}")
+
+        # Aplicar idioma (Kerykeion >= 0.9.0)
+        # Nota: Kerykeion pode ter suporte limitado a idiomas diretamente no SVG.
+        # A abordagem de substituição de texto pode ser necessária (ver implementacao_svg_chart.md)
+        try:
+            if hasattr(chart, 'lang') and data.language == 'pt':
+                 chart.lang = 'pt' # Tentar definir o idioma se o atributo existir
+            # Implementar substituição manual se necessário
+            # Exemplo básico (pode precisar de mais refinamento):
+            # if data.language == 'pt':
+            #     svg_content = chart.makeSVG() # Obter SVG inicial
+            #     replacements = {"Sun": "Sol", "Moon": "Lua", ...}
+            #     for en, pt in replacements.items():
+            #         svg_content = svg_content.replace(en, pt)
+            # else:
+            #     svg_content = chart.makeSVG()
+        except Exception as lang_err:
+            print(f"Aviso: Não foi possível aplicar o idioma '{data.language}': {lang_err}")
+
+        # Configurar aspectos (Kerykeion >= 0.9.0)
+        try:
+            if hasattr(chart, 'aspects_list') and not data.show_aspects:
+                 chart.aspects_list = [] # Remover aspectos se show_aspects for False
+        except Exception as aspect_err:
+            print(f"Aviso: Não foi possível configurar a exibição de aspectos: {aspect_err}")
+
+        # Gerar o SVG final
+        # O método makeSVG() geralmente aplica as configurações
+        chart.makeSVG()
+        svg_content = chart.svg # Acessar o atributo svg após makeSVG()
+
+        # Retornar o SVG como resposta
+        return Response(
+            content=svg_content,
+            media_type="image/svg+xml",
+            headers={"Content-Disposition": f"inline; filename=chart_{data.natal_chart.name or 'astrology'}.svg"} # Usar inline para visualização
+        )
+    except ValueError as ve:
+         raise HTTPException(status_code=422, detail=str(ve))
+    except Exception as e:
+        # Logar o erro real no servidor para depuração
+        print(f"Erro detalhado ao gerar SVG: {type(e).__name__}: {e}")
+        raise HTTPException(status_code=500, detail=f"Erro interno ao gerar gráfico SVG: {type(e).__name__}")
+
+@router.post("/svg_chart_base64", 
+             response_model=Dict[str, str], 
+             dependencies=[Depends(verify_api_key)],
+             summary="Gera gráfico SVG em Base64",
+             description="Gera um gráfico SVG e retorna como string base64, útil para incorporação em aplicações web.")
+async def generate_svg_chart_base64(data: SVGChartRequest):
+    """
+    Gera um gráfico SVG e retorna como string base64.
+    """
+    try:
+        # Reutilizar a lógica do endpoint anterior para obter a Response SVG
+        svg_response = await generate_svg_chart(data)
+        
+        # Verificar se a resposta foi bem-sucedida antes de acessar o body
+        if svg_response.status_code != 200:
+             # Se generate_svg_chart levantou HTTPException, ela será propagada
+             # Este check é uma segurança adicional
+             raise HTTPException(status_code=svg_response.status_code, detail="Falha ao gerar SVG base.")
+
+        svg_content_bytes = svg_response.body
+        
+        # Converter para base64
+        base64_svg = base64.b64encode(svg_content_bytes).decode("utf-8")
+        
+        # Retornar como JSON
+        return {
+            "svg_base64": base64_svg,
+            "data_uri": f"data:image/svg+xml;base64,{base64_svg}"
+        }
+    # Capturar exceções específicas ou genéricas que podem ocorrer
+    except HTTPException as http_exc:
+        # Re-levantar HTTPExceptions para manter o status code e detalhes originais
+        raise http_exc
+    except Exception as e:
+        # Logar o erro real no servidor para depuração
+        print(f"Erro detalhado ao gerar SVG base64: {type(e).__name__}: {e}")
+        raise HTTPException(status_code=500, detail=f"Erro interno ao gerar gráfico SVG em base64: {type(e).__name__}")
+

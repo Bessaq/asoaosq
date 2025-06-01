@@ -1,0 +1,1786 @@
+Antiochus
+OF ATHENS The Thesaurus Translated
+by Robert Schmidt
+Edited
+by Robert Hand Project Hindsight
+Greek Track
+Volume Gêmeos -B Antiochus of Athens The Thesaurus
+Translated by
+Robert Schmidt
+Edited by
+Robert Hand Project Hindsight
+Greek Track
+Volume Gêmeos -B The Golden Hind Press PROJECT HiNDSIGHT is entirely funded
+by the astrological community through
+subscriptions and donations. © Copyright 1993 by
+Robert Schmidt Published by The Golden Hind Press, Plutão .O. Box 002,
+Berkeley Springs, WV 25411 Table of Contents Introduction by Robert Hand... iv Introduction by Robert Schmidt .. vi
+General Note . . . :. viii
+Explanation and Statement of the Whole Astronomical Art
+From the Thesaurus of Antiochus of Athens.
+Parti.
+Prooemium.
+1. Concerning the Masculine and Feminine zõidia and the
+Places and Stars that Become Masculine and
+Feminine .
+2. Concerning the Sect of the Stars .
+3. Concerning the Mixture of the 12 Zõidia . Júpiter . Concerning zõidia which Are Rough, Dull-white3,
+Itch-causing, or Eruptive .
+5. Concerning the Licentious Zõidia .
+6. Concerning zõidia which Are Harmful to the Eyes ...
+7. Concerning Exaltations and Depressions.
+8. Concerning the Contrarieties of the Stars . Mercúrio . Concerning the Sect of the Trigonal Masters.
+10. Concerning the 36 Decans and the Stars Co-rising
+with Them and the Faces.
+11. Concerning the Non-wandering Bright Stars and the
+Powers of those that Co-rise.
+12. Concerning the Boundaries according to the Egyptians
+and according to Ptolemy, and of the Bright and
+Shadowed Degrees .
+13. Concerning the Ascensions of the 7 Zones.
+14. Concerning the Assignment of Body Parts of the
+zõidia .
+15. Concerning Triangles, Squares, [Hexagons], and
+Diameters, and Those Which Have an
+Unconnected Relationship to Each Other After
+the Pattern of Diameters.
+16. Concerning Unconnected zõidia and Those Having
+Sympathy for One Another.
+17. Concerning Sympathetic and Unsympathetic Squares 1
+1
+1 3
+5
+6
+7
+7
+7
+7 Mercúrio 10
+11
+14 15
+16
+16 17
+19
+20 18. Concerning the Twelfth Parts of the Stars. 20 19. Concerning zõidia that Hear and See One Another . 21 20. Concerning Looking Ahead. 21 21. Concerning the Hurling of Rays.
+22. Concerning Right and Left Sides. 22
+22 23. Concerning the Spear-bearing of the Stars . 23 24. Concerning Spear-bearing out of Sect. 23 25. Concerning Harmony .
+26. Concerning Position upon the Tenth Place . 24
+24 27. Concerning Affliction and Places in which No Dealings Are Made. 24 28. Concerning Places for Having Dealings .
+29. Concerning Being in its Proper Face . 25
+25 30. Concerning Participation.
+31. Concerning Counter-resolution. 26
+26 32. Concerning Reciprocai Mastership.
+33. Concerning the Ruler. 26
+27 34. Concerning Contact .
+35. Concerning Application .
+36. Concerning Intervention . 27
+27
+27 37. Concerning Surpassing .
+38. Concerning the Bond . 28
+28 39. Concerning Void-Coursing .
+40. Concerning Juxtaposition .
+41. Concerning Containment. 28
+29
+29 42. Concerning the Stars in Power.
+43. Concerning Chariots. 30
+31 44. Concerning how the Stars Rejoice .
+45. Concerning Stars under the Beams.
+46. Concerning the Years of the Centers and 31
+32 Post-ascensions and Declines .
+47. Concerning the Signification of the Lots. 32
+33 48. The Effects of These [Lots]. 34 49. Concerning the Final and Least Years.
+50. How One Should Leam the Additions of the zõidia 37 and the Hours of the Zones . 37 51. Concerning the Greatest and Final Years of the
+Recurrences of the Seven Stars. 38 52. Concerning Stars Unconnected to the Lights. 38 53. Effects of the Spear-bearers of the Sun. 39 Part Gêmeos . 40 1. Concerning the Applications of the Moon to the Seven
+Wandering Stars . 40 2. Concerning the Harmful Degrees of the Zõidia .... 44 3. Concerning Injuries, Baldness, 45 Júpiter . Licentiousness, and other Passions.
+Concerning the Star Going About and the One
+Executing . . r. 47 5. Particulars Concerning the Moon. 48 6. Concerning the Decans that Cause Licentiousness . .
+7. Concerning the Calends . 49
+50 8. Concerning the 7 Wandering Stars in Summary .... Mercúrio . Canon of the Júpiter Winds and the 24 Steps . 51
+53 Appendix — Translation Conventions Gout, Madness, . 54 Introduction by Robert Hand
+The most regrettable thing about this work is that it is incomplete. He
+was apparently one of the most important and influential of the ancient
+astrological authors and all we have of him are the fragments translated
+here, incomplete and in some cases not clearly his. To make matters
+worse, his Thesaurus is one of those rare ancient works, a genuine
+reference book, something we badly need, if we are to attain a complete
+knowledge of ancient astrology.
+We have no idea how extensive the original work was, but it
+appears to have been something on the scale of Wilson’s Dictionary of
+Astrology or DeVore’s Encyclopedia. In our own work on the ancient
+Greek material, these fragments have been most useful in defming terms
+that were unclear when used by other authors, who apparently assumed
+an easy familiarity with Greek astrological terminology on the part of
+their readers. Having no such easy familiarity, Antiochus has been
+invaluable to us, as we believe he will be to our readers. At some point
+in this project we expect to create a glossary of ancient, medieval and
+renaissance astrological terminology. For the ancient Greek part, at
+least, we will be relying heavily on the Thesaurus.
+The highlights and significant parts of this work are almost too
+numerous to mention. For example, we have aspects in mundo clearly
+described with calculation methods1. We have precise definitions of
+terms that are not clearly defined in modem astrology such as
+‘affliction2 3.’ We have extensive material on the applications of the
+Moon and their effects in electional or katarchic astrology'1. And among
+the most significant items that we have in this work, are descriptions of
+the ways in which the various types of aspect relationship are used. As
+we saw in Paulus4 the Greeks distinguished between aspects measured
+clockwise and aspects measured counterclockwise in the zodiac, and 1 See section 1.15.
+2 See section 1.27. [RH]
+3 See section Gêmeos . 1 [RH] Júpiter See the General Note in Paulus on schêma. [RH]
+IV used them differently. Of particular interest is the concept of the
+‘hurling of rays’ in which a planet aspects another planet clockwise
+(into the preceding signs). In Antiochus we see several examples of how
+this is used and when it is sigificant. In several instances the ‘hurling
+of rays’ is important in situations in which modern astrologers would
+make no distinction between aspects forward into succeeding signs or
+backwards into preceding signs. This is another one of those concepts
+in Greek astrology, like sect, which, if the teaching is correct, could
+have a powerful effect upon the practice of modern astrology. There is
+also more material on sect and what reinforces sect positively and
+negatively.
+The list could go on. However, there are two things which I believe
+that the reader should notice. The first concerns the fine distinctions that
+Antiochus and other Greek authors make between astrological
+relationships that we would be inclined to group together, the aspect
+relationships, for example. The second is that these subtle distinctions
+usually arise out of some kind of first principie. These first principies
+may not be stated, but one can see them at work, if one looks carefully.
+We hope in later works to lay these principies out clearly so that all can
+see them for what they are, the basis of the theoretical foundations of
+astrology. When our authors give us delineations of astrological
+combinations, they are not giving us data to memorize unthinkingly.
+They are giving us samples of the working out of basic principies. This
+needs to be stressed lest we acquire modem “authorities” who simply
+go about citing chapter and verse without understanding the principies
+beneath what they cite. The study of the astrology of índia suffers
+particularly from this tendency. I believe that when we understand the
+bases of Greek astrology, we will also have the key to understanding
+the bases of Indian astrology.
+Note— All of the footnotes in this book are by the translator, Robert
+Schmidt, unless initialed RH in square brackets. [RH] indicates a note
+entered by your editor. 1 See sections 1.21, Í.23, 1.27,1.36 and 1.41. [RH]
+v Introduction by Robert Schmidt
+The present translation has been made from two sets of excerpts edited
+in the Catalogus Codicum Astrologorum Graecorum. The first set was
+excerpted from Rhetorius’ large compendium (no longer extant in its
+entirety), and Rhetorius had himself made these excerpts from a
+Thesaurus (or Treasury) of Antiochus. This set of excerpts was edited
+in Vol. I, p. 149 ff. by F. Boll. Many of the entries in this collection
+were apparently taken over almost verbatim by Porphyry in his
+Introduction to the Tetrabiblos.
+The second set of excerpts (from Vol. III, p. 107 ff. also edited by
+F. Boll) is identified as being from the same Thesaurus of Antiochus.
+However, the sequence of excerpts seems to be broken with apparent
+excerpts from another works or works inserted. Most of these insertions
+are attributed to Heliodorus by the modem editor. A few of the sections
+are of doubtful authorship. We have translated those that the editor has
+attributed to Antiochus with some certainty.
+As the reader will quickly determine for himself, these excerpts
+cannot all be in the original State that Antiochus wrote them. There are
+numerous editorial remarks by Rhetorius and others right in the text,
+teferences to Paulus and other astrologers later than Antiochus, and
+locutions that betray the hand of Byzantine paraphrasers of later
+centuries.
+From this portion of Antiochus’ Thesaurus we can infer something
+of the extent and specificity of the Hellenistic technical astrological
+terminology. Almost every imaginable relationship of aspect, dignity,
+and place seems to have been defined or characterized. Had each of
+these relationships actually been studied for their astrological
+significance, or is it just the result of astrological theorizing?
+It is also becoming increasingly clear that many passages in the
+writings of Ptolemy and other astrologers are not written vaguely,
+metaphorically, or poetically, but instead employ a precise language that
+conveys very specific instructions for relating the stars and the sky.
+But these excerpts should also alert us to the fact that this technical
+terminology is not always univocal. Like Book Delta of Aristotle’s
+Meíaphysics, this Thesaurus could have been subtitled “Things said in
+many ways.” Consult the entry about ‘spear-bearing,’ where there are
+four, quite different, technical meanings associated with this word. And
+it is clear that in other astrological texts, we will often have to select the vi proper meaning of these terms through context, because, consistent with
+general Greek practice, the writers often left this task to the reader.
+This tension between the concrete and the equivocai is also an issue
+in the delineation material that we have been translating. On the one
+hand, the Greek manner of writing is so concrete that instead of
+referring collectively to the native’s “licentiousness,” it will say that he
+is prone to “licentiousnesses,” that is, individual licentious acts. It seems
+so natural for us to translate these abstract plural nouns by singulars,
+and this has often been done in the present translation.
+Yet this usage may be more than just a mannerism on the part of
+the Greeks. It may have to do with their whole way of aiming their
+minds, and regarding the world. For, consider that the most important
+Greek philosophical term ‘ousia,' which is often translated as ‘Being,’
+is just such an abstract noun (formed from ‘ousa,’ the feminine
+participle of the verb to be). Literally, it should be translated as
+‘beingness.’ But each and every individual sensible thing is a
+‘beingness’ in the Aristotelian philosophy. So the whole world is
+populated by many ‘beingnesses.’ The mere fact that this language
+sounds so strange to us is an indication that we do not think the same
+way. Are we missing something by being so “modera” in our translation
+of ‘licentiousness,’ and other such words?
+In the lists of key words and phrases in the delineation material we
+run into another version of this problem. It is often impossible to tell if
+something concrete is intended. When the word ‘euphuês,’ is used,
+which fundamentally means ‘well grown,’ it may often mean either ‘of
+good mental disposition’ or ‘of good figure.’ Or when the word
+‘apodêmia’ is used, which fundamentally means ‘being away from
+home,’ it might have the sense of ‘traveling abroad,’ or of ‘being in
+exile.’ The astrologer does not specify. So the question is: Does he have
+one of these concrete meanings in mind? Or is he referring to some
+general character? Or does he intend some symbolic astrological
+structure? All of the above? None of the above?
+What little we know about Antiochus of Athens comes from references
+to him by other authors. We have no direct Information1. From the 1 This account is derived largely from Frederick H. Cramer, Astrology in
+Roman Law and Politics, American Philosophical Society, Philadelphia, 1954,
+pp. 187, 188. [RH] authors that he cites and the ones that cite him, Antiochus Of Athens
+lived in the second half of the Second Century C.E., after Ptolemy,
+before Antigonus of Nicaea.
+It is clear ffom the references to him by later astrologers that
+Antiochus was among the most influential of the ancient astrologers.
+This resulted in his being quoted and excerpted by several later authors.
+Among these were the Anonymous of 379 (see our edition of this
+work), Hephaestion of Thebes, the “Palchus” fragments1, Firmicus
+Maternus2, Porphyry and Rhetorius. Otherwise we would have nothing
+of his writings at all. Rhetorius (c. 500 C.E.) copied the most extensive
+sections of Antiochus and most of the material transiated in this volume
+comes ffom Rhetorius3. General Note
+In general this translation uses the same technical vocabulary as the
+Paulus and the Anonymous. For example, for one planet “to look
+ahead” at another is a precise technical term. See the section on
+Translation Conventions in this volume.
+To the best of our knowledge, this is the first translation of the
+fragments of the Thesaurus of Antiochus of Athens into any modem
+language. 1 As of Crameris writing it was believed that there was a highly influential
+author of about 500 C.E. named Palchus. Subsequent scholarship has revealed
+that there was no such astrologer. The fragments attributed to him are either
+miscellaneous fragments of Greek writers, translated from Greek to Arabic back
+to Byzantine Greek, or works originally written in Arabic and translated into
+Byzantine Greek. The name Palchus comes from the Iranian city Balkhi from
+which carne, Abu Ma‘shar, one of the most important of the Arab Era
+astrologers. The fragments attributed to “Palchus” apparently carne from Balkhi.
+[RH1
+2 Latin author, fl. 330-354 C.E. wrote the Matheseos libri VIU. This work
+has been translated by Jean Rhys Bram, Ancient Astrology: Theory and
+Practice, Noyes Press, Park Ridge N.J., 1975. [RH] 3 This brief biographical segment was written by the editor. [RH] viu Explanation and Statement of the Whole Astronomical
+Art
+From the Thesaurus of Antiochus of Athens
+Part I1
+Prooemium
+Why did we start the twelve zõidia, which are circular in forni, from
+Aries, and not instead from Câncer where the cosmic Hõroskopos took
+place; nor from Leo as from the solar zõidionl Why was Aries, the
+place of Ares, honored above the two lights? We say, then, that since
+the ancients made the twelve zõidia corporeal in accordance with the
+parts of man, beginning from Aries, calling it the head, Taurus the neck
+and so forth in succession up to the feet, they began from Aries, in
+order to begin from the more dominant part that signifies the brain and
+all that appertains to the head. And for another reason: because they
+formed the ages of man in relation to the tropics by starting from the
+spring zõidion, that is, from Aries. For, the spring signifies the suckling,
+the summer youth, the fali middle age, and the winter old age.
+These are Júpiter zõidia, then, and they are called tropical, and there are Júpiter solid ones, and Júpiter bi-corporeal ones. Tropical zõidia are so called from
+the fact that when the Sun comes to be in them, the turnings2 of the air
+undergo a change. For example, when it comes to be in the tropical
+zõidion Aries, it ushers in the spring and equipartite3 turning, and from
+then on the air becomes [finer], and the day lengthens from the equal
+hours. When it comes to be in the solid and spring zõidion Taurus, it 1 The numbering of the sections in Part I is directly from the original text.
+The numbering in Part 11 has been provided for reference purposes by your
+editor. [RH]
+2 tropê. The word ‘tropical’ comes is directly related to this word, which
+simply means ‘turning.’ In this section it is used in four different ways. There
+is the ‘turning’ of the Sun in its course to go southward or northward. There is
+the ‘turning’ of the balance of day and night. There is the physical ‘turning’ of
+the air mass. And there is the ‘turning’ of the temperature, where it changes
+“direction” and begins to become hotter or colder. These are all related to each
+other in the text.
+3 isemermos. This refers to the equal night and day of the equinoctial times. makes the air calmer and unchangeable, while it increases the day even
+more. When it comes to be in the bicorporeal zõidion Gemini, it makes
+the air ambiguous, and makes a commixture of in between spring and
+summer, while it increases the day even more. In this tri-zõidion, then,
+the spring, which is air, is completed.
+Again, when the Sun comes to be in the tropical zõidion Câncer, it
+ushers in the summer tuming. The air starts to become warmer, and
+from then on it subtracts from the magnitude of the day and adds to the
+magnitude of the night. Again, when it comes to be in the solid and
+summer zõidion Leo, it makes the air calmer and unchangeable, still
+subtracting from the magnitude of the day and adding to the magnitude
+of the night. Again, when it comes to be in the bi-corporeal zõidion
+Virgo, it makes the air ambiguous and makes a commixture in between
+summer and fali, while it fiirther increases the night and shortens the
+day. In this tri -zõidion, then, the summer, which is fire, is fulfllled.
+Again, when the Sun comes to be in the tropical zõidion Libra, it
+ushers in the fali and equipartite tuming, and from then on the air is
+tumed to the colder. The night now lengthens from equal hours. Again,
+when it comes to be in the solid zõidion Scorpio, it makes the air
+calmer and unchangeable, still subtracting from the magnitude of the
+day and adding to the magnitude of the night. Again, when it comes to
+be in the bi-corporeal zõidion Sagittarius, it makes the air ambiguous
+and makes a commixture in between fali and winter. And it further
+subtracts from the magnitude of the day, and adds to the magnitude of
+the night. In this tri -zõidion, then, the fali, which is earth, is fulfilled.
+Again, when the Sun comes to be in the tropical zõidion Capricorn,
+it makes the winter tuming. And from then on the air is tumed to the
+more wintry; and the day starts to increase, while the night starts to
+leave off. Again, when it comes to be in the solid and wintry zõidion
+Aquarius, it makes the air of winter calmer and unchangeable, by
+subtracting from the magnitude of the night having added to the
+magnitude of the day. Again, when it comes to be in the bi-corporeal Zõidion Pisces, it makes the air ambiguous, and makes a commixture in
+between winter and spring, by subtracting from the magnitude of the
+night having added to the magnitude of the day, to equipartite hours. In
+this tri -zõidion, the wintry air, which is water, is completed. 2 1. Concerning the Masculine and Feminine zõidia and the Places
+and Stars that Become Masculine and Feminine
+There are six masculine zõidia: Aries, Gemini, Leo, Libra, Sagittarius,
+Aquarius. And there are six feminine zõidia: Taurus, Câncer, Virgo,
+Scorpio, Capricom, Pisces.
+The places from the Midheaven to the Hõroskopos are masculine,
+while the places from the Hõroskopos to the subterraneous pivot point
+are feminine. Again, the places from the subterraneous pivot point to
+the setting pivot point are masculine, while the places from the setting
+pivot point to the Midheaven are feminine. Of the Júpiter quadrants, then,
+two become masculine, and two become feminine.
+Again, the stars the Sun, Kronos, Zeus, Ares, and Hermes are
+masculine, while the Moon and Aphrodite are feminine. These stars
+sometimes become masculine, other times feminine. They become
+masculine when they happen to be morning risers in relation to the Sun;
+that is, when they happen to be in the zõidia preceding the Sun at least
+15 degrees away from it. But they become feminine when they happen
+to be evening [risers] in relation to the Sun, being at least 15 degrees
+away from it. Again, the stars which happen to be in masculine zõidia
+and are northem become masculine. But they become feminine when
+they are in feminine zõidia and Southern. Again, the stars which happen
+to be in masculine quadrants (from the Midheaven to the Hõroskopos,
+and from the subterraneous pivot point to the setting one) become
+masculine. But those in the feminine quadrants (that is, from the
+Hõroskopos to the subterraneous pivot point, and from the setting pivot
+point to the Midheaven) become feminine1. 1 If one were to take preceding paragraphs literally, they would appear to
+bc contradictory. Planets seem to be inherently of one sex or another, but yet
+change sex when they are placed differently. There is a simple and probable
+solution. Ail planets are inherently masculine or feminine. According to most
+other writers Mercury changes its sex according to placement, but these same
+writers make Mercury a triplicity ruier in a masculine (and diumal) triplicity.
+Antiochus makes Mercury masculine. Mercury would seem to be very close to
+neutral with a slight tendency toward the masculine.
+However, the inherent sexuality of each planet can be reinforced or,
+alternatively, overcome by the sexual polarity of the placement. The most
+masculine energy would be signifícd by a masculine planet in a masculine
+3 The stars which become masculine in the inherently masculine1
+zõidia or the inherently masculine quadrants contribute to masculine
+births. For, they make those have the masculine nature in themselves
+wilful and daring. But they make women undignified, shameless, daring,
+insubordinate, masculine in relation to intercourse, or masturbators. The
+stars which are feminine by their phases, zõidia, and quadrants, make
+men soft, fainthearted, cowardly, fearful of everybody, effeminate and
+entirely castrated, or those who do the work of women. But it makes
+women with downcast eyes, modest, considerate, dignified, obedient to
+men, and those who perfectly learn the customs of women.
+And we have said these things conceming the stars which rise in
+the moming or the evening. For, those of the stars which have come to
+be setting or retrograde2 are inactive and weaker and irregular in
+relation to what they do, except for those stars which are in the heart.
+And those stars are said to be in the heart3 which travei in
+company4 with the Sun, either on the same degree, or beside it. None
+of the ancients was aware of this phase, but we record it after having
+tested it, since Ptolemy calls this phase “synodic,” though he has not quadrant in a masculine sign, the most feminine energy by a feminine planet in
+a feminine quadrant in a feminine sign. A masculine or feminine planet situated
+in places of opposite sexual polarity can be changed into that opposite poJarity,
+although one might expect symbolic tension to result. [RH]
+1 êrrenõmenos. This is the perfect participial form of the present verb form
+we have been translating as ‘become masculine.’ The perfect participle in Greek
+does not refer to time so much as the completion of an action. We might say
+here that the zõidia or quadrants have so perfectly become masculine that they
+are masculine.
+Accordingly, it would seem to indicate here that the cited zõidia and
+quadrants are inherently and immutably masculine or feminine, while the
+planets can assume a masculine or feminine cast.
+2 aphairetai. Presumably these means subtractive here, as in subtractive in
+numbers.
+3 This is approximately the same as ‘cazimi.5 [RH] Júpiter sunodeuõ. That is, are conjunct it. The term ‘synodic’ derives from this
+word. Júpiter spoken of its activity. 2. Concerning the Sect of the Stars
+For diumal births, the sect leaders are the Sun, Kronos, Zeus, for
+noctumal births, the Moon, Aphrodite, Ares. For, Hermes becomes
+common in relation to the sects. And the Sun, Zeus, and Aphrodite are
+held to be benefics; while Kronos and Ares are held to be malefics. For
+as common, Hermes is good with the good planets, and becomes
+malefic with the malefics. But concerning the benefics and malefics,
+they said that they are “so-held1,” since when the malefics are well
+situated in phase, sect, and place for a certain birth, they often magnify
+the fortunes; while if the benefics are badly situated, they hinder them.
+For Dorotheus spoke on this heading, saying: For, three-sided2
+evil-workers are dulled; and a star is not yet base when it should be
+found in a good place; and a place is not bad when it bids welcome to
+a good one3. 1 That is, it is partly a matter of convention to divide the planets into
+benefic and malefic. It is not an inherent quality. [Additional by RH} This
+seems to be an early recognition of an idea that is considered quite modem, that
+no planet is inherently benefic or malefic, although it is not clear that the will
+of the individual has anything to do with it. Iamblichus in his work, On the
+Mysteries, addresses this same issue in a discussion of “how some of the Gods
+are beneficent, but other malefic.” Iamblichus asserts that all divine powers
+(including planetary) are good in themselves and descend to us “with invariable
+sameness for the salvation of the uni verse. . .” But this world “participates of
+them [i.e., divine powers} according to its own proper nature, and not according
+to their [i.e., the gods’] power.” And further on “Hence they are absurd... who
+ascribe depravity to the celestial bodies, because their participants [italics mine]
+sometimes produce evils.” Iamblichus, On the Mysteries, trans. Thomas Taylor,
+Wizards Press: San Diego, 1984, pp. 68-69.
+2 Aspect or the three dignities?
+3 This quote from Dorotheus was originally in verse. 5 3. Conceming the Mixture1 of the 12 Zoidia
+We have found Aries to be fiery; Taurus, earthy; Gemini, airy; Câncer,
+watery. Again, we have found Leo to be fiery; Virgo, earthy; Libra,
+airy; Scorpio, watery. And again, Sagittarius, fiery; Capricorn, earthy;
+Aquarius, airy; Pisces, watery. So that the trigon Aries, Leo, Sagittarius
+is fiery; the trigon of Taurus, Virgo, Capricorn earthy; the trigon of
+Gemini, Libra, Aquarius airy; the trigon of Câncer, Scorpio, Pisces
+watery.
+This was not said aimlessly by the ancients. For, since everything
+material is composed from these Júpiter elements or bodies, it is necessary
+that man, as participating in the same nature, also share in these
+elements. And they assigned the four pivot points of the birth in
+accordance with the four mixtures2 of these Júpiter elements3, thusly: If
+Aries should mark the birth-hour, this is a fiery zõidion', and if
+Capricorn should culminate, this is an earthy zõidion', and if Libra
+should set, it is an airy zõidion; and if Câncer should happen to be in
+the subterraneous pivot, the mixture will be best. Again, if you should
+seek the post-ascensions and the declines of the pivots, you will find
+them to lie analogously in accordance with the four elements. 1 krasis. A general word for combination or blend. It is also used for the
+mixture of different natures into one, as in the correlation of the fixed stars to
+a mixture of pairs of planets.
+2 The word ‘krasis’ or ‘mixture’ is used in Aristotelian tradition to refer to
+the mixture of primary qualities in the elements, hot and dry, cold and wet, etc.
+[RH]
+3 This represents four different ways that the elements can be arranged on
+the four pivot points, assuming, of course, that one is using either equal or signas-house houses (topoi). 6 Júpiter . Concerning zõidia which Are Rough1, Dull-white3,
+Itch-eausing, or Eruptive
+When the Moon is afflicted in Aries, Câncer, Scorpio, Capricorn, or
+Pisces, it makes itches, scaly or dull-white leprosy, or skin-eruptions.
+This is not only true for the Moon, but also when the Lot of Fortune or
+the Lot of Divinity happens to be in these zõidia, being contemplated
+only by malefics. And they also make those who are bom humpbacked. 5. Concerning the Licentious Zõidia
+Licentious and malefic are Aries, Taurus, Capricorn, Pisces, and Libra
+too in part. You will fmd out more detail concerning these in what lies
+ahead. 6. Concerning zõidia which Are Harmful to the Eyes
+zõidia which are harmful to the eyes are Taurus by means of the
+Pleiades, Câncer by means of the nebula, Scorpio by means of the sting,
+Sagittarius by means of the point, Capricorn by means of the spike,
+Aquarius by means of the pitcher, and Leo in part. And you will find
+out more detail concerning these in what lies ahead. 7. Concerning Exaltations and Depressions
+Having spoken, then, accordingly of the entire physical commixture of
+the zõidia, we will come to the causes of the exaltations, depressions,
+and contrarieties of the stars. Why is it that where the Sun is exalted,
+there Kronos is depressed; and where Kronos is exalted, there the Sun 1 Rough (leprõdês) and dull-white (alphõdês) are general adjectives derived
+from the appearance of leprosy, but which could be applied to the zõidia
+themselves. A doctrine of correspondence is evidently behind this; yet the
+context is also causative. 7 is depressed? We say that it is because the Sun is the storehouse1 of
+fire and light, and is the master of the day; while conversely, Kronos,
+signifying the darkness, is cold2. Then, at the place where the light of
+day is exalted, there the darkness and the night is depressed, and that
+which is cold is warmed. But at the place where the darkness is exalted,
+there the light is depressed and the day becomes shorter.
+And again, why is it that at the place where Zeus is exalted, there
+Ares is depressed; and where Ares is exalted, there Zeus is depressed?
+We say that it is because Zeus is the overseer3 of the life-breath and
+abundance, while Ares is the overseer of death4. Then, at the place
+where the life-breath increases, there the bringer of death is depressed;
+and where death increases, there life is depressed.
+And again, why is it that at the place where Aphrodite is exalted,
+there Hermes is depressed; and where Hermes is exalted, there
+Aphrodite is depressed? We say that it is because Hermes is the master
+of arguments5, while Aphrodite is the overseer of desire and intercourse. Then, at the place where the intellectual6 increases, there
+the desire and the pleasurable in intercourse is depressed. And where
+the appetitive and pleasurable is exalted, there the intellectual is
+depressed.
+And again, why is it that at the place where the Moon is exalted,
+there nothing is depressed;, and where the Moon is depressed, there 1 tameion. Guardianship metaphor.
+2 We have an apparent contradiction here. If Satum is diumal then why
+does it signify darkness? According to Ptolemy in the Tetrabiblos Book 1.7
+(Robbins trans.) Satum is diumal precisely because of this. Satum needs the
+heat and light of day in order to overcome its inherently malefic, cold and dry
+qualities. [RH]
+3 ephoros. More guardianship. Júpiter The Mesopotamian deity which was originally assigned to the planet Mars
+was Nergal, the god of war and death. [RHj
+5 logoi.
+6 to logikon. 8 nothing is exalted? We say that it is because the Moon is the fortune of
+all. And he whom fortune exalts, no one may depress; while he whom
+fortune depresses, no one is able to be exalt1. 8. Concerning the Contrarieties2 of the Stars
+Why is it that the houses of the Sun and the Moon are contrary to the
+houses of Kronos? We say that it is because the Sun and the Moon are
+the lights of the cosmos, while Kronos is the master of darkness.
+Whence light is always contrary to darkness, and darkness to light.
+Again, why is it that the houses of Hermes are contrary to the houses
+of Zeus, and the houses of Zeus to the houses of Hermes? We say that
+it is because Zeus is the overseer of possessions and abundance, while
+Hermes is always the master of arguments. The intellectual faculty,
+then, is always contrary to, and looks down upon, the desire for
+possessions, and abundance is contrary to what is intellectual. Then
+again, why is it that the houses of Ares are contrary to the houses of
+Aphrodite? We say that it is because Aphrodite is the overseer of every
+desire and delight and pleasure, while Ares is the overseer of every fear
+and war and passion3. The delightful and appetitive and pleasurable,
+then, is contrary to the terrible and passionate and polemicai4. 1 It is apparent that the planets are opposed in exaltation and depression in
+the manner of contrary qualities, like hot and cold, wet and dry, which in the
+sensible world are constantly tuming into one another. More of the one is less
+of the other. For example, hotter is tantamount to less cold, and vice versa.
+These represented the principie of the Limitless in Plato’s Philebus. But
+compare the kind of opposition in the next section.
+2 enantiõma. The word simply means contrary. From context, the modem
+astrological equivalem is evidently “detriment.” This concept was not used in
+Paulus, nor in Ptolemy as far as we can tell.
+3 thumos. Júpiter We have used the term “contrariety” here to pick up an Aristotelian
+subtlety. For him, contrariety is complete difference, unlike the contrary
+qualities referred to in the preccding section, which can tum into one another.
+Notice that in his analysis here Antiochus uses dark and light to contrast Kronos Mercúrio But that this is so, it is also necessary to judge thus in accordance
+with the truth: That the natures of the stars, in respect to their
+configurations, are in every heading. For, why does Ares together with
+Aphrodite produces adultery? It is not clear that every adultery is
+constituted by pleasure and fear, that is, from Ares and Aphrodite. For
+again, see Aphrodite consorting with Kronos, how it makes those so
+born without seed, unfortunate in children, sordid, or unmarried, by
+mixing the natures of both. You will fmd the cause as follows: since
+Kronos happens to be cold and dry in nature, and, even though one of
+those mentioned earlier is cold and dry, that which is pleasurable and
+fertile is breath1, how will he become one who bears children or will
+have an unsordid marriage through what is elderly or sordid in the
+nature of the star2? Mercúrio . Concerning the Sect of the Trigonal Masters3
+Of each trigonal side, then,—I mean by a trigonal side that which is
+counted through 5 zõidia; for example, from Aries to Leo, and ffom
+Leo to Sagittarius, and from Sagittarius to Aries there are 5 zõidia, and with the Sun, whereas above he used hot and cold. Since contrarieties cannot
+tum into each other, their opposition creates a certain kind of tensing and
+relaxing, which in the Platonic tradition gave birth to entirely new beings, not
+merely different blends of qualities.
+That the two kinds of opposites, exaltation and depression, rulership and
+contrariety, should have been analyzed in these terms not only helps to get a
+clearer idea of how these two sets of dignities (and their opposites) were
+understood and distinguished by the Greek astrologers, but represents a quite
+high degree of philosophical sophistication.
+1 Presumably, the breath, being air, is here hot and wet, contrary to the
+qualities of cold and dry. These seem to take for granted the Aristotelian
+elements and not the Stoic elements. [Additional by RH] Of course this assumes
+that breath actually is a reference to the element air.
+2 The entire analysis in this second paragraph only makes sense if we make
+the distinctions mentioned in page Mercúrio , note Júpiter above.
+3 i.e., triplicity rulerships. [RH] 10 they produce a trigonal side or line of 120 degrees in the zodiacal
+circle. For three times one hundred twenty results in 360 degrees, which
+are the number of degrees that the whole zodiacal circle has.—of this
+trigonal side, then, the Sun has mastery by day; Zeus has mastery by
+night; and Kronos is the third and common master of these. Again,
+Aphrodite has mastery over Taurus, Virgo, and Capricorn by day; the
+Moon has mastery over them by night; and Ares is the third and
+common master. Again, Kronos has mastery over Gemini, Libra, and
+Aquarius by day; Hermes has mastery over them by night; and Zeus is
+the third and common master. Again, Aphrodite has mastery over
+Câncer, Scorpio, and Pisces by day; Ares has mastery over them by
+night; and the Moon is the third and common master. And you will find
+the uses and the effects of these trigonal masters in the sections ahead. 10. Concerning the 36 Decans and the Stars Co-rising with Them
+and the Faces
+Although the zodiacal circle had been cut into 12 sections, that is, into
+12 zõidia, the ancients set down another 36 sections, which they called
+decans. And they apportioned these out by zõidion so as to rule over ten
+degrees," whence they are called decans. The aforesaid stars which
+co-rise in the zodiacal circle underlay1 these decans, and they have the
+faces of the 7 stars, which faces have a sympathy for the stars lying
+upon them2.
+For example, suppose that the Sun is at ten degrees in the first 1 hupokeimai. In a philosophical context this would mean to underlie
+something as a substratum in which something else may inhere. And we have
+translated it with that sense. But it might mean less specifically that the
+co-rising stars were simply assigned or allocated to these decans.
+2 Whatever the exact sense of note 1 above, this passage seems to imply
+that it is the extra-zodiacal stars co-rising with the regions of the ecliptic that
+constitute the decans themselves. They might be thought of as an entity
+analogous to a zõidion. But whereas the closest relationship of a planet to a
+zõidion is one of rulership or exaltation, the closest relationship of a planet to
+a decan is one of “countenance,” or face. This might also lead us to speculate
+on an extra-zodiacal source for the boundaries.
+11 decan of Aries, in the face of Ares. Since, then, we have found that the
+Sun signifies the matters of the soul, you will fmd the soul of this
+manly spirit to be irascible, delighting in battle, arms-loving, and the
+like. But again, suppose that the Sun is at 20 degrees in the second
+decan of Aries, in the face of the Sun; it signifies that such a manly
+spirit is bright in his soul, a lo ver of fame and of honor and not at all
+delighting in battle. But again, suppose that the Sun is at 30 degrees in
+the third decan of Aries, in the face of Aphrodite; it signifies that this
+manly spirit is feminine-souled, of the female type, shameful, lecherous,
+and the like. See how in one zõidion three differentia have been
+exemplified for the matters of the soul alone1.
+[In the original there is inserted at this point a list by Teucron the
+Babylonian on the signs and decans.]
+Teucron the Babylonian has set out these things quite well. We will
+make our comments by degree as folio ws.
+One must know that each single zõidion has three decans, while
+each of the decans has been allotted ten degrees. The Sun spends 24
+hours in each degree, or one night and day.
+In the lst decan of Aries, it makes dangers, treacheries, fluxions.
+In the 2nd decan, it makes those who are wealthy and held in esteem,
+except that they are liable to die suddenly. In the 3rd decan, it makes
+disease, tumults, misery in youth, but good cheer in old age.
+In the lst decan of Taurus, it makes the native wealthy from
+someone else and esteemed. In the 2nd decan it makes youth full of
+hardship and those who quickly escape dangers. In the 3rd decan, it
+makes soldiers, those who procure with ease, who are steadfast, who are
+organizers, and long-lived.
+He who has married in the lst decan of Gemini will not be
+fortunate, will not be devoted, and will be grieved about children. In the
+2nd decan, he will not have a devoted marriage, but he will [gives signs
+of the endurance of armies]. In the 3rd decan, it makes those who are
+wealthy, held in esteem, leaders, except that they are liable to die
+suddenly.
+In the lst decan of Câncer, it makes those who take part in public 1 The first two paragraphs in this section are found almost verbatim in
+Porphyry’s introduction to the Tetrabiblos. 12 affairs, and they will be grieved about children, those who are deeply
+grieved in youth, but who become most fortunate in old age. He who
+has married in the 2nd decan of Câncer will [have a rich dowry] and
+will be benefitted by other peoples things, and he will be aggrieved by
+his wife. In the 3rd decan, the native will be smooth-tongued and deeply
+grieved in youth, but will be gladdened in old age.
+In the Ist decan of Leo, it will make those who lead and are
+wealthy and fmd the way to their goal, and who bury their wife first.
+In the 2nd and 3rd decan it makes meanness and produces hardship and
+[destroys] him who li ves abroad.
+In the 1 st decan of Virgo, it makes dangers, and those who are born
+will quickly become orphans. In the 2nd and 3rd decans, it makes good
+fortune and they are made rich by female connections; except that they
+are aggrieved in their parents and children.
+He who is born in the first decan of Libra will be in danger in
+youth, but later he will gain by reason of [mines] and from discoveries.
+In the 2nd decan he will rich in quadrupeds, except that he will be
+liable to die suddenly. In the 3rd decan, he will undergo diseases and
+tumult in youth, but he will be gladdened in old age in many ways.
+In the lst decan of Scorpio, he will be helped by windfalls
+[hermaikos], and an heir of notable things is brought to light. In the 2nd
+decan, he will undergo dangers in youth. He who is bom in the 3rd
+decan will be a soldier, will live many years, will bury his wife first,
+and will be wealthy in his old age.
+He who is born in the lst decan of Sagittarius will not [take pains]
+in a wife, and will be grieved about children. In the 2nd decan, his life
+will be lived free from pain, except that he will end it with strangers.
+In the 3rd decan, it makes those who are rich and held in esteem, and
+he will receive an inheritance from a woman.
+In the lst decan of Capricorn, it makes those who take part in
+public affairs, and they will be grieved about children, and they will be
+in danger in youth, and will be fortunate in old age. In the 2nd decan,
+it makes those who are useful and those who are helped by the things
+of others. In the 3rd decan, he will become acute, glib-tongued, one
+who wastes his patrimony; he will be in misery in his youth, but he will
+be gladdened in his old age.
+In the lst decan of Aquarius, he will be good and changeable and
+accommodating to women. In the 2nd and 3rd decans, it makes those
+who are base, and depraved in youth—corrupters of things, involved in 13 matter and water1.
+He who is born in the lst decan of Pisces will be worthless,
+involved in water, lying, except that he will be liable to die a sudden
+death. In the 2nd and 3rd decans it makes those who are fortunate and
+those who are helped by the things of others, and those who are
+fortunate in marriage and will be grieved in their children. 11. Concerning the Non-wandering Bright Stars and the Powers
+of those that Co-rise.
+The type of the zõidia and of the co-rising stars has been constituted
+from the synthesis of the stars. There are among them, then, bright stars
+and faint stars and stars which are gloomier2. The ancients who
+observed these said that the brightest of these stars were of the first
+magnitude, the fainter stars of the second magnitude, while the gloomier
+stars were of the third magnitude, and following in this order they found
+them up to the sixth magnitude. They also said that these stars shared
+in the mixture of the planets, as we said earlier, and that and some of
+them happened to be in the zodiacal circle, some of them farther north
+than the zodiac, some of them farther south. Then, observing the
+brightest of these stars, they found 30 bright ones3 which happened to
+be of the first and second magnitudes. If, then, these should be found
+to have the same degree as the Hõroskopos or the Midheaven, or they
+should form a figure with the Sun or the Moon or with some other star,
+they will alter the birth in accordance with the mixture which appertains
+to them. For example, if the mixture is benefic, the matters of fortune 1 Matter and water appear to be comipting influences. This does not appear
+to refer to an involvement with these as substances as such. See also the Pisces
+decans. [RH]
+2 stugnoteros.
+3 These 30 bright stars are the subjects of the Treatise on the Bright Fixed
+Stars by the Anonymous of 379 and Ptolemy’s Phases, although the lists in the
+two works differ slightly. The first of these two has been published and relcased
+by Project Hindsight along with this treatise. Ptolemy’s Phases will be
+translated and issued shortly by Project Hindsight. [RH] 14 will be better, but if it is malefic, worse1. 12. Concerning the Boundaries according to the Egyptians and
+according to Ptolemy, and of the Bright and Shadowed Degrees
+Again, the ancients, dividing each zõidion into half2 regions and places,
+gave them the name ‘boundaries,’ but not in accordance with equal
+numbers of degrees, as we found for the decans, but with a different
+number according to another reason which they adopted in the perfect
+periods of the planets. (I mean the periods which you will find in what
+follows3)
+The degrees of the boundaries are themselves lying by zõidion.
+Some of them have been found for Zeus, others for Aphrodite, others
+for Kronos, and others for the remaining planets. Whenever, then, one
+of the stars should be found in the house of a benefic and in the
+boundaries of a benefic, [since it has a relationship to the birth], it has
+a beneficent effect on the fate. And if it should be found in the house
+of a benefic, but in the boundaries of a malefic, it lessens the good
+effect on the fate. But if it should happen to be in the house of a
+malefic, and in the boundaries of a malefic, it afflicts and dims the fate.
+The action of the boundaries, then, modifies the effect description4 of
+the stars, just as has also been said for the faces of the decans.
+Ptolemy, then, did not agree with the boundaries of the Egyptians.
+For this reason, I was compelled to make mention of them. But the
+boundaries of the Egyptians are only of help in their own effect-descriptions5.
+The bright, shadowy, and faint degrees do not have an insignificant 1 This entire section is found almost verbatim in Porphyry’s Introduction
+to the Tetrahiblos.
+2 hêmisus. The significance of this word here is not clear. [RH] 3 See section 1.49. Júpiter apotelesmatographia. -ourgia. Cf. with Paulus. Does not indicate chart.
+5 apotelesmata.
+15 effect, if indeed the stars are found to be in the bright degrees. For this
+reason, I was also compelled to record these in the upcoming
+[sections]1. 13. Concerning the Ascensions of the 7 Zones.
+Ptolemy recorded the ascensions of the 7 zones after making a precise
+investigation to the minute, and we have need of these in every
+genethliacal procedure just as he recorded in his Handy Canon2.
+The Egyptians and Valens recorded the 7 zones more roughly, but
+we [actually] have need of these in the co-risings of the zõidia and the
+stars for each zone, just as Valens said in his [apotelesmatics]. 14. Concerning the Assignment of Body Parts of the zoidia
+He has recorded the part-assignments3 of man, those parts over which
+each of the zõidia and each of the planets has authority, through our
+knowing the injuries and sufferings which arise for man from the Lot
+of Fortune, the Lot of Divinity, the Lot of Injury, and their rulers. For
+it is in them that the injuries and sufferings are recognized for the most
+part.
+Accordingly then, having said all the aforesaid, and after giving a
+clear explanation of them, I am recording [below] the manifest power
+of the figurations. 1 This entire section is found almost verbatim in Porphyry’s Introduction
+to the Tetrabiblos.
+2 Usually refered to as the Handy Tables. [RH] 3 melothesia.
+16 15. Concerning Trianglcs, Squares, [Hexagons], and Diameters,
+and Those Which Have an Unconnected Relationship to Each
+Other After the Pattern of Diameters.
+The differentia of the triangular, square, and hexagonal configurations
+are established. And the first and greater differentia [of allj is that being
+taken by degrees1 in accordance with the Handy Canon of Ptolemy, as
+we have shown in what follows. The second is the temporal2
+differentia, which Antigonus and Phnaes the Egyptian and certain others
+have recorded, and they named an isosceles triangle of the ascensions
+of the zõidia. The third is the zodiacal or common and universal
+differentia, in relation to which we all are in doubt3. For, many times,
+when the Sun is in Leo about the lst degree, while Zeus is in
+Sagittarius about the 5th degree, the triangle Zeus to the Sun was
+[propounded], the idle ones4 were figurated with one another. For, they
+do not stand platically5 within 120 degrees, nor have they occurred
+temporally within 120 degrees, not even ascensionally within 120 ' moirikos. This must be the partile, or exact geometrical figuration, i.e.,
+aspect. The aspect is being taken by degrees.
+2 This seems to be the ancestor of the modem mundane aspect, where the
+aspect is measured along the equator in right and obliqúe ascension, instead of
+along the ecliptic in celestial longitude.
+3 He appears to be addressing the question of the use of aspects by sign
+when they are beyond partile. [RH] Júpiter argoi. ‘Idle ones’ refer to planets that are not related by figure.
+5 platikõs. Literally, broadly. This is evidently the zodiacal (zõidiakõs)
+figuration, i.e., aspect, by sign. Whereas the modem platic aspect (after Lilly
+and others) seems virtually identical to a geometrical aspect with orb, the
+ancient platic aspect seems to derive from the aspect between the zõidia
+themselves, now transferred to the planets. For example, any two planets within
+zõidia which are in trine, are themselves in platic or zodiacal trine. Does the
+teaching concerning application and separation apply to platic aspects, or to
+partile aspects, in which latter case it would be tantamount to the use of orbs?
+17 degrees*.
+The triangular side, then, is always called zodiacal2, which again
+had the activity3, since neither the partile nor the temporal kept it
+together. Since, then we ha ve recorded the partile triangular, square, and
+hexagonal side in what follows, through the Canon of Ptolemy, and we
+just now exemplified the zodiacal4, we thought it necessary to record
+the temporal by means of an example. Suppose the Sun to be in Aries
+at the lst degree in the zone through Alexandria; and suppose Zeus to
+be at the 2nd degree of Leo, Ares at the 5th degree. I will do as
+follows: The ascensional times of Aries are 21;40, the ascensional times
+of Taurus are 25, the ascensional times of Gemini are 28;20, the
+ascensional times of Câncer are 31 ;40. The ascensional times of the four
+zõidia become 106;40. In relation to 120 times, ,13;20 are ieft over, which I fmd at about 11 1/2 degrees of Leo. For, doubling the 355
+times, 70 times result. And by making 11 1/2 times these, I find 805
+times, which I divide by sixty. 13;25 times result. I connect these with
+the 106;40 times. Together, 120;5 result. Thus, the Í1 l/2th degree of
+Leo is found in the zone of Alexandria, producing an isosceles triangle
+with the first degree of Aries. And we say that Zeus is regarded both
+zodiacally and temporally by the Sun, while Ares is regarded zodiacally
+alone.
+Since 21 ;35 times are left over in Leo, I add them to the second
+isosceles triangle as follows: the ascensional times of Leo are 21 ;35, the 1 The distinction betweem ‘ascensional’ and ‘temporal’ is not clear here.
+[RH]
+2 Again ‘zodiacal’ means aspect by sign. The sense of this text seems to be
+that only an aspect by sign is still in effect, i.e., platically. [RH]
+3 i.e., there is an effect from this. The general conclusion appears to be that
+aspects can occur partilely on the ecliptic, or by sign only, temporally, or by
+ascension. Any combination of the above has an effect, although it would seem
+that having more than one of these in effect at a given time is more powerful.
+[RH] Júpiter Again by sign.
+5 The ascensional times of Leo. Antiochus uses the same values as Paulus
+and Ptolemy. [RH]
+18 ascensional times of Virgo are 38;20, the ascensional times of Libra are
+38;20. Together, they are 98; 15. Again, in relation to 120 times, 21;45
+are left over, which I find at about 18;37 degrees of Scorpio. For, by
+doubling the ascension of Scorpio, which is 35 times, 70 times result.
+And by making 18;37 times these, I find 1,305 times, which I divide by
+sixty. 21;45 times result, which I add to the 98; 15 times. Together, 120
+times result. Thus, 18;37 degrees of Scorpio are found to produce the
+second isosceles triangle to 11 1/2 degrees of Leo in the zone through
+Alexandria.
+Again, since 13; 15 times are left over ffom Scorpio, I add to these
+the third isosceles triangle. There are 13; 15 times of Scorpio, 31;40
+times of Sagittarius, 28;20 times of Capricorn, 25 times of Aquarius,
+21 ;40 times of Pisces. Together, they are 119;55 times, which produce
+the isosceles triangle of the zodiacal circle. The 5 [degrees] left over in
+relation to the 120 times in the first triangle are ignored. And with the
+same method you will find the hexagonal and square sides which are
+called temporal1. 16. Concerning Unconnected zoidia and Those Having Sympathy
+for One Another.
+Zõidia which are unconnected, but have a sympathy for one another, are all the equally ascending zõidia, and those which are equally powerful
+and like-engirding. For example, Aries and Pisces, Gemini and
+Capricorn, Câncer and Sagittarius, Virgo and Libra, are equally
+ascending. Gemini and Câncer, Virgo and Aries, Libra and Pisces, 1 This section actually describes in mundo aspects of exactly the kind that Placidus made so much use of in his primary directions. The math is different
+but the end result is nearly the same. The principie difference is that the latitude
+of the aspecting planets is ignored, which is consistem with Greek practice.
+Notice also that the combination of “temporal” (to use Antiochus’ term) and
+zodiacal aspects of the same kind scems to be regarded as reinforcing the effect
+of the aspect. Later on in post-Placidean astrology, the same practice is also to
+be found along with the opposite idea that an in mundo trine belween bodies
+that are zodiacally in square or vice versa causes a change in the effect of the
+zodiacal aspect. This would not have happened very frequently at. the more
+southerly latitudes where the Greek astrologers worked. [RH]
+19 Sagittarius and Capricom, are equally powerful. Taurus to Libra, Aries
+to Scorpio, are like-engirding. And the proximities of the other
+unconnected zõidia [have been] entirely useless for sympathy. This
+heading contributes to the co-ascension of the zõidia and the co-rising
+of the stars, and to the friendship and sympathy of men and women and
+parents and brothers and friends and slaves. 17. Concerning Sympathetic and Unsympathetic Squares
+The zõidia which have sympathy for one another in accordance with a
+square zodiacal side are these: Taurus to Aquarius, and Leo to Scorpio
+through equal ascension. Again, Leo to Taurus and Scorpio to Aquarius
+through equal power. And Gemini to Virgo and Sagittarius to Pisces
+through like-engirding. All the other squares happen to be useless for
+sympathy. Every square side is constituted by 90 degrees, while the
+hexagon is constituted by 60 degrees; for, four times 90 is 360, and six
+time 60 is 360. And the diameter is constituted by 180 degrees; for,
+twice 180 becomes 360, which are the number of degrees that the whole
+circle has. 18. Concerning the Twelfth Parts of the Stars
+The ancients set out the twelfth parts of the degrees of the stars in three
+ways. Paulus in his Introduction said to make the degrees which are
+equal to 13 times the degrees of the star, and to depart from the same
+zõidion, at 30 degrees apiece, and wherever the number should come down to nothing, the twelfth part of the star will be in that zõidion. But
+Dorotheus says in the 11 th book to [make] the degrees by 12. And
+Ptolemy says in the 26th heading of the lst book to depart with the
+degrees at two and a half per zõidion. By trial I found the method of
+Dorotheus to be more in agreement with that of Ptolemy. And I approve
+more of these methods—I mean of the multiplication by 12, and of that
+by two and a half. For thus the two methods leave off at the same
+zõidion, as in this example: The Moon happened to be at Taurus at the 25th degree. Making twelve times these, I found 300 degrees. I departed
+with these from Taurus at 30 degrees apiece, and it left off at 30
+degrees of Aquarius for the filling up of the zõidia. Again, I departed 20 with these 25 degrees from Taurus at two and a half apiece. It leaves
+off in Aquarius for the filling up of the zõidion in respect of two and
+a half degrees. But if I make 13 times the 25 degrees, the number will
+leave off at the 25th degree of Pisces, and this difference itself amounts
+to miich.
+The method of twelfth-parts is a necessary matter for births. I laid
+down the effects of them so that no one should treat them incidentally. 19. Concerning zõidia that Hear and See One Another
+The zõidia that hear and see one another are compared for exiles and
+dangers, for accusations and tidings at the same time, when the Moon
+is brought by counter-passage into relation to the star of Hermes or the
+benefics at the beginning of the [events] that are examined in relation
+to this part1. The zõidia that see one another are these: Gemini sees
+Leo, and Leo sees Gemini. Similarly also, those that hear one another
+are these: Scorpio hears Virgo, and Virgo hears Scorpio. And so on in
+order. 20. Concerning Looking Ahead
+Having so distinguished these things, the preceding star is said to look
+ahead2, or bear witness3, to the succeeding star, either by hexagon,
+square, triangle, or diameter. For, as it is borne along, it departs in the
+direction of the preceding stars. For, the planets move with a motion
+that is the opposite of the zõidia. Yet, at the same time they run a
+special course and together are carried around it each day and night. 1 This is neariy idcnticai to the sentence in Chapter Mercúrio of Paulus’
+Introductory Matlers.
+2 epitheoreõ.
+3 epimarturõ. It would appear that this verb is synonymous with epitheoreõ.
+21 21. Concerning the Hurling of Rays
+The succeeding planet is said to hurl its rays1 at the preceding planet
+in accordance with the aforesaid figures. For, the ray of its fire is
+carried to the preceding planets as this planet goes in their direction. For
+example, a planet in Aries looks ahead at a planet in Câncer. And the
+one in Câncer hurls its rays at the one in Aries2. 22. Concerning Right and Left Sides
+Right-side3 figures are those in the preceding parts of the zodiac; left4,
+the foliowing. For example, Câncer is marking the birth hour at 30
+degrees; Gemini is a right-side hexagon at the lst degree; Taurus is a
+right-side square at the lst degree; Aries is a right-side triangle at the
+lst degree; and the whole hemisphere abo ve the earth. Virgo is a
+left-side hexagon at the 30th degree; Scorpio is a left-side triangle at the
+30th degree; and the whole hemisphere under the earth. Right-side
+figures, then, are all those that are in the preceding zõidia, no matter
+what part of the zõidion they are in; left-sided figures, those in the
+succeeding zõidia. 1 aktinoboleõ.
+2 The concept of the “hurling of rays” is extremely important as we shall
+see in later sections. Many of the most important statements about aspects only
+apply to ones that fit the definition of “hurling of rays.” [RH]
+3 dexios. Often translated as dexter. Júpiter aristeros. Literally, ‘better.’ The left side was euphemistically called the
+“better” side to avoid bad luck. ‘Sinister’ would therefore not be the best
+translation, because it not a euphemism and has negative connotations.
+22 23. Concerning the Spear-bearing of the Stars
+There is spear-bearing1 whenever a particular star, being in its own
+house or exaltation, hurls its rays2 at a star which is in its own house
+or exaltation and which is upon a pivot point. For example, when
+Aphrodite is in Libra, and Kronos is in Capricorn, Aphrodite will have
+rays hurled at it by Kronos. Or again, when Kronos is in Libra, Ares
+will hurl rays at it from Capricorn; or instead of Kronos, at Aphrodite.
+Or again, Zeus from Sagittarius when Aphrodite is in Libra.
+Or when the stars are lying contrariwise in relation to the
+Hõroskopos or the Midheaven, a diumal planet in a diurnal birth will act as spear-bearer, while a noctumal planet does this for a nocturnal
+birth, even if the spear-bearer as well as the planet being guarded
+should happen to be in another’s house or exaltation.
+Or whenever a light should be upon a pivot point in the
+Hõroskopos or the Midheaven, even if a star of the sect should happen to be in another’s house, it will hurl rays at the Sun in relation to the
+pre-ascending degree, at the Moon in relation to the post-ascensional
+degree. For example, when the Moon is upon the Hõroskopos,
+Aphrodite will hurl rays from Virgo or from Libra.
+And yet again, spear-bearing is said whenever, with the Sun or the
+Moon upon a pivot point, a star of the sect should act as spear-bearer. 24. Concerning Spear-bearing out of Sect
+But they act as spear-bearers out of sect, whenever the diumal planets
+should act as spear-bearers to the nocturnal planets, and the nocturnal
+to the diurnal. 1 See Paulus, Chapters 6 and 14 for his deíinition of spear-bearing. The
+term here seems to be quite different from the one in Paulus and the one in
+Ptolemy’s Tetrabiblos, Book III.5. It seems to have a more general significance
+than merely being an attendant upon the Sun or the Moon. [RH]
+2 See section 1.21 on ‘hurling of rays.’ [RH] 23 25. Concerning Harmony
+The triangular and square spear-bearers are more harmonious; for, the
+hexagons act without restraint. 26. Concerning Position upon the Tenth Place
+There is position upon the tenth1 and superiority2 whenever a [star]
+lying in the tenth place should be squared on the left-side3. Câncer will
+be the Hõroskopos. The stars in Aries, then, prevail over a star in
+Câncer. Another superiority is spoken of, whenever some star, which is
+actually in a place on the right, should look ahead at a star in a left-side
+triangle, square, or hexagon. 27. Concerning Affliction and Places in which No Dealings Are
+Made
+Affliction4 is spoken of whenever some star has rays hurled5 at it by
+malefics, or is contained6, or comes to be in application or in contact
+with a destroyer, or is opposed, or is ruled by a star ill-situated in the
+places in which no dealings are made (these are the sixth from the 1 epidekateia. This seems to mean being upon the tenth place.
+2 kathuperterêsis. Literally, being above or superior to.
+3 euõnumos. Literally, well named—another euphemism for left side. Júpiter kakõsis.
+5 See section 1.21 on ‘hurling of rays.’ [RHJ
+6 See section 1.41.
+24 Hõroskopos, the third, the second, the eighth, and the twelfth)1. 28. Concerning Places for Having Dealings
+The places for having dealings are the four pivot points, the 2nd trigon,
+and the post-ascensions of the Hõroskopos and the Midheaven. 29. Concerning Being in its Proper Face2
+Being in its proper face3 is said whenever some star approaches the
+Sun or the Moon in just the same relation as its house to their houses,
+west in relation to the Sun4, east in relation to the Moon5. For
+example, the Sun is in Leo, the Moon in Câncer, Aphrodite in Taurus.
+With the Sun being in Leo, it is known that it [Aphrodite] is in its
+proper face; for, it [the Sun] is in its own house and a masculine
+zõidion. If Aphrodite was in Taurus, it is likewise in its proper face
+when the Moon is in the east and in a feminine zõidion. 1 This is a more comprehensive definition that we see in modem astrology
+in which affliction is simply a square, or opposition from a malefic. In fact
+these two aspects are not essential to Antiochus’ definition. Yet subsequent
+writings suggest that Antiochus definition is much closer to what the ancients
+meant by ‘affliction.’ [RH]
+2 This is the dignity that Ptolemy used instead of the more common dignity
+by “face”, i.e., a planefs being in its own decan. [RH]
+3 idioprõsopeõ. Júpiter Occidental of the sun?
+5 Oriental of the Moon? 25 30. Concerning Participation
+There is communion1 whenever two planets should be present upon one
+zõidion or should border upon it2, while it should happen to be the house of the one, the exaltation of the other3. 31. Concerning Counter-resolution
+There is counter-resolution4 whenever the diurnal planets have the
+places of the nocturnal ones and the nocturnal planets the places of the
+diurnal ones. Or whenever stars lying upon the zõidia should have good
+dealings, while the rulers of the zõidia, not having dealings, should
+actually be in affliction. 32. Concerning Reciprocai Mastership
+Stars are said to be masters of each other5 whenever the exaltation of
+the one and the house of the other should be the zõidia in which the
+stars happen to be6. 1 metochê. 2 See section 1.40.
+3 The Sun in Aries along with Mars in Aries would be an example of this.
+[RH] Júpiter antanalusis.
+5 despotai allêlõn. 6 This would appear to be a type of mixed reception as opposed to a mutual
+reception where planets exchange dignities of the same type. [RH]
+26 33. Concerning the Ruler
+A star is said to be the ruler whenever it should have more relationships
+of rulership in some one of the zõidia. I mean relationships of house,
+exaltation, trigon, boundary, phase, or configuration1. 34. Concerning Contact
+There is contact2, or application in the most proper sense, whenever the
+faster star approaches to the slower, if it should not be more than three
+degrees distant from it. 35. Concerning Application
+The contact of the Moon is application3 whenever it should stay apart
+ffom the synodic4 degree for the course of a day and a night. 36. Concerning Intervention
+There is intervention5 whenever a star should hurl its rays6 onto the 1 This section contains an explicit statement that rulership and disposition
+are determined by the combined use of multiple dignities, not merely sign
+rulership as is the general modem practice. See page 30, note 3. There is no
+evidence that any kind of weighting system was used of the kind used by
+Arabic and Renaissance European astrologers. Each dignity seems to be
+considered equal. [RH]
+2 kollêsis.
+3 sunaphê. Júpiter i.e., the degree of the previous new moon. [RH] 5 mesembclêsis. Literally, a throwing between.
+27 intermediate degrees of the application1. 37. Concerning Surpassing
+There is surpassing2 whenever some one of the stars should pass by the
+degree of another star either bodily or by figure. 38. Concerning the Bond
+The Moon is said to be carried under bond3 whenever should come to
+be away from the Sun by 15 degrees. Freeing the bond is said
+whenever, after passing the Sun by, the Moon should be apart from the
+Sun by the same number of degrees. The same is also said for the
+Whole Moon. For, when it is 15 degrees before the Whole Moon, it
+comes to the bond. But when it stands apart after it, it frees the bond. 39. Concerning Void-Coursing
+There is void-coursing4 of the Moon whenever it is not applying to any
+planet, not bodily and not by figure5. 6 Note that the intervention can be oniy from a planet that is in the
+succeeding signs in contrast to more modem usage. [RH]
+1 This is quite similar to ‘prohibition’ as used by Seventeenth Century
+English astrologers. The main difference is that only aspects from succeeding
+signs are allowed. [RH] 2 parallagê.
+3 sundesmos. Also see Paulus, Chapter 35. Júpiter kenodromia.
+5 This is our ‘void of course Moon.’ [RH] 28 40. Concerning Juxtaposition
+There is juxtaposition1 whenever stars should be within the same
+boundaries2 either bodily or by figure, or should border3 upon each
+other with respect to the boundaries of the same star4. 41. Concerning Containment
+There is containment5 whenever two planets should have one mean 1 homoroêsis. Literally, to have the same boundary, border upon.
+2 horia.
+3 ephoroõ? Júpiter There appear to be three forms of juxtaposition described here. The first
+is simple enough. It consists of two planets within the same boundaries (in
+modem usage ‘term’). The second is not so clear. It could be interpreted in
+either of two ways. First, the second planet makes an aspect to the First, such
+that the exact degree of the aspect point falis within the same boundaries as the
+the first planet. We will call this interpretation, Gêmeos -A. The second interpretation
+could be as follows, that the second planet lies within boundaries with the same
+ruler as the First planet but in another zõidion that has a proper aspect
+relationship (i.e. opposition, trigon, square or hexagon) to the zõidion of the first
+planet. We will call this interpretation Gêmeos -B.
+The third usage, which we will call III, simply requires that the second
+planet be in boundaries ruled by the same planet that rules the boundaries of the
+First planet, i.e., the two planets have the same boundary lord. Usage III is so
+similiar to the usage Gêmeos -B, that there would seem to be redundancy. For this
+reason, your editor favors usage Gêmeos -A as the proper interpretation of the second
+usage of juxtaposition. However, your editor is not all certain that he is correct.
+We hope that future translations will clarify the matter. [RH]
+5 emperischesis.
+29 [i.e., planetj according to any figure1 whatever, with no other planet
+among those in the middle hurling rays within 7 degrees ahead or
+behind. 42. Concerning the Stars in Power
+Each one of the planets is said to be in power2 whenever it should
+happen to be in its own house, exaltation, boundaries, proper phase3,
+configuration4, or in some more vigorous5 place of the 1 kath’ hoion dê pote schêma. This language has consistently been used to
+refer to aspect relationships only, not any random angular separation. Therefore,
+what we have here is a situation in which two planets both aspect a third by the
+same aspect, such that the third is on or near the midpoint of the First two. In
+modem usage T-squares, bissected trines and grand trines would qualify as
+containments. The so-called “yod” configuration would not qualify because the
+quincunx is not among the ancient figures or aspects.
+But there is something else about containment as defined here that makcs
+it very different from any modem usage. If there is a fourth planet which
+aspects the third (i.e., middle) planet with a classical aspect or figure, and that
+aspect is within ± 7o of exactness and that fourth planet is in a sign that
+succeeds (see section 1.21 on ‘hurling of rays’) the third or middle planet and
+the fourth planet is within the figure created by the two outer planets, the effect
+of containment is canceled or mitigated. Unfortunately we do know at this time
+what the effect of a containment is supposed to be. [RHJ
+2 en dunamei.
+3 ‘Phase’ really is the word here. The reference would seem to be ‘proper
+face’ as in section 1.29. However, the interpretation that is most probable is that
+this does not refer to face at all, but to the proper, i.e. of the correct sect, phase
+relationship to the Sun. This is not a standard rccitation of the five esscntial
+dignities, whether Ptolemy’s or anyone else’s. [RH] Júpiter suscfiêmatismos. It is not clear what this means. The use of this word
+meaning ‘configuration’ could refer to idioprõsopeõ as in section 1.29 or simply
+any kind of aspect. [RH]
+5 eutonõteros, from eutonos. Literally, well-toned or well-strung.
+30 twel ve-placement1. 43. Concerning Chariots
+Planets are in their own chariots2 when they should be found in their
+own house, exaltation, or boundaries. And they rejoice at these places
+even if they are found under the beams of the Sun. For, the benefics
+augment the good things, and the malefícs change to benefics. 44. Concerning how the Stars Rejoice
+The stars Kronos, Zeus, and Ares are said to rejoice3 when they are in
+the east and are being configured. But the Moon and Aphrodite when
+they are in the west. Moreover, Kronos, Zeus, and Ares rejoice when
+they are being figured in the quadrant from the Hõroskopos up to the
+Midheaven, and from the Descendent up to the Subterraneous place. But
+the Moon and Aphrodite in the altemate quadrants. Hermes rejoices at
+both sects because of its being common4.
+And during the day the diurnal planets rejoice when they are above
+the earth, while the noctumal planets rejoice when they are below the
+earth. And again, during the night, the nocturnal planets rejoice when
+they are above the earth, while the diurnal planets rejoice when they are
+below the earth. 1 dõdekatopia.
+2 lampênê. 3 chairõ. Notice that the planet rejoices at, or takes delight in, these
+situations themselves—not that it rejoices when it is in these places. Júpiter This makes is quite clear the ‘Occidental’ and ‘oriental’ as used by
+Ptolemy are closely related to sect. [RH1
+31 45. Concerning Stars under the Beams
+Stars are said to be under the beams1 every time they happen to be
+under the beams of the Sun, whether they are ahead of it or behind it.
+One must recognize this from the calculation of the phases. 46. Concerning the Years of the Centers and Post-ascensions and
+Declines
+The Hõroskopos indicates the fírst age, the Midheaven the middle age,
+the setting the final age, and the subterraneous pivot point death and the
+good or bad repute that arises after death. And again, the decline of the
+Hõroskopos signifies the pangs of childbirth and the things befalling the
+mother when the child was in the womb; the Hõroskopos signifies the
+moments bringing about the birth and the times immediately after it;
+and the post-ascension of the Hõroskopos signifies the final years of the
+fírst age2.
+The decline of the Midheaven signifies the fírst years of the middle
+period, the Midheaven the middle years of the middle period, and the
+post-ascension the final years of the middle period.
+The decline of the setting signifies the fírst years of the final
+period, the setting itself the middle years of the final period, and the
+post-ascension the final years of the final period.
+The decline of the Anti-midheaven signifies the period before death,
+the Anti-midheaven the death itself, and the post-ascension the period
+after death.
+Each of these 12 places obtains as its lot the 5 pre-ascended
+degrees and the 25 post-ascending degrees, if the squares should occur
+through ninety degrees. But if they should occur with different numbers
+of degrees, divide the degrees of the square numbers equally into three
+third-parts, and you would know how many degrees each place of the
+zodiac has. For example, if the Midheaven should be 96 degrees distant
+from the Hõroskopos, the setting will be 84 degrees distant from the 1 hupaugos.
+1 Note that the periods of time around birth and death are not evenly
+distributed amongst the different places, i.e., houses. 32 Midheaven, and the subterraneous pivot point will be 96 degrees distant
+from the setting, and the Hõroskopos will be 84 degrees from the
+subterraneous pivot point. From these things you would leam what the
+twelve-turning1 has for the succeeding [places], by distributing equally
+to each place the degrees that are in addition to those of a proper
+square, beginning the addition from the degrees dividing the birth hour
+and the 5 degrees that have pre-ascended it2. 47. Concerning the Signification of the Lots
+The Lot of Fortune of the Moon signifies everything about men’s
+bodies, and what they do for their liveiihood, and reputations, and the
+passions of the soul, and companionship.
+The Lot of Spirit of the Sun signifies matters concerning the soul,
+custom, sovereignty, rank, reputation, and religion.
+The Lot of the Basis of the Hõroskopos is established as a
+contributing cause of life and breath; for the Basis itself is the giver of
+breath of the Hõroskopos, and signifies bodily matters and sojoums
+abroad.
+The Lot of Nemesis of Kronos is established as a contributing
+cause of subterranean fates and of everything which is ice-cold, of
+demonstration, impotence, exile, destruction, grief, and quality of death.
+The Lot of Victory of Zeus is indicative of trust, good expectation,
+contest, and association, and furthermore, of penalties and rewards. 1 dõdekatropos. Liddell and Scott defines this as the “fixed circle of twelve
+divisions through which the zodiac is supposed to revolve.” But this is just a
+meaning obtained through context, and does not construct the word for us in
+such a way as to make this sense through its root meaning. The word literally
+means ‘twelve-turning.’ Perhaps it generalizes the idea of a pivot point, where
+the zodiac is understood to “tum” around every house cusp. Cf. ektropê in
+Paulus p. 75 note 5.
+2 This entire section is found almost verbatim in Porphyry’s Introduction
+to the Tetrabiblos. The question of whether it is in fact taken directly from the
+Thesaurus of Antiochus is of some importance; for, it would indicate that this
+system of place, i.e., house division (subsequently attributed to Porphyry) would
+go back at least to the second century C.E.
+33 The Lot of Courage of Ares is indicative of boldness, treachery,
+might, and every villainy.
+The Lot of Eros of Aphrodite signifies the appetites and voluntative
+desires, and the things that arise in accordance with deliberation; it is
+indicative of friendship and mutual favor.
+The Lot of Necessity of Hermes signifies constraints, wars,
+enmities, condemnations, and all the other restrictive things which are
+produced in men1. 48. The Effects of These [Lots]
+When the Sun beholds2 the Lot of Divinity, it makes those who are
+childless. When the Sun obtains the Lot of Injury, it causes heart
+damage. When Zeus is regarding the Lot of Divinity, it makes a native
+who acts as an Oracle to the gods and in his dreams, and divine matters
+will be favorable in every way, even if Zeus should square or oppose
+it. When the ruler of the Lot of Fortune is under the rays, it causes a
+violent death in accordance with the nature of the zõidion of the Lot of
+Fortune. If it should escape the rays of the Sun a little, violent deaths
+will not be the result, but he will wander and be accused of many
+things. But if benefics should look ahead at it, the death will not be
+violent, but he will have a mediocre fate. When the ruler of Fortune and
+of Divinity are under the rays, it will cause violent deaths which are
+neither good nor base in nature, but always noble when it is upon a
+pivot point.
+If the Lot of Children should come down to nothing3 in the house
+of Kronos, and a malefic should behold the Lot, it will destroy the first
+children. And if the Lot of Children should fali in the houses of Ares,
+and a malefic should behold the Lot, it will destroy those who were 1 For the most part, all these entries are nearly word for word identical with
+the corresponding section in Paulus p. 48.
+2 epiblepõ.
+3 Reference to the algorithm by which the Lot is calculated, where the
+counting of the number leaves off at a certain place in the zodiac. Cf. Paulus,
+Chapter 23. 34 bom in the middle. And if the Lot of Children should fali in the houses
+of Hermes, and a malefic should look ahead at it, it will destroy those
+who are born prematurely1.
+If the Lot of Divinity should fali in Capricom, it will make the
+child forbearing and changeable. But if in Aries, Leo, or Scorpio, it will
+make him quick-tempered, obstinate. When the Sun beholds the Lot of
+Fortune and its ruler while being under the rays, it makes those who are
+abject2.
+If the ruler of the Lot of the Father should be found to be opposite
+to its own house, where the Lot of the Father happens to be, it says that
+such are supposititious3. When the Lot of Fortune is of the Bad
+Divinity4 and beholds the Lot, the figure will be bad, especially if it
+should be under the rays or should be regarded by malefics.
+If the Moon should happen to be upon the Lot of Marriage, and
+****5 should look ahead at the Lot of Marriage by diameter or square,
+it gives a marriage that is between kinsfolk or even by brothers. If the
+ruler of the Lot of Marriage should be found to be setting, it says that
+the marriages happen secretly.
+If Kronos should be found to be the ruler of the Lot of Marriage
+and should happen to be in the setting place, such a woman will be
+corrupted by an old man. If the Descendem should be found as the
+house of Kronos, he who has done this is of the father’s or mother’s 1 mikroteros. ‘Prematurely’ is a guess at the meaning.
+2 ekptõtos. Or possibly banished.
+3 hupobolêmaios. This word is especially used in referencc to situations in
+which an illegitimate child replaces a legitimate one or takes on the proper role
+of one. The English word used here has the same meaning. One could possibly
+substitute the phrase ‘possibly spurious’ for 'supposititious.’ In other words this
+placement of the lot of the father indicates that one may be illegitimate. [RH] Júpiter twelfth house. [RH]
+5 Planetary name omitted in text.
+35 family, or is even a divine', and such a one wiil not be a stranger. If
+the ruler of the Lot of Marriage should be setting, the man is more
+undistinguishable and does this in secret. But also examine the phases
+of the stars, whether or not they are exalted or depressed, and thus tell
+the corrupters, whether they are exalted or depressed in fortune. If Zeus
+should be found as the ruler of the Lot of Marriage, and it should be
+setting, he who has done this will be ifom the family2, and will be rich
+or famous. If Aphrodite should be found as the ruler of the Lot of
+Marriage, and should be found in the setting pivot point, it signifies that
+this happened by deceit and laughter. If Ares should look ahead [at it],
+he who has done this has come to judgment for his attempt.
+If the Lot of Marriage should happen to be where Aphrodite is
+when Hermes is marking the birth hour, or it is upon a pivot in a
+masculine zõidion, it will produce pederasts. If Hermes should look
+ahead at the Lot of Marriage, it will cause the same. And if Hermes
+should happen to be in a masculine zõidion when it is regarding the Lot,
+it will cause sexual intercourse with males. But if Hermes should be
+found in a feminine zõidion while it beholds the Lot of Marriage, he
+will have unnatural sexual intercourse with women.
+If you should find the ruler of the Lot of Brothers in the
+Hõroskopos, say that such a one is of the same blood. If the ruler of the Lot of Brothers should fali in a bi-corporeal zõidion, say that such a one
+also has other brothers from another man or from another mother. And
+as I see it, if, for example, the Lot and its ruler should fali in a
+feminine zõidion, say that the brother is from another mother; but if in
+a masculine zõidion, from another father.
+If the Lot of Fortune should fali in a masculine zõidion, it destroys
+the father first; in a feminine zõidion, the mother, according to
+Dorotheus. If Kronos should hurl his rays3 first upon the Lot of the 1 theios. Probably not a god, but someone under divine protection, such a
+priest.
+2 genos. Not necessarily immediate family, but family in the broadest sense
+of one’s relatives.
+3 See section 1.21 on ‘huriing of rays.’ [RH] 36 Father either by figure or by going along side it1 it destroys the father
+first; but similarly, if it should regard the Lot of the Mother, it destroys
+the mother first. If a malefic should regard the Lot of the Father or of
+the Mother, it says that it is the one to be destroyed first. 49. Concerning the Final and Least Years
+Of the Sun, 120 years; one twelfth being 10 years. Of the Moon, 108;
+one twelfth being Mercúrio . Of Kronos, 57; one twelfth being Júpiter Mercúrio /12. Of Zeus,
+79; one twelfth being 6 7/12. Of Ares, 66 years; one twelfth being 5
+1/2. Of Aphrodite, 82; one twelfth being 6 10/12. Of Hermes, 76; one
+twelfth being 6 1/3.
+Of the Sun, 19 years; one twelfth being 19 months. Of the Moon,
+25 years; one twelfth being 2 1/12. Of Kronos, 30; one twelfth being 2
+1/2. Of Zeus, 12 years; one twelfth being 1. Of Ares, 15 years; one
+twelfth being 1 1/3. Of Aphrodite, 8 years; one twelfth being eight
+months. Of Hermes, 20 years; one twelfth being 1 8/12. 50. How One Should Learn the Additions of the zõidia and the
+Hours of the Zones
+For example, since in the third zone the greatest of its times (that is
+ffom Câncer to Sagittarius) becomes 210 years, and the least of its
+times (ffom Capricorn to Gemini) is 150 years—if then I should divide
+these by 15, which are the equipartite hourly times, the greatest day is
+of 14 equipartite hours, the least of 10 equipartite hours. We will then
+take one sixth of each of the greatest and least times. The greatest of
+the times, 210 years, then becomes 35; the least of them becomes 25.
+The remainder then is 10. One third of these is 3 1/3, which is the
+variation of each zõidion. You will know it in the same fashion for the
+other zones as well. 1 parembasis. It is not clear whether this simply means conjunction here.
+The root ‘embasis’ is also used by other astrologers for an ingress.
+37 51. Concerning the Greatest and Final Years of the Rccurrences
+of the Seven Stars
+Kronos makes its longest recurrence through 265 years; Zeus through
+427 years; Ares through 284 years; the Sun through 1461 years;
+Aphrodite through 1151 years; Hermes through 480 years; the Moon
+through 25 years.
+The cosmic recurrence comes about through 175 myriads and 3005
+years1, and then the conjunction of all the stars at the 30th degree óf
+Câncer or the lst degree of Leo, and the completion occurs. The deluge
+happens upon Câncer, [in part of the cosmos]. 52. Concerning Stars Unconnected to the Lights
+When the Moon happens to be unconnected2 to the Sun, it produces
+separation or inconstancy of the parents, and makes them foreign to one
+another3. When the Moon happens to be unconnected to Kronos,
+[*from the heritage of good births on the one hand, but a cause of
+impediments and afflictions on the other*]. When the Moon happens to
+be unconnected to Zeus, it makes those whose work is in vain, who are
+base, and weaker in their lives. When the Moon happens to be
+unconnected to Ares, it makes those who are medíocre, cowardly,
+inactive, and have an aversion to their parents. When the Moon happens
+to be unconnected to Aphrodite, it makes those who are graceless and
+incompetent at marriage and sexual pleasures. When the Moon happens
+to be unconnected to Hermes, it makes those who are more impractical
+and more unintelligent. I say these things for all the figures of
+like-engirding, equally ascending, and equally powerful zõidia. 1 1,753,005 years
+2 asundetos.
+3 allophulia. ? 38 53. Effects of the Spear-bearcrs of the Sun
+When Kronos happens to be spear-bearing, it makes the specious and
+deceitful, and that which is conducive to happiness and many
+possessions firom the father. Zeus makes the just, kindly, and boastful,
+and the bright, the dominating and very wealthy, and the effective. Ares
+makes the manly, hot, bold, reckless, violent, terrible, [and the abject in
+the things being accomplished]. Aphrodite makes the famous and
+charming, well-skilled, sweet, well-married, and effective. Hermes
+makes the well-disposed and reasonable and skilled.
+But know that if those stars which are spear-bearing for the lights
+should be declining, when the lights happen to be upon pivot points,
+they induce those so born to be nothing less than kings and sovereigns.
+But if the lights are being guarded by spear-bearers while the lights are
+declining, neither kings nor sovereigns will arise, but they will be
+friends of these personages. Know that the same is also true for those
+stars which are spear-bearing out of sect. ********** 39 Part Gêmeos Second Set of Excerpts1 1. Concerning the Applications of the Moon to the Seven
+Wandering Stars2 , j .
+When the Moon is conjoining Kronos, opposition is encountered for
+everything. The conjunction of the Moon with Kronos is fine for
+planting and bloodletting. It indicates impediments3 in things. Those
+who drink will not effect purification. Those who are away from home
+will not come back. And there will also be obstacles for those sailing.
+And when the Moon is making a hexagon with it, it is fine for
+building, the planting of trees, and the sowing of pulses. And it is
+especially favorable for the builders.
+And when the Moon is squaring it, opposition is encountered.
+Those who are away ffom home will be taken prisoner; and those who
+are building will not finish, but the building will fali; and those who are
+engaged in business will be fined.
+And when the Moon is trining it, it is fine for building, the planting
+of trees, intercourse, and the purchasing of all sort of things.
+And when the Moon is making a diameter with it, it indicates
+oppressions, instabilities. Builders will not finish their building; and
+those starting a battle will be defeated; and he who has married a
+women will be quickly divorced.
+When the Moon is conjoining Zeus, it is good for everything: for
+formal demands, social intercourse, and the community of friends, for
+buildings, consultations with judges, for being away from home, for
+beneficence. He who commences some affair quickly attains his goal.
+It is favorable for selling, buying, marrying, association, and simply for
+everything. ' The numbering in this section has been added for reference purposes by
+the editor. [RH]
+This is a section on Katarchic Astrology or Elections, to use the
+approximate modem equivalem. [RH]
+2 3 empodismos. Literally, having one’s feet fettered. 40 And when the Moon is making a hexagon with it, it is good for
+investigating everything, producing1 everything, consorting with the
+great, approaching leaders, judges, philosophers, commencing wedding
+preparations, instructions, arts, activities, contracting for work, and
+getting friends.
+And when the Moon is squaring it, it is fine for everything: for
+giving, for receiving, for marketing, for actions, for being awây from
+home, for consultations, for approaching judges. And it is favorable for
+making items of daily life.
+And when the Moon is trining it, it is fine for everything: for
+giving, receiving, being away from home, consultations, marrying, doing
+favors, buying, selling.
+And when the Moon is making a diameter with it, it is good for
+formal demands, the formation of a friendship and association,
+companionship of travelers, approaching judges, building a foundation,
+attending a lecture, starting children in instruction. It is favorable for
+approaching philosophers and the great.
+When the Moon is conjoining Ares, opposition is encountered for
+everything, and as for him who has wooed or married a women at that
+time, the woman and the man will meet with a violent death by
+companions and adulterers. He who has been away from home will be
+disabled and will not come back; and he who has associated with
+someone will be turned in [to the authorities] by them.
+And when the Moon is making a hexagon with it, it will be good
+for war, being away from home, planting, for hunting, for anything
+constructed by fire, for bloodletting, for settling [as in a foreign city],
+joining the army, making war.
+And when the Moon is squaring it, opposition is encountered. He
+who is away from home will be made to slip, and that which is being
+built will fali or will be burned up. It is favorable for selling quadrupeds
+and for drinking purgatives.
+And when the Moon is trining it, it is good for military matters and
+the outfitting of weapons of war. He who carries these remains
+invulnerable. It is good for the movements of armies and bearing arms,
+for being away from home, improving buildings, and rebuilding.
+And when the Moon is making a diameter with it, it opposes the 1 apoteleõ. 41 bearing of children. If a woman should conceive1, she will miscarry
+But if she should give birth, she will quickly die. He who approaches
+a judge, will be arrested. He who mames a woman will be unfaithfül.
+It is a fitting time only for the buying of weapons of war.
+When the Moon is conjoining the sun, opposition is encountered for
+everything. It is a fitting time for courts and struggles, and for
+preserving things underground. There is opposition to getting married
+and contracts.
+And when the Moon is making a hexagon with it, it is good for
+companionship and Services and the commencements2 of things, and it
+is good as a kind of beginning3 for those who make requests, and for
+going to sea, and for the buying of weapons.
+And when the Moon is squaring it, there is opposition for
+everything, [especially4] for the tearing down of buildings, and for the
+changing of residence.
+And when the Moon is trining it, it is good for beginnings5 and for
+making treaties, and for consorting with kings and the great, and for
+requesting what you want, and for contracts, and it is a good starting
+point6for all sorts of deeds.
+And when the Moon is making a diameter with it, it opposes
+requests and receipts. He who marries will be contentious in wedlock,
+and the woman will be disobedient. Those who go to sea will be in
+danger.
+When the Moon is conjoining with Aphrodite, it is good for 1 sullephthei. One would expect an active verb here instead of a passive, but
+the context seems to require active voice.
+2 katarchai.
+3 archê. Júpiter We have added “especially” to make it clear that the “opposition” extends
+to these two matters. In other words it is not a good time to do these. [RH]
+5 archê.
+6 aparchesthai. This word also means‘to offer the first fruits,’ or to
+‘dedicate’ somcthing. 42 everything, for marrying and for making erotic requests of women, and
+for drinking together, and it is most fitting for contracts for both sides.
+And when the Moon is making a hexagon with it, it is good for
+purchasing things of all sorts, and for listening, and building, and the
+planting of trees and sowing; and it is most good for showing kindness.
+And when the Moon is squaring it, it is good for buildings, for the
+hunt, for feasting and the companionship of friends, and the learning of
+all sorts of things, especially of the lyric and shaping arts.
+And when the Moon is trining it, it is good for commencements in
+all sorts of matters, and especially for marriage contracts, and for
+marketing, and changing residence, and planting and sowing, and for
+congregating with friends, and for buying quadrupeds.
+And when the Moon is making a diameter with it, it is good for
+beautifying oneself, and making commencements, and revising
+contracts, for rebuilding homes, and for adornment. It is always fitting
+for those who li ve in these houses.
+When the Moon is conjoining Hermes, it is good for writings, and
+the composition of speeches, and the commencement of drawings, and
+for starting children in instruction, and beginning the logical arts, and
+it is quite simply suitable for everything.
+And when the Moon is making a hexagon with it, it is good for
+changing residence and for house building, for being away from home,
+for congregating with auditors [i.e., financial], for selling, buying,
+making contracts, and for framing proposals.
+And when the Moon is squaring it, it is good for riding, chariot
+races, sending announcments, [for undertaking much in the
+govemment], for coming into power, for keeping an eye on public
+business, for administrating, and for walking without fear.
+And when the Moon is trining it, it is good for encounters with
+esteemed men and those who know, and for starting children in
+instruction. It is suitable for going to sea, for congregating with the
+great, with judges, with scholars, for dispatching ambassadors, for
+selling, buying, and accounting.
+And when the Moon is making a diameter with it, it is good for
+discussions. And they are suitable for making a commencement in every
+science, for transcribing1 books, and for buying and selling, for
+attending to public business, for judging, and for sending things away 1 or possibly translating. 43 to another place.
+Whenever the Moon is in the combusted zone1, from the 20th
+degree of Libra to the 15th degree of Scorpio, it is not fitting to set
+ones hand to any matter. For, it is not well disposed, but opposition is
+always encountered.
+Or, whenever the Moon is in a solid zõidion (that is in Taurus, Leo,
+Scorpio, Aquarius, but especially in Leo), it is not fitting to put on new
+garments; for, the garments will cause sickness in those who put them
+on.
+It is also necessary, for every commencement of every matter, to
+closely observe the first and eighth hour of the third and seventh day,
+by means of the malefic stars which are going about and executing at
+these hours. I means Ares and Kronos, Ares at the first hour of the third
+day, Kronos at the eighth hour of the seventh day. 2. Concerning the Harmful Degrees of the Zoidia
+The harmful degrees of the zõidia are these: the 18th, 27th, 28th degree
+of Leo; the 9th, 25th degree of Scorpio; the Ist, 7th, 8th, 18th degree
+of Sagittarius; the 6th, 7th, 8th, 10th degree of Taurus; the 9th to the
+15th degree of Câncer; the 18th, 19th degree of Aquarius; the 26th to
+the 29th degree of Capricorn. When the Moon is dying2 in these
+degrees, it causes injury and suffering for those so born, glaucoma,
+discharges, dim sightedness, leprosy, swellings in the neck, seizures, and
+paralysis.
+And in addition to these: the mane of Leo at the 27th, 28th degree;
+the sting of Scorpio from the 6th to the 10th degree, a mixture of Ares
+and Kronos, and the first part [of what?] a mixture of Hermes; the
+arrow of Sagittarius at the 6th, 7th degree; the Pleiades of Taurus at the
+5th, 6th, 7th degree; the nebula of Câncer from the 10th to the 15th
+degree; the eye of Sagittarius at the I5th degree; the pitcher of Aquarius
+from the 16th to the 19th degree; the spike of Capricorn from the 26th 1 kekaumene zonê. This is clearly the via combusta. 2 lêgõ. The verb means to cease, abate, or break off. We have not seen it used before for the beginning of the New Moon, if índeed that is what it means
+here. 44 to the 29th degree1. 3. Concerning Injuries, Baldness, Gout, Madness, Licentiousness,
+and other Passions2
+Leos, Virgos, Scorpios, and Sagittarians become bald or bald on the
+forehead. Those who have the Lot of Fortune in Sagittarius, Capricom,
+Aquarius, or Pisces become gouty or subject to discharges. If it should
+fali in ***3 or in Leo, he may die of gout or of fluid annoyances.
+If the Moon and Kronos should be marking the birth hour, while
+Hermes is upon a pivot point, it makes those who are crazed and
+mentally ill4. When Kronos and Hermes should mark the birth hour,
+and when Kronos should be in the noon place while Hermes is setting,
+they make those who are deranged5 and mentally ill.
+When Ares and Hermes happen to be upon a pivot point, they make
+those who make false accusations and those who are perjurers. If the
+Moon and Kronos should regard6 each other, they make those who are
+sordid and wailers. 1 There is some discrepancy between these degrees and the degrees given
+by Anonymous (p. 15).
+2 As said in the translator’s preface, all these are written as plurais in
+Greek: gouts, madnesses, etc. [Additional by RH] ‘Passions’ here means ‘things
+that one suffers,’ not merely ‘emotions.’
+3 The glyph for Kronos is found here in the manuscript instead of the glyph
+for a zõidion, i.e., a sign. Júpiter The distinction seems to be between those who go into uncontrollable
+rages (crazes) and those who are mentally damaged or incapacitated in some
+way.
+5 paraplêktikos. Literally, stricken sideways. The word can mean
+hemiplegic, but metaphorically it means deranged.
+6 The text has epitheõreõ here, but it is impossible for two pianets to look
+ahead at each other in the technical sense. See section 1.20. We have emended
+it to theõreõ, or ‘regard.’ 45 When Hermes is in aversion to the Hõroskopos\ and makes a
+seizure2 of the Moon, if a malefic should be looking ahead at it, it
+makes those who are smitten by demons3. When the Moon has the
+bond of the Whole Moon4, it makes those who are possessed and
+inspired by a god. When Kronos and Ares lie upon the Divinity or upon
+a diameter with it, they make those who have the divine madness5 and
+are in ecstasy.
+Both for the Whole Moon and for the conjunction, when the ruler
+of the Lot of Divinity should be opposite to it, it makes those who are
+boastful and insolent. When Aphrodite in Capricorn, Pisces, Scorpio, or
+Taurus is regarded by Kronos or Ares, it makes those who are
+licentious, who act crazy among women, who are soft, and like women.
+When the Moon is marking the birth hour and Aphrodite is in the
+four-footed zõidia (Aries, Taurus, Leo, Capricorn), they make women
+licentious, and make men thieves and foul-doers. When Ares and
+Aphrodite are of equal degrees, or when they are regarding or opposing
+in tropical zõidia and welcome the twelve-part of each other6, they
+make those who are drunkards, adulterers, unreturning7.
+[When Scorpio is dividing the birth hour at 13, 14, 22, 24. 27, 28,
+and 30 degrees, it makes those who are passionate and licentious. And 1 That is, making none of the classical figures, i.e., aspects, with the
+Hõroskopos. Cf. Paulus, Chapter 12. 2 We do not seem to have this defined for us anywhcre as a technical term.
+3 It is not clear whether this means possessed by demons or smitten by
+heaven. Júpiter This is a full moon in our terminology. The Greek ‘full moon' referred to
+a moon that was nearly, but not exactly, at opposition. See Paulus, Chapter 16.
+[RH]
+5 Probably epilepsy. [RH]
+6 Mutual reception is evidently meant.
+7 Not clear. It could be people who do not retum, or who do not retum
+things. [RH] 46 the same is true of the degrees from 12 to 17 of Taurus]1, of Leo from
+25 degrees to 30, the 11 th and 12th degrees of Capricom. For all the
+degrees it is necessary to examine the Hõroskopos and the Descendent
+and Aphrodite and the Moon, the Lot of Fortune and of Eros. And the
+soft places are the final degrees of Aries, Leo, and Sagittarius. Those
+who have had their birth hours so marked in these degrees become
+soft-bodied and practice unnatural vices. Júpiter . Concerning the Star Going About and the One Executing
+The investigation of the aforementioned is thus: Those bom during the
+lst, 3rd, 8th, 10th hours while Kronos2 is going about are ignoble,
+liable to injury and violent death. Those bom during the lst, 4th, 10th,
+11 th hours while Zeus3 is going about will be leaders, held in esteem,
+graceful, agreeable. Those bom during the lst, 2nd, 3rd, 6th, 8th hours
+while Ares4 is going about will be bilious, high-spirited, hot-blooded,
+skillful. Those bom during the lst, 2nd, 3rd, 6th, 8th hours while the
+Sun5 is going about will be bright, held in esteem, friends to the great,
+loved by the gods. Those born during the lst, 2nd, 5th, 8th, 9th, 10th
+hours while Aphrodite6 is going about will be practical, charming,
+agreeable. Those bom during the lst, 4th, 6th, 7th, 8th hours while
+Hermes7 is going about will be effective, erudite, intellectual, active. 1 The bracketed portion contains several lacunae, and we have conjecturally
+restored it by comparison with p. 12 of Anonymous.
+2 Saturday. [RH]
+3 Thursday. [RH] Júpiter Tuesday. [RH]
+5 Sunday. [RH]
+6 Friday. [RH]
+7 Wednesday. [RH] 47 Those bom during the lst, 3rd, 5th, 8th, 9th, 10th hours while the
+Moon1 is going about will be commanders appointed for great things,
+those who lead, restorers of the people. Similarly also, for the nocturnal
+hours. If the ruler of the hours of executing should occupy the region
+of the Evil Divinity2, it makes those who are devoured by wfld beasts.
+And if Kronos should be executing while the Moon is opposite, it
+makes those who have seizures and are possessed by a god3. 5. Particulars Concerning the Moon
+When the Moon occupies the same degree as Kronos or Aries in
+Scorpio, Pisces, or Câncer, it causes leprosy. The Moon with Kronos
+and Ares in the latter degrees of the zõidia makes those who are lame.
+The Moon in aversion4 to the Hõroskopos makes the natives
+simple-minded and out of their minds. The Moon upon a diameter and
+being a Whole Moon makes those who are abject and unhappy. The
+Moon and the Sun in the 6th or 12th degree, with Kronos and Ares and
+Hermes being upon a pivot point, being apart from Zeus and Aphrodite,
+make dog-men5 or those who are devoured by dogs. The Moon and
+Aphrodite together make those who have discharges, those who are soft,
+and those who have intercourse for mischief. The Moon and Hermes
+being diametrically opposed make despoilers, liars, those who are
+greedy. When the Moon diametrically opposes [its own ruler], it makes 1 Monday. [RH]
+2 In a natal chart. [RH]
+3 Presumably, all the hours mentioned in this section are seasonal hours,
+obtained by dividing the entire period of daylight (or night) into twelve equal
+parts, so lhat a diumal hour of the winter is shorter than a diumal hour of the
+summer. Júpiter That is, making none of the classical figures, i.e., aspects, with the
+Hõroskopos. Cf. Paulus, Chapter 12.
+5 The lexicon says that this is a malady in which a man imagines himself
+to be a dog. 48 fugitives, wanderers, emigrants. When the Moon is one-third less than
+full1 and has rays hurled at it by malefics, it causes and is conjunctive
+of afflictions. 6. Conceming the Decans that Cause Licentiousness
+When Aphrodite occurs in the 1 st decan of Aries, it makes those who
+are licentious, passionate, and those who are mad for men. When
+Aphrodite is in the 2nd decan of Gemini, it makes those who are
+lecherous, shameful, and lewd in relation to sexual matters. In the lst
+decan of Leo, it makes those who are erotic, ill-married. In the 3rd
+decan it makes adulterers, those who are rapers of women, those who
+are made unfortunate by women. In the first decan of Libra, it makes
+those who are licentious, and mad in their desires. In the lst decan of
+Scorpio, it causes mischief from foul-doing women. In the 3rd decan of
+Sagittarius, it causes misfortune through women, and he will be
+shameful. In the lst decan of Capricom, it makes those who are
+licentious, foul-doers, and those who perform unnatural acts. In the 2nd
+decan, it makes adulterers, sodomites. In the 3rd decan of Aquarius, it
+makes those who are sordid. In the 3rd decan of Pisces, it makes
+adulterers and those who are mad for sexual intercourse.
+The Sun in the 3rd decan of Aries makes those who are soft and
+licentious, also when it is in the lst, 2nd, and 3rd decans of Libra, and
+in the lst decan of Scorpio, and in the lst and 2nd decans of Pisces.
+The Moon in the 3rd decan of Aries makes those who are soft and
+licentious and passionate, also in the 3rd decan of Leo, and the lst
+decan of Pisces, and the 3rd decan of Capricom, and the 3rd decan of
+Libra, and the 3rd decan of Aquarius. If the ruler of the Moon by
+fixing2 should happen to be in aversion to it, and the ruler of the
+Hõroskopos should be in aversion to it, he who is bom is neither a man
+nor a beast, but a certain indistinguishable monster. If the malefics
+should look ahead at the pivot points, that which is born will be one of
+the deified animais, for example, a dog or a cat. When the benefics
+should look ahead at íhe pivot points, while the benefics are in aversion. 1 In trine to the Sun? [RH]
+2 kata pêxis. 49 that which is bom will be some wild animal.
+Kronos in the 3rd decan of Aries, in the 3rd decan of Libra, and the
+lst and 3rd decans of Capricorn makes those who are licentious. Also,
+Zeus in the 3rd decan of Aries, the 1 st and 3rd decans of Libra, and the
+lst and 3rd decans of Capricorn. Also, Ares in the lst decan of Aries
+and in the lst decan of Capricorn. And the Hõroskopos in the 3rd decan
+of Aries, the 2nd and 3rd decans of Libra, and the lst decan of
+Capricorn makes those who are licentious and live luxuriously.
+When the Lot of Fortune and the Lot of Divinity and their rulers
+occur in a licentious zõidion1, they make those who are soft and
+licentious. The licentious zõidia are Aries, Taurus, Leo, Capricorn,
+Pisces in part, and Libra. Aphrodite in a masculine zõidion, and in the
+hour or boundaries of Hermes, makes those who are licentious.
+Aphrodite upon a pivot point and in a feminine zõidion, when it is
+regarded by Ares, rouses desire with a love-charm, and makes those
+who are agreeable, especially in the evening. 7. Concerning the Calends2
+If the calends should happen on the lst day3, the winter will be
+advantageous; the spring wet, fertile; the summer, dry; the fali,
+moderate. Falis from quadrupeds, loss of newborns, minimal blasts of
+wind.
+If the calends should happen on the 2nd day, the winter will be
+advantageous, great rains and hail; the summer, windy; the fali, wet,
+early and ready seeds, many fires, many animais, abundance of bees and
+winged creatures.
+If on the 3rd day, the winter will be snowy, fine air, wreckage of 1 Cf. section 1.5. Leo does not occur on that list.
+2 The day upon which the feasts were dedared. [Additional by RH] At the
+beginning of each lunar month (the day of the evening first appearance of the
+Moon) the schedule of significant events was publicly proclaimed. ‘Calend’ or
+‘Kalend’ originally has to do with proclamation, but in this context it simply
+means the ‘first of the month’ and the additional sense of new moon.
+3 Presumably Sunday. See next note. 50 most [ships], much sickness, violent death; the spring, wet; the summer,
+fine; the fali, dry, destruction of females.
+If on the 4th day, the wintçr is temperate, fruit trees are grafted; the
+spring, wet; the summer, dry, the destruction of newborns.
+If on the fifth day, the season is burdensome; the summer, fine; the
+fali, wet, much grain, and the destruction of the heads of State.
+If on the sixth day, the winter is severe, a little disturbing thunder;
+the spring, wet, snowy and with hail, much grain, trouble with the eyes,
+mortality of infants.
+If on the sabbath1, the season will be much affected [i.e., disturbed]; the spring, cold; the summer, wet, a few winds, edible fruits
+on the trees; the waning season, dry, destruction of animais, the rushing
+of rivers and streams from much rain2. 8. Concerning the 7 Wandering Stars in Summary
+Kronos is said to rule over temporal matters, fluidity, and cooling.
+When it is well-figured, it benefits those who are being bom, and it
+apportions out increase to them. When it is ill-figured, it induces
+mishaps. It is called Phainon.
+Zeus is said to rule over magnificence and reputation and dignity.
+It is called Phaethon.
+Ares is the color of fire, and it mies over the blood in us, and the
+procreative appetite, and is a cause of anger and desire and courage. It
+is called Puroeis.
+The Sun rules over breath and soul and motion.
+Hermes, in as much as when it is applying to the Sun it sees more
+rarely, mies over practical wisdom and speech and understanding and 1 A previous reference on page 44, indicates that the days of the week are
+as we would expect, Sunday = 1, Monday = 2, Tuesday = 3 etc. Therefore, the
+fact that the sabbath falis on the seventh day (Saturday), and that the term
+‘sabbath’ is even used, raises some interesting questions. Has this passage been
+edited by someone influenced by Judaism? Is this passage an interpolation? Was
+Antiochus Jewish? We have no way of knowing. [RHJ
+2 In this section some of the seasons are not mentioned for some of the
+days. This is the case in the original text. [RH] 51 the like. It is called Stilbon.
+Aphrodite, when it is lying beside the Sun, having magnitude, rules
+over comeliness and purity and affection and erotic love. It is called
+Phosphoros.
+The Moon, which is nearer to the earth, admitting the effluences of
+the stars above it, and administering to the region around the earth,
+rules over the entire human body. It makes 7 phases with the Sun.
+That the planets, as the stars in the belt of the zodiac which are
+being carried in a helical1 manner, are carried and make Júpiter figures, lst,
+when they are descending from the uppermost segment [of the helix2],
+they are said to depress their height. 2nd, up to the lowermost segment,
+when indeed they are said to depress their depression. 3rd, when they
+are ascending from the lowermost segment of the depression to the
+middle, when they are said to heighten their depression. 4th, when they
+are ascending from the middle to the uppermost segment, when they are
+said to heighten their height.
+One must know that the Moon, when it is running up the helix,
+passes through 11 degrees in one day. But when it is running down the
+helix, it passes through 14 degrees in the same interval3. Whence, it is
+said to make two escapes from bondage: the one, whenever it begins to
+be depressed from the highest [point], which are seen to be difficult and
+uncertain figures for a birth; the other, when it is going up through the 1 This is not a typographical error for heliacal. The word ‘helix’ appears
+later in this sentence. See the next note. [RHJ
+2 The “helix” probably arises in the following manner. The basic rotating
+motion is the diumal rotation. As each planet moves up and down in
+declination, it makes a fine helix, i.e., one with the individual passes vcry close
+together. Basically this whole section can be regarded as a description of
+motion in declination and its four phases. The next section on the motion of the
+Sun with the same terminology makes it clear that this is what Antiochus
+means. The motion of the planets is much more complex than that of the Sun.
+[RH]
+3 Actually the change of speed of the Moon has little to do with its change
+of declination except when the perigee of the Moon is correctly phased with its
+nodes. [RH] 52 middle1, and then is a diffícult time; for, this is the eclipsing place. For,
+when it comes to be in this place and is making a Whole Moon, the
+passion2 of the eclipse appears to persist in relation to our aspect3. Mercúrio . Canon of the Júpiter Winds and the 24 Steps
+For, there is a quadrant for each wind, or 3 zõidia, so that there become
+two steps per zõidion. A step has 15 degrees. Twice 15 is 30; behold,
+30 degrees are found for each zõidion. Then, the Sun goes up in the
+north from Aries until the beginning of Câncer; throughout this it is said
+to heighten its height. It comes down in the north from Câncer up to the
+beginning of Libra; throughout this it is said to be depress its height,
+since from the highest point it begins to be depressed. It goes down in
+the south from Libra until Capricom; throughout this it is said to
+depress its depression. And it goes up in the south from Capricom to
+Aries; throughout this it is said to heighten its depression, since it
+begins to be heightened from the lowest point. It is clearly so in our
+inhabited world, but let it be conceived to be the reverse in the opposite
+region4. 1 almost certainly the ediptic. This passage refers to the Moon passing
+through its nodes. [RH]
+2 paíhos.
+3 opsis. We do not mean astrological aspect here, but one’s countenance or
+look. Júpiter Throughout this entire paragraph, the words ‘heighten’ and ‘depress’ are
+the same as the technical astrological terms ‘exalt’ and ‘depress.’ It is tempting
+to think that we have here some clue as to the nature of the exaltation positions
+of the different planets, but we can see no connection at this time.
+53 Appendix — Translation Conventions
+The following words consistently translate the indicated Greek word.
+ruler, rulership: oikodespotês, oikodespoteia
+ruler: kurios
+master, mastership: despotês, despoteia
+-lord: -kratõr (as in horatokratõr, lord of boundaries)
+-steward: -dektõr (as in oikodektõr, steward of the house)
+zõidion: zõidion (See General Note in Paulus Alexandrinus.)
+place: topos (See General Note in Paulus Alexandrinus.)
+sect: hairesis
+boundaries: horia
+face: prosõpon
+trigon: trigõnon, i.e triplicity.
+house: oikos
+dwelling: oikotêr
+exaltation: hupsõma
+depression: tapeinõma
+figure: schêma
+to figure: schêmatizõ
+to configure: suschêmatizõ
+to come to the attention of (by application, etc): hupodedeiktai
+to contemplate: lheõreõ
+to regard: epitheõreõ
+to scrutinize: katopteuõ
+to testify or bear witness to: epimarturõ
+All four of the above words appear to refer to aspect relationships. The
+words theoreõ and katopteuõ refer to aspects in either direction, i.e.,
+into preceding and succeeding signs. However, katopteuõ seems to have
+a negative overtone suggesting that it refers particularly to difficult
+aspects. The word epitheõreõ is limited to aspects into the succeeding
+signs but, like theoreõ, can refer to both difficult and good aspects. 54 hõroskopos: hõroskopos
+to mark the birth-hour: horoskõpeõ
+to divide the hour: Hõronomeõ See the General Note to the
+Anonymous.
+midheaven: mesouranema
+to culminate: mesouraneõ
+pivot: kentron
+pre-ascension: proanophora
+post-ascension: epanophora
+decline: apoklima
+rise: anatellõ
+set: duneõ
+co-rise: paranatellõ See General Note in the Anonymous.
+ascend, (of nodes): anabibazõ
+descend, (of nodes): katabibazõ
+contact: kollêsis
+application: sunaphê
+separation: apporoia
+circumambulation: peripatos
+degree: moira (See General Note in Paulus Alexandrinus.)
+monomoiria: monomoiria (See the sections in Paulus Alexandrinus on
+monomoiria.)
+crisis: klimaktêr
+to take delight in, rejoice: chairõ.)
+to have dealings with: chrêmatizõ
+Such dealings evidently include any or all of the administrative or
+goveming functions (i.e., dispositions) performed by the planetary ruler.
+master, lord or steward. Possibly the planePs role as spear bearer, and
+any configuration it enters into.
+illustration: hupodeigma 55 A somewhat irregular word for ‘example’, that has just a trace of ‘sign’
+or ‘token.’
+image: eikõn
+Another irregular word for example that may have the sense of a
+visualization.
+occupancy: Epochê See the General Note in the Anonymous.
+under bond: sundesmos.
+Literally, that which ties together. Evidently a more general kind of
+connection than conjunction (sunodos). See Paulus, Chapter 35.
+commencement: katarchê
+beginning: archê 56 The Golden HindPress

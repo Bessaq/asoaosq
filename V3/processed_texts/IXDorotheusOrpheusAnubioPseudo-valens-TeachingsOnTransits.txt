@@ -1,0 +1,2168 @@
+Dorotheus,
+Orpheus, Anubio,
+& Pseudo-Valens Teachings on
+Transits
+Translated
+by Robert Schmidt
+Edited
+by Robert Hand Project Hindsight
+Greek Track
+Volume IX Dorotheus, Orpheus,
+ANÜBIO, & PSEUDOValens Teachings on Transits
+Translated by
+Robert Schmidt
+Edited by
+Robert Hand Project Hindsight
+Greek Track
+Volume IX PROJECT HINDSIGHT is entirely funded
+by the astrological community through
+subscriptions and donations. ©Copyright 1995 by
+Robert Schmidt Published by The Golden Hind Press, Plutão .O. Box 002,
+Berkeley Springs, WV 25411. Table of Contents
+Introduction by Robert Hand .i
+The Hierarchy of Predictive Techniques .i
+The Malefic Sun and Seemingly Strange Transit
+Interpretations .vi
+Translator's Preface to Teachings on Transits
+by Robert Schmidt. x
+The importance of Transits in Greek Astrology . x
+The Context for the Employment of Transits. xii
+The Principie behind the Delineations.xiii
+General Note.xiv
+Teachings on Transits. 1
+1. Dorotheus . 1
+2. Orpheus. 7
+3. Passage Attributed to Anubio.12 Júpiter . Material Attributed to Valens.14
+Appendix I — A Comparative Listing of the Ingress Delineations
+.24
+Appendix Gêmeos — Pseudo-Valens' Ingresses upon the Nativity.52
+Glossary .56 Introduction
+by Robert Hand
+This introduction and Robert Schmidfs preface have a certain amount
+of overlap which is unavoidable. I ask the reader's indulgence and wish
+to suggest that our attacking the same problems from a different angle
+may assist the reader in getting a clearer idea of the importance of
+certain issues.
+In this introduction I wish to take up first the hierarchy of
+predictive techniques, i.e., the proper relationship of directions,
+planetary periods and chronocrators, and transits or ingresses to each
+other. Then I would like to point out to the reader some of the stranger
+aspects of the delineations themselves. The Hierarchy of Predictive Techniques
+Modem astrology has a rather wide variety of predictive techniques, but
+there is no clear set of principies that structures their relationship to
+each other. For example, when does one use secondary directions, as
+opposed to transits, tertiary directions, or other types of direction? When
+does one use primary directions and for what purposes? The usual
+answer seems to be to use whatever is perceived to “work.” Of course
+there are some practical considerations. One cannot use the transits of
+inner planets and the Moon for long-range prediction for the simple
+reason that they happen too often and have too short a period of
+influence. Similarly one cannot do very much with the secondary
+directions of the outer planets because they hardly move at all in the
+course of a normal lifetime. This gives transits and secondary directions
+an obvious complementarity, but not a real distinction as to their
+purpose and usefulness. When should one use forward or normal
+directions as opposed to backward or converse directions? It is not
+enough, as many astrologers do, to proliferate predictive techniques until
+everything is explained (after the fact, of course), with every event,
+every characteristic period in a native’s life explained using a different
+astrological technique. Not only is such an approach chaotic from an
+esthetic point of view, but lacking method, it cannot describe events
+before the fact even in general terms. Also the proliferation of methods
+means that many apparent “hits” by these techniques are really quite i accidental and have no basis in astrological principie. They certainly do
+not “prove” that astrology “works.”
+Also our use of transits as exemplifíed in modern works (including
+a certain work by your editor) does not have any way of determining
+which transits are important and which are not. We certainly know that
+some transits have enormous impact upon natives and others do not. We
+also know that those transits which are strong and those which are weak
+varies from native to native.
+The ancient methods address both of these problems directly, and
+while we do not know at this time how effective they would be in
+modern practice, at least the ancients believed they could make such
+distinctions. The following passages from the ancient and Medieval
+writers illustrate the basic outlines of the system. The first is from
+Ptolemy, and includes a passage which Schmidt also refers to in his
+preface. We have printed it in both places so as to save the reader the
+necessity of turning pages back and forth.
+“We will take the general chronocrators in the said fashion [i.e., by
+primary directions described in the previous paragraph of the
+Tetrabibíos]. And we will take the annual chronocrators by
+extending the number of years since the nativity from each of the
+aphetic places, extending them in the direction of the succeeding
+zõidia at one year per zõidion, and adopting the ruler of the zõidion
+where it fmishes off. We will also do the same thing for the
+months, again extending the number of months since the birth
+month from the places that take the lordship of the year, though at
+28 days per zõidion. Similarly too for the days; for we will extend
+the days since the birthday from the places of the months at two
+and a third days per zõidion.
+“We must also heed the ingresses made to the places of the
+times, since they make no ordinary contribution to the effects of the
+life-periods, and especially ingresses of Kronos relative to the
+general places of the times, to those of Zeus relative to the places
+of the years, to those of the Sun and Ares and Aphrodite and
+Hermes relative to the places of the months, and to the transits of
+the moon relative to the places of the days. This is because the
+general chronocrators are more authoritative for the accomplishment
+of the effect, while the particular chronocrators cooperate or thwart
+in accordance with the congeniality or uncongeniality of their ii natures; but the ingresses finish off the intensification or reiaxation
+of the event. For the aphetic place and the lord of the general times
+together with the lord of the bounds signify the general property of
+the quality and the prolongation of the time. .
+The second passage is based on the Ptolemy passage cited above above
+but is from Stephen the Philosopheris summary of the Dorotheus on
+transits.
+“One need not examine the ingresses of all of the stars, but rather
+only those of the time-lords or those of the encounterer [promittor]
+and bound-lord. For Ptolemy says [that] should the same stars have
+authority o ver the times and the ingresses, the effect is unmixed.
+And we have found, following our constant trials, that the ingresses
+themselves contribute greatly to the effects of the time-periods, not
+only the ingresses of those stars that come onto the places that are
+authoritative at the fixing [the nativity], but also those ingresses that
+are found upon the place of the times by circumambulations
+[primary directions]. We have found that Ptolemy is surety for this
+in the 2nd, 3rd, and 4th book of the Apotelesmatics.
+And these techniques did not disappear in Medieval and Renaissance
+astrology. Schoener in the Opusculum Astrologicum, Book IV, Canon
+XII says the following:
+“First consider the five Hylegs, the Ascendant, the Sun, the Moon,
+Part of Fortune and the Médium Coeli, and the cpnjunction or
+opposition which immediately preceded the nativity. Then consider
+the directions of these to malefics and benefics. These immediately
+induce an effect which lasts until the [significators] appíy to
+another place. And this is called the universal period, which you
+must observe in connection with the directing of the individual
+significators mentioned above.
+“Under this universal period is placed another particular period,
+which exists because the direction of the significator is now in one
+bound of a sign and then in another. This is called a division, and
+this period adds to or subtracts from the influence of the First
+period, accordingly as it agrees or disagrees with the signification
+of the first period. m “The third period is the profection of the significator, which is
+changed every single year from one sign to another. And in this
+period another disposition is impressed, good or bad which,
+considered in its own way, either strong or weak, increases or
+diminishes the significations of the years of the preceding periods.
+“Also, there is the transit of the planets through the requisite
+places, which is also to be considered in its own way. For in [the
+case of] Saturn we consider the transit of his body according to the
+places of the universal periods. In [the case of] Júpiter the transit
+of his body is considered according the places of the year, that is,
+according to the sign of the annual profection. However, [in the
+cases of] Mars, the Sun, Venus and Mercury, their transits are
+considered according the places of the monthly profections, and [in
+the case of the] Moon according to the diumal profections.
+“The goodness or evil of an accident is considered according
+to the disposition of the planets governing such periods. If they are
+good and in harmony with a matter, they signify good according to
+the nature of that planet. If evil and inharmonious, they signify evil
+according to the nature of that evil planet. And the accident will
+appear more strongly when that planet which is the dispositor of
+that matter in the radix of the nativity rules the disposition of the
+period.
+“For example, in the disposition of universal period Saturn was
+lord conceming the disposition of the condition of the body, for it
+was the dispositor of the body due to its location in the Ascendant.
+Therefore at this time the accident will appear more strongly than
+if it were only the ruler of the universal period. Also at this time,
+that which is signified will appear more strongly when several
+[indications] are in harmony, or directions come together in
+harmony at one time, whether to the good or to the bad.”
+Here is a summary of what the three passages tell us. The overall
+planetary period rulers are found from the primary directions of the
+major significators. The same list appears in Ptolemy and Schoener
+except that Schoener adds the place of the prenatal New or Full Moon
+as a point to be directed. Each of the significators governs an area of
+life, and as it is directed, it makes aspects to the planets. These are the
+promittors. When a promittor is contacted by a significator, its natal
+house and the house it rules become most important, and it becomes the
+major chronocrator with regard to whatever the significator signifies.
+iv The transits of Saturn-Kronos to these places are the most important
+along with the transits of and to the rulers of the periods and their
+houses.
+Then immediately below these major periods and their rulers in
+significance according to Schoener and Dorotheus are the rulers of the
+bounds through which each significator moves as it is directed. These
+are to be taken into consideration along with, but subordinate to, the
+major rulers and periods indicated by the directions of the significators
+to the promittors. Ptolemy omits this layer of rulers and periods.
+Then we have the annual profections of each of the significators at
+the rate of one sign per year. The rulers of the signs as the profection
+moves through them gives rise to another layer of chronocrators, the
+periods being simply the year. The transits of Jupiter-Zeus are especially
+significaht with regard to the houses ruled and occupied by the signrulers of the profected positions. It is also probable that the houses
+themselves were reckoned not from the natal first house, but from the
+profected first house. Thus a native's natal first house is truly a first
+house for predictive purposes only every twelve years when the annual
+profections retum to their natal positions.
+Below this are two more layers of profections with their rulers. The
+monthly profections go completely around the chart in one year in such
+a way that they precisely coincide with the annual profection at the
+birthday. Since the annual profection moves at the rate of one sign per
+year, the monthly profections have to go at the rate of thirteen signs per
+year in order to keep up. If one divides the length of the year by
+thirteen, one gets a little over 28 days. This is the basis of the 28 day
+per sign figure for monthly profections given by Ptolemy. This provides
+a change of chronocratorship every 28 days. Houses are also to be
+counted from the profected first house in the monthly profections in the
+same manner as the annual profections, and the movements of the f as ter
+planets, Mars-Ares, the Sun, Venus-Aphrodite, and Mercury-Hermes,
+are to be reckoned according to these houses. Again the houses
+occupied by and ruled by the chronocrators are the most significant.
+Finally we have the so-called diumal profections. But these are not
+really diumal, but move at the rate of approximately 2lh days per sign,
+a rate needed to make the “diumal” profections meet up with the
+monthly profections at the beginning of every 28 day period. For these
+profections the transits of the Moon are most important, and the signrulers of the diumal profections are the lowest levei and final v chronocrators.
+In Schmidt’s preface he introduces a possible theory based on the
+Greek words used for all of this which suggests that the transits or
+ingresses add intensity to the background qualities signified by the
+layers of chronocrators. And the passages quoted above tell us that the
+only important transits are ones that involve either the places ruled or
+occupied by the chronocrators of the time. Although it is not stated in
+a manner completely ffee of ambiguity, it does seem evident that the
+general period rulers, the ones indicated by directions to promittors, are
+the most important, possibly followed by the division lords, followed by
+the several profection lords.
+Here is our hierarchy of various predictive techniques, and here is
+our theory of why some transits appear essentially dumb. I believe that
+a serious mistake may ha ve been made when later Renaissance and 19th
+Century astrologers stopped regarding primary directions as a source of
+period rulerships and began using them solely as a method of timing
+events. A further mistake may have been made when all astrologers
+with a few interesting exceptions1 ceased using profections. These two
+changes destroyed our understanding of the proper use and function of
+planetary periods rulers or chronocrators. Then the situation was
+compounded by the creation of many new techniques brought into a
+framework that had been shattered by the failure to comprehend exactly
+what the ancients were trying to do. However, I must conclude this
+section by saying that the elegance of these ancient techniques must also
+prove to be workable and effective. But even if the details of the
+ancient method do not hold up in practice, any new method must be
+something like it in structure. 1 Among these exceptions was someone who appears to have been at first
+sight an arch-modemist, Alfred Witte, the founder of the Hamburg School. He
+was not actually so much of a modemist. Rather it was his intention to
+rationalize and codify the tradition according to general principies which made
+sense to him. Given the State of knowledge of traditional astrology at the time
+he did his work, it is not surprising that he went so far afield from it. This may
+not have been his intention. vi The Malefic Sun and Seemingly Strange Transit Interpretations
+In Western astrology the Sun is not commonly regarded as a malefic in
+the same way that Mars and Saturn are. The Sun is only considered a
+malefic in traditional Western astrology when it is conjunct a planet.
+This is the State known as combustion. But in Hindu astrology the Sun
+is considered a malefic in much the same way as Mars and Saturn..
+This has always been cited as one of the distinguishing marks between
+the two traditions. However, it is becoming clear that this distinction is
+not quite as clear as many have thought.
+First of all I refer the reader to the translation of Julius Firmicus
+Matemus by Jean Rhys Bram. In this work aspects and other
+placements involving the Sun are consistently described as if the Sun
+were a malefic. Of course this could be a curious exception to the rule
+except that now we have these new texts on ingresses involving the
+Sun. And here again we see malefic manifestations associated with the
+Sun. Here are a couple of examples. First ffom Orpheus:
+“Zeus onto the Sun gives sluggishness to actions and ruins the
+home, or causes illness or the destruction of possessions, and a vain
+and contrary end to one's labors.”
+This is Jupiter-Zeus to the Sun, a transit usually regarded as benevolent
+by later astrologers. And here is the same transit from Pseudo-Valens:
+“Having come upon the Sun, it [Zeus] effects serious illnesses,
+dangers from the water and shipwrecks, and deflux of rheum; and
+it introduces expeditions that are not conducive and distresses in
+matters pertaining to life.”
+From Orpheus again:
+“The Sun onto itself or the Moon causes sickness and want of
+money, and it causes movement ffom one’s own places; often, too,
+it brings wealth out of oppression. The Sun onto Aphrodite is a
+cause of unsettlement, troubles the domestic felicity of women, but
+it provides profits in regard to gifts. The Sun onto Hermes causes
+the mind to wander and hurts the soul, is one to deceive and causes
+frivolous spending. The Sun onto the pivots removes one to other vii places and causes sickness and is grievous for the body. .
+And from Pseudo-Valens again:
+“When the Sun comes to be in the Hõroskopos, it causes weakness,
+upheaval, dangers, movements; but it strengthens those who had
+already been sick before it came to this very place. . .
+.. When it [the Sun] arrives at its own place, it causes cares
+and afflictions of the soul, disturbances, empty fears, and
+movements [originating in] domestic matters. Having come to
+Kronos, it works dangers from water and ailments or defluxes of
+rheum; and it is effective in relation to actions. Arriving at Zeus,
+it is unpleasant in relation to the multitude and those who are
+superior; and friends. . . and censures and calumnies; and for
+succeeding at the activities of ones life.”
+And there are other instances. [See Appendix I where the ingresses are
+all listed in order.] All of these examples and many of the others given
+in the texts do not seem to follow anything like the modern Western
+idea of the Sun's nature.
+In his preface Robert Schmidt discusses principies that could result
+in symbolism that is quite different from what we would expect by the
+conventional blending of the symbolism of the kind employed in
+modem transit interpretations. If he is correct, then we should not
+expect transits to have effects such as we would get merely by deriving
+the interpretation from a mixing of the symbolism. I refer the reader to
+his preface.
+However, there are other indications that we are also dealing with
+a time when Western astrology and Hindu astrologer were much closer.
+I think that these delineations, those of Firmicus', and the ancient idea
+of combustion itself, which modem astroiogers tend not to take very
+seriously, are all survivals from a time in which the Sun was regarded
+as being much more of a malefic than it is now. And see Appendix Gêmeos for a discussion of what may be another connection between ancient
+Western and Hindu astrology.
+Otherwise it is true that many of the other interpretations given for
+ingresses in these writings are quite similar in content to modern ones.
+For example, modem astroiogers consider Jupiter-Saturn contacts in
+either direction to have a strong effect upon one's occupation both good viii and bad. Our ancient writers say much the same thing. But then there
+are also combinations such as the ones Schmidt refers to in his preface,
+Mars-Ares to Satum-Kronos, which is delineated favorably, and VenusAphrodite to Jupiter-Zeus which is very unfavorable. (Jupiter-Zeus to
+Venus-Aphrodite is quite favorable, by the way.) Here again we need
+to keep Schmidt's hypotheses in mind as we study these ancient
+delineations. Many of them are not what we would expect. Translator's Preface to Teachings on Transits
+by Robert Schmidt
+The four treatises contained in this booklet have preserved the Greek
+doctrine of ingresses (or transits) for us. They are the only delineative
+texts conceming these that survive from Hellenistic astrology. The first
+three occur one after the other in a collection attributed to Stephen the
+Philosopher (7th Century C.E.). They are all prose paraphrases of verse
+texts that no longer survive. The fourth treatise is assigned to Valens in
+the manuscript, although Pingree doubts the attribution (as do I). The
+doctrine, however, is quite consistent with the other treatises and has the
+feeling of old material.
+This material raises a number of questions: 1) How important were
+ingresses in Greek astrology? 2) In what context were they used? 3)
+What is the principie behind the delineations? In this preface we will
+only give a few thoughts related to each of these questions. The importance of Transits in Greek Astrology
+Judging from the scarcity of treatments and invocations of transits in
+Hellenistic astrology, we might be inclined to regard them as being of
+minor importance. However, the following brief passage from a genuine
+work by Valens should serve to counteract that opinion. It also indicates
+that transits should only be taken into account under certain circumstances. The (Anthology) of Valens, Book VI, 5:
+“Ingresses of the stars, then, will be judged to be sufficiently
+intense1 whenever they should ingress upon the places (or should
+be squares or diameters to them) while they are masters of the
+times.2 In like manner, each of the stars also has sufficient tension
+to preserve or destroy when making its ingress upon those planets
+that have obtained the sovereignty or leadership at the hour allotted
+the ingress. And no one planet can prevent the threat of [this 1 eutonos. Literally, ‘well-stretched,’ ‘taut’.
+2 When they are one of the chronocraiors, or time-lords. x ingressing planei] for certain ones1 or its good Service to them,
+even if it should tíappen to be much stronger for family, life, or
+reputation, but it yields to the laws of the life-period until the
+[ingressing planet] lays aside the sovereignty. When it completes
+[its] time, handing over the leadership to another, it reverts to being
+without tension2 in relation to good or bad. . .
+In a passage near the very end of the Tetrabiblos, Ptolemy concurs in
+the issue of their importance. He says,
+“We must also heed the ingresses made to the places of the times,
+since they make no ordinary contribution to the effects of the
+life-periods,3 and especially ingresses of Kronos relative to the
+general places of the times, to those of Zeus relative to the places
+of the years, to those of the Sun and Ares and Aphrodite and
+Hermes relative to the places of the months, and to the transits4 of
+the moon relative to the places of the days. This is because the
+general chronocrators are more authoritative for the accomplishment
+of the effect, while the particular chronocrators cooperate or thwart
+in accordance with the congeniality or uncongeniality of their
+natures; but the ingresses finish off the intensification or relaxation5
+of the event. For the aphetic place and the lord of the general times
+together with the lord of the bounds signify the general property of
+the quality and the prolongation6 of the time. .
+And Ptolemy, too, singles out the case where the same planet is both a
+time-lord and making an ingress.
+“And if the same stars have authority over both the times and the
+ingresses, the nature of the effect becomes excessive and unmixed,
+whether it should incline to the good or to the foul.” 1 Planets or persons?
+2 atonos. That is, slack.
+3 kairos. This is not seasons of the year, but the seasons or special periods of one's life. Júpiter parodos.
+5 epitasis kai anesis.
+6 paratasis. xi Corning from Valens on the one hand, and Ptolemy on the other, we
+may infer that this was the prevailing opinion amongst the Greek
+astrologers as to the importance of these ingresses. The Context for the Employment of Transits
+Modern transit doctrine concentrates on the transits of one planet to the
+degree occupied by another planet (or other significant point in the natal
+chart). This may be only a small subset of the field occupied by the
+Greek concept of an ingress. First of all, the Greek concept clearly
+includes transits to the zõidion occupied by the planet, which is
+regarded as the place occupied by the planet in the whole-sign System
+of houses. And as a matter of fact, we have no unequivocal references
+to degree transits in any of the material here translated, although it is
+possible that they are being considered as a special case in all of the
+delineations given. We do not yet know whether this most basic kind
+of ingress was applied to transits of mundane houses, which are the
+places occupied by the planets in a different sense.
+Secondly, the Greek ingress concept may include transits to natal
+places that are more abstractly characterized, such as places defined by
+profection. Here, too, it seems that the emphasis is more on the zõidion
+ruled (but not necessarily occupied) by planets that assume importance
+from time to time by becoming chronocrators.
+Thirdly, we know that ingresses were used in the solar retum since
+the Dorotheus piece is unequivocally in such a context, and the one
+attributed to Valens may have such a connection. Paulus mentions
+ingress in the context of circumambulations (directions). As a matter of
+fact, nowhere in the few scattered references to ingresses in the rest of
+Valens and Hephaistio do we fmd transits mentioned in isolation from
+directions, chronocratorship, profections, or solar returns. Thus, on the
+precedent of Greek usage alone, it is hard to justify the employment of
+transits as an autonomous concept.
+I have analyzed the four texts grammatically to see whether one of
+these scenarios is favored by the subtleties of language. I can only
+conclude that the Greek writers were almost perverse in their language
+in including all these possibilities of transit. Thus we should not
+probably not generalize the ingress concept from any of the special
+cases mentioned above (including simple transits to the natal chart), but xii we should rather try to find some broader conceptualization that
+includes them all. Which brings us to the next question. The Principie behind the Delineations
+I venture to say that anyone familiar with modern transit interpretations,
+who reads these delineations will find some that sound completely
+wrong to him. Let me just mention the Ares transit to Kronos, which is
+regarded as very favorable by all the writers; and the Aphrodite transit
+to Zeus, which is regarded as quite unpleasant by them. Clearly, if these
+transits are not just the result of a very different astrological experience,
+and have any constructive side to them, they cannot derive from the
+same “mixing of energies” that we find in aspects. In fact, the Greeks
+regarded Ares-Kronos aspects in a nativity more or less as we would in
+modem astrology, as quite terrible; and the Aphrodite-Zeus aspects are
+quite predictably favorable. So we cannot just rely on such a principie,
+In this context, it is interesting to look at what Abu Mashar says
+about the principie behind transits in solar retums in his work on solar
+revolutions. I translate from Pingree's edition of the medieval Greek
+translation of this work, Book V, section 1.
+“The ingresses of the stars in the revolution of the years to their
+own fixed places1 and to those of the other siars has certam
+ineffable significations for good and bad things. It is necessary,
+then, to examine their places. For, in the revolution of the year, the
+star often comes down to its own fixed degree, and often to the
+zõidion yet not the degree. At the times in the revolution of the
+year when it should come down to the degree in which it was at
+the fixing or to the bound in which it was, its signification will be
+perfect. And if the star in the revolution of the time is in a certain
+zõidion, then retrogrades back to its place at the fixing, it also has
+some signification in this way. But when it should come down to
+the place of another star, one must investigate in a threefold
+manner. 1 epi tous kata pêxin autõn topous. As we will see in the upcoming Dorotheus excerpt, this expression seems to refer to the fixing of the positions
+of the stars in the nativity.
+Xlil First it is necessary to mix the signification of both the planets
+when they look upon each other, then [second] to investigate the
+natures of these. For, just as it is benefic whenever it should come
+to the place of a benefic, also a benefic at the place of a malefic
+makes the activity of the malefic beneficent. And if a malefic
+should come down to the place of a benefic, it ruins the activity of
+the benefic, while if a malefic comes down to the place of a
+malefic, it intensifies the malevolence of it. Third, it is necessary
+to examine the zõidion in which the star was at the fixing, and
+make this be like a Hõroskopos and make its effects in accordance
+with it.”
+This mixing of energies has a very modem ring about it, but I don't see
+how the pair of delineations referred to above can in anyway be derived
+frorn such a simplistic principie. So how does Abu Mashar delineate
+these two transits? Consistently enough with his own principie, but not
+fully in accord with the tradition, he has moderated the positive quality
+of the Ares-Kronos transit, and reversed the negative character of the
+Aphrodite-Zeus transit.
+“Ares making an ingress to Kronos in the time of the return causes
+the addition of siblings and friends and makes stays away frorn
+home that are nearby. If Ares has a relationship to the year, it
+indicates idleness and sluggishness; if Kronos should have a
+relationship to the year, it will sicken [one] frorn a blow.
+“If [Aphrodite] occupies the place of Zeus, it indicates much
+trust and joumeys away frorn home to priestly places. And it gives
+wealth through inheritance, and going abroad to friends, and
+acquiring new friends who are rulers, and it will cause sickness and
+health.”
+It seems to me that we have lost the thread somewhere. In the interest
+of trying to find it, I will offer a short linguistic analysis of the word
+epembasis to see what might be of use. General Note
+Epembasis is an abstract noun formed frorn the verb epembainõ. The xiv root of this word is the common Greek verb bainõ, which simply means
+‘to walk’. It has the prepositional compound epern prefixed to it, which
+is constructed from the proposition epi, which means ‘on’, ‘upon’, ‘up
+to’, etc., along with the proposition en, which means ‘in\ or ‘among’.
+The resulting verb, then, means ‘to step onto, into, up onto, over’, etc.
+In a figurative context, it very often has the hostile overtones ‘to
+trample on’, ‘to attack’, ‘to approach’. However, when synonyms are
+used in the upcoming transit texts, more neutral words are chosen
+(sometimes quite deliberately, it seems to me) to counteract any
+suggestion of hostility. And sometimes parodos, the Greek semantic
+equivalent to our English word ‘transit’, is used in conjunction with
+epembasis to make this meaning more specific.
+There is a second figurative usage that is in a temporal context: ‘to
+embark’ or ‘to commence’, the first deriving ífom the idea of stepping
+on board a boat or craft In preparation for a voyage, the second from
+the notion of stepping onto a period of one's life. Now, we know that
+the word epembasis in occasionally used as a synonym for paradosis
+kai paralêpsis, the moment of handing over and taking up which
+signifies the entry into a new period of chronocratorship, and we know
+that the ingress is enhanced (or even made possible) when the
+ingressing planet is also a chronocrator. Thus, there is a close and
+intrinsic bond between these two concepts.
+Ptolemy has himself pointed to their root connection at the end of
+his first quotation abo ve. The chronocrator indicates the specific
+character and the prolongation, paratasis, of a certain period of time,
+while the ingress produces an intensification or relaxation epitasis kai
+anesis in the effect. Paratasis and epitasis both come from the same
+root verb teinõ, which simply means ‘to stretch’. The first has the
+meaning ‘to stretch along’, as in the expression “the wall stretches along
+the road,” the second ‘to stretch to a certain poinf as in the expression
+“the line is stretched tight.” Again, the first is related to extension, the
+second to intension.
+Now, remember that the stretching of a string to different tensions
+(the second sense) will produce the discrete tones of the musical scale
+that we call “steps” (gradus in Latin, from the root of the verb for
+‘ingress’ ingredior), while the Greek word we translate as ‘ingress’,
+concretely means ‘to step onto’. Thus, in Ptolemy’s mind at least, there
+must be a connection between the concept of ingress, epembasis, and
+the concept of intensification, epitasis, lying in the idea that a planetary xv ingress takes lhe fundamental “pitch” of the chronocrator a few steps
+higher or lower—that is, it brings about a certain intensification of the
+event that produces a well-defmed “step” or “tone” characteristic of the
+planet receiving the ingress. In this way the very same word that
+describes a physical occurrence in the heavens expresses the nature of
+its effect on an event of this world. This doubleness of meaning seems
+to be characteristic of astrological language in general.
+Valens too appears to be using this string-stretching metaphor in the
+first quotation of this preface, although he is applying it somewhat
+differently. We can also produce different tones on a string of given
+tension by varying the sounding lengths. However, without an
+underlying tension to the string no tones can be produced. Valens likens
+the effect of the chronocrator to the tenseness of the string, and argues
+that no “tones” could be produced by ingress if the string itself were
+slack. Incidentally, these two different metaphors seem to play on the
+two different senses of the Greek word eutoneõ, which can mean either
+‘to tense sufficiently’, or ‘to tense properly’.
+It is perhaps also worth mentioning that the Persians associated the
+different strings on the seven-stringed lyre with the seven planets. Thus,
+we might liken the effect of an Ares ingress onto Kronos when Ares is
+a chronocrator to the production of the tone of Kronos on the string of
+Ares.
+We can also see here the intimate connection between the concept
+of ingress and the concept of chronocratorship. In Ptolemy's version of
+the metaphor, the ingress is the tension of the string while the
+chronocratorship is its length—and we all know the interrelationships
+between the length, tension, and pitch of a string.
+This metaphor of the tensing and relaxing of a string is of crucial
+importance in Greek philosophy. The Greeks regularly used it to
+characterize the manner in which the intensity of a quality can change
+while the quality remains the same. For example, redness can vary in
+intensity or “degree” (a word that means ‘step’, by the way) while
+remaining red. Such change was conceptualized as resulting from a
+varying tension of opposites “pulling” against one another. This
+metaphor accounts for both the continuity of different intensities and the
+existence of discrete “steps” or “degrees” of the quality, corresponding
+to the different tones produced by the tensing of a string.
+This was regarded as the fundamental way of understanding the
+changing of all qualities, such as color, weight, and even speed. But xvi what is quite surprising in the present discussion is that the astrologers
+are employing these concepts in a temporal context, as characteristics
+of an event. This may seem puzzling to us at first because our own
+understanding of events is highly conditioned by the paradigmatic
+example of a collision of two bodies, which happens more or less
+instantaneously. What could be meant by the intensification and
+relaxation of an event? Evidently, the event is understood to take place
+over a period of time. This takes us back to the fundamental meaning
+of the usual Greek word for ‘event’, apotelesma.
+In our earlier translations, we have usually understood this word as
+the effect caused or brought about by the planet—what the planet has
+done, as it were. But here also we may have been too influenced by
+concepts from modem physics. We have thought too much in terms of
+the efficient cause, the cause that pushes and pulls and acts more or less
+instantaneously. Something that happens over a period of time is
+conceptualized as a series of events each of which happens in a
+moment. But the Greek word apotelesma refers just as much to the
+activity of accomplishing a goal or an end (telos) as that goal or end
+itself, much as our English word accomplishment does. And the activity
+of accomplishment may very well be something that takes place through
+time. In the Ptolemy passage above, that accomplishment is understood
+as having a certain characteristic quality of prolongation—not just a
+length of time; for example, it may happen in fits and starts, or
+frenetically, or steadily and rhythmically. And the quality of prolonga¬
+tion itself can have different intensities while remaining the same
+quality, going from the extremes of keenness of activity to
+sluggishness.1 Then, in the context of chronocratorship and ingresses,
+the entire prolongation and intensity of accomplishment has a planetary
+character—not just the achieved result itself, while it must be possible
+to correlate each type of prolongation and intensification to a certain
+planet.
+If this analysis in correct, then it means that we cannot get to the
+heart of the Greek ingress delineations by a simple mixing of planetary
+energies, as if they were just a kind of aspect; for one of the planets
+represents the prolongation while the other represents the intensification.
+Nor can we merely consider the effects brought about by planetary
+energies; we must in addition learn to delineate the character of these 1 Cf. Paulus, chapter 26.
+XVII planetary energies while they are at work, and thus understand the
+authentic temporal dimensíon to astrological causation.
+In view of the above discussion, we have chosen to translate
+epembasis by the latinate word ‘ingress’, (from ingredior), which is the
+perfect cognate, and has had throughout history largely the same range
+of meanings. It is also more general (and therefore less misleading) than
+our English word ‘transit’. Teachings on Transits
+1. Dorotheus
+Introduction
+The reader may wish to compare the following prose paraphrase of the
+Dorotheus text in Greek with Pingree’s translation of the same material
+from the Arabic version (Book IV, 1, p. 258 ff.), which is evidently
+transiated from a non-extant Persian translation of the Greek. In my
+opinion, the Greek text reads as if it is much closer to the original since
+the delineations are usually sharper and more specific. If this is so, it
+could give us some idea of just how far the Arabic translation of
+Dorotheus has drifted from the original.
+Regarding the ambiguity mentioned above in the translator's preface
+as to the nature of the transits, the upcoming Dorotheus passage does
+not regularly use verbal forms of the word epembainõ as the next two
+treatises do, but uses the basic verb erchomai which means ‘to come’
+or ‘to go’. It usually employs them with a preposition ‘onto’, eis or ‘to’
+epi. [CCAG 2; 195-198]
+Translation
+It is also necessary to pay attention to the ingresses1 of the stars. For
+when Kronos is coming to Zeus, it hinders whatever Zeus provides and
+quells every activity and impulse; Kronos onto Zeus also [causes] fines
+and damages what is being completed.2 Kronos to the place3 of Ares
+makes those who are discouraged and not eager. Kronos onto the Sun
+brings dangers and judgments from the magistracy, and especially when
+it is stationing. Kronos to Aphrodite harms the goods of Aphrodite.
+Kronos to Hermes harms the things which are being offered by Hermes.
+Kronos onto the Moon is likewise bad, for it brings censures and 1 epembasis. See the translatofs general note to this volume.
+2 Following the variant reading here,
+3 It is not clear whether the degree or the zõidion is indicated by this
+expression.
+1 reproaches, and it is worse when Kronos is stationing. Kronos
+diametrical to the Moon is bad and especially when it is under the
+beams, for it brings disease; and it is also so when Ares sees the Moon.1
+Zeus to Kronos provides an alleviation of a preexistent distress;
+such [natives] manage the work of another and they will spend freely.
+Zeus to Ares provides both activity and favor, and will increase
+everything, and bring enemies into subjugation. Zeus onto the square of
+Ares or of Kronos likewise indicates good things; so also Aphrodite; for
+when the good planets are coming onto the square of destructive
+planets, they provide pleasure and health and honor.
+When Ares has come to the Sun or Zeus, it is base, more so in the
+day, and even more when it is setting; and if it is also stationing, it is
+dangerous as well; for as far as the ancients are concemed, it signifies
+corporeal dangers and judgments. Ares also does the same when it has
+come onto the diameter of the Sun and Zeus; however, when the Sun
+or Zeus step on Ares by transit,2 or they are diametrical, it also does the
+same thing. And among these ingresses, if the malefic was by fixation
+trine to a zõidion in which the harm due to the ingress took place, the
+affliction is lighter, since the diametrical figure is loftier than all the
+others, and the square figure is more powerful than the bodily figures.3
+And of the square figures, examine the one on the right more, which is
+also said to be in superior position; for when the malefícs step onto
+these and have a superior position o ver the stars, they cause harm more
+powerfully, while the benefics in the squares give wealth, good cheer
+and honor. Júpiter The good planets in the triangular places work even more
+good, while the malefícs work in a more blunted fashion. 1 It is not clear whether Ares is in transit or in the natal chart. [RH]
+2 empembainõn tõi Arei kata parodon. Without a preposition, the verb
+epembainõ with a dative could suggest that the one planet attacks or tramples
+the other. The phrase “by transit” may have been added to counteract this
+suggestion and point to the idea of an ingress. The word parodos is the
+semantic equivalent of our word ‘transit’.
+3 This probably means conjunction, in which the planets involved do not
+“see” one another at a distance, but are rather bodily co-present in the same
+zõidion. Júpiter The reader should note that squares and diameters (oppositions) are not
+represented as intrinsically malefic. It depends completeiy upon the planets
+involved. However, in the next sentence it is clear that trines do blunt the
+effects of malefícs. [RH] 2 When Kronos and Ares are in ingresses in relation to the Sun, the
+Moon, and Zeus, both bodily and in those by square and diameter, and
+similarly also the recurrences1 and anti-recurrences2 (that is, whenever
+they should come to their own fixed places, or to the diameters), they
+become more harmful, if they were in fact poorly situated from the
+beginning. However, Ares is lighter after 45 years have elapsed, and
+Kronos is more gentle after 30 years have elapsed.3 Similarly also, the
+destmctive stars are distressing when they step onto the Júpiter pivots or onto
+the lights. However, if they were in good and congenial places at the
+beginning, it makes the affliction by transit blunter, just as the good
+stars which are disposed in base places at the beginning become weaker
+by transit. Júpiter One must know that the occupancies of the stars by fixation keep
+still, but the occupancies of the stars by ingress are always figured in
+relation to the initial occupancies, such as triangles, squares, diameters.5
+The chapter about saying when the significations happen is
+necessary. Every star is base when diametrical to itself by transit, and
+it is bad when coming upon its fixed place,6 and more if Ares should
+see the Sun by transit in a diurnal nativity, but for noctumal nativities
+if Kronos should see the Moon.7 And stations in such ingresses by
+transit are also worse. When Ares trines the Sun or Zeus not by transit 1 A recurrence apokatastasis is a planet making an ingress upon its own
+natal position.
+2 antapokatastasis.
+3 The 30 years suggests the Iesser period of Kronos, but the 45 years
+associated with Ares remains a mystery. [RH] Júpiter This is ancient doctrine that reappears all through the history of
+astrological literature, but is all too often neglected in modem astrology. The
+natal condition of a planet strongly affects how it operates in transits. [RH]
+5 A reasonable paraphrase of this sentence would say that the positions of
+the planets in the chart are a constant and must be throughly understood,
+whereas the transitting planets must be understood in relation to their positions
+in the chart and the aspects they make to the positions in the chart. [RH]
+6 It is easy to see from modem doctrine why a planet opposing its own
+place would be difficult, but here the author seems to be saying that planets
+retuming to their own places is not vey good either. [RH]
+7 Ares is noctumal and so works badly in diurnal nativities, likewise
+Kronos in noctumal nativities. [RH] 3 but by fixation, later in the ingresses to them it will not be bad at all.1
+When Ares has come to Kronos, it makes those who are resolute
+and ready and effective, and it separates with enmities. Ares to Zeus
+and Aphrodite and Hermes tums what they provide for the worse. Ares
+to the Sun, if in addition it should also be found under the beams by
+transit, subjugates by fire, or gives a loss by fire. If someone has a
+father, it destroys either him or the older man having the role of father,
+and it is bad for great men and diffícult in every work, especially in
+public matters. Ares onto the Moon provides bodily illness or financial
+harm and charitable Service with toil; and they will only watch over
+enemies, that is, they will have power over enemies. Ares to Aphrodite
+causes irregularities for the sake of erotic matters. Ares to Hermes
+makes slaves, suspicions, want of form,2 and causes enmities between
+friends, the flight of slaves or thefts; also, the reduction of one's
+livelihood or doings, for it pre-eminently diminishes the livelihood and
+undoes one's doings.
+Aphrodite onto Kronos is fine for doing and for everything, just as
+Ares coming to Kronos is good. Aphrodite onto Zeus disturbs and
+troubles through women, and plays one's hopes false, and nothing of
+what one intends comes to pass. Aphrodite to the Sun provides
+continuous association with women and censure on account of women;
+and it also disturbs the soul and causes unsettlement in domestic
+matters. Aphrodite to Hermes augments what Hermes makes or
+provides. Aphrodite onto the Moon is cheerful and effectual, yet it
+brings suffering or censure on account of a woman.
+Hermes to Zeus is best for everything, and especially for those who
+wish to come into power. Hermes onto Ares makes those who are
+daring, inventive, and excited about things. Hermes onto Aphrodite is
+stimulating in regard to erotic matters, and it is also beneficiai for one's
+actions and for the rest of his works. Hermes to the Moon provides
+health and strengthening, and gives power to the body parts.
+The luminaries in the places of benefics are beneficiai, but in the
+places of malefics, harmful. A malefic coming onto the pivots is quite 1 There is an interesting suggestion here that favorable aspects in the
+nativity fortify the planets against bad transits. [Additional by RH] This is in
+accord with modern understanding of transits as weli.
+2 aschémosunê. This includes physical disfigurement, awkwardness,
+indecomm, etc. Júpiter harmful; for the Hõroskopos obtains the whole of life as its lot; the
+Midheaven, doings and children1 and reputation; the Descendant,
+marriage and old age; the subterraneous pivot, the hidden mold2 of the
+body,3 and foundations and creation and markets.
+When the Moon has come onto its own place, it makes thoughts
+rise to the surface. Júpiter And if it should chance to be in a tropical zõidion,
+[the native] changes from one occupation5 to another. And if it should
+happen to be with Aphrodite and Zeus by fixation,6 it provides much
+good cheer. When the Moon has come onto the Sun in Leo, it is fine
+for unions. When the Moon has come to Ares, it signifies unforeseen
+dangers if no benefic should look at it. Similarly also, when the Moon
+has come onto the Sun while Ares looks on. The Sun onto Ares or Ares
+onto the Sun, and the Sun or Ares onto the Moon while the Sun is copresent, signify bloodshed or harm from fire. The Moon onto Aphrodite
+while no malefics look on is a good time; and if Ares is co-present with
+the Moon or with Aphrodite, it signifies intercourse with women. The
+Moon to Kronos is cold, and when it is in its own trigon, [the native]
+is benefited by those who are ruling: The Moon to Hermes when he is
+beneficent indicates good things, but difficult things when he is
+maleficent. The Moon to the Hõroskopos elevates the soul.7 Having
+come to the Midheaven, it makes for promotions and reputation; and
+you may know the kind of reputation from the star testifying to the
+Moon. The Moon to the Descendant is fine for plots against enemies.
+Similarly also, having come to the subterraneous pivot, it is fine for
+slaves and the plots of enemies and matters clandestine and hidden, and
+for the association of such. 1 ln ancient íore the the Midheaven is associated with children just as
+much as the fifth house. [RH]
+2 This is ‘mold’ as in ‘to cast’ not ‘fungus’. [RH]
+3 tous kruphious tupous íou sõmatos. I am not sure what this is referring
+to. Júpiter meteõrismon dianoias parechei. This is also a way of referring to mental
+discomposure, although it is not clear that this negative connotation is intended
+here. Rut compare this statement to the note on Moon ingresses in the treatise
+attributed to Valens, page 23, note 1.
+5 praxis.
+6 That is, in the original chart.
+7 Compare this statement to the note to the first sentence of this paragraph. 5 One need not examine the ingresses of all of the stars, but rather
+oniy those of the time-lords1 or those of the encounterer2 and boundlord.3 For Ptolemy says [that] should the same stars have authority o ver
+the times and the ingresses, the effect is unmixed. Júpiter And we5 have found,
+following our constant trials, that the ingresses themselves contribute
+greatly to the effects of the time-periods,6 not only the ingresses of
+those stars that come onto the places that are authoritative at the fixing,7
+but also those ingresses that are found upon the place of the times8 by
+circumambulations. Mercúrio We have found that Ptolemy is surety for this in
+the 2nd, 3rd, and 4th book of the Apotelesmatics.10 1 Chronocrators or rulers of planetary periods. [RH]
+2 hupantêtõr. This is the body that encounters the apheta in the course of
+a direction. The Latinate term for such an encounter was occourse. [Additional
+by RH] This is what later astrology knew as a promittor or promissor. There is
+material in Rhetorius [translated in Neugebauer and Van Hoesen, Greek
+Horoscopes, charts number L 401, and L488] which illustrates the direction of
+the apheta past other planets or their aspect positions. These are also planetary
+period rulers of a kind as well, and as such their transits are especially
+important.
+3 Movement of the apheta or other significators through the bounds are
+called divisions in later Latin literature. Unfortunately it is not entirely clear
+whether that term is not also used for other kinds of temporal periods. See
+Schoener, Opusculum Astrologicum, p. 92. “And under this universal period is
+placed another particular period, which exists because the direction of the
+signifícator is now in one bound of a sign and then in another, which is called
+a division. . .” [RH] Júpiter Cf. toward the end of Book IV, chapter 10 of the Tetrabiblos.
+5 This would appear to be the epitomist speaking.
+6 kairos. I think this is season in the more general sense of the periods of
+time subject to a planetary time-lord—-the seasons of one's life.
+7 For example, the places that are important at the nativity,
+8 The places (zõidia) found by profection from the Hõroskopos, whose
+lords become the annua! and monthly time-lords. Mercúrio Recall that circumambulation means direction. [RH]
+10 The actual name of what we caíl the Tetrabiblos. [RH] 6 2. Orpheus
+Introduction
+The following passage is attributed to the legendary Greek poet
+Orpheus, who is also credited with a work on Jupiter's twelve year
+cycle, and one on earthquakes (also sometimes attributed to Hermes).
+It was originally in verse, and the text editor has flagged the passages
+that retain the original meter or poetic vocabulary and seem to be direct
+quotations. These are put in quotation marks here.
+As far as the issue of transits is concemed, this piece begins with
+the prepositionless expression “Kronos having stepped on Zeus” Kronos
+epembasas Dii, and then immediately changes to the verbless formulation “Kronos into (or onto) Ares” Kronos eis Ares, which is
+retained without change throughout the piece, which is presumably
+intended to mean the same thing.
+The entry “Hermes onto the Sun” may possibly be making a
+distinction between the zõidion and the actual degree of the transited
+body. However, this passage can also be interpreted without that
+distinction being implied. [CCAG 2; 198-202]
+Translation
+And this is Dorotheus. Also, Orpheus has the following to say about
+ingresses. When Kronos has stepped on Zeus, it causes missteps1 in
+one's mode of living and is a destroyer of possessions; it causes the
+marriage of a woman to disperse, and it is harmful for every deed.
+Kronos onto Ares is a cause of constraints, of bondage, of disease, and
+it causes pain on account of children, signifies the ruination of
+possessions; it makes some [natives] fugitives from the fatherland or
+hirelings and poor. Kronos onto the Sun brings actions to completion
+with a blow; and one must also avoid sailing and joumeys because of
+fear of robbers. Kronos onto Aphrodite makes reíatives and friends
+hostile, brings deception, disturbance and penalties, and he who has a 1 sphalma. 1 wonder if this is playing on the idea of stepping present in the
+Greek word epembasis. 1 wife will be dishonored by her lust. Kronos onto Hermes signifies
+contention and judgments, and penalties, disturbances, and unjust deaths
+of relatives; and one must avoid the market and communicating one's
+actions to others; for it causes the weaving of wiles and deceptions.
+Kronos onto the Moon causes rebellions against the land or occasional
+sickness or the destruction and loss of possessions. Kronos onto itself
+signifies removais and wanderings in foreign lands, and disturbances
+and enclosure and bondage, the death of parents, the disappearance of
+home and money. Kronos onto the Hõroskopos removes one to another
+land, and also causes deceptions, penalties, dangers. Kronos onto the
+Midheaven leads one to a foreign country and gives reputation, but it
+causes distress on account of debt. Kronos onto the Descendant and the
+subterraneous pivot drives one away ffom his family and home and
+possessions, or leads him away to another country, or causes captivity,
+or kills slaves.
+Zeus onto Kronos makes what one does for a living irregular, at
+times giving the acquisition of lands and foundations and dwellings, or
+managing anothefs living, other times causing them to be deprived of
+their former work and activities, bringing expenditures and losses and
+major illness to others. Zeus onto itself redeems as many oppressions
+of these sorts as it should find, and “provides profit, brings fame both
+empty and noisy,” if it should not happen to be in its own house at the
+fixation. Zeus onto the Sun gives sluggishness to actions and ruins the
+home, or causes illness or the destruction of possessions, and a vain and
+contrary end to one's labors.1 Zeus onto Ares is good; for if it should
+find someone under affliction and constraint and oppression, it releases
+him from all; and if it should find one to be living in joy, it gives
+greater good cheer, and makes him ffiends with greater persons, and
+provides acquisitions, and distresses his enemies, and bestows profits
+and reputation. Zeus onto Aphrodite signifies unexpected wealth and
+shows one to be stronger than his enemies, and marriage for the unwed;
+and it provides children for those in wedlock and puts an end to
+actions.2 Zeus onto Hermes makes one friends of great men, whose 1 This delineation seems rather strange in view of other teachings on the subject. Hówever, it would be consistent with a tradition that regards the Sun
+as a malefic. This tradition is reflected in the Julius Firmicus Matemus and is
+also the dominant tradition in índia. [RH]
+2 praxis. Actions of all sorts in general. [RH] 8 property he is also entrusted to manage, and they enlarge their own
+home; and it provides gifts from friends; and these [natives] enjoy
+themselves; but they cause pain to their enemies; and if they have a just
+case, they conquer, though the beneficence of Hermes is required. Zeus
+onto the Moon causes child-bearing for those in wedlock, and provides
+good fortune and profit to him who is tried, except that “after having
+harmed him a little eariier,” it provides victory and success later; and
+occasionally it adoms some [natives] with gold chains. Zeus onto the
+Hõroskopos and the Descendant is for both good and bad, at times bringing on judgments and struggles and penalties and enmities, but at
+other times it redeems these and gives profits and acquisition, still other
+times it signifies ffiendship, and again intimacy and nuptials of
+shameful notoriety, and disturbance due to these; and often, too, it
+makes for murder of kinfolk and provides an inheritance from these,
+and leads the wanderer back to his fatherland. And onto the Midheaven
+and the subterraneous pivot, it causes the deaths of the parents and
+diseases and blows and oppressions; and it provides marriage for others;
+it removes others from the fatherland; and the end of their activities will
+be toilsome.
+Ares onto Kronos preserves whatever Kronos is accustomed to
+harm; for it makes sickness and pain cease, and gives wealth and
+victory and good cheer. Ares onto Zeus is ruinous and harsh, and there
+will be frivolous expenditures of money; also, it is harmful in lawsuits
+and rouses up enemies; and the foetus is destroyed in pregnant women,
+or it dies immediately upon birth; it signifies harm and insolence and
+causes removais from one’s place; and it renders actions futile and
+causes pain on account of children or a woman, and it gives enmities
+from rulers and bitter anger from the district. Ares onto itself removes
+one from his place or causes illness or makes bloody with iron or sets
+one on fire, “yet it bestows action and good fame in one's life.” Ares
+onto the Sun diminishes possessions if it should also be bad for actions,
+causes pain and harms the mind, and pains some [natives] on account
+of hidden deeds; and if it should also make a station, it calls forth more
+difficult tumults and battles for things, and gives paternal hatred over
+ancient matters, and it brings betrayals and enmities from friends. Ares
+onto Aphrodite is apprehensive of a fight and bitter hatred from a
+woman; for they cause long separation and adulterous suspicions;
+sometimes also it strips everything away from men. Ares onto Hermes
+causes penalties and lawsuits and more falsity, treachery, shame over Mercúrio hidden deeds, frauds, perjury, betrayals, flights, and bondage. Ares onto
+the Moon, if the zõidion is feminine, is about the fear of abiding illness,
+and especially of the eyes; and if the zõidion is masculine, it disturbs
+what one does for a living. And if it should also make a station, still
+more; for it deprives of children and causes death for the siblings,
+introduces dangers and tumult, and it leads away to another's country or
+changes one's dwelling, and gives some work for another work, if the
+zõidion should not happen to be Kronos' and should not prevent these things. In the pivots it is difficult for everything, bringing instabilities
+and disturbances in the family and pain in life, and in the Descendant
+especially through a woman; for it also causes premature childbirth.
+And onto the Midheaven, they1 dishonor the marriage bed of those in
+wedlock, or it also provides sickness in this pivot.
+‘The Sun onto Kronos brings memories of ancient matters” and
+brings wealth and joy to one's life. The Sun onto Zeus “bestows great
+renown” and good fame and good cheer, and causes manifestation of
+what is invisible. The Sun onto Ares lays one down with sickness or
+removes him from his fatherland, destroys his money and causes losses
+against one's will and makes him hostile to his friends, and “stirs up
+trouble with his relatives,” unless Zeus should also be there by ingress.
+The Sun onto itself or the Moon causes sickness and want of money,
+and it causes movement ífom one's own places;2 often, too, it brings
+wealth out of oppression. The Sun onto Aphrodite is a cause of
+unsettlement, troubles the domestic felicity of women, but it provides
+profits in regard to gifts. The Sun onto Hermes causes the mind to
+wander and hurts the soul, is one to deceive and causes frivolous
+spending. The Sun onto the pivots removes one to other places and
+causes sickness and is grievous for the body, but in the Midheaven “it
+bestows action and great renown.”
+Aphrodite onto Kronos indicates further acquisition and reputation
+in the district and help from secret sources, but it is maleficent for
+marriage; for it unsettles or otherwise “exchanged3 the marriage bed for
+the embrace of a lesser light.” Aphrodite onto Zeus causes ripening,
+dangers, sickness, enmities, judgments on account of family and
+contention within and with the family; and if the woman of this 1 The natives?
+2 More malefic Sun delineations. [RH]
+3 The change of tense is due to the quotation. RH] 10 [ingress] is pregnant, she will miscarry.1 Aphrodite onto Ares causes
+stabilities and expenditures from women and removal from a place and
+disturbances in regard to one's life. Aphrodite onto the Sun unsettles the
+mind and leads it astray, and causes actions and recreations and
+censures, and it makes for stability in the family. Aphrodite onto itself
+is indifferent and toilsome, in one way good, in another base. Aphrodite
+onto Hermes indicates inheritances and it increases possessions and
+brings an end to actions; and it provides victory in lawsuits. Aphrodite
+onto the Moon indicates “good cheer and it delights in action,” gives
+effortless profit and joins in marriage, and causes child-bearing when it
+is in a feminine zõidion. Aphrodite onto the HÕroskopos and Midheaven
+is cheerful and joyous and effectual and màkes acquisition and profits
+greater; and if it is stationing, still more. Aphrodite onto the Descendant
+makes stability from a woman. Aphrodite onto the subterraneous pivot
+causes hidden ailments and pains from spouses; and if it should also be
+stationing, it causes ailments of the parts and fundament, and it brings
+destruction of decorum and tears for the family.
+Hermes onto Kronos increases actions and acquisition, and harms
+enemies. Hermes onto Zeus is good for everything, giving profit from
+commerce and making friends, causing display, and providing reputation
+and strength at home. Hermes onto Ares indicates those who are
+effective, and it sets [the natives] free from fears and puts an end to
+toil. Hermes onto the Sun is inconstant in regard to crafts and action
+until it should come to the degrees of the Sun,2 after which it is
+efficacious,3 Hermes onto Aphrodite presents wealth and another's
+money and an inheritance from those who have died, “and ffiendliness
+in the household from the spouses of in-laws,” and makes friends of
+children and slaves. Hermes onto the Moon disturbs the stability of
+families and the district, and stirs up falsity in the market place and
+contention and calumny, as long as a benefic should not be looking on; 1 It is difficult to explain the logic of why this should be such a difficult
+transit. See Schmidfs introduetion for a discussion of this issue.[RH]
+2 This might indicate that the ingress is defined with regard to the zõidion
+occupied by the planet at the nativity instead of the degree occupied by the
+planet. However, the passage may just as easily mean that the ingress has this
+effect until Hermes becomes conjunct the true Sun.
+3 Notice here the difference between the applying and separating effects
+of the transit. [RH] 11 for often when a benefic regards it in this way, it turns the crafts of this
+[ingress] to profit. Hermes onto the Hõroskopos and the Midheaven
+makes for friendship and tnist from the great as a result of discourses
+and honor in the district [in which he li ves]; onto the Descendant, it
+causes pain and enmities, concerns, judgments, piteous plights from
+loans; onto the subterraneous pivot it is worse, causing dangers and
+harm from hidden and ancient [sources].
+The Moon onto Kronos and Ares makes idle laziness and losses
+and dangers from heights or blood, the one from Kronos, the other from
+Ares; but with the other stars it is fine. The Moon onto the Sun or onto
+itself “bestows a spirit at once sluggish and lying fallow,” and in the
+pivots it sometimes makes a change of abode.
+It is requisite to examine not only these ingresses, but also those by
+triangle and square and diameter and hexagon. For, the sort of thing it
+signifies in the nativity by fixation, such also it signifies in the ingress.1
+For example, “Phainõn2 trining Zeus is truly very lucky,” and “Phainõn
+trine with Puroeis3 is greatly best.” 3. Passage Attributed to Anubio
+Introduction
+Anubio probably lived in the 2nd Century C.E. The following
+paraphrase is attributed to him solely on the basis of the metrical form
+that may be seen to preserved in some of the lines of this prose
+paraphrase, because Anubio is the only astrological writer known to
+have used this form. There is another surviving text dealing with aspects
+that is explicitly attributed to Anubio; we will translate this at a later
+date.
+This short excerpt begins with the expression “Kronos having
+stepped onto Zeus” Kronos epembas eis ton Dia and then continues
+with the verbless expression “Zeus onto Kronos” (Zeus onto Kronos)
+just like the Orpheus passage. At one point the verb is used in a 1 Again we have the idea that the planet in transit operates according to the way it is situated in the natal chart. [RH]
+2 Name for Kronos, the “shining one."
+3 Name for Ares, the “fiery one.” 12 prepositionless expression, and the epitomist seems called upon to
+prevent a misinterpretation. [CCAG 2; 202-203]
+Translation
+When Kronos has stepped onto Zeus, it causes disease or unforeseen
+toil, or poverty, or disturbances and murders in reference to relatives.
+Zeus onto Kronos is good. Kronos onto Ares makes enmities and
+imprudence and inaction and non-beneficial blows.1 Ares onto Kronos
+provides victories and action and sweetest life. Kronos onto Aphrodite
+“oft times made an end of youths of an unyoked [age]”,2 or brings
+rivalry with regard to spouses, or harm in relation to home, or treachery,
+pain, sickness, death, poisons, or trouble with the gullet or joints, or it
+harms the children first. Aphrodite onto Kronos makes peace between
+women and their bed-mates without treachery and trouble, and causes
+pain and censure and temperance in one's garments, and it yokes the
+unmarried. Kronos onto Hermes signifies either sickness or death, but
+gives the greatest of goods in full bodily strength at the time that it
+steps on3 Kronos (that is, Hermes onto Kronos). Kronos having stepped
+onto the Hõroskopos, and when it is diametrical to it, sometimes puts
+youths to death; and it does this whenever Aphrodite is also the timelord of the hour, for the indications of the effects are steady at the time
+when the ingressing planets are also the time-lords.
+Zeus having stepped onto Ares is good, but Ares onto Zeus is base;
+however. Ares stepping on Zeus does not always produce base things,
+but whenever it is diametrical to the Sun. Zeus onto Aphrodite rejoices
+much, for it gives benefit of toil and profit. Aphrodite onto Zeus does
+not rejoice so much, for it causes ungraciousness and groundless 1 kopos. ‘Blows’ as in striking an object.
+2 This could mean that this transit either destroys youths about to come of
+age, or else it puts an end to their unmarried State.
+3 henika tõi Kronõi epibêi. The epitomist seems to think that this
+expression, which is the same prepositionless usage found at the beginning of
+the Orpheus passage, needs a gloss, perhaps because without the preposition it
+could suggest something like attacking or trampling Kronos. 13 expectations.1 Zeus onto Hermes and Hermes onto Zeus are quite
+estimable and profitable, and especially for the ones pursuing hermetic
+works;2 and should they be diametrical to each other, they are no less
+beneficiai.
+Ares onto Aphrodite causes wifely jealousies and disturbances, and
+harms pregnancies by introducing premature childbirth, Similarly also,
+Aphrodite onto Ares is harmful, except less so, for “when yielding,
+strong-limbed Ares delights in Kupris.3 Ares onto Hermes harm and
+sickness brings, in all is evil, and brings not victory to him who is
+tried.”
+Hermes onto Ares brings victory to him who is tried and there will
+not be sickness or harm, but it is bad in commerce. Aphrodite onto
+Hermes is fine for every action. Hermes onto Aphrodite is stronger in
+regard to livelihood and art, marriage, and friendship.
+“And for other doings, useful. Abo ve all others this pro vides for
+commerce profitable for men, and is in judgments very timely; and to
+him who is tried it gives the longed-for victory.” Júpiter . Material Attributed to Valens
+Introduction
+Although the manuscript attributes this writing to Valens, Pingree
+considered it spurious and did not include it in his criticai edition of
+Valens. Be that as it may, it is a thoughtfully written piece. Again the
+problem is what kind of ingress is being discussed. This time there is
+enough context to determine that the ingresses are to zõidion rather than
+degrees. However, we have a new problem; the text seems to be written
+in the context of solar retums. There are two issues discussed under
+each planet, ingresses according to “chart” and according to “nativity.”
+There seem to be two basic possibilities. Júpiter Either the first discussion
+under each planet deals with transits ío the natal chart, and the second Compare this to the Zeus-Aphrodite transits in the previous article
+attributed to Orpheus. [RH]
+2 All works pertaining to Hermes, not hermetic in the alchemical sense.
+3 Name of Aphrodite. Júpiter See my introduction to Appendix Gêmeos for a third possibiity. [RH]
+1 14 discussion deals with transiting aspects made to the profected ascendant
+(perhaps referred to simply as the “nativity”); or else the first part deals
+with transits to the solar retum chart (which may be why the diminutive
+themation is used), and the second part transiting aspects to the natal
+Ascendant. There are arguments for and against either one of these
+interpretations.
+A note attached (adnectitur) to the manuscript makes the matter
+even more mystifying. It purports to be a defmition of ‘ingress’ and
+reads “They say that there is an ingress whenever by holding down the
+disposition of the nativity for a retum nativity, we come down to a
+eertain zõidion by drawing out the times ffom the Hõroskopos; for it is
+called the ingress of the year at that zõidionThe same defmition
+occurs in scholium #92 from Paulus. The Most Sagacious Valens On the ingresses of the Stars in Respect
+of the Chart and the Nativity1
+[CCAG 8, 1; 163-171]
+Conceming Kronos
+When Kronos has come onto the Hõroskopos, it has good beginnings,
+for it causes unions and benefits and acquisitions; but when it has gone
+by the last [parts], it holds distress and harm, and it brings dangers to
+these places. If it has come onto the Midheaven, it causes similar
+[effects] as the Hõroskopos, but it is more gentle in those matters and
+in those harms, and slower for the actions of one's life; and in the one
+case it is sluggish, in the other it forcefully busies about. In the
+Descendant it is full of disturbance and danger, for it causes loss and
+tears and listlessness of soul and penalties through the [actions] of
+others and dangers ffom water and alienations of one's own family.
+When it comes to be in the subterraneous zõidion, it produces the same
+things, except that in this place it also produces dangerous illnesses and
+fears.
+If it should come to the [place]2 of Zeus, it causes chicaneries, 1 kata thematiou kai genethliou.
+2 The word understood here and in analogous places in this paragraph may be ‘star\ instead of ‘place’.
+15 penalties or the resolution of old business, and the death of kinfolk1 and
+another's expenditures and shamefacedness and impostures towards
+superiors. When it has come to the [place] of Ares, it causes dangers to
+the body, alienations, loss of one's own, rapine and faint-heartedness,
+enmities toward one's own and toward anothefs, lawsuits and imposts.
+If Kronos should come to itself, it moves one to leave home
+unprofitably, and often encloses one; and it is motivation for actions,
+and by bringing in struggles, it at times also encloses one in prisons and
+bondage, at other times it achieves the deaths of parents and friends
+(though also expenditure), the unsettlement of one's own and another's,2
+the betrayal of friends, listlessness, disturbances; and penalties, disturbances, and distresses through women, ingratitude from several,
+demonstrations, and the persistent flux of rheum. When it arrives at [the
+placei of Hermes, it brings about effects by means of letters and deeds
+and speech and society and slaves and the loss and pain of children; it
+also effects3 harm by a few, Júpiter perjury, listlessness, loss. If it should
+arrive at the Sun, it causes untimely changes of place, and the
+introduction of dangers, and penalties, and unemployment, and whatever
+should be accomplished, it effects with force; and it causes deflux of
+rheum and eruption of eczema and weakness of the eyes. When it has
+come to the Moon, it taxes one with sickness, and it is also wont to cast
+one down from a height and take one up5 to a height; for after doing
+good at the nativity, this star takes everything away again.
+And in reference to a nativity,6 if it should come to the square of
+the nativity, it causes actions and the administration of old business to
+be more easily resolvable, but it also causes profitless stays away from
+home. If it should come onto the triangle, it administers to whatever
+matters are related to action and loss without fastidious avoidance, while
+it signifies that whatever is related to friends is without harm. If it
+should come onto the diameter of the nativity, it will have in everything 1 anagkaios. That is, those related by the necessary tie of blood.
+2 It seems that somewhere about here we have shifted to the delineation of the transit of Aphrodite without mentioning it.
+3 teleõ. Júpiter persons?
+5 eis hupsos anairein. In view of the next clause, this probably has the secondary meaning “destroys at a height.”
+6 genethhon. 16 losses, intrigues of kinsmen, listlessness of mind, ingratitude,
+separations from one's own, faithlessness of friends, enmities of
+kinsmen, and dangerous sicknesses. If it should come onto the zõidion
+where the year should be spent,1 it produces narrow straits and harm
+and rapine, and the separation from women, and imposture.
+Conceming Zeus When Zeus has come onto the Hõroskopos, it causes honors and
+reputation, high visibility in the throng, acquisitions, rectification of
+business, and children for those who are married; and a casting off of
+blood-relatives.2 Having come to the Midheaven, it causes estimable
+reversals, the rectification of business, changes for the better, and
+accesses3 and unions. Having come to the setting zõidion, Júpiter it brings
+pain, unsettlement of one's life and body, the casting off of children and
+kin; and from the time that it passes by the zõidion of concealment, this
+changes for the better, Having come to the subterraneous pivot, it is
+significant at the initiation of secret affairs that are not achievable, or
+it signifies the tardy attention to matters that are already finished; and
+it signifies a soul sad and full of care.
+When it has come to Kronos, it effects an abruptness in one's acts
+that is not conducive and ruinous; for, no matter what is administered
+at this time, the effects will be punitive and expensive. Having come
+upon its own place, it will be not conducive for everything, except that
+it causes calumnies and censures on account of worthless matters.
+Having come to Ares, the time will be incomparable5 for beneficence
+and reputation, but it will accomplish every action and administrative
+function with a lack of fervor. Having come to Aphrodite, it causes the 1 That is, the Hõroskopos profected at one zõidion per year of life. Since
+no reference was made at the beginning of the paragraph to an ingress onto the
+“nativity” (as is the case in the upcoming delineations of the other planets), this
+entry may serve that purpose. Therefore, it is possible that the “nativity’ that
+is being transited by aspect here and throughout this paragraph is the profected
+Ascendant. However, compare the final paragraph under Aphrodite.
+2 apobolên de tõn apo tou haimatos.
+3 prosodos. Júpiter Unequivocally an ingress onto a zõidion, not a degree!
+5 asugkritos. This can also mean ‘antagonistic’.
+17 fit meeting of the unmarried and marriage and intercourse, and children
+for the married, but gossip and pain; and it makes the actions of life
+more reasonable and beneficiai. Having come upon Hermes, it effects
+work and beneficiai moves from a place, receipts and gifts, and
+profitable partnerships; for it makes these activities more reasonable in
+such places. Having come upon the Sun, it effects serious illnesses,
+dangers from the water and shipwrecks, and deflux of rheum; and it
+introduces expeditions that are not conducive and distresses in matters
+pertaining to life.
+And in reference to a nativity, having come to the nativity, it causes
+stuggishness of the body and a like sluggishness in activities, except for
+the marriage of the unmarried; and it is also accustomed to give
+children and make additions to life. Having come to the trigon of the
+nativity, it disturbs the beginnings, but achieves success and action at
+the last. Having come onto the square, it has as effect the benefits of
+multifaceted business;1 for it is adept at management and fine for unions
+and reputation. Having come to the diameter, it gives benefits of
+multifaceted business, and acquisition, and children to the married; and
+a few it distresses; and it chilis and disturbs what one does, and
+introduces fears.
+Concerning Ares When the star of Ares has come to the Hõroskopos, it effects the
+renewal of things by means of outside blood,2 for it throws life into a
+tumult and especially through women; and it also causes fears and
+diseases for women and is bad for everything. Having come .onto the
+Midheaven, it is helpful for cuts of the extremities and dangers to the
+eyes;3 and it brings sudden dangers from a fali or from conflagrations,
+crowds, or quadrupeds; but it is not without use for management and
+advantage. Having come to the Descendant, it is exceedingly odious, for
+it also disturbs one's household and mode of living, and causes fights
+and plots and fears of the soul, and especially through women; and it
+causes crises for those who are married and for women. Having come
+to the subterraneous pivot, it causes unseasonable expeditions and 1 telei õpheleias poluproeõpõn pragmatõn.
+2 apo exhaimatos. 3 In the sense of helping to heal said cuts and dangers. [RH] profitless movements and gossip in account of secret affairs, and it is
+bad for everything relating to life and acts and unions.
+When it has come to the place of Kronos, it is exceedingly
+propitious and cheerful and useful for all areas of life. Having come to
+Zeus, it is exceedingly disturbing and punitive and makes for cowardice.
+When it simply comes to itself, it is worse and unpleasant and
+stimulating; and mark that the star is exceedingly bad for everything at
+that time. Having come to Aphrodite, it connects one with female
+persons and causes profitless unsettlements through acts of females, and
+moral condemnations, and is turbulent in everything through the
+pretenses of women. Having come to Hermes, it causes treacheries and
+hidden acts and fears and thefts, unsettlement of friends, trickeries and
+frauds and perjuries of those in the household. Having come to the Sun,
+it causes dangerous illness, removais and moves from one's home,
+unexpected journeys away ffom home, fears of a crowd and fire and
+blood and of malefactors, and the danger of falis from quadrupeds.
+In reference to a nativity, if it should come to the nativity, mark the
+star in everything; for it is füll of sickness and penalties, and
+ineffective, and highly dangerous; and there is a struggle in regard to
+trifling suspicions, and agony of soul, and unsettlements of kinsmen. If
+it should come onto the triangle of the nativity, it is turbulent on
+account of worthless matters, and especially because of women; for it
+causes upheavals and untimely cares. If it should come onto the square
+of the nativity, it causes arguments with female persons and harm to
+one's manner of life, and bodily cravings. If it should come upon the
+diameter of the nativity, the affliction and burden is less.
+Conceming the Sun When the Sun comes to be in the Hõroskopos, it causes weakness,
+upheaval, dangers, movements; but it strengthens those who had already
+been sick before it carne to this very place. . .l
+. . . When it arrives at its own place, it causes cares and afflicíions
+of the soul, disturbances, empty fears, and movements [originating in]
+domestic matters.2 Having come to Kronos, it works dangers from water
+and ailments or defluxes of rheum; and it is effective in relation to 1 Long lacuna in the text.
+2 kinêseis ex oiksiõn. 19 actions. Arriving at Zeus, it is unpleasant in relation to the multitude
+and those who are superior; and friends. . .' and censures and
+calumnies; and for succeeding at the activities of one’s life. Having
+come to Ares, it causes unpleasantness and robberies, the approach of
+the multitude, dangers, conflagrations, bloodshed, manipulation,
+asphyxiations from crises,1 2 and especially sudden dangers, falis ffom
+heights or quadrupeds, and fears of the household, and changes away
+from home, and unforeseen dangers from swearing an oath. When it
+comes to be at Aphrodite, it causes dangers to those who have wives
+from wives, and unpleasantness and censures due to women; and it is
+effective for conducting one's life. Arriving at Hermes, it makes what
+is hidden manifest, and causes a disturbance of those in the household
+and fights with household managers; and it is not bad for actions, but
+nevertheless they will be done sluggishly.
+In reference to a nativity, if it should come to the nativity, it makes
+upheaval and care, and it furthermore works for weaknesses; and it
+administers the uncompleted actions of life early rather than at the
+close.3 If it should come onto the square of the nativity, [it works]
+trouble for the optical organs and dangers from water; but it is not bad
+for actions, but makes them easier. If it should come onto a triangle, it
+will be a propitious and easier time. Having come onto a diameter, it is
+exceedingly odious; for it causes upheaval and fills one will mental
+anguish, and causes censure and secrets and weakness and alienation of
+the household.
+Conceming Aphrodite When the star of Aphrodite has come onto the Hõroskopos, it produces
+gaiety with good cheer, the gathering in of revenue, and knowledge.
+And it is quite profitable in all the things being done if another star in
+another figure should not object. When the star comes to be in the
+Midheaven, it produces unempioyment, upheavals of soul, unsettlements
+and profitless censures because of women. In the setting zõidion it
+produces unsettlements of things, gossip, adulteries; and for the married,
+the clamor and miscamages of women; and this star is exceedingly bad 1 Short lacuna.
+2 That is, physical crises. [RH]
+3 Of the period, that is. 20 in these places. If it should come to the subterraneous zõidion, it
+produces the same things as it did in the setting zõidion.
+When it has come to Kronos, it produces unemployment,
+acquisitions, advancements, beneficiai moves, except with indifference;
+for often it makes the benefits be with tears. When it has come to be on
+Zeus, the star makes that time more harmful and unpleasant and full of
+disturbance, and especially for the household; or it causes treachery and
+plots and chicanery through women. When it has come to be on Ares,
+the star is full of gossip, and the time disturbing; for it causes untimely
+departures ffom home and ffivolous expenditures and deceptions of
+women. When it has come to be on its own place, it is of good cheer
+in everything, pleasant; and it is productive in relation to the activities
+pertaining to one's life, and effective for everything to which one lays
+his hand. Arriving upon Hermes, it will be good and beneficiai for
+everything in life, for giving and receiving, and actions and partnerships
+and manipulations; and it is good for whatever one should wish. When
+it comes to be upon the Sun, it will provide upheavals of life and soul,
+unsettlements or bodily weakness both in relation to kin and friends;
+and it causes censures and fears; and in general the star is disturbing
+and harmful until it should exit these places.
+And in reference to a nativity, if it should come to the nativity, it
+causes annoyances and disturbances and the distress of women and
+untimely expenditures and unsettlements of women or bodily weakness,
+censure ffom superiors, and narrow straits and unemployment. If it
+should come onto the square of the nativity, it causes cheerfulness and
+benefits at the beginning, but later it makes a man worse. If it should
+come to the triangle of the nativity or onto the year that is being spent,1
+it is entirely fine and beneficiai and gives marriage or intercourse with
+women, and the conception of children for the married. 1 eis ton katagmenon eniauton. If this refers to the protected Hõroskopos, then this sentence would seem to be making a distinciion between it and the
+“nativity” constantly referred to. This would lead us to the opinion that the
+“nativity” is the natal Hõroskopos, whereas the ingresses referred to in the first
+two paragraphs under each planet are perhaps ingresses to the solar retum.
+However, compare the note to the final paragraph of eníry under Kronos.
+21 Conceming Hermes When the star of Hermes has come to the Hõroskopos, it causes unions,
+knowledge, great good fortune, economies, and the completion of old
+business. If it should come up to the Midheaven, it similarly causes the
+completion of old business, and a sudden awkwardness,' and
+companionship with superiors. If the star should come to the setting
+zõidion, it is exceedingly bad and punitive; for it causes censures and
+calumnies pertaining to one's manner of living, upheavals1 2 3 and
+whisperings; mark well that the time is poorfor everything. If it should
+come to the subterraneous zõidion, it causes gossip of secret or piraíical
+deeds, and hõpetas* with unpleasantness, and untimely departures in
+stays away from home.
+If it should come to onto Kronos, it causes benefits and unions
+from old business, receipts and expenditures. Arriving at Zeus, it makes
+the time more cheerful and glad; and it also provides unions. Having
+come to Ares, it is exceedingly bad; for it causes weakness in one*s
+mind and life, unless it produces a cutting through of matters with
+concision, and reputation along with annoyance and loss and harm.
+Having come to Aphrodite, it is exceedingly cheerful and beneficiai and
+efficacious and propitious for women. Having come to its own place,
+it makes the time poor; for it causes enmities and the alienation of one's
+family and household, and treacheries and thefts and deceptions. Having
+come to the Sun, it causes unpleasantness and cares and fears and
+weaknesses and useless stays away from home.
+And in reference to a nativity, when it has come onto the nativity,
+it is distressing for everything mentally and in life; for it causes
+rejections and censures and ingratitude and deprivations. If it should
+come onto the square of the nativity, it is also exceedingly distressing
+on the part of female persons; and it causes vain expeditions. If it
+should come onto the triangle of the nativity, it is exceedingly
+beneficiai; and especially as concems old business, it is not a bad time
+to put a hand to it. Having come onto the diameter of the nativity, it
+makes the time unfit and dangerous, and a liar and an imposter to all
+men. 1 acheirismous aiphnidious.
+2 meteõrismos.
+3 Unknown word. 22 Concerning the Moon If the Moon should come to the Hõroskopos, it causes upheaval in the
+soul;1 for it causes disgust and empty fears. If it should come to the
+Midheaven, it will be propitious and efficacious for everything. If it
+should come to the Descendant, it causes fears, indifference; and take
+care with female persons and every action. Having come to the
+subterraneous zõidion, it is unpleasant and full of disturbance.
+Having come to Kronos, it becomes sluggish and full of indiffer¬
+ence, and causes certain remembrances of ancient matters; look for an
+opportunity to speak to one who is older, and [consider] every purchase;
+and it is conducive to acquiring a home; and it gets one dreadfully
+disturbed by dreams. Arriving at Zeus, it is propitious for every action,
+but vexatious. When it has come to Ares, mark the days; for it causes
+unforeseen accidents, indifference, or falis, or bloodshed, or excitations,
+unless it is murderous and on the attack. Having come to Aphrodite, it
+signifies cheerfulness and causes actions and intercourse, unless it
+causes unpleasantness and the shaming of one publicly. Having come
+to Hermes, it causes actions to be more effeminate, and it amplifies
+whatever is effected through letters and partnerships, unless it causes
+conflicts or odiousness of domestics or slaves; mark those days.
+In reference to a nativity, [when it has come] upon the nativity, it
+causes terrible upheaval, and brings with it disgust and empty fears.2 1 meteõrizõ, This word, which has already occurred several times in this excerpt, basically means ‘to raise up’. But this is hardly the elevation of soul
+in the positive sense. The connection with disgust seems to be the key to
+understanding its appiication here. Disgust is what causes the soul to rise up as
+though trying to throw something up; it is almost a physical experience, the
+mental “heaves.”
+2 May be incomplete. [RH] 23 Appendix I — A Comparative Listing of the Ingress
+Delineations
+Compiled by Robert Hand
+In this appendix I have taken all of the delineations of the ingresses
+according to Schmidfs translations of the ancient texts and put them in
+one place so that the reader can compare them. The footnotes that
+accompany these texts in the main body of the book have not been
+repeated here, for the same of economy. The reader is strongly urged
+to read the delineations in their original contexts in the main body of
+the text. Where delineations refer to more than one planet, I have
+repeated them in full under each planet entry. Where the original has
+said nothing about the combination, I have simply written, “No entry.” V>
+Dorotheus — When Kronos and Ares are in ingresses in relation to the Sun, the Moon, and Zeus, both bodily and in those by square and
+diameter, and similarly also the recun-ences and anti-recurrences
+(that is, whenever they should come to their own fixed places, or
+to the diameters), they become more harmful, if they were in fact
+poorly situated from the beginning.
+Every star is base when diametrical to itself by transit, and it is bad
+when coming upon its fixed place. . .
+Orpheus — Kronos onto itself signifies removais and wanderings in foreign lands, and disturbances and enclosure and bondage, the
+death of parents, the disappearance of home and money.
+Anubio — No entry.
+Pseudo-Valens — If Kronos should come to itself, it moves one to leave home unprofitably, and often encloses one; and it is
+motivation for actions, and by bringing in struggles, it at times also
+encloses one in prisons and bondage, at other times it achieves the
+deaths of parents and friends (though also expenditure), the
+unsettlement of one's own and another's, the betrayal of friends,
+listlessness, disturbances; and penalties, disturbances, and distresses
+through women, ingratitude ffom severa], demonstrations, and the 24 persistent flux of rheum.
++>-\ Dorotheus — ... when Kronos is coming to Zeus, it hinders whatever Zeus provides and quells every activity and impulse; Kronos onto
+Zeus also [causes] fines and damages what is being completed.
+When Kronos and Ares are in ingresses in relation to the Sun, the
+Moon, and Zeus, both bodily and in those by square and diameter,
+and similarly also the recurrences and anti-recurrences (that is,
+whenever they should come to their own fixed places, or to the
+diameters), they become more harmful, if they were in fact poorly
+situated from the beginning.
+Orpheus — When Kronos has stepped on Zeus, it causes missteps in one's mode of living and is a destroyer of possessions; it causes the
+marriage of a woman to disperse, and it is harmful for every deed.
+“Phainõn [Kronos] trining Zeus is truly very lucky,”
+Anubio — When Kronos has stepped onto Zeus, it causes disease or unforeseen toil, or poverty, or disturbances and murders in
+reference to relatives.
+Pseudo-Valens — If it should come to the [place] of Zeus, it causes chicaneries, penalties or the resolution of old business, and the
+death of kinfolk and another's expenditures and shamefacedness and
+impostures towards superiors.
+- d"
+Dorotheus — Kronos to the place of Ares makes those who are discouraged and not eager.
+Orpheus — Kronos onto Ares is a cause of constraints, of bondage, of disease, and it causes pain on account of children, signifies the
+ruination of possessions; it makes some [natives] fugitives from the
+fatherland or hirelings and poor.
+“Phainõn [Kronos] trine with Puroeis [Ares] is greatly best.” Anubio — Kronos onto Ares makes enmities and imprudence and inaction and non-beneficial blows.
+Pseudo-Valens — When it has come to the [placej of Ares, it causes dangers to the body, alienations, loss of one's own, rapine and
+faint-heartedness, enmities toward one's own and toward another’s,
+lawsuits and imposts. VO
+Dorotheus — Kronos onto the Sun brings dangers and judgments from the magistracy, and especially when it is stationing.
+When Kronos and Ares are in ingresses in relation to the Sun, the
+Moon, and Zeus, both bodily and in those by square and diameter,
+and similarly also the recurrences and anti-recurrences (that is,
+whenever they should come to their own fixed places, or to the
+diameters), they become more harmful, if they were in fact poorly
+situated from the beginning.
+... the destructive stars [Kronos and Ares] are distressing when
+they step onto the Júpiter pivots or onto the lights. However, if they
+were in good and congenial places at the beginning, it makes the
+affliction by transit blunter, just as the good stars which are
+disposed in base places at the beginning become weaker by transit.
+Orpheus — Kronos onto the Sun brings actions to completion with a blow; and one must also avoid sailing and joumeys because of fear
+of robbers.
+Anubio — If it should arrive at the Sun, it causes untimely changes of place, and the introduction of dangers, and penalties, and
+unemployment, and whatever should be accomplished, it effects
+with force; and it causes deflux of rheum and eruption of eczema
+and weakness of the eyes.
+Pseudo-Valens — No entry. But see Appendix Gêmeos . V9
+Dorotheus — Kronos to Aphrodite harms the goods of Aphrodite. 26 Orpheus — Kronos onto Aphrodite makes relatives and fríends hostile,
+brings deception, disturbance and penalties, and he who has a wife
+will be dishonored by her lust.
+Anubio — Kronos onto Aphrodite “oft times made an end of youths of
+an unyoked [age]”, or brings rivalry with regard to spouses, or
+harm in relation to home, or treachery, pain, sickness, death,
+poisons, or trouble with the gullet or joints, or it harms the children
+first.
+Pseudo-Valens — No entry Dorotheus — Kronos to Hermes harms the things which are being
+offered by Hermes.
+Orpheus — Kronos onto Hermes signifies contention and judgments,
+and penalties, disturbances, and unjust deaths of relatives; and one
+must avoid the market and communicating one's actions to others;
+for it causes the weaving of wiles and deceptions.
+Anubio — Kronos onto Hermes signifies either sickness or death, but
+gives the greatest of goods in full bodily strength at the time that
+it steps on Kronos (that is, Hermes onto Kronos).
+Pseudo-Valens — When it arrives at [the place] of Hermes, it brings
+about effects by means of letters and deeds and speech and society
+and slaves and the loss and pain of children; it also effects harm by
+a few, perjury, listlessness, loss. Dorotheus — Kronos onto the Moon is likewise bad, for it brings
+censures and reproaches, and it is worse when Kronos is stationing.
+Kronos diametrical to the Moon is bad and especially when it is
+under the beams, for it brings disease; and it is also so when Ares
+sees the Moon.
+When Kronos and Ares are in ingresses in relation to the Sun, the
+Moon, and Zeus, both bodily and in those by square and diameter, 27 and similarly also the recurrences and anti-recurrences (that is,
+whenever they should come to their own fixed places, or to the
+diameters), they become more harmful, if they were in fact poorly
+situated from the beginning.
+... the destmctive stars [Kronos and Ares] are distressing when
+they step onto the Júpiter pivots or onto the lights. However, if they
+were in good and congenial places at the beginning, it makes the
+affliction by transit blunter, just as the good stars which are
+disposed in base places at the beginning become weaker by transit.
+Orpheus — Kronos onto the Moon causes rebellions against the land or occasional sickness or the destruction and loss of possessions.
+Anubio — No entry.
+Pseudo-Valens — When it has come to the Moon, it taxes one with sickness, and it is also wont to cast one down from a height and
+take one up to a height; for after doing good at the nativity, this
+star takes everything away again.1 ■*> - Angles
+Dorotheus — ... the destmctive stars [Kronos and Ares] are distressing when they step onto the Júpiter pivots or onto the lights.
+However, if they were in good and congenial places at the
+beginning, it makes the affliction by transit blunter, just as the good
+stars which are disposed in base places at the beginning become
+weaker by transit.
+A malefic coming onto the pivots is quite harmful; for the
+Hõroskopos obtains the whole of life as its lot; the Midheaven,
+doings and children and reputation; the Descendant, marriage and
+old age; the subterraneous pivot, the hidden mold of the body, and
+foundations and creation and markets.
+Orpheus — Kronos onto the Hõroskopos removes one to another land, 1 This is the only explicit delineation of an ingress upon the Moon by
+Pseudo-Valens. But see Appendix Gêmeos .
+28 and also causes deceptions, penalties, dangers. Kronos onto the
+Midheaven leads one to a foreign country and gives reputation, but
+it causes distress on account of debt. Kronos onto the Descendant
+and the subterraneous pivot drives one away from his family and
+home and possessions, or leads him away to another country, or
+causes captivity, or kills slaves.
+Anubio — Kronos having stepped onto the Hõroskopos, and when it is diametrical to it, sometimes puts youths to death; and it does this
+whenever Aphrodite is also the time-lord of the hour, for the
+indications of the effects are steady at the time when the ingressing
+planets are also the time-lords.
+Pseudo-Valens — When Kronos has come onto the Hõroskopos, it has good beginnings, for it causes unions and benefits and acquisitions;
+but when it has gone by the last [parts], it holds distress and harm,
+and it brings dangers to these places. If it has come onto the
+Midheaven, it causes similar [effects] as the Hõroskopos, but it is
+more gentle in those matters and in those harms, and slower for the
+actions of one's life; and in the one case it is sluggish, in the other
+it forcefully busies about. In the Descendant it is full of disturbance
+and danger, for it causes loss and tears and listlessness of soul and
+penalties through the [actions] of others and dangers from water
+and alienations of one's own family. When it comes to be in the
+subterraneous zõidion, it produces the same things, except that in
+this place it also produces dangerous illnesses and fears. Dorotheus — Zeus to Kronos provides an alleviation of a preexistent distress; such [natives] manage the work of another and they will
+spend freely. .. Zeus onto the square of Ares or of Kronos likewise
+indicates good things; so also Aphrodite; for when the good planets
+are coming onto the square of destructive planets, they provide
+pleasure and health and honor.
+Orpheus — Zeus onto Kronos makes what one does for a living irregular, at times giving the acquisition of lands and foundations
+and dwellings, or managing anothers living, other times causing
+them to be deprived of their former work and activities, bringing 29 expenditures and losses and major illness to others.
+Anubio — Zeus onto Kronos is good.
+Pseudo-Valens — When it has come to Kronos, it effects an abruptness
+in one's acts that is not conducive and ruinous; for, no matter what
+is administered at this time, the effects will be punitive and
+expensive.
+V\ ,r, _ / Dorotheus — Every star is base when diametrical to itself by transit,
+and it is bad when coming upon its fixed place. . .
+Qrpheus — Zeus onto itself redeems as many oppressions of these sorts
+as it should find, and “provides profít, brings fame both empty and
+noisy,” if it should not happen to be in its own house at the
+fixation.
+Anubio — No entry.
+Pseudo-Valens — Having come upon its own place, it will be not
+conducive for everything, except that it causes calumnies and
+censures on account of worthless matters. Dorotheus — Zeus to Axes provides both activity and favor, and will
+increase everything, and bring enemies into subjugation. Zeus onto
+the square of Ares or of Kronos likewise indicates good things; so
+also Aphrodite; for when the good planets are coming onto the
+square of destructive planets, they provide pleasure and health and
+honor.
+Orpheus — Zeus onto Ares is good; for if it should find someone under
+affliction and constraint and oppression, it releases him from all;
+and if it should find one to be living in joy, it gives greater good
+cheer, and makes him ffiends with greater persons, and provides
+acquisitions, and distresses his enemies, and bestows profits and
+reputation. 30 Anubio — Zeus having stepped onto Ares is good, but Ares onto Zeus
+is base; however, Ares stepping on Zeus does not always produce
+base things, but whenever it is diametrical to the Sun.
+Pseudo-Valens — Having come to Ares, the time will be incomparable
+for beneficence and reputation, but it will accomplisb every action
+and administrative function with a lack of fervor. VO
+Dorotheus — No Entry.
+Orpheus — Zeus onto the Sun gives sluggishness to actíons and ruins
+the home, or causes illness or the destruction of possessions, and
+a vain and contrary end to one's labors.
+Anubio — No entry.
+Pseudo-Valens — Having come upon the Sun, it effects serious
+illnesses, dangers from the water and shipwrecks, and deflux of
+rheum; and it introduces expeditions that are not conducive and
+distresses in matters pertaining to life.
+V$
+Dorotheus — Zeus onto the square of Ares or of Kronos likewise
+indicates good things; so also Aphrodite; for when the good planets
+are coming onto the square of destructive planets, they provide
+pleasure and health and honor.
+Orpheus — Zeus onto Aphrodite signifies unexpected wealth and shows
+one to be stronger than his enemies, and marriage for the unwed;
+and it provides children for those in wedlock and puts an end to
+actions.
+Anubio — Zeus onto Aphrodite rejoices much, for it gives benefit of
+toil and profií.
+Pseudo-Valens — Having come to Aphrodite, it causes the fit meeting
+of the unmarried and marriage and intercourse, and children for the
+married, but gossip and pain; and it makes the actions of life more 31 reasonable and beneficiai. V?
+Dorotheus — No entry.
+Orpheus — Zeus onto Hermes makes one friends of great men, whose
+property he is also entrusted to manage, and they enlarge their own
+home; and it provides gifts from friends; and these [natives] enjoy
+themselves; but they cause pain to their enemies; and if they have
+a just case, they conquer, though the beneficence of Hermes is
+required.
+Anubio — Zeus onto Hermes and Hermes onto Zeus are quite estimable
+and profitable, and especially for the ones pursuing hermetic works;
+and should they be diametrical to each other, they are no less
+beneficiai.
+Pseudo-Valens — Having come upon Hermes, it effects work and
+beneficiai moves ffom a place, receipts and gifts, and profitable
+partnerships; for it makes these activities more reasonable in such
+places. V)
+Dorotheus — No entry.
+Orpheus — Zeus onto the Moon causes child-bearing for those in
+wedlock, and provides good fortune and profit to him who is tried,
+except that “after having harmed him a little earlier,” it provides
+victory and success later; and occasionally it adoms some [natives]
+with gold chains.
+Anubio — No entry.
+Pseudo-Valens — No entry. But see Appendix Gêmeos .
+- Angles
+Dorotheus — No entry.
+Orpheus — Zeus onto the Hõroskopos and the Descendant is for both 32 good and bad, at times bringing on judgments and stmggles and
+penalties and enmities, but at other times it redeems these and gi ves
+profits and acquisition, still other times it signifies friendship, and
+again intimacy and nuptials of shameful notoriety, and disturbance
+due to these; and often, too, it makes for murder of kinfolk and
+provides an inheritance from these, and leads the wanderer back to
+his fatherland. And onto the Midheaven and the subterraneous
+pivot, it causes the deaths of the parents and diseases and blows
+and oppressions; and it provides marriage for others; it removes
+others from the fatherland; and the end of their activities will be
+toilsome.
+Anubio — No entry.
+Pseudo-Valens — When Zeus has come onto the Hõroskopos, it causes
+honors and reputation, high visibility in the throng, acquisitions,
+rectification of business, and children for those who are married;
+and a casting off of blood-relatives. Having come to the
+Midheaven, it causes estimable reversals, the rectification of
+business, changes for the better, and accesses and unions. Having
+come to the setting zõidion, it brings pain, unsettlement of one's life
+and body, the casting off of children and kin; and from the time
+that it passes by the zõidion of concealment, this changes for the
+better, Having come to the subterraneous pivot, it is signifícant at
+the initiation of secret affairs that are not achievable, or it signifies
+the tardy attention to matters that are already fmished; and it
+signifies a soul sad and full of care.
+<?-*) Dorotheus — When Ares has come to Kronos, it makes those who are
+resolute and ready and effective, and it separates with enmities.
+Otpheus — Ares onto Kronos preserves whatever Kronos is accustoméd
+to harm; for it makes sickness and pain cease, and gives wealth and
+victory and good cheer.
+Anubio — Ares onto Kronos provides victories and action and sweetest
+life. 33 Pseudo-Valens — When it has come to the place of Kronos, it is
+exceedingly propitious and cheerful and useful for all areas of life. Dorotheus — When Ares has come to the Sun or Zeus, it is base, more
+so in the day, and even more when it is setting; and if it is also
+stationing, it is dangerous as well; for as far as the ancients are
+concemed, it signifies corporeal dangers and judgments. Ares also
+does the same when it has come onto the diameter of the Sun and
+Zeus; however, when the Sun or Zeus step on Ares by transit, or
+they are diametrical, it also does the same thing.
+Ares to Zeus and Aphrodite and Hermes turns what they provide
+for the worse.
+Orpheus — Ares onto Zeus is ruinous and harsh, and there will be
+frivolous expenditures of money; also, it is harmful in lawsuits and
+rouses up enemies; and the foetus is destroyed in pregnant women,
+or it dies immediately upon birth; it signifies harm and insolence
+and causes removais from one's place; and it renders actions futile
+and causes pain on account of children or a woman, and it gives
+enmities from rulers and bitter anger from the district.
+Anubio — Zeus having stepped onto Ares is good, but Ares onto Zeus
+is base; however. Ares stepping on Zeus does not always produce
+base things, but whenever it is diametrical to the Sun.
+Pseudo-Valens — Having come to Zeus, it is exceedingly disturbing
+and punitive and makes for cowardice.
+<?-(? Dorotheus — When Kronos and Ares are in ingresses in relation to the
+Sun, the Moon, and Zeus, both bodily and in those by square and
+diameter, and similarly also the recurrences and anti-recurrences
+(that is, whenever they should come to their own fixed places, or
+to the diameters), they become more harmful, if they were in fact
+poorly situated from the beginning.
+Every star is base when diametrical to itself by transit, and it is bad 34 when coming upon its fixed place. . .
+Orpheus — Ares onto itself removes one from his place or causes
+illness or makes bloody with iron or sets one on fire, “yet it
+bestows action and good fame in one's life.”
+Anubio — No entry.
+Pseudo-Valens — When it simply comes to itself, it is worse and
+unpleasant and stimulating; and mark that the star is exceedingly
+bad for everything at that time.
+d1 - ° Dorotheus — When Ares has come to the Sun or Zeus, it is base, more
+so in the day, and even more when it is setting; and if it is also
+stationing, it is dangerous as well; for as far as the ancients are
+concerned, it signifies corporeal dangers and judgments. Ares also
+does the same when it has come onto the diameter of the Sun and
+Zeus; however, when the Sun or Zeus step on Ares by transit, or
+they are diametrical, it also does the same thing.
+Ares to the Sun, if in addition it should also be found under the
+beams by transit, subjugates by fire, or gives a loss by fire. If
+someone has a father, it destroys either him or the older man
+having the role of father, and it is bad for great men and difficult
+in every work, especially in public matters.
+The Sun onto Ares or Ares onto the Sun, and the Sun or Ares onto
+the Moon while the Sun is co-present, signify bloodshed or harrn
+from fire.
+Orpheus — Ares onto the Sun diminishes possessions if it should also
+be bad for actions, causes pain and harms the mind, and pains
+some [natives] on account of hidden deeds; and if it should also
+make a station, it calls forth more difficult tumults and battles for
+things, and gives paternal hatred over ancient matters, and it brings
+betrayals and enmities from friends.
+Anubio —No entry. 35 Pseudo-Valens — Having come to the Sun, it causes dangerous illness,
+removais and moves from one's home, unexpected joumeys away
+from home, fears of a crowd and fire and blood and of malefactors,
+and the danger of falis from quadrupeds.
+d" - Mercúrio Doroíheus — Ares to Zeus and Aphrodite and Hermes tums what they
+provide for the worse.
+Ares to Aphrodite causes irregularities for the sake of erotic
+matters.
+Orpheus — Ares onto Aphrodite is apprehensive of a fight and bitter
+hatred from a woman; for they cause long separation and adulterous
+suspicions; sometimes also it strips everything away from men.
+Anubio — Ares onto Aphrodite causes wifely jealousies and disturbances, and harms pregnancies by introducing premature childbirth.
+Similarly also, Aphrodite onto Ares is harmful, except less so, for
+“when yielding, strong-limbed Ares delights in Kupris. [Aphrodite]
+Pseudo-Valens — Having come to Aphrodite, it connects one with
+female persons and causes profitless unsettlements through acts of
+females, and moral condemnations, and is turbulent in everything
+through the pretenses of women.
+d*-? Doroíheus — Ares to Zeus and Aphrodite and Hermes tums what they
+provide for the worse.
+Ares to Hermes makes slaves, suspicions, want of form, and causes
+enmities between friends, the flight of slaves or thefts; also, the
+reduction of one’s livelihood or doings, for it pre-eminently
+diminishes the livelihood and undoes one's doings.
+Orpheus — Ares onto Hermes causes penalties and lawsuits and more
+falsity, treachery, shame over hidden deeds, frauds, perjury,
+betrayals, flights, and bondage. 36 Anubio — Ares onto Hermes harm and sickness brings, in all is evil, and brings not victory to him vvho is tried.”
+Pseudo-Valens — Having come to Hermes, it causes treacheries and hidden acts and fears and thefts, unsettlement of friends, trickeries
+and frauds and perjuries of those in the household.
+c?-D
+Dorotheus — Ares onto the Moon provides bodily illness or financial harm and charitable Service with toil; and they will only watch over
+enemies, that is, they will have power over enemies.
+The Sun onto Ares or Ares onto the Sun, and the Sun or Ares onto
+the Moon while the Sun is co-present, signify bloodshed or harm
+from fire.
+Orpheus — Ares onto the Moon, if the zõidion is feminine, is about the fear of abiding illness, and especiaíly of the eyes; and if the zõidion
+is mascuiine, it disturbs what one does for a living. And if it should
+also make a station, still more; for it deprives of children and
+causes death for the siblings, introduces dangers and tumult, and it
+leads away to anothefs country or changes one's dwelling, and
+gives some work for another work, if the zõidion should not happen
+to be Kronos’ and should not prevent these things.
+Anubio — No entry. But see Appendix Gêmeos .
+Pseudo-Valens — No entry. d" - Angles
+Dorotheus — the destructive stars [Kronos and Aresl are distressing
+when they step onto the Júpiter pivots or onto the lights. However, if
+they were in good and congenial places at the beginning, it makes
+the affliction by transit blunter, just as the good stars which are
+disposed in base places at the beginning become weaker by transit.
+A malefic coming onto the pivots is quite harmful; for the
+Hõroskopos obtains the whole of life as its lot; the Midheaven,
+doings and children and reputation; the Descendant, marriage and 37 old age; the subterraneous pivot, the hidden mold of the body, and
+foundations and creation and markets.
+Orpheus — In the pivots it is difficult for everything, bringing instabilities and disturbances in the family and pain in life, and in
+the Descendant especially through a woman; for it also causes
+premature childbirth. And onto the Midheaven, they dishonor the
+marriage bed of those in wedlock, or it also provides sickness in
+this pivot.
+Anubio — No entry.
+Pseudo-Valens — When the star of Ares has come to the Hõroskopos, it effects the renewal of things by means of outside blood, for it
+throws life into a tumult and especially through women; and it also
+causes fears and diseases for women and is bad for everything.
+Having come onto the Midheaven, it is helpful for cuts of the
+extremities and dangers to the eyes; and it brings sudden dangers
+from a fali or from conflagrations, crowds, or quadrupeds; but it
+is not without use for management and advantage. Having come to
+the Descendant, it is exceedingly odious, for it also disturbs one's
+household and mode of living, and causes fights and plots and fears
+of the soul, and especially through women; and it causes crises for
+those who are married and for women. Having come to the
+subterraneous pivot, it causes unseasonable expeditions and
+profítless movements and gossip in account of secret affairs, and it
+is bad for everything relating to life and acts and unions. O
+Dorotheus — The luminaries in the places of benefics are beneficiai, but in the places of malefics, harmful.
+Orpheus — “The Sun onto Kronos brings memories of ancient matters” and brings wealth and joy to one's life.
+Anubio — No entry.
+Pseudo-Valens — Having come to Kronos, it works dangers from water and ailments or defluxes of rheum; and it is effective in relation to 38 actions. o-\
+Dorotheus — The luminaries in the places of benefics are beneficiai, but in the places of malefics, harmful.
+Orpheus — The Sun onto Zeus “bestows great renown” and good fame and good cheer, and causes manifestation of what is invisible.
+Anubio — No entry.
+Pseudo-Valens — Arriving at Zeus, it is unpleasant in relation to the multitude and those who are superior; and friends. . . [lacuna] and
+censures and calumnies; and for succeeding at the activities of one's
+life.
+O-cf Dorotheus — The luminaries in the places of benefics are beneficiai, but in the places of malefics, harmful.
+The Sun onto Ares or Ares onto the Sun, and the Sun or Ares onto
+the Moon while the Sun is co-present, signify bloodshed or harm
+from fire.
+Orpheus — The Sun onto Ares lays one down with sickness or removes him from his fatherland, destroys his money and causes losses
+against one's will and makes him hostile to his friends, and “stirs
+up trouble with his relatives,” unless Zeus should also be there by
+ingress.
+Anubio — No entry.
+Pseudo-Valens — Having come to Ares, it causes unpleasantness and robberies, the approach of the multitude, dangers, conflagrations,
+bloodshed, manipulation, asphyxiations from crises, and especially
+sudden dangers, falis from heights or quadrupeds, and fears of the
+household, and changes away from home, and unforeseen dangers
+from swearing an oath. 39 0-0
+Dorotheus — Every star is base when diametrical to itself by transit, and it is bad when coming upon its fixed place. . .
+Orpheus — The Sun onto itself or the Moon causes sickness and want of money, and it causes movement from one's own places; often,
+too, it brings wealth out of oppression.
+Anubio — No entry.
+Pseudo-Valens — ... When it arrives at its own place, it causes cares and afflictions of the soul, disturbances, empty fears, and
+movements [originating in] domestic matters.
+0- Mercúrio Dorotheus — The luminaries in the places of benefics are beneficiai, but in the places of malefics, harmful.
+Orpheus — The Sun onto Aphrodite is a cause of unsettlement, troubles the domestic felicity of women, but it provides profits in regard to
+gifts.
+Anubio — No entry.
+Pseudo-Valens — When it comes to be at Aphrodite, it causes dangers to those who have wives from wives, and unpleasantness and
+censures due to women; and it is effective for conducting one’s life.
+0- Mercúrio Dorotheus — No entry.
+Orpheus — The Sun onto Hermes causes the mind to wander and hurts the soul, is one to deceive and causes frivolous spending.
+Anubio — No entry.
+Pseudo-Valens — Arriving at Hermes, it makes what is hidden manifest, and causes a disturbance of those in the household and
+fights with household managers; and it is not bad for actions, but 40 nevertheless they will be done sluggishly. 0-5
+Dorotheus — The Sun onto Ares or Ares onto the Sun, and the Sun or Ares onto the Moon while the Sun is co-present, signify bloodshed
+or harm from fire.
+Orpheus — The Sun onto itself or the Moon causes sickness and want of money, and it causes movement from one's own places; often,
+too, it brings wealth out of oppression.
+Anubio — No entry.
+Pseudo-Valens — No entry. But see Appendix Gêmeos . O - Angles
+Dorotheus — No entry.
+Orpheus — The Sun onto the pivots removes one to other places and causes sickness and is grievous for the body, but in the Midheaven
+“it bestows action and great renown.”
+Anubio — No entry.
+Pseudo-Valens — When the Sun comes to be in the Hõroskopos, it causes weakness, upheaval, dangers, movements; but it strengthens
+those who had already been sick before it carne to this very place. Dorotheus — Aphrodite onto Kronos is fine for doing and for everything. . .
+Orpheus — Aphrodite onto Kronos indicates further acquisition and reputation in the district and help from secret sources, but it is
+maleficent for marriage; for it unsettles or otherwise “exchanged
+the marriage bed for the embrace of a lesser light.”
+Anubio — Aphrodite onto Kronos makes peace between women and 41 their bed-mates without treachery and trouble, and causes pain and
+censure and temperance in one's garments, and it yokes the
+unmarried.
+Pseudo-Valens — When it has come to Kronos; it produces unemployment, acquisitions, advancements, beneficiai moves, except with
+indifference; for often it makes the benefits be with tears. Mercúrio -\
+Dorotheus — Aphrodite onto Zeus disturbs and troubles through
+women, and plays one's hopes false, and nothing of what one
+intends comes to pass.
+Orpheus — Aphrodite onto Zeus causes ripening, dangers, sickness,
+enmities, judgments on account of family and contention within and
+with the family; and if the woman of this [ingressj is pregnant, she
+will miscarry.
+Anubio — Aphrodite onto Zeus does not rejoice so much, for it causes
+ungraciousness and groundless expectations.
+Pseudo-Valens — When it has come to be on Zeus, the star makes that
+time more harmful and unpleasant and full of disturbance, and
+especially for the household; or it causes treachery and plots and
+chicanery through women. Mercúrio -cf Dorotheus — No entry.
+Orpheus — Aphrodite onto Ares causes stabilities and expenditures
+from women and removal ffom a place and disturbances in regard
+to one's life.
+Anubio — Ares onto Aphrodite causes wifely jealousies and distur¬
+bances, and harms pregnancies by introducing premature childbirth.
+Similarly also, Aphrodite onto Ares is harmful, except less so, for
+“when yielding, strong-limbed Ares delights in Kupris.
+Pseudo-Valens — When it has come to be on Ares, the star is full of 42 gossip, and the time disturbing; for it causes untimely departures
+from home and frivolous expenditures and deceptions of women. Mercúrio -0
+Dorotheus — Aphrodite to the Sun provides continuous association with women and censure on account of women; and it also disturbs the
+soul and causes unsettlement in domestic matters.
+Orpheus — Aphrodite onto the Sun unsettles the mind and leads it astray, and causes actions and recreations and censures, and it
+makes for stability in the family.
+Anubio — No entry.
+Pseudo-Valens — When it comes to be upon the Sun, it will provide upheavals of life and soul, unsettlements or bodily weakness both
+in relation to kin and friends; and it causes censures and fears; and
+in general the star is disturbing and harmful until it should exit
+these places. Mercúrio - Mercúrio Dorotheus — Every star is base when diametrical to itself by transit, and it is bad when coming upon its fixed place. . .
+Orpheus — Aphrodite onto itself is indifferent and toilsome, in one way good, in another base.
+Anubio — No entry.
+Pseudo-Valens — When it has come to be on its own place, it is of good cheer in everything, pleasant; and it is productive in relation
+to the activities pertaining to one’s life, and effective for everything
+to which one lays his hand. Mercúrio - Mercúrio Dorotheus — Aphrodite to Hermes augments what Hermes makes or provides.
+Orpheus — Aphrodite onto Hermes indicates inheritances and it 43 increases possessions and brings an end to actions; and it provides
+victory in lawsuits.
+Anubio — Aphrodite onto Hermes is fine for every action.
+Pseudo-Valens — Arriving upon Hermes, it will be good and beneficiai for everything in life, for giving and receiving, and actions and
+partnerships and manipulations; and it is good for whatever one
+should wish. Mercúrio -5
+Dorotheus — Aphrodite onto the Moon is cheerful and effectual, yet it brings suffering or censure on account of a woman.
+Orpheus — Aphrodite onto the Moon indicates “good cheer and it delights in action,” gives effortless profit and joins in marriage, and
+causes child-bearing when it is in a feminine zõidion.
+Anubio — No entry.
+Pseudo-Valens — No entry. But see Appendix Gêmeos . Mercúrio - Angles
+Dorotheus — No entry. Orpheus — Aphrodite onto the Hõroskopos and Midheaven is cheerful and joyous and effectual and makes acquisition and profits greater;
+and if it is stationing, still more. Aphrodite onto the Descendant
+makes stability ffom a woman. Aphrodite onto the subterraneous
+pivot causes hidden ailments and pains from spouses; and if it
+should also be stationing, it causes ailments of the parts and
+fundament, and it brings destruction of decorum and tears for the
+family.
+Anubio — No entry.
+Pseudo-Valens — When the star of Aphrodite has come onto the
+Hõroskopos, it produces gaiety with good cheer, the gathering in of 44 revenue, and knowledge. And it is quite profitable in all the things
+being done if another star in another figure should not object.
+When the star comes to be in the Midheaven, it produces
+unemployment, upheavals of soul, unsettlements and profitless
+censures because of women. In the setting zõidion it produces
+unsettlements of things, gossip, adulteries; and for the married, the
+clamor and miscarriages of women; and this star is excéedingly bad
+in these píaces. If it should come to the subterraneous zõidion, it
+produces the same things as it did in the setting zõidion. Dorotheus — No entry.
+Orpheus — Hermes onto Kronos increases actions and acquisition, and harms enemies.
+Anubio — Kronos onto Hermes signifies either sickness or death, but gives the greatest of goods in full bodily strength at the time that
+it steps on Kronos (that is, Hermes onto Kronos).
+Pseudo-Valens — If it should come to onto Kronos, it causes benefits and unions from old business, receipts and expenditures. Dorotheus — Hermes to Zeus is best for everything, and especially for those who wish to come into power.
+Orpheus — Hermes onto Zeus is good for everything, giving profit from commerce and making friends, causing display, and providing
+reputation and strength at home.
+Anubio — Zeus onto Hermes and Hermes onto Zeus are quite estimable and profitable, and especially for the ones pursuing hermetic works;
+and should they be diametrical to each other, they are no less
+beneficiai.
+Pseudo-Valens — Arriving at Zeus, it makes the time more cheerful and glad; and it also provides unions. 45 5-d"
+Dorotheus — Hermes onto Ares makes those who are daring, inventive, and excited about things.
+Orpheus — Hermes onto Ares indicates those who are effective, and it sets [the natives] free from fears and puts an end to toil.
+Anubio — Hermes onto Ares brings victory to him who is tried and there will not be sickness or harm, but it is bad in commerce.
+Pseudo-Valens — Having come to Ares, it is exceedingly bad; for it causes weakness in one's mind and life, unless it produces a cutting
+through of matters with concision, and reputation along with
+annoyance and loss and harm.
+5-0
+Dorotheus — No entry.
+Orpheus — Hermes onto the Sun is inconstant in regard to crafts and action until it should come to the degrees of the Sun, after which
+it is efficacious.
+Anubio — No entry.
+Pseudo-Valens — Having come to the Sun, it causes unpleasantness and cares and fears and weaknesses and useless stays away from home.
+5- $
+Dorotheus — Hermes onto Aphrodite is stimulating in regard to erotic matters, and it is also beneficiai for one's actions and for the rest
+of his works.
+Orpheus — Hermes onto Aphrodite presents wealth and anothefs money and an inheritance from those who have died, “and
+friendliness in the household from the spouses of in-laws,” and
+makes friends of children and slaves.
+Anubio — Hermes onto Aphrodite is stronger in regard to livelihood and art, marriage, and friendship. 46 “And for other doings, useful. Abo ve all others this pro vides for
+commerce profitable for men, and is in judgments very timely; and
+to him who is tried it gives the longed-for victory.”
+Pseudo-Valens — Having come to Aphrodite, it is exceedingly cheerful and beneficiai and efficacious and propitious for women. Dorotheus — Every star is base when diametrical to itself by transit, and it is bad when coming upon its fixed place. . .
+Orpheus — No entry.
+Anubio — No entry.
+Pseudo-Valens — Having come to its own place, it makes the time poor; for it causes enmities and the alienation of one's family and
+household, and treacheries and thefts and deceptions. Dorotheus — Hermes to the Moon provides health and strengthening, and gives power to the body parts. i Orpheus — Hermes onto the Moon disturbs the stability of families and the district, and stirs up falsity in the market place and contention
+and calumny, as long as a benefic should not be looking on; for
+often when a benefic regards it in this way, it tums the crafts of
+this [ingress] to profit.
+Anubio — No entry.
+Pseudo-Valens — No entry. But see Appendix Gêmeos . 5 - Angles
+Dorotheus — No entry.
+Orpheus — Hermes onto the Hõroskopos and the Midheaven makes for friendship and trust from the great as a result of discourses and
+honor in the district [in which he lives]; onto the Descendant, it 47 causes pain and enmities, conceras, judgments, piteous plights from
+loans; onto the subterraneous pivot it is worse, causing dangers and
+harm from hidden and ancient [sources].
+Anubio — No entry.
+Pseudo-Valens — When the star of Hermes has come to the
+Hõroskopos, it causes unions, knowledge, great good fortune, economies, and the compietion of old business. If it should come
+up to the Midheaven, it similarly causes the compietion of old
+business, and a sudden awkwardness, and companionship with
+superiors. If the star should come to the setting zõidion, it is
+exceedingly bad and punitive; for it causes censures and calumnies
+pertaining to one's manner of living, upheavals and whisperings;
+mark well that the time is poor for everything. If it should come to
+the subterraneous zõidion, it causes gossip of secret or piratical
+deeds, and hõpetas [unknown word] with unpleasantness, and
+untimely departures in stays away from home. Dorotheus — The luminaries in the places of benefics are beneficiai, but in the places of malefics, harmfiil.
+The Moon to Kronos is cold, and when it is in its own trigon, [the
+native] is benefited by those who are ruling: . . .
+Orpheus — The Moon onto Kronos and Ares makes idle laziness and losses and dangers from heights or blood, the one from Kronos, the
+other from Ares; but with the other stars it is fine.
+Anubio — No entry.
+Pseudo-Valens — Having come to Kronos, it becomes sluggish and full of indifference, and causes certain remembrances of ancient
+matters; look for an opportunity to speak to one who is older, and
+[consider] every purchase; and it is conducive to acquiring a home;
+and it gets one dreadfully disturbed by dreams. 48 5->
+Dorotheus — The luminaries in the places of benefics are beneficiai, but in the places of malefics, harmful.
+Orpheus — No entry.
+Anubio — No entry.
+Pseudo-Valens — Arriving at Zeus, it is propitious for every action, but vexatious.
+)-(? Dorotheus — The luminaries in the places of benefics are beneficiai, but in the places of malefics, harmful.
+When the Moon has come to Ares, it signifies unforeseen dangers
+if no benefic should look at it. Similarly also, when the Moon has
+come onto the Sun while Ares looks on.
+Orpheus — The Moon onto Kronos and Ares makes idle laziness and losses and dangers from heights or blood, the one from Kronos, the
+other from Ares; but with the other stars it is fine.
+Anubio — No entry.
+Pseudo-Valens — When it has come to Ares, mark the days; for it causes unforeseen accidents, indifference, or falis, or bloodshed, or
+excitations, unless it is murderous and on the attack.
+5-0
+Dorotheus — When the Moon has come onto the Sun in Leo, it is fine for unions.
+When the Moon has come to Ares, it signifies unforeseen dangers
+if no benefic should look at it. Similarly also, when the Moon has
+come onto the Sun while Ares looks on.
+Orpheus — The Moon onto the Sun or onto itself “bestows a spirit at once sluggish and lying fallow,” and in the pivots it sometimes 49 makes a change of abode.
+Anubio — No entry.
+Pseudo-Valens — No entry. >- Mercúrio Dorotheus — The luminaries in the places of benefics are beneficiai, but in the places of malefics, harmful.
+The Moon onto Aphrodite while no malefics look on is a good
+time; and if Ares is co-present with the Moon or with Aphrodite,
+it signifies intercourse with women.
+Orpheus — No entry.
+Anubio — Having come to Aphrodite, it signifies cheerfulness and causes actions and intercourse, unless it causes unpleasantness and
+the shaming of one publicly.
+Pseudo-Valens — No entry. Dorotheus — The Moon to Hermes when he is beneficent indicates good things, but difficult things when he is maleficent.
+Orpheus — No entry.
+Anubio — No entry.
+Pseudo-Valens — Having come to Hermes, it causes actions to be more effeminate, and it amplifies whatever is effected through letters and
+partnerships, unless it causes conflicts or odiousness of domestics
+or slaves; mark those days. Dorotheus — Every star is base when diametrical to itself by transit, and it is bad when coming upon its fixed place. 50 When the Moon has come onto its own place, it rnakes thoughts
+rise to the surface. And if it should chance to be in a tropical
+zõidion, [the native] changes from one occupation to another. And
+if it should happen to be with Aphrodite and Zeus by fixation, it
+provides much good cheer.
+Orpheus — The Moon onto the Sun or onto itself “bestows a spirit at once sluggish and lying fallow,” and in the pivots it sometimes
+makes a change of abode.
+Anubio — No entry. But see Appendix Gêmeos .
+Pseudo-Valens — No entry. 3 - Angles
+Dorotheus — The Moon to the Hõroskopos elevates the soul. Having come to the Midheaven, it makes for promotions and reputation;
+and you may know the kind of reputation from the star testifying
+to the Moon. The Moon to the Descendant is fine for plots against
+enemies. Similarly also, having come to the subterraneous pivot, it
+is fine for slaves and the plots of enemies and matters clandestine
+and hidden, and for the association of such.
+Orpheus — The Moon onto the Sun or onto itself “bestows a spirit at once sluggish and lying fallow,” and in the pivots it sometimes
+makes a change of abode.
+Anubio — No entry.
+Pseudo-Valens — If the Moon should come to the Hõroskopos, it causes upheaval in the soul; for it causes disgust and empty fears.
+If it should come to the Midheaven, it will be propitious and
+efficacious for everything. If it should come to the Descendant, it
+causes fears, indifference; and take care with female persons and
+every action. Having come to the subterraneous zõidion, it is
+unpleasant and full of disturbance. 51 Appendix Gêmeos — Pseudo-Valens' Ingresses upon the Nativity
+Compiled by Robert Hand
+In each section the text from Pseudo-Valens contains ingresses of each
+planet upon the “nativity.” As Schmidt has mentioned in his note, it is
+not at all clear what this means, and he has presented two possible
+explanations. After going over his translation I discovered something
+very curious. Although Pseudo-Valens describes ingresses by the Moon,
+he does not describe ingresses upon the Moon by other planets, with the
+exception of Kronos onto the Moon. In addition all of the descriptions
+of the ingresses upon thé nativity occur in about the part of each
+paragraph where one would logieally expect there to be interpretations
+of ingresses upon the Moon. This leads to a strange possibility. Are the
+so-called ingresses upon the nativity actuaíly ingresses upon the natal
+Moon? And if so, why are they called ingresses upon the nativity as
+opposed to ingresses upon the Moon?
+It would be lovely to say that we have an answer to these
+questions, but we do not. However, there is an intriguing possibility.
+There are several ancient systems in which the Moon is a much more
+significant point in the chart than it is in modem Western astrology. For
+example, in Hindu astrology planetary periods, or dasas, are reckoned
+from the lunar mansion occupied by the natal Moon. The ruler of the
+first period of life is the ruler of the Moon's lunar mansion. Similarly
+in both Hindu and ancient Greek systems the Moon is reckoned as
+another point from which one can count houses. [While is it is true that
+one can count houses from any point in a chart, some points such as the
+Ascendant, Lot of Fortune and the Moon were used more than others.]
+Also in Hindu astrology the major system of transits, gochara, counts
+its houses from the sign or rasi of the Moon, not the Ascendant. The
+Moon sign is called janma rasi, and janma is a word in Sanskrit which
+has the same basic root and meaning as genes is or nativity! Is it
+possible that Pseudo-Valens' references to ingresses upon the nativity
+refer to a system like gochara where the transi t is measured from the
+Moon-sign?
+Interestingly, Pseudo-Valens explicitly gives only the ingress of
+Kronos upon the Moon. But when he comes to the ingress of Kronos
+upon the nativity, he starts with the ingress upon the square. In the
+other ingress delineations he starts with the planet ingressing upon the
+place of the nativity. It is as if he had already delineated the ingress of 52 Kronos upon the nativity elsewhere, which, if ‘nativity’ means the
+Moon, he has.
+As a final test I compared the delineations of the ingresses upon the
+nativity given in Pseudo-Valens to those given of gochara in B.V.
+Raman's Hindu Predictive Astrology.1 While there are differences, the
+similarities were astonishing, especiaily when it came to ingresses being
+treated as difficult or easy. The main difference between the two works
+is that gochara as employed in modem Hindu astrology has evolved
+into a somewhat complex technique and treats planets transiting through
+all twelve houses from the sign of the Moon. The Pseudo-Valens
+material describes aspect relationships to the “nativity.” This is a
+difference one would expect given the evolution of the two systems.
+To help the reader make up his or her own mind, I have gathered
+here together all of Pseudo-Valens’ delineations of ingresses upon the
+nativity as translated in the main body of the text.
+- Nativity
+And in reference to a nativity, if it should come to the square2 of the
+nativity, it causes actions and the administration of old business to be
+more easily resolvable, but it also causes profitless stays away from
+home. If it should come onto the triangle, it administers to whatever
+matters are related to action and loss without fastidious avoidance, while
+it signifies that whatever is related to friends is without harm. If it
+should come onto the diameter of the nativity, it will have in everything
+losses, intrigues of kinsmen, listlessness of mind, ingratitude,
+separations from one's own, faithlessness of friends, enmities of
+kinsmen, and dangerous sicknesses. If it should come onto the zõidion
+where the year should be spent, [profection] it produces narrow straits
+and harm and rapine, and the separation from women, and imposture.
+V - Nativity
+And in reference to a nativity, having come to the nativity, it causes
+sluggishness of the body and a like sluggishness in activities, except for
+the marriage of the unmarried; and it is also accustomed to give
+children and make additions to iife. Having come to the trigon of the 1 Bangalore: Raman Publications, 1970.
+2 See my introduction to this section for a comment on the fact that he
+starts here with the square. 53 nativity, it disturbs the beginnings, but achieves success and action at
+the last. Having come onto the square, it has as effect the benefits of
+multifaceted business; for it is adept at management and fine for unions
+and reputation. Having come to the diameter, it gives benefits of
+multifaceted business, and acquisition, and children to the married; and
+a few it distresses; and it chilis and disturbs what one does, and
+introduces fears.
+cf - Nativity
+In reference to a nativity, if it should come to the nativity, mark the star
+in everything; for it is full of sickness and penalties, and ineffective,
+and highly dangerous; and there is a struggle in regard to trifling
+suspicions, and agony of soul, and unsettlements of kinsmen. If it
+should come onto the triangle of the nativity, it is turbulent on account
+of worthless matters, and especially because of women; for it causes
+upheavals and untimely cares. If it should come onto the square of the
+nativity, it causes arguments with female persons and harm to one's
+manner of life, and bodily cravings. If it should come upon the diameter
+of the nativity, the affliction and burden is less.
+O - Nativity
+In reference to a nativity, if it should come to the nativity, it makes
+upheaval and care, and it furthermore works for weaknesses; and it
+administers the uncompleted actions of life early rather than at the
+close. If it should come onto the square of the nativity, [it works]
+trouble for the optical organs and dangers ffom water; but it is not bad
+for actions, but makes them easier. If it should come onto a triangle, it
+will be a propitious and easier time. Having come onto a diameter, it is
+exceedingly odious; for it causes upheaval and fills one will mental
+anguish, and causes censure and secrets and weakness and alienation of
+the household. Mercúrio - Nativity
+And in reference to a nativity, if it should come to the nativity, it causes
+annoyances and disturbances and the distress of women and untimely
+expenditures and unsettlements of women or bodily weakness, censure
+from superiors, and narrow straits and unemployment. If it should come
+onto the square of the nativity, it causes cheerfulness and benefits at the
+beginning, but later it makes a man worse. If it should come to the 54 triangle of the nativity or onto the year that is being spent, [profection]
+it is entirely fine and beneficiai and gives marriage or intercourse with
+women, and the conception of children for the married,
+5 - Nativity
+And in reference to a nativity, when it has come onto the nativity, it is
+distressing for everything mentally and in life; for it causes rejections
+and censures and ingratitude and deprivations. If it should come onto
+the square of the nativity, it is also exceedingly distressing on the part
+of female persons; and it causes vain expeditions. If it should come onto
+the triangle of the nativity, it is exceedingly beneficiai; and especially
+as concems old business, it is not a bad time to put a hand to it. Having
+come onto the diameter of the nativity, it makes the time unfit and
+dangerous, and a liar and an imposter to all men.
+3> - Nativity
+In reference to a nativity, [when it has come] upon the nativity, it
+causes terrible upheaval, and brings with it disgust and empty fears. 55 Glossary
+The following word list is intended to give only the barest of guides to
+the specifieally astrological vocabulary occurring in this book. It is
+keyed to the words actually used in the translation itself. Each word is
+followed by the transi iterated Greek word it çonsistently translates. The
+third entry for each word is its counterpart (if any) in modem
+astrological idiom. If there is no modem counterpart, but the translation
+seems sufficiently clear, we have put “none”.
+Occasionally, we have simply transliterated a Greek word in our
+translation. This is either because we have not yet come up with a
+felicitous equivalent, or else we do not yet think that we have
+sufficiently understood the word on its own terms.
+Bear in mind that the modern counterpart is not always coextensive with the Greek word; it may refer to a wider or narrower field
+of objects or relationships. And even if the two words are co-extensive,
+the modern word often comes from an entirely different semantic field,
+and consequently does not regard the same object in the same manner
+or from the same prospective.
+For more information about these words and their interconnections,
+and a more extensive list of Greek astrological terms, see the
+Companion to the Greek Track. application: sunaphê: application
+(to) ascend (of nodes): anabibazõ: ascend
+(to) bear witness to: epimaturõ: cast an aspect (probably forward)
+bound: horion; term
+bound sovereign: horiokratõr. term ruler
+circumambulation: peripatos: a direction
+configuration: suschêmatismos: general word for aspect
+(to) configure: suschêmatizõ: verb form of above entry
+contact: kollêsis: encounter (usuaily as a result of direction)
+contemplate: theõreõ: general aspect word
+crisis: klimaktêr. climacterical times
+(to) culminate: mesouraneõ: to culminate
+decline; apoklima; cadent house
+degree; moira: degree depression; tapeinõma\ fali
+(to) descend (of nodes): katabibazõ: descend
+dwelling: oikotêr: sign ruled 56 exaltation: hupsõma: exaltation
+face; prosõpon: traditional
+figure: schema: any kind of planetary relationship
+(to) figure: schêmatizõ: verb form of above entry
+(to) have dealings with: chrêmatizõ: none
+Hõroskopos: Hõroskopos: Ascendant
+house: oikos: sign ruled
+house steward: oikodektõr: ruler of a sign
+lord: kuríos: lord
+(to) mark the birth hour; hõroskopeõ: to be the Ascendant
+master: des potes: occasional synonym for rulership
+mastership: despoteia: see above entry
+Midheaven: mesouranêma: Midheaven
+monomoiria: monomoiria: assignment of degrees to planets pivot: kentron: angle
+place: topos: house
+post-ascension: epanophora: succedent house
+pre-ascension: proanophora: cadent house
+(to) regard: epitheoreõ: cast an aspect forward
+(to) rejoice: chairõ: to be in one’s joy
+(to) rise: anatellõ: rise
+ruler: oikodespotês: ruler of chart or issue, (not a sign rulership)
+rulership: oikodespoteia: rulership in the above sense
+(to) scrutinize: katopteuõ; aspect word
+sect: hairesis; sect or condition
+separation: apporoia: separation
+(to) set: duneõ: set
+(to) take delight in: chairõ: to be dignified
+(to) testify to; epimarturõ: cast an aspect (probably forward)
+trigon; trigõnon: triplicity
+trigonal master: trigõnou despotês: triplicity ruler
+zõidion: zõidion: sign 57 The Golden HindPress

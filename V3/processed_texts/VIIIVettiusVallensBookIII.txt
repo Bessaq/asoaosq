@@ -1,0 +1,2808 @@
+Vettius Valens
+The Anthology
+Book Gêmeos (concl.)
+& Book III
+Translated
+by Robert Schmidt
+Edited
+by Robert Hand Project Hindsight
+Greek Track
+Volume VIU Vettius Valens Anthology, Book Gêmeos (concl.), & Book III
+Translated by
+Robert Schmidt
+Edited by
+Robert Hand Project Hindsight
+Greek Track
+Volume VIII The Golden HindPress PROJECT HINDSIGHT is fiinded entirely
+by the astrological community through subscriptions
+and donations. ©Copyright 1994 by
+Robert Schmidt Published by The Golden Hind Press, Plutão .O. Box 002,
+Berkeley Springs, WV 25411. Table of Contents Introduction by Robert Hand .i
+Translator's Preface by Robert Schmidt. vii Book Two of the Anthology of Vettius Valens (Concluded. 1
+38. Concerning Marriage, Wedlock, and Bliss—A Variety of
+Considerations and Figures . 1
+39. Concerning Having Children or Childlessness.10
+40. Concerning Siblings.11
+41. Concerning Violent Deaths, with Illustrations .11
+Book Three of the Anthology of Vettius Valens.27
+1. Concerning Predomination .27
+2. Concerning the Notable Degrees of the Pivot Points .33
+3. On Aphesis.35 Júpiter . Concerning Winds of the Stars and their Exaltations and
+Steps.42
+5. Concerning the Sect of the Stars.45
+6. Concerning Winds and Changes .49
+Bounds According to Vettius Valens, Diumal Charts ... 52
+7. From the Anthology of Valens concerning a Numerical Lot and
+Length of Life. The Same also in Regard to the Propitious
+Times, with Illustrations.53
+8. Concerning the Teaching of the Crisis of the Seventh and the
+Ninth .58 Mercúrio . Teachings Pertaining to Conjunctions and Whole Moons and
+Conception in Relation to the Ascending Node that Concern
+Length of Life.60
+10. How to Find Precisely the Sun, the Moon, and the Hõroskopos
+in a Conception .63
+11. Concerning the Lot of Fortune in Regard to the Matter of
+Length of Life with Illustrations, in which are also the Least
+Years of the Stars.67
+12. Concerning Crisis Times.70
+13. Mean Years of the Stars.71
+Appendix I
+Translation Conventions.74 Introduction by Robert Hand
+With this third volume in our complete translation of Vettius Valens’
+Anthology we come to some of the most complex and dense material
+that we have yet encountered, much of it with enormous implications
+for the understanding of the development of astrological techniques, and
+quite possibly for modem astrological practice. In Book III we see
+something like one of those dehydrated sponges that one encounters in
+the novelty Stores. When water is added, the sponge swells up to several
+times its original volume. I have the feeling that if the material in these
+Books were treated in a way analogous to the water and the sponge, the
+result would swell from this slim volume to an entire shelf of books.
+Think for example of the amount of astrological literature that has been
+spawned as the result of a short section in Book III of the Tetrabiblos
+on primary directions and life expectancy. In this unit we have several
+sections like that, including very similar but much more elaborate
+material like that of Ptolemy’s Book Hl.
+We also have the last chapters of Book Gêmeos left over from the last
+volume of Valens (Volume VII, Project Hindsight, Greek Track).
+Chapter 38 deals with marriage and contains many aphorisms relating
+to the subject. We also have some lots we have not seen before in
+Valens, two versions of the Lot of Marriage, one that seems to apply to
+both sexes, and another set that differentiates between men and women.
+The second of these is found in a variety of other sources. Chapter 39
+gives information about children and we encounter lots pertaining to this
+subject as well. Chapter 40 gives information conceming brothers and
+sisters.
+These three chapters are quite typical of the kind of material that
+one encounters in both Greek and Medieval astrology, material that is
+presented in the form of lists of astrological conditions with little or no
+explanation as to why each aphorism should have the meaning it does.
+Some are derivable from basic astrological symbols; many others are
+not. It appears that we are simply going to have to deal with these in
+much the same way that Hindu or Vedic astrology deals with the yogas,
+or astrological combinations. It is to be hoped that at some time in the
+future we will be able to understand the principies underlying these, but
+this is going to have be the result of both systematic analysis and
+experimental application. However, there is one thing that must be said
+here and how. This is not the first place where this has been said, but i it bears frequent repetition. These aphorisms in many cases State
+extreme manifestations that could only be expected to manifest in these
+ways when there are many indications pointing in the same direction,
+and when there are no countervailing conditions. Each aphorism
+describes an astrological condition which tends to move the life of the
+i}ative in a certain direction. The degree of movement in that direction
+depends on the other indications in the chart. If an indication is strongly
+counteracted, then one might expect oniy the mildest form to manifest,
+frequently a form in which the literal actions indicated by the aphorism
+take place either on a metaphorical levei or express themselves as an
+inward psychological State that leads to no action.
+This understanding is especially important with regard to the last
+chapter of Book D on violent deaths. Here we have several example
+charts and the principies which form the basis of a judgment of violent
+death. Most interesting is the pairing of planets based on rulerships of
+signs that are eight signs from each other. The ruler of the eighth sign
+is said to destroy the ruler of the first sign, as the eighth sign is the
+eighth house when the first sign rises or is the sign of the Lot of
+Fortune. For example, Scorpio is the eighth sign from Aries, so Mars
+is said to destroy itself because it rules both signs. Sagittarius is the
+eighth sign fforn Taurus, so in this respect Júpiter is said to destroy
+Venus. In each case the likely causes of death are described. A number
+of sample charts are presented to illustrate the principies.
+However, as we move to Book III, one of the shorter books of the
+Anthology, we come to something quite unique, a detailed exposition of
+the various means of computing life expectancy. This is a topic which
+is not especially popular with modem astrologers. Most astrologers
+regard the forecasting of death as being unethicaí except under unusual
+conditions. So one might ask why would we be interested in techniques
+directed at such a purpose? The answer is quite simple! First of all if
+the techniques work, then we have access to methods that we have not
+been able to use before. And if they were found to work, there is still
+no reason to assume that the periods of life-threatening danger indicated
+by these techniques necessarily mean the inevitability of death. It is
+much more likely that such times are times when the native is in danger
+of death, but death which is preventable. But of course we have to
+determine whether the techniques do have real validity before we can
+speak about inevitability.
+Most traditional methods of forecasting life expectancy are based on ii one of two basic techniques. The first of is exemplified by Ptolemy in
+Book m of the Tetrabiblos. It is based on finding a particular planet,
+usually the Sun or Moon, called in Greek aphetês, for which we use the
+Anglicized form, apheta. There is a discussion of this term in Schmidf s
+TransIator’s Preface. However, the basis of the method is to direct,
+using a system of primary directions, the aphetic planet to a position
+either occupied or aspected by another planet, usually a malefic, called
+a destroyer. When the directed apheta reaches such a degree, death
+ensues. It is this part of Book III in Ptolemy that has provided the basis
+of so much astrological commentary, especially since the Renaissance.
+In fact that short section of the Tetrabiblos provided the principie
+motivation of Placidus’ work. The great difficulty is that Ptolemy’s
+description is quite difficult to understand. We hope that when we get
+to our rendition of that passage in Book III, we will be able to shed
+some light on his methods.
+The other basic technique is one that was most used by the
+Medieval Arabs. We have also seen this method in Paulus Alexandrinus.
+It also consists of finding the apheta. But the technique does not involve
+directing the apheta. Rather it requires that one fmd a particular ruler of
+the apheta, usually the ruler of the bound or term. The bound ruler
+grants a period of years based on its small, mean, or great period of
+years as described my introduction to Book Gêmeos of the Anthology. For
+convenience that table is reproduced here. Mercúrio Mercúrio O d" Saturno Small 25 20 8 19 15 12 30 Mean 66.5 48 45 69.5 40.5 45.5 43.5 Great 108 76 82 120 66 79 57 Thcn various ancillaiy techniques were employed to either lengthen or
+shorten the years as derived from the planet giving the life span.
+Valens offers a variety of techniques, but most of them involve a
+combination of the two preceding basic methods. Directions were to be
+combined with periods of time derived from the planets and the
+ascensions of the relevant signs. Again the reader is referred to the
+introduction to Book Gêmeos . Unlike all other sources of these techniques
+iii with which this writer is familiar, Valens desires us to use a variety of
+approaches and to seek among them those which concur in indicating a
+particular period of time. If any of these techniques do tum out to be
+useful, it is highly probable that a multiple approach such as the one
+Valens shows us here is going to be the most useful. One note: no one
+is going to be able to sit down, read this book, and become an expert on
+forecasting life expectancy from the birth chart. The material here is
+obscure and difficult at times . Only concentrated effort and hard work
+are going to yield whatever results may come from this material.
+In chapter 2 of this book we have one of the most potentially
+revolutionary of any of the discoveries we have made in Project
+Hindsight. We see that Valens may have used two diíferent types of
+houses for two diíferent purposes. In all of the charts that we have seen
+thus far the houses for interpretation are whole signs measured from
+either the Ascendant or the Lot of Fortune as Hõroskopos. The
+bèginnings of the houses are the beginning of the signs, and the endings
+of the houses, the endings of the signs. The Midheaven computed the
+way modem astrologers do as the intercept of the ecliptic and meridian
+circle is not used as the cusp of a house. But in chapter 2 he introduces
+a system absolutely the same as the one usually attributed to Porphyiy,
+but which we have seen even earlier in Antiochus of Athens. Valens is
+earlier yet even than Antiochus. However, Valens uses these house only
+for the determination of the strength of planets in them. The meanings
+that are associated with houses are to be found connected, not with these
+quadrant houses, but with the whole-sign houses. Could it be that the
+entire confusion régarding houses in astrology ever since has been the
+result of tiying to combine two completely different sets of criteria for
+houses into a single system, when in fact they should have met by two
+different types of houses? Or was Valens in a transitional period when
+the older type of house, equal or whole-sign, was giving way to a
+quadrant system with the Midheaven as the cusp of the tenth house, and
+the Ascendant as the cusp of the first, with the intermediate houses
+derived from various kinds of trisection of the ares between the horizon
+and meridian circles. When Valens comes to directing to and from the
+angles, we find that he uses the true Midheaven and the opposite poinl,
+the I.C., in preference to the points in square to the Ascendant. Valens
+makes a point of this on several occasions in his discussions of
+directions. So we find the quadrant type of house used for directions as
+well as estimating strength, but not so far for house interpretation.
+Actually we have exactly this same ambiguity in Ptolemy. It is quite
+iv apparent that Ptolemy, insofar as he used houses at all, used either equal
+or whole-sign houses. But when he discusses directions, he also worked
+with true horizon-meridian quadrants. Ptolemy also seems to have kept
+the house-logic for directing separate from thc house-logic of
+interpretation. Should we go back to this? I think that this is something
+that we do have to look at.
+In Chapter 3 we have an extremely obscure discussion of latitudes
+and winds. It contains a theory of exaltations tliat is unlike anything we
+have seen. It suggests that in at least someone’s mind, exaltations were
+originally points of most elevated latitude. This makes no astronomical
+sense whatsoever, but there is probably something here we do not
+understand.
+Chapter 5 is on sect and reinforces what we already know from
+Antiochus of Athens and other sources. However, after some brief
+comments on sect, the text resumes discussions of aphesis and life
+expectancy. It is apparent that here we have anotherplace where the text
+has been somewhat scrambled.
+Chapter 6 introduces yet another system of bounds or terms, one
+which we do not believe is reported from any other source. It is also not
+clear that Valens used it at all. It may just be a theoretical exercise in
+astrological reasoning.
+In Chapter 7 he resumes the discussion of life-expectancy with
+additional methods of computing this. This peculiar tendency to altemate
+a main topic with other, largely unrelated topies, is another indication of
+the random “editing” of the text.
+In Chapter 8 we have a veiy obscure and probably somewhat
+garbled account of something that may have been related to or led to
+ninth and seventh harmonic charts.
+In Chapter Mercúrio once again life expectancy computations resume adding
+methods based on New and Full (Whole) Moons prior to birth. This is
+followed by Chapter 10 on trutine of Hermes, which then resumes the
+main theme of the book. In Chapter 11 more techniques on the apheta.
+The last two chapters, 12, and 13, introduce new material on planetary
+periods and their use in computing length of life.
+I can only say that in this introduction I have only touched upon
+some of the highlights of what is in this book. It is one of our shorter
+pieces, but the material in it is among the most dense we have seen. The
+full implications of this material will take much time for us to work out. v In this booklet I have departed from previous practice in my editing. In
+the past I have resorted at times to rather lengthy footnotes as a device
+for introducing commentary and explanation. The texts here required
+such extensive explanation that we decided to place the commentary
+directly in the body of the text. These comments are entered in a slightly
+smaller font than the actual translated text, and each such passage begins
+with the following in square brackets, “[Commentary by RH]," or
+“[Commentary by R. Schmidt]." All notes are by Robert Schmidt, the
+translator, unless your editors initials [RH] appear in the note. vi Translator's Preface by Robert Schmidt
+The third book of Vettius Valens' Anthology has length of life as its
+general topic. Not surprisingly, the aphetic (or directive) method is the
+dominam procedure discussed. In Paulus and other Greek astrologers
+this is also called the method of circumambulations. Even though the
+central term aphesis is a very common Greek word meaning ‘releasing’,
+‘discharging’, ‘hurling away’, etc. I still do not believe that we have
+understood its exact specification in an astrological context. However,
+there is much in Valens that is very suggestive, and we hope to be able
+to write a general note on this word after we have dealt with this
+method in the third book of Ptolemy's Tetrabiblos. Additionally, Valens
+has reported a number of intriguing and apparently ancient supporting
+techniques for determining length of life.
+Again there is evidence of manuscript corruption. According to text
+editor Pingree, the text has undergone numerous editings and revisions
+o ver the centuries, which may account for its present uneven character.
+As a result of some of Valens' remarks in this book, we have been
+able to establish that he and other Hellenistic Greek astrologers spent
+a great deal of time trying to interpret the earlier root text of Nechepso
+and Petosiris. Valens constantly describes the material in that book as
+mustikos, or enigmatical, and he is even suspicious of the intentions of
+those earlier astrological writers in writing in that fashion. He himself
+prefers to write more openly and with numerous examples. The
+ambiguity in the earlier text can even affect such basic concepts as the
+Lot of Fortune. We are told that there was considerable difference of
+opinion over how to calculate it for night births.
+Accordingly, it is quite possible that some or most of the divergent
+and occasionally inconsistent teachings of Hellenistic astrology may be
+a result of the variant readings that later Greek astrologers made of a
+fundamental written text of Egyptian origin—that is, the work attributed
+to Nechepso and Petosiris, and evidently composed or translated into
+Greek around 200 B.C.E. This provides us with an important
+interpretive strategy (a hermeneutic, in modern jargon) in our attempt
+to restore Greek astrological thought. We should not suppose that we
+are dealing with an oral tradition handed down intact from master to
+pupil as in índia. Instead, we must see the conceptual variations as due
+to interpretations and /rarinterpretations of an written original. This may
+actually help us to infer what the original was. vii However, we must always bear in mind that m/sunderstanding
+involves understanding and can often times be genuinely Creative, and
+may sometimes transport the interpreter into conceptual dimensions he
+would never have thought to investigate if he had been faithfully
+sticking to the tradition. This is in fact what happened in the later
+European Renaissance. Those who were sworn to faithfully restore the
+ancient traditions in mathematics, logic, and Science unwittingly created
+powerful new disciplines: Renovare est Innovare.
+We should also bear in mind that our own attempt to restore the
+Greek astrological tradition in its purity is subject to the same analysis
+as abo ve. We too are trying to faithfully restore a tradition by reading
+and interpreting “scriptural” texts. We too may be raijunderstanding it.
+But it is my personal opinion that if our efforts at restoration are
+dedicated enough, if we truly believe that there is a valuable prize to be
+won, and if we avoid anachronism and condescension when confronting
+the past, then our mwunderstandings may still have an independent
+astrological value. Book Two of the Anthology of Vettius Valens
+(Concluded) 38. Concerning Marriage, Wedlock, and Bliss—A Variety of
+Considerations and Figures
+I advanced, then, all the teachings that seemed to me to be true by
+experience, along with explanations. Now, since the matter of marriage
+is very diverse, I will clarify it in an easily graspable manner for those
+who pay attention. The matter of marriage is grasped naturally from the
+7th zõidion of the Hõroskopos.
+It is necessary to consider how Aphrodite is situated, with what
+planets and by what planet or planets it is witnessed or mastered. For
+when it is in tropical zõidia or has dealings in bicorporeal zõidia,
+especially at night, it makes those who are polygamous and
+promiseuous, and especially if Hermes should happen to be together
+with it, or much more so if Ares should also happen to bear witness to
+it. That is, they come to have intercourse with male children. And if the
+zõidion should also happen to be more virile, they become more
+successful with regard to intercourse. If Aphrodite should have dealings,
+while her lord should have set or should occupy the Evil Spirit—or a
+destructive planet should afflict it—or it should be foully situated, it
+makes the marriage and the union unfortunate. And if a destructive
+planet should render Aphrodite herself ineffectual by testifying to her
+or especially to her ruler, it causes the death of the wife or injury or
+upset. And if they should be well situated in with regard to the nativity,
+it causes inheritances from women; but if they should be poorly
+situated, it causes ailments and pain.
+If Kronos should look ahead at Aphrodite while she is setting, it
+makes those who are unmarried and hard to deal with. If Aphrodite
+should chance to be in the zõidion of Kronos, or in its bounds, or if it
+should be opposed by Kronos in accordance with an isosceles line,1 and
+neither Ares nor Zeus should bear witness to her, and Hermes should
+not be co-present with her, then they will be widows and virgins. But 1 According to Antiochus this is an aspect of 180° difference in ascensional
+times or degrees. [RHJ
+1 every time that Kronos opposes Aphrodite, it bestows a wife who has
+been injured or who is barren. Similarly also, the man for a women.
+And if Kronos should be culminating, but it should be opposing
+Aphrodite, it bestows a woman who is a slave. If Aphrodite should be
+witnessed by Zeus while being in the house of Kronos, or should apply
+to Kronos while separating from Zeus, or should come into contact with
+it, and if it should be seen by Ares, they have intercourse with their
+nurses or with the wives of their teachers, or with their stepmothers, or
+with the sisters or brothers of their fathers or mothers. And when the
+Sun is also bearing witness to them, or to the Moon, it will involve
+them even more in sin,1 especially when the Moon is witnessing them
+or being witnessed by them. Aphrodite in a setting zõidion with Kronos
+in the subterraneous pivot point will mix them in lowborn marriages and
+will cause them grief. In general, as often as they have Aphrodite with
+Kronos oras its ruler or superior to it, with Zeus also witnessing, they
+will have intercourse with their elders or else their superiors. And if it
+should be a women, the same.
+When the Moon and Aphrodite are upon the same pivot point, they
+have intercourse with sisters or brothers, especially when Zeus and Ares
+bear witness. When the Moon and Aphrodite are square or diametrical,
+they make jealous natives. And when Ares is bearing witness, the
+tension is greater. The Moon and Aphrodite trine in [its] own house,
+especially when upon a pivot point, bestow a marriage with kin, and
+especially when Ares and Zeus are testifying. The Sun in its own house
+or exaltation with Zeus and Aphrodite joins them in a marriage with kin
+on the father's side. Aphrodite in her own house or exaltation in the
+bounds of Zeus, with Hermes and the Moon, joins them in a marriage
+with kin on the mother's side. When Aphrodite should chance to be in
+the subterraneous pivot with the Moon, or if they should oppose each
+other, or if they should be anti-culminating, they join them with
+fraternal or kindred persons.
+Every time that Kronos should be upon the tenth place from
+Aphrodite, or if it opposes, or if it should chance to be with it or should
+be the ruler of it, it will cool or defile the marriage, and more when
+Hermes is testifying. Kronos and Aphrodite, when he witnesses her in
+a post-ascension or in a pivot point, makes those who are shameful and 1 hamartêma. Literally, ‘missing the mark.’ This is also the Christian word
+for ‘sin.’
+2 lecherous, those who are given to innovation, and those who have
+intercourse with the unworthy or with slaves, on account of which they
+will be tempest-tossed unless some planet should cut down the affliction
+by intervening. And if the star of Zeus should testify, much of the
+irregularity will be concealed and it will not be shameful. That is, they
+will have intercourse with superior women and with the women of their
+acquaintances; and they will not have many children as those that
+consort with them will be barren, or else they will be slow to conceive,
+and the ones that do conceive will abort. Let similar things be supposed
+for female nativities. If Kronos should testify to Aphrodite or should be
+in her bounds, while Aphrodite should herself be figured by Zeus and
+Ares, there will be advance by means of a child or a female personage,
+and such a one will see good fortune, but will fail utterly in the end,
+unless they should be having dealings while in their own houses or
+exaltations. If the Moon should have rays hurled at her by Zeus or
+should be configured with it, and Kronos along with Zeus should
+witness her, the native will cohabit with an unworthy or bought woman;
+for, Kronos harms the worth.
+And if Aphrodite should be in exaltation in this figure while being
+witnessed by Zeus, the native will come into advancement and property,
+because of this, and he will be known by great men. And if Hermes
+should also be figured in this disposition, they will be effective and on
+target and prudent and charming, but promiscuous and for the most part
+inconstant with regard to marriage. And in general, Zeus regarding
+Aphrodite or being congenial to her or agreeing with her to the degree
+makes those who are well wed or those who are benefited by women;
+and women from men. And even if she should be afflicted, he serves
+as an ally so that everything should not be entirely overtumed.
+When Aphrodite is upon a pivot point, especially in the Hõroskopos
+or Midheaven, and she should not be afflicted by Kronos, she makes
+good marriages; and when she is being witnessed by Zeus, she holds
+out against afflictions so that things do not get overturned, causing
+sympathy and marriage. When Aphrodite occupies the Good Spirit in
+her own house or exaltation while having the tenth place from her
+occupied by Zeus or being contemplated in a trine, she bestows a good
+marriage, but she will cause pain with the death of a good woman. If
+Aphrodite and Kronos should occupy the Evil Spirit while Zeus is not
+looking on, the natives will be ill wed or widowers, being upset with
+abandonment and death. If for this figure (that is, when Aphrodite 3 occupies the Evil Spirit without the testimonial of Zeus) a destructive
+planet such as Ares should bear witness, they will become adulterers or
+liable to penalties for adultery, loveless, sordid, and those who undergo
+reversais due to these. And those co-present with Aphrodite or
+diametrical to her will always cause the separation or death of the
+companion, or sad companions, and much more so if they should also
+afflict the Moon.
+When the Moon has set under the beams, it is not good for
+marriage. Ares lying with Hermes makes adultery and prostitution and
+lasciviousness. And if the zõidion is tropical or bicorporeal, still more
+so. For they will sin1 more frequently, and they will have a wandering
+eye and not be successful, though at times they have intercourse with
+those of like manners and they will experience dreadful treatment from
+them as often as they administer it; and much more if Hermes should
+witness these. The same things result for female nativities. And if
+Kronos should also bear witness, even more still. For in doing well by
+them they are treated ungratefully, so that they also plot in order to be
+ungraciously treated; or the women the men.
+If Ares and Aphrodite should have set under the beams, the natives
+will engage in clandestine adulteries and secret sins. And if they should
+also happen to be oriental or upon pivot points, it will be more
+apparent. And if oriental Hermes should also be present with them, the
+adultery and calumny will be more dangerous. Also, if Zeus should bear
+witness, the native will saved. But if not, he will be oppressed or done
+away with if he should have this manner of death; if not, he will keep
+his life by spending a lot. And as often as it should result that
+Aphrodite is poorly situated and Ares occupies the Evil Spirit, and they
+should have dealings while out of sect, or they should chance to be in
+the setting zõidion, or else in the house of a sect-mate, the ruination will
+be worse and the adulteries dangerous, and there will also be jealous
+condemnations. Similarly also, when they are diametrical to each other,
+they cause what has been written above, but more intensely in relation
+to separations and unpleasantness and jealousies and angers, and they
+take up more plots and dangers. On account of Hermes witnessing
+them, the native pursues innovative sins, and furthermore such are
+involved with servile personages and children. They are promiscuous
+and adulterous and notorious, and meet with seductions and factionalism 1 hamartanõ. Júpiter and poisonings by friends and slaves and enemies.
+Zeus co-present with Aphrodite or witnessing her accomplishes what
+has been written above imperceptibly, and such are improved with
+greater property, especially if it should be oriental or upon pivot point.
+Whenever Ares should bear witness to Aphrodite in a manner agreeable
+to her, they are brought together as a result of adultery. Whenever
+Hermes should bear witness to an oriental Aphrodite while Kronos does
+not commune1 with her or with the ruler, they are joined to virgins and
+maidens. And if Ares should look on, more so. And if Zeus, more
+honorably. And in general, always when Hermes bears witness to it,
+such a one gets involved and entwined with maidens and subordinates.
+And men and women do similar things in the same nativity. And if
+Ares should chance to be together with her, and if in a square as well,
+he makes adulterers, lechers, rolling about with the unworthy, faults,
+separations, deaths of companions. It is worse if Kronos is diametrical;
+such a one conjoins with older or sterile persons. But if Zeus, more
+dignified persons. And if the star of Kronos should also be figured with
+the star of Zeus as it lies together with Aphrodite, such will mix with
+superior or powerful women. And similarly for women. And in addition
+to these, delayed marriages and late marriages become strong and
+harmonious whenever the star of Ares and the star of Hermes should
+exchange with Aphrodite. And if Kronos and Zeus should be co-present
+or should testify to her in trine, it will be more steady. As often as they
+should have Aphrodite rising in the morning for a masculine nativity,
+they become dominant over women, but as often as she is under the
+beams, they become subordinate. The reverse for female nativities.
+You calculate the Marital Lot as follows: For a diurnal nativity,
+from Zeus to Aphrodite and an equal amount from the Hõroskopos, but
+nocturnally the reverse.2 The place diametrical to the Lot, then, will be 1 Kronou mê koinõnêsantos mede tõi oikodespoíêi. It is not clear whether
+the specialized astrological sense of ‘commune’ is being used here. If il is, then
+it means that Kronos is present upon the same zõidion as the other planet, and
+this zõidion is the house of one and the exaltation of the other. Cf. Antiochus,
+section 30.
+2 In Paulus the Lot of Marriage was as follows:
+Diumal
+Noctumal
+Males As + Mercúrio - b As + Mercúrio - b Females As + b - Mercúrio As + b- Mercúrio 5 indicative of adultery. And if the lord of the Marital Lot should be
+found upon the diameter, and the lord of the Lot of Adultery1 in the
+Marital Lot, they will first commit adultery and later enter into a
+contract, and those who have contracted will separate and again be
+brought together by adultery. If the lord of the Marital Lot should have
+a moming rising, they will be combine in marriages from their early
+years. But if it should be an evening riser, they will marry late. And if
+it should be setting while it has dealings, they will be entangled in
+marriage jealously and in an irregular manner. The lord of the Marriage
+bestows the first marriage, while benefics harmonious with the marriage
+indicator or its lord will themselves also bestow marriages, and more if
+the zõidia of the witnesses or the marriage indicator itself should be
+dual-natured.
+Concerning Marriage, in a Different Manner
+, -K - • >' For men, from the Sun to Aphrodite and an equal amourit from the
+Hõroskopos; for women, from the Moon to Ares. For, Aphrodite and
+Ares are destroyers of both the lights because though the Sun is exalted
+in Aries it perishes in Libra and causes the days to lessen, and though
+the Moon is exalted in Taurus it is depressed in Scorpio and causes a
+subtraction of its light cosmically. Aphrodite, then, will be the marriage
+indicator for men, while Mars will in general be the indicator for
+women. When, for men it is necessary for the place of marriage to
+agree with the Spirit, but for women with the Lot of Fortune because
+of the conjugation and union of the Sun and the Moon. For in this way
+the sympathy and illegality of the marriage will be judged.
+If, then, many stars should be present together upon the place of the
+marriage indicator, or should witness it, there will be polygamy. And if
+the stars should be entwined with the Moon while Zeus is testifying,
+they will be legally brought together. And if Kronos, they will be
+separated by death. And if Hermes should be apart from Zeus, he will
+be at fault with slaves. And if Zeus should witness Kronos, the marriage
+will be consecrated legally, or they will produce noble offspring. And
+if [it] should be somehow entangled with Aphrodite, or should have a 1 The word ‘lof is actually used here, but we do not have a “Lot of
+Adultery” in this text. We have to regard this as a mystery for future solution.
+[RH] 6 relationship to her, the marriage will be from habituation.1 And if Zeus
+should testify, the marriage will be lawful and advantageous and
+sympathetic. But if Hermes and Ares should testify to Kronos while
+Zeus is absent, they will be brought together with common or sterile
+[women], or those who are ugly or mutilated. If the Moon should
+additionally be with Aphrodite, he will pursue that which is
+companionable and lascivious, and jealousies and factions will come
+about, and the companionship will be cooperative.2And if the Sun
+should hold sway over the marriage indicator and should be well
+figured, while the star of Zeus should intertwine with the Moon, they
+will be brought together legally, and the marriage will be steady or
+reputable. And if the Moon should somehow be contemplated by
+Kronos, the marriage will be as a result of orphanhood or from
+guardians. And if the star of Aphrodite and the star of Ares should
+chance to be together or should be entangled with the Moon, they will
+be brought together either with women who have a past or by
+habituation. And if the Moon or Aphrodite should somehow be
+configured with Zeus or the Sun while the remaining planets are absent,
+they will become monogamous.
+. ...
+Now, for both men and women it will be necessary to examine the
+Lot of Fortune and the Spirit, and their squares and diameters, as well
+as their rulers and the lord, and whether they are benefic or malefic.
+And if they are configured while being in sect, the marriage will be fine
+and sympathetic. But if the places or the lords should be diametrical to
+one another or should be scrutinized by malefics, there will arise
+oppositions, factions, jealousies, hatreds, accusations concerning the
+companionship. At times, then, they will also be chastised for
+submitting to necessity. But if, with these planets being figured, the star
+of Kronos should congenially bear witness, there will be separation in
+death. And if Hermes should happen to be lord of the Spirit, and the
+Moon of the marriage indicator, and they should also be co-present or
+witness one another, such a one is brought together with ladies or
+women who are superior either in their manner of living or in their
+breeding. If the star of Zeus should somehow co-witness, the union will
+be advantageous and sympathetic. And if Kronos or Ares, confusions 1 Common law?
+2 euupokritos. Cooperative in the sense that each of the partners plays his
+part in the marriage well. 7 or jealousies or separations will arise and hurtful accusations will
+follow. And if Zeus should somehow be the ruler and should be
+configured with the Moon, and Kronos should testify, such a one will
+be brought together with a mother or a step-mother. But if the Moon
+should not have a relationship to the Lot of the Mother,1 he will be
+brought together with older women. And if the star of Zeus should be
+the ruler of the Spirit, while Aphrodite should be the ruler of the
+marriage indicator, such will be brought together with siblings or kin.
+And if Kronos should bear witness, it will happen clandestinely; but if
+Hermes or Ares should, separations and exposures will occur. And if,
+while Kronos is absent, the Sun should testify, the marriage will take
+place legally and with friendship and will be sympathetic and
+advantageous. And if the Sun should be the ruler while the Moon
+should hold sway over the marriage indicator and should be configured
+with the Sun, with Zeus also testifying, the marriage will be sympathetic
+and equally privileged and lawful, as well as reputable and brilliant. If,
+while the Sun rules, Aphrodite should hold sway over the marriage
+indicator, with Kronos testifying, he will be at fault with a daughter.
+And if the marriage indicator should come to have a relation to Kronos,
+and it should hold sway over the Spirit or Ares, they will remain
+unmarried. And if Kronos should ruler over the Spirit while Aphrodite
+should obtain the place of marriage as her lot and should be found with
+Hermes while being witnessed by Ares, such a one will be brought
+together with a barren or blameworthy woman. And they are brought
+together with foreign women or those of another race or they undertake
+the marriage in a foreign land when the marriage indicator should
+happen to not be upon a pivot point or should be in aversion to the
+Spirit. And the nature of the zõidia and stars will indicate from what
+country the women are.
+Similarly also, for women it will be necessary to examine the Lot
+of Fortune and the marriage indicator from the Moon to Ares, and to
+compare these. For if the Moon should somehow hold sway over the
+Lot, while Hermes holds sway over the marriage indicator and should
+be co-present with the Moon or should bear witness to it, she will be
+brought together with a slave or freedman. And if Zeus should
+somehow bear witness, the marriage will be lawful. But if, while these
+things are so, the star of Zeus should occupy the place concerning 1 By day As + 3> - Mercúrio , by night As + Mercúrio - 3>. [RH] 8 children and Kronos should additionally bear witness, she will be
+brought together with a child or one having the position of a younger
+child. But if the place conceming children should come to be [that of]
+Kronos, and the Moon herself should come together with Kronos, they
+will remain unmarried. And if the Moon should be the ruler while
+Kronos should be the marriage indicator and should be co-present with
+the Moon or should witness it, they will be brought together with a man
+but will hate him and will spend will lead an unstable life. And if the
+Moon should hold sway over the Lot while Ares does over the marriage
+indicator, and they should witness each other, the marriage will be
+unsteady or the result of rape or war and captivity. And if Zeus should
+bear witness, it will later become lawful. If Ares should happen to be
+diametrical to the Sun while being witnessed by Kronos and the Sun,
+he will be one accused of being soft. And if for females Aphrodite
+should somehow hold sway over the Lot while the Sun should be
+present with her, having been allotted the marriage indicator and the
+paternal lot,1 with Kronos witnessing, she is brought together with
+fathers. And if the Sun should hold sway over the paternal place, she
+will be brought together with an older man having the role of a father.
+And if Aphrodite should be the ruler, while Hermes should occupy the
+place conceming marriage, and Kronos should bear witness to these,
+they will become promiscuous or will be placed in a brothel. But if the
+star of Zeus should bear witness, they will gain and will become
+affectionate; while if Zeus should be absent, they will spend their lives
+shamefully and suffering ills. And if Aphrodite should be found in
+Pisces or in Capricorn with the figure being such, they will also perform
+shameful acts. And if Ares should be allotted the Spirit while the Moon
+is allotted the marriage indicator, the maniage will be booty. And if it
+should be found diametrical while being witnessed by Kronos or the
+Sun, the one accused will be captured. If Aphrodite should be the lady
+of the marriage indicator, while Ares should be the lord of the Lot of
+Fortune, the marriage will be a result of habituation. And if Kronos and
+Hermes should also testify while Zeus is absent, she will be accused of
+adultery. And as for the remaining figures, as many as are said for men
+it will also be necessary to watch for in women. For if it seems to have
+been ordered in a diverse manner, it will nevertheless become quite
+clear in those [marriages] that are met with. 1 By day As + b - O, by night As + O - Saturno . [RH] Mercúrio 39. Concerning Having Children or Childlessness
+The place concerning children, which is taken from Hermes and
+Aphrodite, must be examined. When, then, they are afflicted by Kronos
+and Ares, they are the causes of childlessness or the destruction of
+children, but when they are assisted by Zeus, they are the causes of
+fruitfulness. Now, one must also examine the ruler of the Lot of
+Children, which is found thus: For male children, from Zeus to Hermes;
+and for females, from Zeus to Aphrodite, and an equal amount fforn the
+Hõroskopos.1 Accordingly, when the lord of the Lot2 is witnessed by a
+destroyer, it destroys children, but by one of the child bestowers, it is
+an indication of fruitfulness.
+And Petosiris: Whenever Zeus and Aphrodite and Hermes should
+not be afflicted, it is indicative of fruitfulness. Whenever the reverse,
+they cause laments and deaths for children. As often as they testify to
+the child bestowers from bicorporeal zõidia, or as often as the [child
+bestowers] themselves may be in bicorporeal zõidia, their number is
+doubled. When the feminine stars witness the child bestower, they give
+female children; the masculine stars, males.
+If for a masculine nativity the star of Zeus chances to be with Ares
+while ruling or being ruled by Ares, and the star of Kronos should
+witness Aphrodite or should be in her house, the figure is inclined to
+give childlessness, and they will miscarry their children. And if for a
+feminine nativity the Moon chances to be in the places of Hermes,
+while Aphrodite should be witnessed by Kronos in a masculine zõidion
+or should be ruled by him, such will become childless, or they will
+destroy their children. If Zeus should look at the Moon or Aphrodite,
+while the Moon is in the places of Hermes, but Kronos should oppose
+or be culminating, and Ares should bear witness to Kronos, they will
+ha ve a single child or be barren. When Aphrodite has Zeus bearing
+witness to her, but is afflicted by Kronos, it gives difficulty in the
+making of even one child. And if the Moon should be co-afflicted, they
+always become childless. When Kronos and Ares are culminating or
+anti-culminating, they cause childlessness unless they should somehow
+be witnessed by a benefic. 1 In Paulus the Lot of Children is + b - \ both day and night for both sons and daughters. [RH]
+2 Thcre is no noun here; it could equally well be the ‘place.’ 10 40. Concerning Siblings
+When the Sun is marking the hour it makes for few or sparse siblings.
+When Kronos is setting, it makes for sparse or few siblings. Zeus and
+Hermes and Aphrodite upon pivot points are the bestowers of siblings.
+And when Kronos is opposed, it destroys the older sibling. When
+Kronos happens to be with Ares, it slays siblings or makes them weak.
+When Aphrodite and the Moon are congenial to the third place from the
+Hõroskopos (which is the place concerning siblings), they will give
+sisters, and especially if the zõidion should be feminine. And if the Sun,
+Zeus, and Hermes should happen to be in a masculine zõidion [in the
+third place], they give brothers. And when the destroyers are witnessing
+the place concerning siblings, if they should be poorly situated, they
+destroy the siblings who are born pr they make those who are without
+siblings, or those who have few siblings. When the benefics should
+witness the place concerning siblings, they not only give siblings, they
+also make for a good one. When the star of Ares is having dealings
+with the place concerning siblings and should be well
+situated—especially when it is being witnessed by a benefic and
+especially when looking at the Moon—he becomes a bestower of
+siblings. Some take the place concerning siblings as a lot, by day ffom
+Kronos to Zeus, by night the reverse, and an equal amount ffom the
+Hõroskopos.1 41. Concerning Violent Deaths, with Illustrations
+The diametrical opposition2 3 of the Sun and the Moon is not always
+difficult. But when a malefíc should be looking on following the phase,
+or else should have rays hurled at it while maintaining a relationship,
+then it is established as difficult. Whence, the all-blessed nativities are
+not allotted good fortune all the way to the end; but rather, when the
+ruler of a star for a certain matter' should fali amiss or else should be 1 Paulus uses the formula A$ + \ - "b for siblings day and night and the
+formula As + b - \ for children. Here the second formula is the noctumal
+formula for siblings. [RH]
+2 The Moon? 3 cmtizugia. 11 opposed, it will furnish misfortune. Petosiris, then, seemed to have fully
+articulated this matter, though he has then obscured it by saying
+mysteriously,
+“beginning, end, dominion o ver entire areas of scrutiny1—the ruling
+star for each nativity, which star makes clear ahead of time for the
+offspring which offspring will exist and have what particular sort of
+support for life, and what sort they will be as to their habits, the
+type of bodily form, which all become consequences of this [star].
+And without it there is nothing additional for anyone, neither work
+nor reputation.”
+Now, how is it possible for one star, even though it is the ruler, to give
+good fortune to the nativity in all respects, or oppositely give bad
+fortune? Rather, in general, the [lord] of the original support of notable,
+middling, and depressed births will be found to be different;2 or else, it
+will supply power for the remaining [supports] but will be different than
+the remaining [rulers].3 And we have found some who are fortunate in
+their life and reputation and are honored with pomp when the ruler
+seems to be congenially fígured, but unfortunate in their children and
+wives, as well as becoming licentious and shameful and defiling their
+life and being talked about as unworthy of such support, and later
+reduced or having a violent death. The native, then, has not become
+fortunate, or whatever is consistent with the ruler, in everything, but a
+different rulership, by being afflicted, diminished the reputation through
+the introduction of many accusations. We have also comprehended
+others who have gone from a depressed and disreputable fortune to an
+unsurpassable and unhoped for support; and some who are fortunate in
+their children and wives, but wanting in their üvelihood; and others who
+are happy in the area of property, but disreputable and even diseased;
+and others who are long-lived, but full of toil and mutilated; and some
+who have much property, but are short-lived or consumptive, not being
+able to partake of what is present. The life-giver, then, was one planet. 1 diopteutêrion. The exact meaning of this word is unknown.
+2 That is, different in different charts. [RH]
+3 This sentence has been considerably emended by the text editor, and still
+is not entirely clear. 12 and the lord of existence1 and of death another.
+But someone will say that when the ruler falis amiss, it causes a
+short life; for that very reason, when it falis amiss it is not bound to
+measure out a happy life; nor, when the ruler has engendered a
+subordinate and depressed life, was it obliged to furnish a bright and
+notable life later; nor, when the ruler is well figured, is it obliged to
+furnish for the well born native who mixes in no mischief a violent or
+condemned death. But rather, the ruler falling amiss engenders a lesser
+[life], while when the lord of reputation and life is found upon a pivot
+point and is giving over the times,2 it will furnish a brilliant one. Thus
+also, the planet engendering happiness, when it is also found upon a
+pivot point or in profitable places, will be a careful guardian until its
+own times, but if it should have the planet that imparts suffering or
+injury or some other cause of affliction in a superior position to it, or
+if it should be opposed, and after it has yielded in its turn, it will be
+exhausted of its own power. And there are other special matters in the
+life of men which are used to happening, which are not established
+through one rulership or treatment, but through many.
+If, then, someone should investigate the places and the rulers in an
+precise manner, it will be easy to grasp the part in which the nativity
+will be fortunate, and the part in which it will be unfortunate. If, then,
+as many stars as have a determination [pertinent to] livelihood should
+be afflicted, or to life or injury or ailments or what one does or the
+remaining areas, they will harm the nativity in accordance with each
+class. More often, then, we have found the compiler to make use of not
+a single power of rulership [alone], for he says, “For the one has
+possession of what one does, another the substance of the times, another
+the remaining or changing, another perishing.” And, “By making a prior
+scrutiny of the place-description of the Conjunction3 or of the separation
+of the Whole Moon, upon which very thing—in relation both to the
+pivot points and to their post-ascensions—one's all depends.” And, “for
+reckoning the initial birthday, it is necessary to make an examination of • 1 huparchsis. This word has been translated as ‘property’ abo ve.
+1 This refers to the change of chronocratorship, or the planetary rulership
+of different periods of life, which will be discussed in Book Júpiter .
+3 In this text when the word ‘conjunction’ refers to a New Moon, it is
+capitalized as in ‘Conjunction’. The general use of the word is not capitalized.
+[RH] 13 the Descendant, Pre-Descendant, Post-Descendant. For, the final passing
+away will be found in these.” And many others. It is necessary, then,
+to take one place for what one does and reputation, and another for life,
+and another for injury and ailments and death. Everything, then, will not
+become a consequence of one ruler. We will more reasonably, then,
+make our demonstrations by means of many powers.
+But we will also clarify these matters at a later time, and especially
+with regard to the divisions of the times, but now we will push on to
+the determination of violent death. When the lord of the Conjunction or
+Whole Moon of the nativity should happen to be in aversion to the
+zõidion or should fali amiss while being witnessed by a malefic, it
+indicates violent deaths. Similarly also, if Hermes should be opposed to
+the Whole Moon while being witnessed by a malefic, it produces an bad
+cause of death. And if Kronos or Ares or Hermes should be present
+upon zõidion of the fortieth day, it indicates violent death. Similarly
+also, when malefics happen to be upon the Descendant or
+Pre-Descendant, they also produce violent death and the causes of
+ailments and bad deaths. And the 8th place from the Hõroskopos also
+possesses the same power in relation to the causes of death, and
+similarly with the 8th place from the Lot of Fortune. It is necessary,
+then, to examine upon what zõidia the Lot and its lord happen to be.
+For in these zõidia the causes of death are shown ahead of time, since
+when the Moon (which is fortune) is conjoined cosmically with the Sun
+in Aries, it caused an eclipse and subtraction of light in the 8th zõidion,
+in Scorpio, whereby it has been called its depression.
+We will show the pattern ahead of time by means of the zodiacal circle
+for the easy comprehension of what we are talking about.
+Aries is destroyed by Scorpio, and both are the dwelling places of Ares.
+Since, then, Ares is the destroyer of itself, it is from this that it makes
+suicides and those who throw themselves from heights and those who
+are ready for death or those who conspire with evil men, piratical,
+homicidal, those who bring the death onto themselves, and those who
+are destroyed by animais or fire or and an attack; furthermore, those
+who are destroyed by quadrupeds and blood and seduction.1
+Taurus is destroyed by Sagittarius, which is Aphrodite by Zeus. 1 epagooe. 14 These die well from wantonness or satiety or wine or intercourse, or are
+those who die an easy death of apoplexy, those who are feeble, with no
+one afflictive cause creeping in except that when a malefic should be
+upon it or testifying, introducing an end from its own nature, it will
+indicate the cause of death.
+Gemini is destroyed by Capricorn, that is, Hermes by Kronos.
+Some, then, become those who suffer violent death, those who are
+troubled by black bile, or those who are undone with sensations in the
+tendons or in wet areas, by the ill-treatment of wild animais or reptiles
+or those who are condemned, those who are confmed, those who choke,
+those who are undone by the assaults of robbers or hostile enemies, or
+by the use of drugs, on account of that which is highly watery.
+Câncer is destroyed by Aquarius, which is the Moon by Kronos.
+They are destroyed by means of water or internai annoyances, or they
+those who are undone by pain of the spleen or stomach, with the
+bringing up of water, in the sea, in rivers, in dampness, with the attacks
+of reptiles and wild animais, with elephantiasis, jaundice, epilepsy, with
+drugs, with a long anguished life; but for females, with pain of the
+breasts, cancers, with disturbances in the hidden parts or the womb, or
+with choking, or the abortion of children.
+Leo is destroyed by Pisces, the Sun by Zeus. Whence they die as
+ones with heart or liver conditions, or they are in danger in very wet
+[places], or because of water and falis, and through agues or female
+slaves,
+Virgo is destroyed by Aries, Hermes by Ares, And they die by
+betrayal and mischief; they are those who are upset by wars and
+robberies, conflagrations, attacks, weak vision, captivities, wrath of
+sovereigns, or by being led away, or by falis from quadrupeds or
+heights, broken limbs, attacks of animais; and furthermore, for female
+persons by the falling of the bowels, abortions of children,
+hemorrhaging, ruination.1
+Libra is destroyed by Taurus, Aphrodite by itself. Whence they
+become suicides through the drinking of poison, those who are bitten by
+an asp, those who die by starving themselves, by intercourse, by having
+the uvula excised, by choking, by being mutilated or becoming maimed
+or paraíytic, or those who are undone by charges from female
+personages, or those who fali from heights or from quadrupeds. 1 By seduction or by pestilence.
+15 Scorpio is destroyed by Gemini, Ares by Hermes. They become
+those who die by iron, by cutting of the private parts, of the buttocks,
+or of strangury, by putrefaction, strangling, violence, battle, with the
+assaults of robbers or the attacks of pirates, or through the authorities,
+fíre, impaling, reptiles, by reason of wild animais.
+Sagittarius is destroyed by Câncer, Zeus by the Moon. They die,
+then, as those who are splenetic, or suffering in the liver, with disorders
+of the stomach, those who bring up phlegm, spit up blood, those who
+die in a fali from quadrupeds or by reason of the bites or attacks of
+wild animais, shipwrecks, watery areas, epilepsy, maiming, feebleness.
+Capricom is destroyed by Leo, Kronos by the Sun. They die as
+those with heart conditions, fracturing, in baths or feverish, by the wrath
+of the king or sovereigns, or through impaling, the affliction of animais,
+or falis from quadrupeds or heights.
+Aquarius is destroyed by Virgo, Kronos by Hermes. And they die
+by reason of a wasting of the insides, by an disease involving dropsy,
+elephantiasis, Jaundice, by eating iron, dysentery, betrayal of a woman.
+Pisces is destroyed by Libra, Zeus by Aphrodite. They die by means
+of waters or poisoning, discharges or a sensation of the tendons, or the
+private parts, liver troubles, hips, reptiles, by reason of wild animais.
+And these pertain to the determination conceming violent deaths.
+But in a different manner, it will be necessary to employ as well the
+causes of injury and ailments for each zõidion in order for the quality
+of death to be easily surveyed. And the co-presence or witnessing of
+each one of the stars joins in introducing a cause for death out of its
+own nature. it is necessary, then, to consider how the places and the
+lords are situated and by what stars they are witnessed, either by
+congenial ones or opposing, and to make a judgment accordingly. For
+when the malefícs are present upon the places or are witnesses for the
+rulers, they produce violent deaths. But when benefics are, they produce
+deaths through allegations1 or toil or injury or ailments or the onset of
+fevers. For example, Gemini is destroyed by Capricom and Aquarius by
+Virgo, which is Hermes by Kronos and Kronos by Hermes. If, then,
+these should chance to be related diametrically or as squares, they also
+make those who suffer bad deaths or are short-lived, since the lifebestower was opposed to the lord of death. And if they are otherwise
+unrelated while scrutinizing each other in an uncongenial manner, they 1 prophasis. 16 introduce oppositions and judgments and complaints other transitory
+accusations. Let the same figure be similarly understood for Ares and
+Hermes. Now, the ancient one wanted them to be diametrical, saying,
+“At any rate, let every State of diametrical opposition1—a State of the
+rising and setting of whichever of the stars or else of the Sun and
+Moon—end in dispute.” But I say that the causality of those stars that
+are related to destruction or to some other rulership pertain to reputation
+and livelihood and death.
+As an illustration, let the
+Sun, Ares, Aphrodite be in
+Câncer; Kronos, Hermes in Leo; Zeus in Aquarius; the
+Moon
+in
+Pisces;
+the
+Hõroskopos in Scorpio, The
+Lot of Fortune is in Leo, the
+deadly place in Pisces.2 In that
+place is the Moon, and Kronos
+is upon the Lot. The Sun, the
+lord, is with Ares in Câncer, in
+a wet zõidion. He died, then, in
+a bath, being drowned in the
+water. Ares was also opposed
+to the Whole Moon; and Kronos, the lord, was in aversion. Whence
+Also, he died a violent death.3
+[Commentary by RH] In the above chart the main indications of violent death
+are these: malefics conjunct the Lot of Fortune (Kronos) and its ruler, the Sun
+(Ares); Ares opposite the place of the Moon at the preceding Whole Moon; and
+the ruler of the Whole Moon (Kronos) averse or inconjunct the position of the
+Whole Moon. Ares and the eighth house Moon being in water signs indicates
+the manner of death. Hermes and Kronos being mutual destroyers and conjunct
+the Lot of Fortune is another factor. In addition to Valens’ comments, we
+might also note that the while Kronos is in sect (this is a diumal chart), it is
+also in its detriment; Ares is not only in its fali, it is also out of sect. Both of
+these might have been considered to increase the malignance of the malefics. antizugês. 2 The 8th sign from the Lot of Fortune. [RH]
+3 L 123, VII in Neugebauer dated to about 3 Plutão .M. on July 2, 123 C.E. [RH] 17 Another. The Sun, Hermes,
+Aphrodite in Pisces; Kronos in
+Virgo; Zeus in Scorpio. Ares in
+Taurus; the Moon in Sagittarius; the Hõroskopos in
+Leo. The Lot of Fortune was in
+Taurus. Ares, holding
+over the Spirit, was sway
+upon Taurus, The and opposed, deadly place was in Sagittarius.
+The Moon, lying upon it, has
+Kronos in superior position to
+it, while Kronos is in the
+zõidion of the Whole Moon.1
+Similarly also, Hermes, the
+lord of the Whole Moon was opposed. Such a one had his throat cut.2
+[Commentary by RH] The logic appears to be as follows. Taurus rules the
+throat. The presence of the Lot of Fortune in Taurus makes the throat the
+emphasized part of the body. Ares, ruling and opposed to the Lot of Spirit,
+indicates the danger of injury, especially as this is a diumal chart (Ares is
+noctumal) and Ares is in detriment. The Moon being afflicted in the eighth sign
+from the Lot of Fortune by Kronos (Kronos destroys the Moon) in the sign of
+the prenatal Whole Moon adds to the fatality of the combination.] ' In Virgo. [RH]
+2 This word could also mean that he was beheaded. In the following
+examples where we have used the phrase “throat cut”, “beheaded” could also
+have been used as an altemate translation. The Greek itself literally does mean
+that the throat has been cut, but Neugebauer seems to feel that this Greek
+specifically refers to beheading. [Additional by RH] This chart is L 97, Gêmeos dated
+to about Júpiter Plutão .M. on February 23, 97 C.E. Neugebauer following the Kroll text
+has Zeus in Aries, whereas the actual date would produce Zeus in Scorpio.
+Pingree’s text has Zeus in Scorpio and so it is represented here. 18 Another. The Sun in Câncer; the Moon in Pisces;
+Kronos,
+Ares, Hermes
+in
+Gemini; Zeus In Capricorn; Aphrodite
+in
+Leo;
+the
+Hõroskopos in Libra. The Lot
+of Fortune was in Gemini. Kronos, Hermes, Ares, being
+kept under guard in it, while
+being the destroyers of each
+other, are witnessed by the
+moon; and similarly also, the
+lord of the Whole Moon is in
+aversion. And since Zeus is
+upon the deadly place and has
+become acronycal, it did not have the power to help. Such a one had his
+throat cut.1
+[Commentary by RH] In this case we have the two malefics conjunct the Lot
+of Fortune along with Hermes. Remember that Hermes is destroyed by Kronos
+and Kronos by Hermes. Hermes is also destroyed by Ares (Aries is the eighth
+sign from Virgo), and Ares is the destroyer of itself. The Moon squares all of
+these. The Lord of the Whole Moon is Kronos again às in the previous
+example, and again it inconjunct or averse to the position of the Whole Moon.
+Júpiter is in the eighth from the Lot of Fortune, which makes it a problem
+rather than a help), and it opposes the Sun (‘acronycal’ meaning that it sets
+while the Sun rises). We might also notice that it is in its fali. 1 L 87, VII in Neugebauer dated to about noon on July Mercúrio , 87 C.E. [RH] 19 Another. The Sun, Hermes,
+Ares,
+Zeus, Aphrodite
+Capricorn;
+the
+moon in
+in Aquarius; Kronos in Taurus; \
+H fitt \ \ / /
+/
+/ m $ o\
+<? $ * the Hõroskopos in Aries. He
+also had his throat cut.1
+TH
+nothing about this chart, but we
+see that we have Aphrodite
+conjunct Zeus (Zeus destroys \. TU Zeus), the Sun conjunct Zeus
+(Zeus destroys the Sun), and /
+n
+G
+\
+Hermes conjunct Ares (Hermes
+destroys Ares, and Ares destroys Hermes). Many of these are combinations
+which would not strike modem astrologers as being especially fatal. Perhaps it
+is because there are so many destroyer-destroyed pairings here. Sol Another.
+The
+Sun,
+Aphrodite in Aquarius; the Moon in Gemini; Kronos in
+Scorpio; Zeus in Pisces; Ares *
+in
+Câncer;
+Hermes,
+the
+Hõroskopos in Capricorn. The
+Lot of fortune was in Virgo,
+the deadly place in Aries. Their ^ TU /
+® / TH \ ^ / Sol / \. d* ^ G lords were opposed to each
+other in a wet zõidion, and
+otherwise Ares also chanced to 0 be upon the Descendant. Such
+a one was boiled in his bath
+after fainting.2 2/ / \ > /
+\ \
+^ 11 T [Commentary by RH] The main factor here seems to be the opposition of the
+lord of the Lot of Fortune and the lord of the eighth house of the Lot of
+Fortune. This relationship also demonstrates why Ares is the destroyer of 1 L 86, XII in Neugebauer dated to about noon on Dec. 27, 86 C.E. [RH]
+2 L 101,1 in Neugebauer dated to about Júpiter A.M. on Jan. 28, 101 C.E. [RH] 20 Hermes. The mention of Capricom as a “wet zõidion” may seem strange, but
+Valens and other ancient astrologers regarded Capricom as a wet sign even
+while they regarded it as an earthy sign. See Book I chapter 2 of the Anthology.
+Another.
+Aphrodite in The Sun, Capricom; the \ Moon in Câncer; Kronos,
+/°>
+Hermes in Sagittarius; Zeus in
+Taurus; Ares in Leo; the -o. m Netuno / \
+o$ \
+/ Hõroskopos in Aquarius. The
+Lot of Fortune was in Leo,
+Ares was upon it in a fiery and *» H Sol solar zõidion, being opposed to
+the Hõroskopos. And Kronos
+and Hermes had a superior X
+position over the deadly place.
+Such a one was burned alive.1
+/ / T \
+\ })
+0 n \ [Commentary by RH] The affliction of the Hõroskopos by Ares conjunct the
+Lot of Fortune seems to be the main indicator. The square of Kronos and
+Hermes to the eighth house from the Lot of Fortune does not seem so bad
+except that these two planets are mutual destroyers. Ares is again out of sect. 1 L 103 in Neugebauer dated to about 8 A.M. on Jan. 10, 103 C.E. [RH]
+21 Another. The Sun in
+Capricorn; the Moon in Libra;
+Kronos in Taurus; Zeus in
+Gemini; Ares, the Hõroslcopos
+in
+Câncer;
+Aphrodite
+in
+Aquarius;
+Hermes
+in
+Sagittarius, The Lot of Fortune
+was in Libra. The Moon was
+present upon it, with Ares in
+superior position to her while
+being in opposition to the Sun.
+The deadly place was in
+Taurus; Kronos was present
+there. such a one fought with
+wild beasts.1
+[Commentary by RH] Here we have the Lot of Fortune and the Moon squared
+by Ares and the Sun, and Kronos in the eighth house from the Lot. Thus both
+the Lot and the eighth house from the Lot are occupied or afflicted by malefics.
+However, we also have Aphrodite ruling the Lot and the eighth house from the
+Lot (Venus destroys itself) in the eighth house from the Hõroskopos in square
+to Kronos in the eighth house from the Lot. 1 L 115, XII in Neugebauer dated to about sunset on Dec. 26, 116 C.E.
+[RH]
+22 Another. The Sun, the
+Moon, Hermes in Gemini; Kronos in Leo; Zeus in Pisces;
+Ares in Câncer; Aphrodite in
+Taurus; the Hõroskopos in
+Capricorn, where the Lots also
+left off. Kronos, the lord, was
+in the deadly place being
+contemplated by Aphrodite.
+Ares was opposed to the
+Hõroskopos. Such a one died
+by poison.1
+[Commentary by RH] Here again
+we have the Lot of Fortune
+afflicted by Ares in the 7th house,
+Aphrodite in square to the Lot, and Kronos in the eighth house from both the
+Hõroskopos and the Lot. The trine from Aphrodite to Kronos is the indicator
+of poison. Also recall that Aphrodite destroys itself because Taurus is the eighth
+sign from Libra. Another. The Sun, Hermes,
+the Hõroskopos in Taurus; the
+Moon in Pisces; Kronos in
+Gemini; Zeus in Aquarius;
+Ares in Virgo; Aphrodite in
+Aries. The Lot of Fortune was
+in Pisces. There the Moon is
+being contemplated by Kronos
+and Ares, The lord of Spirit
+and of the Whole Moon [were]
+opposed. Such a one died in a
+flood.2
+[Commentary by RH] The Lot of 1 L 65, V in Neugebauer dated to about 8 Plutão .M. on May 25, 65 C.E. [RH]
+2 Or perhaps, ‘in the hold or a ship,’ or ‘in bilge-water.’ [Additional by
+RH] This is L 88 dated to about sunrise on May 5, 88 C.E.
+23 Fortune is afflicted by both of the malefics here, and the Moon is also the ruler
+of the Lot of Spirit, while Ares is the ruler of the prenatal Whole Moon. Another. The Sun in Leo;
+the Moon, Hermes in Virgo;
+Kronos in Gemini; Zeus in \
+\ Aries; Ares, the Hõroskopos, / / N. / Aphrodite in Câncer. The Lot
+of Fortune was in Gemini.
+There Kronos was the lord of
+the death and had a superior H T
+V 8 n ®H^^ position over Hermes, the lord
+otherwise, Ares was
+also
+opposed to the deadly place.
+Such a one hanged himself.1 \ / of the Lot and the Moon. And Sol o /
+2 3> / / IV m \ -A. [Commentary by RH] Here we
+have Lot of Fortune conjunct
+Kronos, the ruler of the eighth house from the Lot. Kronos also squares the
+Moon (Kronos destroys the Moon) and Hermes (Satum destroys Hermes). Of
+course we also have Ares opposed to the eighth house from the Lot. Another. The Sun, Hermes
+in Aries; the Moon, Aphrodite \ ■b \. in Pisces; Kronos in Câncer;
+Zeus, Ares in Taurus; the
+Hõroskopos in Scorpio. The Sol TU “ \. G / /
+/ n Lot
+of Fortune
+was
+in
+Sagittarius. The lord was with
+Ares in the Descendant. The
+deadly place was in Câncer.
+Kronos, the lord of the Whole
+Moon was aversion. And Ares ^ (f & ^H / ® /
+was also opposed to its own
+z'
+house. Such a one fought with Netuno / / \
+T
+5 \ í m 1 L 89 in Neugebauer at about Júpiter A.M. July 29, 89 C.E. [RH] 24 o \ H X wild animais.1
+[Commentary by RH] Here we have the ruler of the Lot of Fortune, Zeus,
+afflicted by virtue of being conjunct Ares in the 7th house, opposing its own
+sign, and therefore in detriment. We have to remember that the seventh house,
+Dusis, was considered to have a strong connection with death, a doctrine which
+survives in Hindu astrology. We also have Satum in the eighth house from the
+Lot, being the ruler of, and in aversion (inconjunct) to the preceding Whole
+Moon. But we did not comprehend the malefics in a diametrical positioning to
+be harmful in every way for every nativity, but there are times when
+they are even benefic (and especially for notable nativities), unless they
+are also confounded with many afflictions. For, since they become
+violent when constrained, such natives pervert themselves with unholy
+and unlawful practices, and they do wrong or plunder, and rapacity and
+desire for other people's things are established while they are showing
+off and raving in the good spirits of a reputation which is temporary;
+for they instill their own faults in others. However, they are also
+contemptuous of god and death, for these natives rule over life and
+death. Whence good fortune does not stand by them forever, but
+through the positioning of the opposition, some are reduced from
+reputation to a dishonorable and depressed fortune, others die a violent
+death, and some get as much suffering themselves as they have shown
+to others, being visited with vengeance and being chastised and
+censured for the previous useless display of reputation. For, with regard
+to what they eventually accumulated with trouble, anxiety and violence,
+when they have been deprived of the slightest bit of these goods, or
+when they have given it up unwilíingly to others, they are in grief over
+it. For, a bridling Nemesis, jealousy, intrigue, betrayal, troubles,
+anxieties, wasting of the body, pursue these men with an unstable fate,
+since even those who wish to be released from a frivolous contentment
+are unable to change their fate to a moderate one, but suffer as much
+as the appointed fate forced upon the unwilling.
+And the diametrical positionings will be judged in accordance with 1 L 91 in Neugebauer dated to about 8 Plutão .M. on April Júpiter , 91 C.E. Hermes
+comes out in Pisces by computation. We have drawn the chart as in the text.
+[RH] 25 both stars, one positioning whenever a star should be diametrical to a
+star while marking the hour, another whenever it should be diametrical
+in its own house or trigon or exaltation. And when the lords of the
+trigons or of the sects are opposing themselves, the natives will became
+most afflicted and unstable in their livelihood. 26 Book Three of the Anthology of Vettius Valens
+1. Conceming Predomination1
+Concerning the support for duration of life, then, different writers have
+handed down the tradition in different ways. And since this area seems
+to be diverse and to consist of many parts, we ourselves will give
+further clarifications by examining the schools of thought.2 Let our first
+determination be that which concerns predomination and hurling of rays
+and rulership. And before all, let the predomination for the Sun and the
+Moon be sought.
+Some, then, gave it to the Sun by day and the Moon by night, but
+I say that the Sun also predominates by night and the Moon by day if
+they should happen to be figured opportunely.3 And if this should be the
+case for both, then I say to assign the predomination to the one that is
+more properly figured and to the one that is found in sect or trigon. 1 epikratêsis. [Additional by RH] This chapter is extremely important (as
+are a number of other chapters in this Book). It presents an hitherto completely
+unknown method of determining what Medieval astrologers called the Hyleg,
+the Giver of Life. It is both a more complex and yet a simpler method than the
+one given by Ptolemy in the Tetrabiblos, Book III. The reader should be aware
+that the terms ‘predominator’ and ‘apheta’ are the same thing. They differ only
+in the point of view that the writer has when he uses them. 1 Predominator
+refers to its strength and power in determining life expectancy. Apheta’ refers
+to its role in directions and planetary periods.
+Also the term rulership as employed here is precisely what the Arab
+tradition called the ‘Alchocoden’. We may have here the oldest version of the
+doctrines that were used in the Middle Ages to determine life expectancy.
+2 hairesis. 3 This is what makes Valens' system different from the other sources, that
+either the Sun or Moon may predominate either day of night depending upon
+their placements. In what follows the Sun is clearly the stronger of the two by
+day and the Moon by night. But if the inherently dominant light is badly
+enough placed, then the other light may take over. If both are badly enough
+placed, the Ascendant or Midheaven will take over as apheta-predominator.
+[RH] 27 Also, the ruler1 is found from the bounds of the one predominating. And
+if both should fali amiss, then the bound of the degree marking the hour
+or the bound of the degree of the Midheaven2 engenders the rulership,
+and of that one whose lord possesses the proper figuration with the
+Hõroskopos to the greatest extent.
+Let the predominations examined by us be these. Primary
+predomination: With the Sun in Leo, the Moon in Câncer, the one
+opportunely figured3 with the Hõroskopos or the Midheaven will
+predominate, while the lord of the bound will possess the rulership. And
+if both should occupy the bound of one star, that will indisputably be
+judged the ruler.
+Secondary: If the Sun should mark the hour while the Moon
+occupies the Evil Spirit, the Sun will predominate. Júpiter If the Sun should
+occupy the Good Spirit while the Moon culminates, the Sun will
+predominate.5 If the Sun should be setting while the Moon is in the
+post-descending place, the Sun will predominate.6 If the Moon should
+be setting while the Sun is in the post-descending place, the Sun will
+predominate.7 If the Sun should fali in the decline of the Midheaven 1 oikodespotês. [Additional by RH] This is the Alchocoden as it was known
+to the Arabs.
+2 No other source that we have seen allows the Midheaven to be the apheta.
+And this is a true Midheaven, i.e., the intersection of the meridian circle and the
+ecliptic, not a nonagesimal, the point 90° from the Ascendant. [RH]
+3 At this point we do not know exactly what “opportunely configured”
+means. For example is an opposition an opportune configuration? It is clearly
+a more powerful aspect than the trine, or at least so later astrology would judge.
+But it is also a more difficult aspect, according to that same later tradition.[RH] Júpiter The Sun in the first house predominates over the Moon in the twelfth
+house. This is what one would expect. [RH]
+5 The Sun in the eleventh house predominates over the Moon in the tenth
+house. This is because the Sun is stronger by day, even though the Moon is in
+the stronger position. [RH]
+6 The Sun in the seventh house predominates over the Moon in the eighth.
+The Sun is stronger by sect and by house placement. [RH]
+7 The Sun in the eighth house still predominates over the Moon in the
+seventh house. This is the reverse situation of the previous sentence. This tells
+us that the Suris being in sect is very much more powerful than the Mooris
+being in a stronger house. [RH]
+28 while the Moon is marking the hour, the Moon will predominate.1 If the
+Sun should likewise fali in the decline of the Midheaven while the
+Moon is post-ascending the Hõroskopos, the Moon will predominate.2
+Again, if the Sun should fali in the decline of the Midheaven while the
+Moon is culminating, the Moon will predominate.3 If the Sun should fali
+in the decline of the Midheaven while the Moon is post-ascending the
+Midheaven, the Moon will predominate. Júpiter If the Moon should chance to
+fali in the decline of the Midheaven while the Sun is in the
+subterraneous pivot point, the Sun will predominate.5 If the Moon
+should be declining from the Midheaven, while the Sun should happen
+to be in the post-ascension of the subterraneous pivot point, the Sun will
+predominate.6 If the Sun should be declining from the pivot at the
+summit while the Moon should be post-ascending the subterraneous 1 The Moon in the first house predominates over the Sun in the ninth
+house. Here the Moon is in the most powerful angular house, while the Sun is
+cadent. Here again we encounter the common ambiguity about the power of the
+ninth house. Is it more important that it is cadent, that it is a trine to the first
+house? [RH]
+2 The Moon in the second house predominates over the Sun in the ninth
+house. Here we see that the cadent ninth house is much weaker than the
+succedent second house, even though the chart is diumal. However, it could be
+argued that the Moon being below the horizon in the daytime actually
+strengthens the Moon. (See chapter 5 of this Book.) [RH}
+3 The Moon in the tenth predominates over the Sun in the ninth. The
+angular Moon is much more powerful than the cadent Sun. This is a position
+which Ptolemy would not have accepted. However, we have to keep in mind
+that Valens was a practicing astrologer. It is not at all clear that Ptolemy was.
+[RH1 Júpiter The Moon in the eleventh predominates over the Sun in the ninth. Here
+again the succedent placement of the Moon overcomes the cadent placement of
+the Sun. Also the eleventh house is quite a powerful one. The reader may notice
+the somewhat inconsistent terminology that Valens uses. The eleventh house has
+previously been refened to as the "Good Spirit.” Here it is the “post-ascension
+of the Midheaven.” [RH1
+5 The Sun in the fourth house predominates over the Moon in the ninth
+house. The Sun may be out of sect in the fourth house, but it is angular, and
+therefore is stronger than a cadent Moon which is in sect. [RH]
+6 The Sun in the fifth house predominates over the Moon in the ninth
+house. Again the cadent position of the Moon causes it to lose out to the Sun. [RH]
+29 pivot point, the Moon will predominate.1 When both of the lights should
+be declining from the Midheaven, the Hõroskopos will predominate, and
+the lord of its bounds will be judged the ruler.2 If the Moon should
+post-ascend the Midheaven while the Sun chances to be in God, the first
+one to bring its ray to bear upon the degree of the Hõroskopos will
+predominate.3 When the Moon and the Sun are in the 12th place
+declining from the Hõroskopos, the Midheaven will predominate, and
+the lord of its bounds will be the ruler. Júpiter Whence if the lights should be
+not to speak with authority5 diumally in the subterraneous hemisphere,6
+the Hõroskopos will predominate, and the lord of its bounds will be the
+ruler. But if they should be declining from the subterraneous pivot point
+noctumally, the Midheaven will predominate.7 If the Sun should be in
+the post-ascension of the subterraneous pivot point while the Moon is
+in the decline of the Midheaven, the first one to bring its ray to bear on
+the Hõroskopos will predominate.* If the Sun and the Moon should 1 The Moon in the fifth house predominates over the Sun in the ninth
+house. Again the cadency of one light causes the predominancy of the other
+light in the fifth house. Also the Moon is below the horizon which gives it
+greater strength by day. rRH]
+2 Both of the lights in the ninth disqualifies both of them. This again
+contrasts strongly with Ptolemy who considers the ninth house’s trine to the first
+house to be more important than the cadency of that house. [RH]
+3 This passage seems to contradict the one six sentences back. The house
+called “God” is the same as the “decline of the Midheaven,” the ninth house,
+and in both cases the Moon is the post-ascension of the Midheaven, i.e. the
+eleventh house. We have no explanation for this except the possibility of textual
+corruption. [RH] Júpiter The reason for this is quite clear. Both of the lights are disqualified
+because they are cadent. However, we cannot use the Ascendant because neither
+light aspects it. But the twelfth house makes a sextile to the tenth, therefore the
+Midheaven can become the aphetic point. [RH]
+5 akurologêtos. 6 Because they are both below the horizon. [RH]
+7 Having the Ascendant as the final predominator or apheta if the lights fail
+is the standard teaching, but using the Midheaven, as mentioned above, is quite
+unusual. [RH]
+8 With the Sun in the fifth house with the Moon in the ninth the two are
+roughly equal in power, but the one closer to the Ascendant predominates. [RH]
+30 happen to be in the setting zõidion, the bound1 of the Conjunction will
+predominate, and the Iord of the bounds will be the ruler.2 Similarly
+also, if both should happen to be in the Hõroskopos or in the
+Midheaven or in the subterraneous pivot point, the bound of the
+Conjunction will predominate, and the lord of the bounds will be the
+ruler.3 For if they should occupy the bound of one star in the same
+zõidion or in different ones, that bound will infallibly be the ruler.
+If the Sun should somehow be found in its own depression, it will
+not be the apheta4 unless it should happen to be marking the hour to the
+degree.5 Similarly also for the Moon in Scorpio. When the Moon has
+been found to be conjunct and has fallen under the beams of the Sun,
+it does not become the apheta unless it also marks the hour to the
+degree. And when it is being brought to a Whole Moon, if it dissolves
+its phase within the bound of the Hõroskopos, it is the apheta, and it is
+the destroyer6 if it dissolves the Whole Moon in the same day. It will
+be necessary, then, to consider how many degrees there are between it
+and the Whole Moon in order to leam how to declare the number of
+years.
+For example, the Hõroskopos and the Moon in the 22nd degree of
+Aries. It dissolves the Whole moon in the same day at about the 27th
+degree of the same zõidion. The interval between it and the degree of
+the Whole Moon is 5 degrees, which conjoin together as Júpiter years. The
+native lived so many years. And especially if a malefic should bring its
+ray to bear and if it should witness7 or oppose the zõidion, there will be
+a death. But if a benefic should likewise regard it, there will not be a
+death, but injury or suffering. Also, the remaining phases of the Moon 1 Normally the word for bound comes in the plural, indicating the entire
+group of contiguous degrees under a bound lord. The use of the singular here,
+ta horion, indicates that we have a single degree which is that of the prenatal
+New Moon. [RH]
+2 So if the Sun and Moon are in the same zõidion and in the seventh place
+from the Ascendant, the degree of the New Moon is the predominator with the
+bound lord of that degree as the ruler. [RH]
+3 This simply extends the principie of the previous sentence to the other
+four angles as well. [RH] Júpiter aphetês.
+5 That is, exactly on the Ascendant to the degree. [RH]
+6 anairetês.
+7 That is, aspect it. [RH]
+31 up until the dissolving of the bonds are destructive.1
+It is also necessary to judge that the predomination is then certain
+if the Sun or the Moon should indeed testify to the lord of the bounds
+and should happen to be upon pivot points or in profitable degrees.2 But
+if it should be found to be in aversion, the nativity will be judged to be
+without a predominant planet. And if the lord of the solar or lunar
+zõidion and the lord of the bounds should exchange bounds, in this way
+the rulership will also be without a predominator. And it is necessary
+to make sure that the apparent ruler should never chance to be setting;
+for thus again the nativity will be without a dominant planet.
+[Commentary by RH] The following tabulations summarizes the rules for
+predomination given in this chapter by Valens. From it we can derive the
+general principie on which he bases his rules. In the following the *>’ sign
+means “predominates over.”
+Sun > Moon if Moon > Sun if Sun in 1
+Sun in 11
+Sun in 7
+Sun in 8
+Sun in Júpiter Sun in 5 >
+>
+>
+>
+>
+> Moon in 12
+Moon in 10
+Moon in 8
+Moon in 7
+Moon in Mercúrio Moon in Mercúrio Moon in 1
+Moon in 2
+Moon in 10
+Moon in 11
+Moon in 5 >
+>
+>
+>
+> Sun in9
+Sun in Mercúrio Sun in Mercúrio Sun in Mercúrio Sun in Mercúrio By day the Sun in an angle always predominates. The Sun in the 9th often
+yields to the Moon. The text seems to suggest with the exceptions lísted above
+the Sun will predominate by day and the Moon by night if the light that is in
+sect is also not cadent. A light being in a triplicity of its own sect can also help
+it to predominate. 1 According to Paulus, chapter 35, the Moon is under bond when it is
+within 5 degrees of a ray of the Sun either in conjunction or by aspect. The
+dissolution of the bond with the Sun through circumambulation is evidently a
+very vulnerable time for the native.
+2 It was a convention in the Medieval literature that the ruler or Alchocoden
+(ideally the bound lord of the apheta) should also aspect it. [RH]
+32 Times When Neither Predominates
+Sun in Mercúrio , Moon in Mercúrio =►
+Sun in 12, Moon in 12 =>
+Sun in 3, Moon in 3
+=> Hõroskopos Predominates
+Midheaven Predominates
+Midheaven Predominates It would also seem reasonable to assume that the Sun in 6, Moon in 6 causes
+the Midheaven to predominate, but the text does not say this.
+Other Rules that Pertain to Predomination
+Sun in 5, Moon in Mercúrio Sun in 7, Moon in 7
+Sun in 1, Moon in 1
+Sun in Júpiter , Moon in Júpiter =>
+=>■
+=*►
+=► First to Bear on Hõroskopos Predominates
+Degree of New Moon Predominates
+Degree of New Moon Predominates
+Degree of New Moon Predominates Sun in Libra Cannot Predominate unless Partile d Hõroskopos.
+Moon in Scorpio Cannot Predominate unless Partile d Hõroskopos.
+Moon under Beams Cannot Predominate unless Partile d Hõroskopos.
+Although there are gaps in the descriptions given .here, the general idea is clear
+enough. The predominator will be the light that is stronger in terms of house
+placement, sect, and to a limited extent placement in zõidion. Tt is also likely,
+though not certain, that the “houses” referred to here are the kind described in
+the next chapter, not whole-signs or zõidia, but houses of the type now known
+as Porphyry, or in índia, Sripati. 2. Concerning the Notable Degrees of the Pivot Points
+Before all, then, after one has established the degree marking the hour
+and the degree culminating and the degrees of the remaining pivot
+points, it behoovcs him to take the interval from the degree marking the
+hour up to the degree anti-culminating, and to suppose that lh part of
+the conjoined multitude in the pivotal figure consists of profitable
+degrees, and that either benefic or malefic stars are powerful in these
+degrees. But one must also suppose that the remaining degrees [from
+the next degrees] up to the subterraneous pivot point are unprofitable
+and the stars upon them profitless and ineffectual; and that the
+diameters of the Hõroskopos and the remaining pivot points possess the
+same power in relation to the profitable and unprofitable degrees, the
+stars upon them being likewise vigorous. Now, it is clear that there are 33 not always 30 degrees upon a pivot point, but sometimes more and
+sometimes fewer. And if the powerful degrees in the zõidia marking the
+hour and setting should be fewer than 30, then there will be more than
+30 degrees in the Midheaven and the subterraneous pivot point. And if
+there should be more than 30 degrees in the pivot point marking the
+hour and the one opposite this, then there will be fewer than 30 degrees
+in the Midheaven and the subterraneous pivot point.
+For example, let Pisces be marking the hour at 13 degrees, the 22nd
+degree of Sagittarius culminating, the same degree of Gemini being
+under the earth, and the 13th degree of Virgo setting. I took the interval
+from the Hõroskopos to the subterraneous pivot point; it comes to 99
+degrees. The ’A part of these is 33. I departed with these fforn the
+Hõroskopos. It left off at the 16th degree of Aries. These degrees and
+the stars upon them will be powerful, but the remaining degrees from
+the 17th degree up to the subterraneous place will be unprofitable. And
+their diameters will hold sway in the same manner.
+Again, I took the interval from the culminating degree up to the
+degree marking the hour. The result is 81 degrees. Of these ‘A part
+becomes 27.1 departed with these from the culminating degree. It left
+off at the 19th degree of Capricom. These degrees, then, and their
+diameters will be profitable, while the remaining degrees will be
+unprofitable. It is necessary to do something similar for the remaining
+nativities in order to know whether the stars are in profitable or
+unprofitable degrees.
+However, it seems to me more natural for it to hold as folio ws:
+After taking the interval from the degree marking the hour up to the
+subterraneous pivot point and reckoning *A of these just as above, and
+after departing in order from the degree marking the hour, to judge
+these degrees and their diameters to be powerful, and to judge another
+‘A part of the degrees as middling—neither more good nor more
+base—on account of the post-ascension of the Hõroskopos and the
+Goddess and the diameter of God. The first 'A part, then, of the degrees
+from the Hõroskopos are profitable and powerful; another ‘A part is
+middling; and another ‘A part noxious1 and base. And the stars are also
+active after the same fashion. It is also necessary to [suppose the first
+'A part] from the degree of the Midheaven and in the pivotal order [to 1 aitiatikos. Cf. Liber Hermetis, chapter IV for the use of this
+word. 34 be profitable]; another lh, that of the post-ascension [to be middling (as
+it was also named Good Spirit by the ancients)];1 and the remaining lfa
+up to the Hõroskopos—the declining degrees—to be afflictive and
+unprofitable. The diameters of these give their support in a similar
+fashion.
+Orion gave an exposition of all this in his book.
+[Commentary by R. Schmidt] From this chapter it seems quite clear that the
+early Greeks regarded the house systems originating from division of the
+quadrants to be concemed with the profitable places chrêmatistikoi topoi—that
+is, places of greater or lesser activity on the part of the planet occupying that
+place, places where it could properly conduct its business. These house
+divisions, however, do not seem (here at least) to be for the purpose of
+discriminating house matters, or subject areas of one's life. Presumably the
+whole sign system of houses would continue to be used for that purpose. The
+two systems are thus not incompatible. This raises the intriguing possibility that
+the later Greek commentators, who seem to be the fírst to get agitated over the
+question of house division, were perhaps confusing two different issues.
+[Additional by R. Hand] Here and elsewhere in Valens we have an extremely
+unclear situation. Are these references to a Porphyrean style house system
+interpolations by a later author? At present we think not. It appears most likely
+that we can take this text of Valens at face value, i.e., that zõidia are to be used
+for interpretation, and these Porphyrean houses are to be used for the strength
+of the planet. This could be the beginning of the answer to the whole problem
+of house division, that is, that astrologers ever since have been trying to
+combine two unrelated functions, symbolic rulership and strength, that should
+never have been combined. Should we necessarily use Porphyry for this
+function. I think, not necessarily. In this respect this material is no solution at
+all, but the possibility that we should separate the two functions certainly
+presents a new line of investigation. 3. On Aphesis
+Since some, out of possessiveness or inexperience, treat aphesis in a
+one-sided and obscure fashion (for, they make it2 known by always
+using the multitude of ascensional degrees from the aphetic degree up 1 Apparently these names, Good Spirit, Evil Spirit, God, Goddess, etc. were
+used for both types of houses. [RH]
+2 That is, aphesis. [RH]
+35 to the side of a square), it is necessary for us to clarify the distinctions.1
+For we have found nativities which step across the side of a square,
+especially in the zõidia of short ascension,2 although the ancients
+specifically said that this was impossible. And again, we have found
+nativities that do not pass through a square even though there is no
+hurling of rays by the malefics.3
+When a nativity is posited then, it is necessary to consider if it has
+a ruler4 or if it will be lackingin one, and whether the Sun or the Moon
+or the Hõroskopos will be the apheta.5 And if the Sun or the Moon
+should obtain the aphetic place as lot, it is necessary to reckon how
+many times6 are conjoined from the aphetic degree up to the side of a
+square for the zone where he has been born, and it is necessary that
+those who make such inferences make known that he lived just so many
+years. And this results if the ruler, being present in its own boundaries
+and being properly configured, should indeed apply to the apheta or
+should testify to it, and none of the destroyers should allow the
+multitude of years to remain in arrears7 after bringing its ray to bear.
+And if the ruler should chance to be unwitnessed in relation to the .1 Here we have primary directions pure and simple. The idea that Valens
+is examining is that life-expectancy is determined by the amount of time it takes
+to direct the apheta to the degree of its own square in the order of the signs.
+This is an example of what the Renaissance astrologers referred to as a direct
+to a square in zodiaco. Very similar material is presented by Ptolemy in Book
+III of the Tetrabiblos. The central issue here is that Valens fínds that that
+simple idea is not sufficient. This chapter and other material in later chapters
+describes the factors that lengthen or shorten life with respect to the years
+indicated by the correction. [RH]
+2 In signs of short ascension, its takes much less than an ascension of 90°
+to bring about the square in zodiaco. [RH]
+3 That is to say, there are charts that do not even make it to the direction
+by square of the apheta and in addition no malefics hurl rays by direction on
+the date of the death. When an apheta passes through a degree onto which a
+malefic hurls rays, it can indicate death. [RH] Júpiter The ruler is the bound lord of the apheta. See chapter 1. [RH]
+3 See chapter 1. [RH]
+6 Times’ here as elsewhere means degrees of R.A. on the equator. [RH]
+7 loipographeõ.
+36 predominator,1 but should otherwise be found to be well figured (for
+example, if it should mark the hour or culminate [while being] oriental),
+it imparts its complete years. But when [it is not] upon the pivot points,
+if it allows the reduction of the interval to remain in arrears due to a
+determination [of the presencel of communion,2 it will impart the
+remaining years.
+It is always necessary, then, to reckon the quantity of years from the
+predominator and to compare with the years of the ruler.3 And however
+many should be found, [the native] will live for just so many years. If
+the years of the ruler should be fewer than those of the apheta, the
+native will live for those of the ruler. For, the ruler does the imparting4
+if the nativity should indeed happen to be one that has a ruler, with the
+pivotal intervals being left in arrears. But if the years of the apheta
+should happen to be fewer than those of the ruler, he will live for those
+of the apheta, and [the nativity] will be judged one without a ruler. And
+if the predomination should happen properly, [the apheta] and the ruler
+will each impart its own years.5
+Some again, then, reckon the pivotal interval of the rulers from the
+degree marking the hour and the degree setting.6 And if they should be 1 That is, if the bound lord of the apheta does not aspect the apheta.
+Remember that an aspect between the apheta and its bound lord is
+advantageous. However, it must also be mentioned (something which the Arabic
+astrologers may have lost sight of) that the aspect is by sign not degree, so that
+what it really amounts to is that the bound lord should not “fali amiss” from the
+zõidion of the apheta. [RH]
+2 koinõnia. Cf. Antiochus, section 30. “There is communion whenever two
+planets should be present upon the same zõidion or should border upon it, while
+it should be the case that it is lhe house of the one, the exaltation of the other.”
+Evidently, the ruler can mitigate the effect of a destroyer if it is in communion
+with it.
+3 Here is the thrust of the method. The years by direction of the apheta
+must be coordinated with the years granted by the planetary periods of the ruler
+or alchocoden. We have here a synthesis of the two major life expectancy
+forecasting techniques of the ancient astrologers. [RH] Júpiter The number of years of life. [RH]
+5It is not clear here whether this means that both the ruler and the apheta
+grant the same number of years, hence the native lies that long, or that the
+native iives for the sum of the years of the apheta and ruler. [RH]
+6 That is, the rulers of Ascendant and Descendant. [RH] 37 5 or 6 zõidia apart, they make a subtraction of just so many years.1 I
+say that we reckon the interval of the raler from the Júpiter pivot points and
+subtract if the nativity should indeed be found to be one with a ruler.
+For in the reckoning, if [the ruler] should be found to be culminating or
+occupying the Good Spirit or upon some profitable place, it imparts its
+complete years. Therefore, one should not subtract this addhional
+amount2 from the interval that pertains to marking the hour or to setting.
+But if neither the Sun nor the Moon should obtain the aphefic place as
+its lot, but the Hõroskopos or Midheaven should instead, we must not
+yet reckon the multitude of years from the aphetic degree up to the
+square, but display the years by co-reckoning up to the pivotal interval,
+if none of the destructive planets should cut down3 the [debt] of years
+by bringing its rays to bear.
+For the sake of an illustration, let someone in the second zone have
+his hour marked by the 8th degree of Gemini and his Midheaven
+culminated by the 22nd degree of Aquarius. And since the aphesis is
+from the degree marking the hour, the cessation of the years is not
+always up to the side of a square (the 8th degree of Virgo), but rather
+up to the subterraneous pivot point (at the 22nd degree of Leo), Júpiter and the
+conjoined number of years5 must be produced, if indeed no destroyer
+should bring its rays to bear. For if a destroyer should be present or
+should hurl its rays upon the 20th degree of Gemini or whatever degree
+of Câncer, the native will live just as many years as are conjoined from
+the aphetic degree up to the destructive degree.6 Similarly also, if we
+should perform the aphesis from the Midheaven (at the 22nd degree of
+Aquarius), he will not yet have the conclusion of his years at the side 1 The foregoing passage is a bit obscure, but it seems to be saying that if
+a ruler (we do not know why the word ‘rulers’ is in the plural) is 5 or 6 zõidia
+from the pivot point or angle with which it is concemed, one must deduct the
+years mentioned. [RH]
+2 to epiballon.
+3 chreõkopeõ. Literally, ‘to cut down a debt or what is owed.’ Júpiter Going from the Hõroskopos to the degree of the I.C. represents a direction
+to the square in mundo rather than the normal square in zodiaco. [RH]
+5 Essentially the sum. [RH]
+6 If the direction in zodiaco brings the apheta to the ‘hurled ray’ of a
+malefic, it shortens the life. This is quite strikingly like the Renaissance and
+19th Century techniques, although simpler. [RH]
+38 of a square (at the 22nd degree of Taurus) but rather at the 8th degree
+of Gemini. It is clear, then, that aphesis has passed over the square side
+zodiacally, but not according to pivot points.1
+There are times, then, when this procedure is suitable for the Sun
+and the Moon. Such a time is when they should be assisted in the
+passing over2 by the rulers—that is, whenever they should be witnessed
+by them when they are well situated and able to impart their complete
+years. And if we should perform the aphesis from the Descendant (that
+is, from the 8th degree of Sagittarius) up to the 22nd degree of
+Aquarius, we will find the completion3 in a similar fashion. For those
+finding the aphetic degree, then, it will always be necessary to examine
+where the pivotal interval comes beforehand, and to make the aphesis
+up to that degree if no destroyer should cut in.
+Let this rather cryptic account be tested and filled out by us,
+reckoning that the aphetic degree to be the degree culminating. When
+this is culminating, it will also be necessary for us to examine for the
+zone at which someone lives which degree is able to mark the birth
+hour, and upon knowing this, to perform the aphesis up to that degree.
+For example, let the aphetic degree be at the 12th degree of Scorpio for
+the 2nd zone. If then we were to consider it to be marking the hour, the
+aphesis would be up to the 13th degree of Aquarius, where it leaves off
+at the subterraneous pivot point. But if, as we stated above, we should
+consider the degree to be culminating, we will find the Hõroskopos to
+be in the ascending zõidion at the 28th degree of Capricorn, and the
+aphesis will be from the 12th degree of Scorpio up to the 28th degree
+of Capricorn. And we will find out by also doing the same for the
+remaining nativities.
+Similarly also for the destructive degree when reckoning that the
+aphetic degree is the degree marking the hour. When this is so, it will
+be necessary to examine whatsoever degree of the zõidion is able to
+culminate, and to perform the aphesis up to that degree or to the degree
+diametrical to it. And in treating the determination pertaining to
+rulership, it will be necessary for us to examine (as we said before) the 1 That is, a square in mundo. [RH]
+2 That is, passing over the side of the square as measured in the zodiac.
+[RH]
+3 to telos. 39 pivotal distance1 and the figure-description,2 and make a comparison
+with the apheta.
+Let the Hõroskopos be at the 18th degree of Sagittarius, the
+Midheaven at the 4th degree of Libra, and let Hermes be the ruler at the
+13th degree of Scorpio. We calculate the interval from it up to the
+degree marking the hour. It comes to 35 degrees, which are 2xh> hours.
+Since then Hermes distributes its 76 complete years, divide these by 12.
+Therefore, 6 years, Júpiter months fali to each hour. Since there are two
+hours, then, they come to 12 years, 8 months; and of the xh hour, there
+are 2 years, 1 month, 10 days. Together they come to 14 years, Mercúrio months, 10 days. Subtract these from 76. There are 61 years, 2 months,
+20 days remaining. It is necessary to reckon in the same fashion even
+if you should do the separation from any other pivot points.
+[Commentary by RH] Hermes is 35° from the Ascendant. Hermes’s great period
+is 76 years. These are equated to the 12 hours which is equivalent to. 180°, the
+are from the Ascendant to the Descendant. The modem equivalent of the
+calculation that Valens does here would be to solve the following proportion: ^ „ The x in this proportion is the amount of time to be
+subtracted from 76 to get the actual life span. The result is
+that jc = 35 x 76/i8o or 14.777777. Subtract this from 76 and
+the result is 61.22222 which is very close to Valens’ value.
+It has to be acknowledged that it is not entirely clear why
+the 76 years should be equated to 180°. With these things being so, let the Moon be the apheta in Libra
+about the 8th degree. I took 29 years, Júpiter months of the remaining 22
+degrees, and the 36 years of Scorpio, and the 18 years, 1 month, 18
+days of the 17 degrees of Sagittarius. Altogether, 83 years, 5 months,
+18 days come from the aphesis. Since, then, the years of the apheta
+were found to be more than the years of the ruler, the nativity will live
+for just as many years as the ruler Hermes imparted: 61 years, 2
+months, 20 days. But if the years of the apheta left in arrears by the ray
+of a destroyer were fewer than those of the ruler—53 years, for
+example—the result is that in the nativity in question only 53 years 1 The distance between two angles of the chart. [RH]
+2 A total description of all of the conditions that pertain to a planei. See
+Companion to Greek Track, Nwnber 1 .[RH]
+40 would be lived. If, however, the ruler should be found to be upon a
+pivot point and oriental, or else should happen to be upon the profitable
+degrees when fulfilling the aphesis, it indeed imparts its complete years.
+For when the ruler happens to be well situated, the destroyers that are
+present or hurling their rays will not yet become diminishers1 of the
+times. But if the nativity should somehow be found to be lacking a ruler
+when there is an aphesis, then it will be necessary to examine the
+co-presences of the destroyers or else the witnessings by hexagon,
+triangle, square, or diameter.
+[Commentary by RH] The computation in the preceding paragraph is as follows.
+There are 22° left of Libra. This gives 22°/jo° times 40°, the ascension of Libra.
+The result is 29.3333. We add to that 36 years from Scorpio. For the Sagittarius
+portion of the direction we have ,7°/3o° times 32°, the ascension of Sagittarius.
+The result is 18.13333 years. The sum of all of these is 83.4666 years which
+is very close to Valens’ value. The destroyers are Kronos, Ares, the Sun, the Moon while it is
+being brought to appearance.2 And there are also destructive places for
+each zõidion, the aphetic bounds and the bounds of the malefics. And
+the 3 degrees on either side of the aphesis will be judged destructive
+degrees, because every three-degree interval that precedes and follows
+has the power of co-presence or else of equivalence of degree.3 This
+interval itself also [exists] vertically, for all of 7 degrees. Júpiter When the
+malefics hurl their rays within these, they become destroyers; but
+benefics become preventers of destruction.
+For example, let someone have his hour marked by the 12th degree
+of Aries. This same three-degree interval, then, will be between the 9th
+and the 15th degrees of Aries. If, then, a malefic should hurl a ray from
+the 9th to the 15th degree, it causes destruction not only at the
+underlying degree for the same zõidion as the aphesis, but also in the
+other zõidia up to the side of a square. If, for example, with Aries
+marking the hour, Kronos or Ares should be found in Taurus or Gemini parai retês. 2 While it is still a new moon?
+3 isomoiria. Júpiter This seems to refer to the 7 degrees of latitude above and below the
+ecliptic. 41 around the 15th degree, when the aphetic degree comes to the 12th or
+13th degree of Taurus or Gemini ih accordance with the sequence of
+times, there will be destruction.1
+[Commentary by RH] What this last amounts to is that the apheta sensitizes its
+own degree in each of the three zõidia preceding and following2 plus or minus
+3o, and if a malefic occupies any of these by conjunction, that degree will
+terminate the aphesis.
+When the destroyers, then, are upon pivot points or post-ascending,
+they are made more vigorous, but when they are outside of the pivot
+points, they become weak. Let this determination be sovereign in
+relation to the planets upon pivot points. If, for example, while Aries is
+marking the hour as was postulated above, Kronos should happen to be
+at the 13th or 12th or 20th degree of Sagittarius, it is declining by
+zõidion,3 and since it hurled its ray triangularly4 at Aries onto degrees
+that are upon a pivot point and profitable, it will be judged a destroyer.
+But if it should be found at the 3rd or 7th degree of Sagittarius, it will
+be declining in both ways—to the degree and by zõidion—and it will
+not be a destroyer.5 And it also happens that the destroyers hurl their
+rays ffom places upon pivot points onto unprofitable and declining
+degrees, and do not destroy. Let something similar be supposed for the
+benefics. 1 Orbs?
+2 Actually it is not clear whether the square goes to either side of the
+apheta, but there is no reason to assume the contrary. [RH]
+3 That is, it is in a decline (that is, cadent house) by zõidion. Júpiter Apparently Valens does not define “hurling of rays” in the same way as
+other Greek astrologers. This aspect is measured in the wrong direction.
+Normally these aspects are measured against the order of the signs, not with it
+as in this case. We do know that the common defmition of “hurling of rays’ is
+not always held. This leaves us with the question, what does he mean? [RH]
+5 Notice here how the two kinds of houses are being used concurrently,
+whole-sign houses for meaning and “Porphyry” style quadrant houses for
+strength indications. [RH]
+42 Júpiter . Concerning Winds of the Stars and their Exaltations and Steps
+With these things being so, it is necessary to also record the winds. But
+beforehand it is necessary to examine in what degree each star is
+exalted, for the determination is known from them. Now, the Sun is
+exalted around the 19th degree of Aries, the Moon around the 3rd
+degree of Taurus, Zeus around the 15th degree of Câncer, Ares around
+the 28th degree of Capricorn, Kronos around the 21 st degree of Libra,
+Hermes around the 15th degree of Virgo, Aphrodite around the 27th
+degree of Pisces. And in the diametrical degrees they are depressed.1
+The square preceding each exaltation, then, will be called ‘northern’
+and the square following ‘Southern’.2 For example, since the Sun is
+exalted around the 19th degree of Aries, the square preceding it will be
+from the 19th degree of Capricorn. If, then, it should be found in this
+[square], we say that it is going up to the North and is exalted in height;
+but from the 19th degree of Aries to the 19th degree of Câncer it is
+coming down from the North. And from the 19th degree of Câncer to
+the 19th degree of Libra it is coming down to the South; but from the
+19th degree of Libra to the 19th degree of Capricorn it is going up from
+the South.
+If we are also seeking the step3 of the wind, we will discover it as
+follows. Since each step is of 15 degrees, we will get to know it by
+taking the interval of the star from each degree and discarding in
+accordance with a 15 degree interval. For example, let the Sun be at the
+22nd degree of Aquarius. I take the degrees from the 19th degree of
+Capricorn to the 22nd degree of Aquarius; they come to 33. We subtract
+twice 15 degrees, or 30, which are two steps. 3 degrees are remaining,
+so that the Sun is upon the 3rd step of ascending to the north. We set
+this out for the sake of an example. And for the winds of the remaining 1 That is, in Fali. [RH]
+2 In Greek, compass directions are often specified by referring to the name
+of one of the winds. Thus, Boreas is the north wind, and pros ton Borean can
+mean ‘to the north.’ In the present paragraph all the directions are specified by
+referring to the appropriate wind. Here, however, we seem to have some
+figurative usage of ‘wind,’ where the exaltation degree is likened to the north
+point, or place of greatest
+“height” hupsoma.
+3 bathmos. 43 stars, it behooves us to treat of both the wind and the step by likewise
+calculating the northern and Southern semicircles.1
+For every nativity, then, it is necessary to recognize whether the
+Sun or Moon or Hõroskopos is the apheta, and with what kind of wind
+it is running,2 and to observe the remaining stars in this manner. For if
+some stars should be running with the same wind as the apheta,3 they
+will be congenial and sympathetic, and especially in their own times.
+And they will be stronger and helpful if they should happen to be rising
+or upon a pivot point or adding in numbers and of the same sect. But
+if one of the stars should happen to be running with a wind opposite to
+the apheta, Júpiter the opposite will take place, and it will be malefic, and
+especially for the giving over of the times.5 And if it should be setting
+and subtracting in numbers, it will be harmful and dangerous; not even 1 Since elsewhere in the astrological writings wind is clearly associated
+with ecliptic latitude, a connection seems to be made here between the
+exaltation of the planet and its greatest latitude. However, this is diffícult to
+reconcile with the farthest northern latitudes of the planets in classical times.
+For example, Ptolemy himself reports that both Satum and Júpiter have this
+extremum at the beginning of Libra in his day, and Mars at the end of Câncer.
+Cf. Antiochus, Part Gêmeos , chapter Mercúrio . [Additional by RH] The implications of the
+preceding are radical! Cyril Fagan was of the opinion that the exaltation degrees
+were those of the heliacal risings of the planets in an especially important year
+for the ancients. If this chapter is correct then their origins are completely
+different. However, as Schmidt has already said in the previous part of this
+note, the values of the exaltation degrees do not even roughly coincide with any
+reasonable value for the points of greatest elevation in latitude. And the Sun
+never has any latitude! What is going on here?
+There are four possible answers. 1) Valens or earlier astronomers are
+completely in error. 2) We do not understand what is going on here. 3) The
+values here reflect a date in the far remote past when the planets actually did
+have something like these values. Júpiter ) These values represent a zodiac with a
+radically different basis than either the 0°T or the 8°T tropical zodiac that
+Valens seems to have used. A combination of 3 and Júpiter is also possible. But we
+have to leave this here for now until we have more information. [RH]
+2 That is, in what direction it is heading with respect to its own exaltation
+position.
+3 Is this a parallel of latitude? [RH] Júpiter A contra-parallel? [RH]
+5 That is, a change in chronocratorship.
+44 if it should be upon a pivot point in this part1 will it be judged
+continually benefic. But if it should have certain congenial figures to the
+apheta, and certain uncongenial ones as well, it will be irregular and
+neither always helpful nor always harmful. And if the Hõroskopos
+should be found to be the apheta, it will be necessary to examine the
+lord of the bounds at that time, and to recognize the kind of wind it
+runs with, or if it is upon a pivot point or rising or additive, and to
+compare with the remaining ones. Some, then, will have the opinion
+that this finding is worthless, but I say instead that it is quite natural
+and effective. For in the canonical compilations no one has discussed
+this detail differently when treating of this matter. 5. Conceming the Sect of the Stars
+It is also necessary to consider the sect of the stars, for the Sun, Zeus,
+and Kronos rejoice when they are above the earth during the day, below
+the earth at night. But the Moon, Ares, and Aphrodite rejoice when they
+are above the earth at night, and below the earth during the day.
+Hermes goes with the sects of the ruler in whose bounds it lies.2
+Whence, for those who are born by day, if someone should be found to
+have Zeus, the Sun, and Kronos well-figured above the earth, it will be
+better than having them beneath the earth. Similarly also for the
+noctumal planets, if someone should have them above the earth [at
+night], it will be expedient.3 Aphrodite rejoices more when it is marking
+the hour or culminating, and the remaining stars rejoice when marking
+the hour or setting. Júpiter 1 That is, in this quadrant of the zodiac.
+2 This is the first time that we have seen this condition for the
+determination of the sect of Hermes. [Additional by RH] The more common
+rule stated mostly in later sources is that Hermes is diurnal when it rises before
+the Sun as a moming star, and noctumal when it sets after the Sun as an
+evening star.
+3 sumphoros. This word suggests that being in sect helps a planet do its
+business more effectively. Júpiter This is also a new condition of sect determination.
+45 Illustrations of the Headings Above
+For an illustration, let the Sun
+be at the 29th degree, 30th
+minute of Câncer; the Moon at
+the 12th degree of Pisces;
+Kronos at the 27th degree, 8th
+minute of Sagittarius; Zeus at
+the 22nd degree, 13th minute
+of Capricom; Ares at the 7th
+degree, 23rd minute of Scorpio;
+Aphrodite at the 2 8 th degree,
+13th minute of Câncer; Hermes
+at the 11 th degree, 25th minute
+of Leo; the Hõroskopos at the
+17th degree of Pisces; the
+Midheaven at the 25th degree of Sagittarius. The nativity is without a
+ruler since Aphrodite, the lady of the bounds of the Moon, fell under
+the Descendant. The apheta is the Hõroskopos. Hermes,1 the lord of the
+bounds, was also itself found to have been declining under the
+Descendant. The aphesis, then, is from the Hõroskopos up to the side
+of a square and from the hurling of rays with regard to Kronos from a
+diameter onto the bound of a destroyer. For, Ares deviated its rays from
+the diameter because Zeus, being found on the same degree, prevented
+the destruction. He died then at 69 years. However, if Zeus had not
+prevented by trining,2 he would have lived only 603 years. Júpiter 1 The Kroll edition here has Aphrodite, which is clearly an error, so that
+Pingree has substituted Hermes which is correct. [RH]
+2 Neugebauer here had “Júpiter in quartile” because of the error in Kroll
+edition in the position of Zeus. [RH]
+3 Pingree and Neugebauer have 64 in their translations. But Pingree has the
+‘ Júpiter ' in brackets indicating that it is questionable. The number ‘60' fits correctly
+with the method. [RH] Júpiter L 75 in Neugebauer dated to about 10 Plutão .M. July 19,75 C.E. The position
+of Zeus gave Neugebauer some difficulty in dating the chart. His version of the
+text gave Zeus in Virgo rather than Capricom. The edition that we used
+(Pingree), was later than that used by Neugebauer (Kroll) and the text had been
+emended to read Capricom. This is undoubtedly justified because the chart
+appears twice more in the Anthology, once more in Book III and again in Book
+46 [Commentary by RH] In this case the aphesis extends all the way to the square
+in zodíaco of the Hõroskopos, even though there is a possible opposition from
+Ares. According to Valens this is canceled by the fact that Zeus trines the
+degree of the opposition rendering it incapable of being a destroying degree.
+Clearly something else has happened to the text since V at 22T)13' does not
+trine the opposition to Ares. However, the computed Zeus is at about 5 Ia)
+which is very close to trine the opposition to Ares.
+In the rising sign there are 13° left to rise. The ascension of Pisces is 20°.
+Therefore the remains of Pisces yield l3°/3o multiplied by 20° or 8°40'. Aries
+gives us another 20° and Taurus 24°. The degree of the square to the Hõroskopos is 17°ü. The last part of the arc then l7° Saturno <r multiplied by the
+ascension of Gemini, 28° giving 15°52'. The sum then is 68°32‘, very close to
+69 years that Valens gives as the actual life span. Another. The Sun at the
+25th degree, 8th minute of
+Pisces; the Moon at the 16th
+degree, 53rd minute of Gemini;
+Kronos at the lst degree, 25th
+minute of Pisces; Zeus at the
+24th degree, 18th minute of
+Sagittarius; Ares at the 2lst
+degree, 8th minute of Taurus;
+Aphrodite at the 9th degree of
+Aquarius; Hermes at the 12th
+degree
+of
+Aries;
+the
+Hõroskopos at the 15th] degree
+of Libra; the Midheaven at the
+16th degree of Câncer. The lights were declining. The Hõroskopos is
+the apheta in the bounds of Zeus, and Zeus was falling amiss. The
+nativity is without a ruler. The aphesis is up to the diameter of Ares at
+the 2lst degree of Scorpio. That is, the planet standing upon the aphetic IV. There the position is given correctly as Capricom. Either position strangely
+enough works with the text as given. [RH]
+1 For some reason the text editor has bracketed the ‘5’ in this number,
+leaving only 10 degrees of Libra. But in order for the Hõroskopos to be in the
+bounds of Zeus according to the Egyptian system, the text must read ‘15’ as it
+stands. 47 bounds destroyed when hurling its ray upon the same bounds.1 He died
+in his 51st year.2
+[Commentary by RH] The note above pertaining to the degree of the
+Hõroskopos reveals a problem with the text. Pingree, the editor of the Greek,
+suggests that the position should be 10° Libra, but, as Schmidt points out in the
+note, such a position would be in the bounds of Hermes not Zeus. However,
+the ascensional times only work if 10° is used. Here is the math. If we use 10°
+Libra there are 20° left in Libra, which is 20/3o or 2h of the sign. The ascension
+of Libra equals 40°, 2h of which is 26° 40'. The opposition to Ares is 21°Tfl
+08’. The arc within Scorpio to the opposition therefore is 2 0 30 multiplied by
+the ascension of Scorpio, 36°. The result is 25° 21’ which added to 26° 40'
+gives 52 years. The difference between this figure and the 51 years of the text
+can be attributed to different rounding practices. But clearly the value of 15°=^
+would not give the proper result.
+l° t{’/ ° The aphetic bounds, then, and those of the malefícs are destructive
+not only for those degrees upon which the destroyers lie or hurl their
+rays, but also whenever the aphesis comes about in the beginning of the
+bound. And otherwise, it is not only necessary to reckon the time of the
+zõidion that has rays hurled at it, but also the time of the one that hurls
+the rays, upon which the destroyer happens to be.
+But whenever the Moon should be found to be the apheta, it
+behooves us to watch closely its preventions,3 and the hexagonal,
+square, and diametrical sides to the Hõroskopos by ascension. Júpiter For,
+these will be judged efficacious, and especially in the zõidia equallyrising or those of equal ascension5 or of equal power, or those hearing 1 It is clear from this that Valens is using the Egyptian bounds.
+2 L 110, 111 in Neugebauer dated about 7 Plutão .M. March 15, 110 C.E.
+3 kõlusis. It is not clear that this is referring to a Sun/Moon conjunction as
+in the Latin word preventio, or to the preventing of the destruction by a benefic,
+as above where the same root word is used. Júpiter This is evidently referring to aspects by ascension such as were discussed
+in Antiochus, section 15. A trine by ascension, for example, obtains when the
+two degrees occupied by the aspecting bodies are separated by 120 ascensional
+times, instead of 120 ecliptic degrees. It is more like a mundane aspect
+measured in right ascension.
+5 It is not clear whether, or how, equally rising zõidia should be
+distinguished from equal ascensional ones in this passage. 48 and seeing [each other], or in the degrees that pertain to antiscia.1
+Likewise, if the Hõroskopos should be found as the apheta, it is
+necessary to examine its distances from the Moon by ascension. But it
+seemed better to me from experience to judge the culminating degrees
+to be the fatal and powerful ones, both of the Hõroskopos and the Moon
+in relation to each other, and those diametrical to them. For when these
+are upon pivot points, they have acquired no ordinary power.2
+The apheta, then, will be judged from the Sun, Moon, and
+Hõroskopos. Or the star that is found after the Hõroskopos and the
+others next in the order they happen to be found in the nativity will be
+judged by zõidion and by degree at 10 years, Mercúrio months apiece.3 6. Concerning Winds and Changes4
+It did not seem good to me that some had postulated the bounds for the
+seven-zoned sphere as 8, 7, 6, 5, 45 (and there is no harmony in this
+way), but it seemed better to postulate them from the houses and
+exaltations and trigons. For example, the house of the Sun is Leo, its 1 antiskios. Literally, ‘throwing a shadow the opposite way.’
+2 In the text this section is followed by a section on the hostilities of stars
+and the places pertaining to crises taken from Critodemus. It is clearly out of
+place in this chapter. Since it is identical to text in Book VIII and is more
+suitable there, we will put the translation there.
+3 This short paragraph concludes the section after the interpolation
+mentioned above. [Additional by RH] This is the system known to Medieval
+astrology as Decennials. It is described in great detail in Julius Firmicus
+Matemus' Mathesis and has been described extensively in the joumal
+Considerations by Ken Gilman. Júpiter tropos. Since this text breaks off in the middle of its discussion of winds,
+it is not clear whether this heading refers to changes or one of the other
+meanings of this word.
+5 This is the system described by Ptolemy as the “Chaldean System”, not
+to be confused with the Egyptian System or the system that Ptolemy found,
+known to us as the Ptolemaic System, used by Lilly, Coley, Gadbury et al.
+[RH] 49 exaítation Aries, its trigon Sagittarius;1 these come to 3. The Sun, then,
+has 3 bounds for each zõidion. The house of the Moon is Câncer, its
+exaítation Taurus, its trigon Virgo, Capricorn; these come to Júpiter .
+Likewise, then, the Moon has Júpiter bounds for each zõidion. The houses of
+Kronos are Capricorn, Aquarius, its exaítation Libra, its trigon Gemini;
+these come to Júpiter . Kronos likewise has Júpiter bounds for each zõidion. The
+houses of Zeus are Sagittarius, Pisces, its exaítation Câncer, its trigon
+Aries, Leo. It has then 5 bounds for each zõidion. The houses of Ares
+are Aries, Scorpio, its exaítation Capricorn, its trigon Pisces, Câncer. It
+has then 5 bounds for each zõidion. The houses of Aphrodite are
+Taurus, Libra, its exaítation Pisces, its trigon Virgo, Capricorn. It has
+then 5 bounds for each zõidion. The house of Hermes is Gemini, its
+exaítation Virgo, its trigon Aquarius, Libra; it comes to Júpiter . Similarly,
+there will be Júpiter bounds for each zõidion.2
+In Aries, Leo, and Sagittarius, then, by day the Sun as the first will
+take 3 bounds, then Zeus as second 5, then Aphrodite 5, and the Moon Júpiter , Kronos likewise Júpiter , Hermes Júpiter , and next Ares 5; together they come
+to 30. But inversely by night: Zeus 5, the Sun 3, the Moon Júpiter , Aphrodite
+5, Hermes Júpiter , Kronos Júpiter , Ares 5; together they come to 30. Similarly, in
+Taurus, Virgo, Capricorn by day: Aphrodite, the Moon, Kronos,
+Hermes, Ares, the Sun, Zeus. But by night: the Moon, Aphrodite,
+Hermes, Kronos, Ares, Zeus, the Sun. Next, for Gemini, Libra,
+Aquarius by day: Kronos, Hermes, Ares, the Sun, Zeus, Aphrodite, [the
+Moon]. But by night: Hermes, Kronos, Ares, Zeus, the Sun, the Moon,
+Aphrodite. Similarly, in Câncer, Scorpio, Pisces by day: Ares, the Sun
+Zeus, Aphrodite, the Moon, Kronos, Hermes. But by night: Ares, Zeus, 1 All three of these zõidia are in the triplicity of the Sun. But Leo is chiefly
+the Sun’s zõidion, Aries chiefly its exaítation, and Sagittarius only its triplicity.
+[RH]
+2 It is quite clear from this paragraph and the next one that the word
+‘bound’ applies to individual degrees within one group of bounds. Thus the
+plural is not used only to refer to the collective groups of individual degrees
+throughout the zodiac, but to a group of individual degrees within a single
+zõidion. This may be of some use in determining just what the word horion
+might mean. 50 the Sun, the Moon, Aphrodite, Hermes, Kronos.1
+In order, then, that you show see that these are truly the bounds,
+know them also from the nature of the winds.2 If the Sun should happen
+to be traversing its own bounds while the Moon or the master of the
+Sun's bounds testifies to it, the wind that is natural to the star will blow.
+For example, if the Sun is passing through its own bounds while the
+Moon testifies, an east wind will blow. And if Ares should testify, there
+will be a south wind and lack of dew. And if Kronos, a west wind, the
+cause of moisture. And if Zeus, a north wind resulting in dew. And if
+the Moon, a northeast wind. If Aphrodite, a southeast wind, inconstancy
+of wind, and storm clouds arise. If Hermes, a west and north wind,
+constancy of wind and heavy rain, a cause of thunder and lightening. If
+some of the stars should testify to the Sun and the Moon, for the nature
+of each it is always necessary to observe from which phase the Moon
+is being carried—either from a Conjunction or Whole Moon—and on
+what bound the phase is. And you make known the lord of the bounds
+and the stars present or testifying.3 1 It is not clear at this point whether Valens has introduced this set of
+bounds as an academic exercise intended to show how the “Chaldean” bounds
+should have been constructed, or whether he actually intended to use these
+bounds. He uses these bounds here only to predict winds. Other than this thus
+far all of the examples that he has given appear to use the Egyptian bounds.
+[RH]
+2 aeros. Literally, ‘airs.’
+3 There is a signifícant lacuna at this point in the manuscripts. 51 Bounds According to Vettius Valens, Diurna! Charts1 Aries Taurus Gemini Câncer 3 Mercúrio OO ]> Mercúrio Mercúrio 5 13 Mercúrio 3 16 Mercúrio 5 18 ]> 17 0 21 o"
+0" 5 22 * Júpiter 5 21 25 O 3 25 Mercúrio 5 26 30
+Scorpio Sagitt. 5 5 0 3 3 Mercúrio 3 8 * Júpiter 5 8 O
+]> 5 13 * Júpiter V 5 13 Mercúrio 21 ]> 26 "b
+30 Mercúrio E
+E 22 ■*>
+26 Mercúrio E
+E 26 Mercúrio 30 b Capri.
+5 B
+B 3 Mercúrio 5 5 13 B
+E
+E 17 Mercúrio 2i bl 5I22
+25 0 3 25 5 30 \ 5 30 Aquarius Pisces 5p
+■b O* 13 d* 13 * Júpiter 17 Mercúrio 17 O 16 21 22 \ 21 25 O 25 Mercúrio 26 30 Urano 30 ]> 30 Mercúrio 5 58]) 8 O 5 13 “b B 16 Mercúrio 22 3 Virgo 40 O o* E
+E ]> 30 Mercúrio 8 O 5 0 5 13 \ 17 Mercúrio Libra 5 8038* Júpiter 40 B
+E B
+B 13 B o* Leo 5 5 Mercúrio 2! E
+E Mercúrio 1 The two tables of bounds presented here are not in the original text. They
+have been derived from the material in the text. [RH] 52 Bounds According to Vettius Valens, Noctumal Charts Aries Taurus V 5 5 3> O 3 8 Mercúrio 3> 12 5 Mercúrio 5 17 "b 2
+b>
+d E
+E 5 E
+E Gemini ■ E■
+E d Mercúrio ~b 8 13 d 5 13 O 17 \ 5 18 3> 21 d 5 22 O 25 \ 5 27 3> 5 30 Câncer 3 30 Mercúrio 3 21 1 Mercúrio 25 ? 5 30 b> ®l
+Libra
+$ Scorpio E■ s b> 5 5 D 8 5 10 O 3 8 13 E 12 5 13 \ 5 18 O 3 21 El 25 5 30 ■b E Mercúrio 17 Mercúrio 5 22 E
+E 26 b>
+30 d Mercúrio 5 17 b> E
+0 21 d Virgo 5 5 5 5 10 o 3 8 3 13 E 17 EE Mercúrio 12 ? Mercúrio 5 22 5 5 17 b> E E
+E 13
+17 21 d 5 22 26 25 \ 5 27 30 d 30 O 3 30 E B
+E
+Capri. _ 5 \ d 5 Sagitt. 5 Leo Aquarius PÍSC€;s EE EE E
+E
+E s
+E
+E
+d S 5 Mercúrio "b 5 8 5 10 13 5 13 O 3 13 17 V 5 18 3) 17 Mercúrio 5 22 5 22 O 25 \ 5 27 5 30 O 3 30 3 21 El Mercúrio 25 Mercúrio 5 30 b> E
+E 26
+30 7. From the Anthology of Valens concerning a Numerical Lot
+and Length of Life. The Same also in Regard to the Propitious
+Times, with Illustrations.
+There is also another numerical procedure that joins together with the
+matter concerning length of life and that matter which concems
+propitious and unpropitious times, which the king also explicated in a 53 mysterious fashion. Whence, if we should suitably find the
+predomination or the mlership, we will make use of the preceding
+instruction; but if not, of the instruction lying below.1
+It will be necessary to examine whether the nativity is one of a
+Conjunction or of a Whole Moon.2 And if it should be found to be of
+a Conjunction, it will be necessary to count the degrees from the
+Conjunction to the Moon at birth,3 and to depart with an equal amount
+from the Hõroskopos in accordance with the next in succession. And
+wherever the number should leave off, the lord of the bound will be the
+ruler of the life and the aphesis. And if the nativity should be found to
+be of a Whole Moon, it will be necessary to count from the lunar
+degree at birth to the upcoming Conjunction, and to depart with an
+equal amount from the degree of the Hõroskopos, not in accordance
+with the next zõidion, but upwards as to the Midheaven. Júpiter And wherever
+it should leave off, the lord of the bound will be judged the ruler.5
+It will also be necessary to survey the zõidion where the number left
+off, with which it is more associated, whether with the Sun (if in a 1 In this chapter we encounter a lot that recurs in the Medieval material.
+Guido Bonatti lists a part called the Pars Hyleg which is shrouded in mystery.
+Here we find that it is simply another kind of apheta and that it is used just as
+the more conventional apheta to determine a ruler which gives a number of
+years. The main difference between the Lot described here and that mentioned
+in Bonatti and other sources is that after a Full or Whole Moon the arc is
+measured from the natal Moon to the next New Moon and then subtracted from
+the natal Ascendant or Hõroskopos. In the Medieval version as described by
+Bonatti, the New Moon method is the same as here, but with the Whole Moon
+one subtracts the longitude of the Moon at the preceding Whole Moon from the
+natal Moon and the resulting arc is added to the Hõroskopos. [RH]
+2 It is clear from context that the Conjunction or Whole Moon nearest the
+birth is being referred to.
+3 ektropê. Literally, ‘tuming out.’ Júpiter This Valens' way of saying that one should subtract the arc from the
+Ascendant. [RH]
+5 This is Lot that the Arabic and Medieval Latin astrologers called the “Part
+of the Hyleg.” Now we can see why it was called that. It is a survival from this
+much older system of finding aphetic points. Note that the preventional (Full
+Moon) computation is different from the Medieval method in that the arc from
+the lunar degree at the Full Moon is subtracted from the Ascendant, not added
+to it. [RH] 54 masculine zõidion) or with the Moon (if in a feminine zõidion). For if,
+when the Sun has the predomination, the zõidion where the number
+leaves off should also happen to be associated, and likewise also the
+lord of the bound should be harmonious with the Sun, and if it should
+happen to be well figured in relation to the Sun, it will impart the
+greatest of its years. But if the zõidion should be found congenial (that
+is, masculine for the Sun), and the lord of the bound should be found
+opposite to the Sun or in the decline of the Hõroskopos or in the places
+that pertain to eclipses,1 it will become subtractor of time, or it will
+impart its least years.
+Whence, it will be necessary to examine how the lord of the bound
+is figured in relation to the predominator and in relation to the lord of
+the zõidion. For if it should be found in congenial and profitable zõidia,
+the term of life will also be complete. And if it should be congenially
+figured in relation to the one, but unsympathetically in relation to the
+other, it will impart its mean years. But if the ruler of the zõidion where
+the number leaves off should happen to be unsympathetic in relation to
+the predominator and to the profitable zõidion, or in aversion, or
+occupying the Evil Spirit, the nativity will be without a ruler. And then
+it again behooves us to examine the predomination of the Sun and the
+Moon. And if the lord of the bound and of the zõidion should be
+somehow well and harmoniously configured, the aphesis will be judged
+from the degree of the bound.
+Generally, then, for this teaching too it will be necessary to examine
+the ruler for its separation from the pivot points, just as was illustrated
+in the case of the hõrimaia,2 and if it should be rising or setting, or
+outside or upon a pivot point, or has made an exchange3 in relation to
+the lord of the zõidion and is unharmonious to it, it will also be
+necessary to judge of it accordingly. And similarly also, it will be
+necessary to consider the rays of the destructive planets and if the
+aphesis falis out in the beginning of the bounds or at the end. For
+thence it behooves us to reckon the nativities of short or long duration, ' The nodes of the Moon? [RH]
+2 This directive procedure has not yet been discussed in the text, at least not
+by name. It is mentioned in Book 3, Tetrabiblos, where it refers to a special
+case where the apheta is in the 7th or 9th places and is directed against the
+order of the signs instead of with the order of the signs.
+3 enallassõ. That is, each planet is in the house of the other. 55 and those of twins. That is, often times, when a malefic had authority
+over the bound of the aphesis for the first bom, or when the ruler fell
+amiss, the native lived a short time. But if in the case of the other
+native the bound or the ruler have exchanged, he lived a long time and
+support for his livelihood accompanied [him]. Whence an interchange1
+of a degree with a second one often displays the greatest power.
+As an illustration, let the
+Sun be at the 25th degree, 18th
+minute of Taurus; the Moon at
+the 7th degree, 10th minute of TI7 TU \ / \v Netuno / Sol * Aquarius; Kronos at the 24th \i degree of Aries; Zeus at the
+4th degree, 25th minute of
+Taurus; Ares at the 22nd <f 22° 53' O H 27° ^ degree, 53rd minute of Câncer;
+Aphrodite at the 28th degree,
+16th
+minute
+of
+Gemini;
+Hermes at the 6th degree of
+Gemini; the Hõroskopos at the i7°io'/ /
+/
+/ 6 \ $ 28° 1
+-b 24°
+rr\ n Júpiter °25\5
+25* 18
+\6° T
+O
+x
+27th degree of Capricom. Since
+the nativity is of a Whole Moon, I took the interval from the lunar
+degree up to the Conjunction about to occur, which happened at the 2nd
+/ V# degree, 25th minute of Gemini. These come to 115 degrees. I walk back
+with these from the degree of the Hõroskopos. It leaves off at the 2nd
+degree of Libra. The aphesis is from thence up to the hurling of rays of
+the malefics. For, Kronos caused the destruction by hurling from a
+diameter. Ares from a square at about the same degrees. And Zeus was
+in aversion while Aphrodite had fallen amiss, which did not have the
+power to assist. The nativity lasted for 28 years, Mercúrio months.2
+[Commentary by RH] With the “Lot of Aphesis” (not the actual Greek term) at
+2°d2z the distance to the destroying degree at 23-24°^, the opposition of the
+Kronos and the square of Ares, is 22°. The ascension of Libra is 40° so that we
+get 220/times 40° which gives 29°30', quite close to 28 years and Mercúrio months. ’ parallagê.
+2 LI 14, V in Neugebauer dated to about 10 Plutão .M. on May 13, 114 C.E.
+[RH] 56 Another. The Sun at the
+12th degree, 16th minute of
+Sagittarius; the Moon at the
+17th degree, 24th minute of
+Sagittarius; Kronos at the 11 th
+degree, 33rd minute of Libra;
+Zeus at the 19th degree, 11 th
+minute of Gemini; Ares at the
+4th degree, 20th minute of Scorpio; Aphrodite at the 26th
+degree of Libra; Hermes at the
+27th degree of Scorpio; the
+Hõroskopos at the 20th degree
+of Libra. I took, then, the
+interval from the degree of the Conjunction up until the lunar degree.
+These come to 5 degrees. I depart with these from the Hõroskopos. It
+leaves off at the 25th degree of Libra. The aphesis is from there up
+until the 5th degree of Ares in Scorpio. He died in the 12th year. If
+this encounter had not itself happened, he would have lived for the 84
+years of Aphrodite.1
+[Commentary by RH] The twelve years comes about thus. We have 5 degrees
+left in Libra from “Lot of Aphesis” to the end of the sign. This gives us 5°ha°
+times 40, the ascension of Libra, or 6°40'. Then we have the 5th degree of
+Scorpio as the destroying degree. This gives us 5/3o° times the 36° of the
+ascension of Scorpio. This is 6. The total 12°40\ Given that Aphrodite is in
+Libra in the first house and in its own terms. Hence it is the bound ruler of the
+“Lot of AphesisAs such it would gives its full years except that the
+conjunction with Ares intervened. 1 LI 27, XI in Neugebauer dated to about 3 A.M. on Nov. 23, 127.
+Neugebauer has some problems dating this one. The Sun is over 10 degrees off
+which could be attributed to someone’s adding an i (iota) which would have
+added a 10 to a 2 giving a 12. Also the other planets deviate slightly but in the
+wrong direction from what is normal with Valens’ values [RH] 57 8. Concerning the Teaching of the Crisis of the Seventh and the
+Ninth
+And we will give an illustration, just as the king indicated, of taking the
+interval from the rising of Seth1 to the birthday for a crisis, and
+discarding much as possible of the conjoined number of days at 52 lh2
+a time, and multiplying the left o ver days as many times as there were
+discardings, and examine whether the conjoined number from the
+multiplication should have the specific number of a crisis, with a
+defect.3 For example, as a hypothesis let the conjoined numbers be 220
+days. Discard four times at 52 days and xh a time. They come to 208
+days and Júpiter /i, and there are 11 and 3h left over. [Multiply this by Júpiter and
+the result is 455h .] Júpiter We say that this is the crisis of the seventh.5
+And he says similarly to examine whether the crisis of the number
+of years should not coincide [with something], with a defect. For 1 Sêth. Another name for Sirius.
+2 This is one seventh of a 365 day year.
+3 kat' elleipsin. I think this means that the number should be less than some
+other number, that is, have a deficiency. This language, by the way, reflects
+geometrical usage (as in the case of an ellipse) where a given figure equals
+another, with a deficiency. Júpiter This essential concluding step, though expressed in the general algorithm,
+is entirely lacking in the text, and is also not supplied by the text editor.
+However, the upcoming argument does not make any sense unless it is inserted.
+5 This algorithm describes a kind of inverse harmonic. The year is dividcd
+into seven equal parts. A day falling within one of those divisions is reassigncd
+to one of the earlier divisions going as far back as the first, or else to the same
+division if the day falis toward the end of the division. It is thus only the
+seventh division that reassigns its own days back throughout the entire year.
+The ordinary harmonic (as conceptualized by Vedic astrology, for instance)
+would reassign any member of a given division to the divisions ahead of it to
+fill out the entire circle. The procedure here does not, it is true, make a division
+of a chart, but rather the year itself. However, it is an easy step to apply the
+same reasoning to the degrees of the zodiac. And it would take very little
+imagination to treat these seventh divisions in the manner of an ordinary
+harmonic, particularly since the Greeks did use such a procedure in the case of
+the 13th harmonic. This in quite important since it means that the Greeks were
+flirting with seventh divisions quite early (the procedure here is explicitly
+attribuíed to Nechepso and Petosiris), and this kind of thinking has often
+thought to be unique to Vedic astrology.
+58 example, if the underlying support for some illustration should be 47
+years, and the crisis of 45 years should coincide [with it], the resulting
+[number] will be diminished since the crisis of the years of the support
+has coincided, with a defect.
+And he said that if the crisis of the seventh should fali upon that of
+the ninth, the matter will be unharmonious. For example, the crisis of
+the seventh had [ Júpiter ]51 degrees. These are analyzed in regard to Mercúrio ; for 5
+laid out nine times becomes 45. The crisis of the seventh, then,
+coincides with the crisis of the ninth.2 If, now, the crisis of the number
+from the years should coincide by defect, and the aforesaid should come
+about, it will not have the power to cut down the underlying support,
+but the years apportioned are lived. But if it should be harmonious, the
+determination that pertains to the crisis will curtail it in the aforesaid
+fashion. And to summarize, we said to multiply by 5‘A, and to employ
+it in the same fashion as with the 52, and to inquire of the first crisis
+found for the ninth if the crisis of the seventh coincides with it.
+It does not please some that the beginning has been made from the
+rising of Seth. It is possible, then, that this has been done in a special
+way for the purpose of illustration since we have found some who make
+the beginning of the year differently depending on the zone. Let a more
+natural reckoning, then, be to depart from the Conjunction before the
+Dog Star up to the birthday. For, most have affirmed this to be the
+beginning of the year.
+Let this, now, be quite briefly the procedure for the days of the
+seventh and ninth. To some it seems better to seek the days of the
+seventh for nocturnal nativities, and the days of the ninth for diurnal
+nativities, with similar procedures for both. And the reckonings
+pertaining to sevenths will be related to Ares, those pertaining to ninths
+to Kronos. And these also possess an exchange of crises in both cases.
+That is, for the Sun and the Moon Kronos will be the [planet] of the
+seventh, Ares the [planet] of the ninth. This is because Capricorn and 1 The text has only ‘5’ here, but the overall argument seems to call for ‘45.’
+2 The text seems corrupt here. The crisis of the ninth referred to here is not calculated in the same way as the crisis of the seventh above, but in the fashion
+of the crisis of the ninth day described later in this chapter. Perhaps the loss of
+the crucial line in the first paragraph caused some later writer to rewrite the text
+here in accordance with the upcoming notion of a ninth.
+59 Aquarius (which are the dwelling places of Kronos) are opposed to
+Câncer and Leo from the seventh place, while Aries is the ninth from
+Leo and Câncer the ninth from Scorpio. But it is more naturally taken
+from the exaltation of the Moon, Taurus, Ares being the [planet] of the
+seventh because of Scorpio, and Kronos that of the ninth because of
+Capricom.
+As an illustration, let it be the 3rd year of Hadrian, the 27th of
+Athyr at Alexandria, and seek for the 17th of Antoninus, the 11 th of
+Phamenõth after this. I took the full 35 years, with 3 [days] remaining
+for the birth month, and from Choiak to Mechir at two for each month,
+and with the five sevens being divided out, Mercúrio are left over. And [adding]
+the 11 days of Phamenõth, and they all come to 20. And there are 8
+intercalary days. The days all come to 28. Let the 1 lth of Phamenõth,
+then, be a climacterical day of the seventh. Consider, then, what regards
+the zõidion and the Moon.1
+The day of the ninth is found as follows: I multiply the full years
+by 574 since each year has 40 nines with 574 left over, with each of the
+full months being multiplied by 3 since each month has three nines with
+3 days left over, and collecting together the remainders up to the day in
+question, I subtract as far as possible at Mercúrio per time. I consider if the
+remaining days fill up nine. And thus it will be a climacterical day just
+as for the sevenths. And it will be necessary to make use of the same
+argument for the month and the year.
+The climacterical zõidia of the seventh are Aries, Libra, Câncer,
+Capricorn; of the ninth, Taurus, Leo, Scorpio, Aquarius; and the
+common ones are Gemini, Sagittarius, Virgo, Pisces. Mercúrio . Teachings Pertaining to Conjunctions and Whole Moons and
+Conception in Relation to the Ascending Node that Concern
+Length of Life
+Since I keep mentioning my lack of malice when making a crossexamination for each heading, in order that I will not seem to do this 1 This procedure and the following one for the day of the ninth simply
+determine whether any given day in a native's life is a multiple of the seventh
+and ninth day from birth. It is thus not an inverse harmonic procedure as was
+described earlier in this chapter.
+60 out of conceit, understand that when I revert back to the books of the
+ancient compilers, their account is full of display and affectation in
+order to be able to astound the souls of chance persons and the
+unlearned, but of a truth, to those in the know, it is unattainable and
+hostile. For, by wasting most men's time and beguiling them, it draws
+a circle of life1 around them and keeps them completely within its
+bounds. Let someone encounter the so-called Vision of Critodemus,
+how it has a beginning which is fantastic and the remainder full of
+marvels for the ignorant: “One who sailed on the open sea,” he says,
+“and traveled many paths in solitary was thought worthy by, the gods
+of meeting with a safe harbor and the most secure of resting places.”
+Then he gives an exposition of the sects and transfers2 with the most
+terrible oaths, and after deifying certain procedures for other chance
+persons, and showing himself off to advantage throughout this book, he
+symbolized3 how one's all is encompassed by the powers of others,
+encasing the truth of the teachings4 in indeterminate material. Now, it
+is fitting to exhort and astonish a man who has had much experience
+and who has become the leader of those who seek for themselves. For,
+by imparting these things in a mysterious and colorful manner, he won
+over many admirers to the canonical tabulations and argumentative
+compositions in prose. Some of these admirers, by dismissing the
+random talk and carefully following out the apparent headings with
+much effort, got commendation and excellence bestowed upon the man;
+others, in taking it up with a disposition incapable of labor obtained
+censure for the theory. But my account is bridled and didactic, I believe,
+and will also be without remorse5 for chance persons, in order that
+hostile dispositions should again embrace it through the actuality of
+what has been argued and what will be said.
+In having made the above disposition of the ruler and the 1 hous men tou zên periegrapsen. This seems to refer to a spell.
+2 paradosis, That is, the handing over of the chronocratorship.
+3 That is, the affect of Critodemus' own compositional style on the minds
+of ordinary men imitates the way in which men are at the mercy of the stars.
+Valens implies that this was Critodemus' intention and the deeper meaning of
+his writing. Júpiter mathêma.
+5 That is, will make no concessions to the chance reader such as using
+poetic imagery in the way that Critodemus did. 61 destructive hurling of rays, and in having tested [the method] of the
+numerical lot and the destructive and powerful places, I did not wish to
+conceal but rather to share. Before all, then, for every nativity it will be
+necessary to examine whether it has predomination or rulership. If it
+should be found thus, it behooves us to make use of the terms1
+mentioned earlier.
+However, if the nativity should be found to be without a ruler or
+without a predominator, since it is destroyed by no malefic ray, when
+we know the prenatal Conjunction or Whole Moon to the degree for
+both nocturnal and diurnal natives, it behooves us to take the interval
+from the degree of the Conjunction or Whole Moon up to the
+Hõroskopos or other pivot point, but more powerfully upwardly to the
+Ascending or Descending Node, just as it moves according to the
+cosmos. Then, when we know the multitude òf the number, it is
+necessary to depart with the same degrees from the degree of the
+Hõroskopos upwards to the Midheaven. And wherever the leaving off
+should occur, it is necessary to reckon how many years are joined
+together from the aphesis in regard to the ascension for the zone at
+which someone is born, and to produce these.
+But if when the nativity is diurnal the number should be
+superabundant, it is necessary for us to subtract the pivotal interval (that
+is, from the Hõroskopos up to the Midheaven) from the interval from
+the Conjunction or Whole Moon up to the Ascending or Descending
+Node, again dealing with the remainder in the same fashion upwards
+from the Hõroskopos to the Midheaven.
+For the nocturnal nativity, after taking the interval from the
+Conjunction or Whole Moon up until the Ascending or Descending
+Node or else pivot point, it behooves us to depart with the same degrees
+from the degree of the Hõroskopos in the order of the zõidia, and to
+show forth the years by reckoning them in accordance with the
+ascensions of the place where the number leaves off. And if the number
+should be superabundant, after subtracting the pivotal distance (that
+from the Hõroskopos to the subterraneous pivot), it behooves us to
+depart with the remainder from the descending degree in the order of
+the zõidia up to the Midheaven, and the conjoined number in relation
+to the ascension will be the longevity.
+For the most part, wherever the Ascending or Descending Node or 1 That is, the greatest, mean, and least planetary periods.
+62 the Conjunction or Whole Moon should incline—that is, whether the
+hemisphere under the earth or above it—it is necessary to also perform
+the aphesis in it from the Hõroskopos or Descendant. And if the
+Hõroskopos or Ascending or Descending Node should be found upon
+the zõidia of the Conjunction or Whole Moon, or on the diameters or
+squares to them, it is necessary to depart with the conjoined number of
+the interval in the order of the zõidia from the Hõroskopos by day, but
+from the Descendant by night. And the square of the Ascending Node
+also has destructive power, but above all an aphesis to the degree from
+the Sun and Moon to the Ascending Node and its diameter or square.
+There are also times when there is a predomination or rulership, and
+the sect itself1 concurs with the aphesis or rulership and has power for
+destruction. If, then, the predomination should be found to be congenial2
+and the apparent ruler imparts the times, then the aphesis of this upward
+or downward treatment in relation to the excessive part of the
+ascensions will be judged for those who die immediately or for those
+who die in the womb. And let the same procedure be supposed for the
+conception. But one should preferably make use of the Hõroskopos of
+the birth. And the conception also destroys alone if one should indeed
+make use of the Conjunction or Whole Moon in relation to the
+Ascending or Descending Node, and in relation to the pivot points. And
+if the same years from the birth and from the conception should be
+found to be quite close, the death will have been incontrovertibly
+discovered. 10. How to Find Precisely the Sun, the Moon, and the
+Hõroskopos in a Conception
+We will explain the approximate3 finding quite briefly. For every
+nativity the square of the Sun is the conception zõidion. Now,
+sometimes it is indeed the triangle whenever the Sun should happen to
+be of many degrees, and especially in the zõidia of short ascension. But 1 This probably means whether the chart itself is diumal or noctumal in
+accord with the predominator. [RH1
+2 oikeiõs. In accordance with the sect of the chart?
+3 kata platos. Literally, ‘with latitude,’ or ‘loosely,’ which would seem to
+contradict the ‘precisely’ in the chapter heading.
+63 in the zõidia of long ascension, it is with regard to the hexagon. And
+wherever the Hõroskopos of the birth should fali out, from there infer
+the Moon at conception. And in this way recognize whether the
+conception happened to pertain to a Conjunction or a Whole Moon.1
+For example: the Sun in Aquarius; the Moon in Scorpio; the
+Hõroskopos in Virgo. The Sun at conception was in Taurus, the Moon
+in Virgo. It is clear that the conception is conjunctive. For, the Moon
+(that is, the Hõroskopos) has not yet gone past the diameter of the Sun
+at conception. And if the Hõroskopos (that of the birth) should be found
+beyond the diameter of the Sun at conception, the conception will be
+that of a Whole Moon.
+It is also necessary to make the same selections for the conception
+as have been explained for the birth. For the most part, those having a
+conjunctive conception are those who die in a Whole Moon, and those
+having a conception at Whole Moon die when the Moon is conjunctive.
+Otherwise. For those who know in what zõidion the Conjunction or
+Whole Moon occurred, count from the same degree in order up to the
+Ascending Node, and if the nativity is diurnal depart with the conjoined
+multitude from the Hõroskopos downward; but if the nativity is
+noctumal, backward to the Midheaven. And if the Ascending Node
+should fali upon the Midheaven, it is necessary to depart with the
+conjoined number from the Midheaven; if the nativity should be diurnal,
+downward to the Hõroskopos, but if it should be noctumal, upward to
+the Descendant. And if the Ascending Node should somehow happen
+to fali upon the Descendant, when the nativity is diurnal, depart with the
+number from the Descendant to the Midheaven; but if it is noctumal, to
+the subterraneous pivot point. And if the Ascending Node should
+happen to be in the subterraneous pivot point, and the nativity should
+be found to be diurnal, depart with the multitude of the number upward
+from the subterraneous pivot point; but if it should be noctumal, toward
+the Descendant from the subterraneous pivot point.
+As an illustration, let the Ascending Node be at the 23rd degree of
+Gemini, the Conjunction in Pisces at about 8 degrees, the Hõroskopos
+at the 4th degree of Pisces, the Midheaven at the 13th degree of
+Sagittarius. I took the [degrees] from the Conjunction up to the
+Ascending Node; these come to 105. I depart with these from the 1 This is the Trutine of Hermes which is also described in chapter 21 of
+Book I. [RH] 64 Hõroskopos since the nativity is diurnal. It leaves off at the 19th degree of Gemini. For the 2nd zone, 79 years, [ Júpiter ] months most nearly. He
+lived just so many years.1
+[Commentary by RH] This result comes about from the following computation.
+Starting with the Hõroskopos we have 26° left in Pisces. That comes to 2673o°
+times 20° (the ascension of Pisces) or I7°20'. We add to this the ascensions of
+Aries, 20°, and Taurus, 24°. For 19° Gêmeos we do the following computation. We
+take , Netuno "/3o° times the ascension of Gemini, 28° which gives 17°44'. The sum of
+these gives 79°04'. I arranged these selections, which I myself have used. For in a
+nativity by means of the aforementioned terms.2 I also examined
+whether two or three or more should concur in the same way, and thus
+I infallibly made my affirmations concerning death. Whence I explained
+that it is neither without purpose nor at random that every teaching is
+harmonious by itself or when compared to another. If someone should
+foster every teaching, he will possess the truth of the matters in
+question, one that is easily captured. Now, we have indeed described
+certain teachings3 in a mysterious way as far as the distinguishing and
+comparing4 [abilities] of chance persons are concerned, though not
+because we jealously keep them for ourselves or keep ourselves aloof,
+but rather because we wish to promote a certain additional zeal and
+steadfastness for the study.5 For, everyone in possession of an
+undisciplined mentality believed the gift to be ungracious, but he who
+[is disciplined] with work and inquiry cited not only pleasure but also
+success in the treatment.
+As an illustration, let the Sun be at the lst degree of Taurus, the
+Moon at the 16th degree of Gemini, the Hõroskopos at the 14th degree
+of Taurus, the Conjunction about 27 degrees of Aries, the Ascending 1 L 75,1 in Neugebauer. No planets are given except the preceding New
+Moon in 8°H. This does not allow an unambiguous dating. [RH]
+2 This would appear to be a reference to the least, mean, and greatest
+periods of each planet.
+3 tina. Perhaps, ‘a certain teaching’ in the singular. Júpiter diakrisis kai sugkrisis. The activities that the discursive intellect (dianoia)
+performs.
+5 mathêma. 65 Node at the 25th degree of Capricom. I took the [degreesj from the
+Conjunction upwards to the Ascending Node; these come to 92. I
+departed with these upwards from the degree of the Hõroskopos. It left
+off at the [ l]2th degree of Aquarius. Now, at the zone of Alexandria the
+92 degrees assemble together as 70 years. He died in the 70th year and
+the lst month. And from the conception thus: Since the Whole Moon
+of the conception took place at the 2lst degree of Capricom .. .* which
+approximate the years found.1 2
+[Commentary by RH] We cannot reproduce the logic of these calculations. Another. The Sun at the 29th degree of Aquarius, the Moon at the
+beginning degrees of Aries, the Hõroskopos at the 18th degree of
+Capricom, the Conjunction at the 26th degree of Aquarius, the
+Ascending Node at the 16th degree of Scorpio. I took [the degrees]
+from the Conjunction upwards to the degree of the Hõroskopos; they
+carne to 38. I departed with these from the degree of the Hõroskopos
+downwards. Approximately 33 years are assembled in the first zone. He
+lived for 32 years, 5 months. The place of the conception did not have
+the aphesis. For, the Whole Moon of the conception and the Ascending
+Node happened to be at the same degrees. Whence he had a precarious
+birth and a violent end.3
+[Commentary by RH] This computation works. As one goes from 18° of
+Capricom, there are 12° remaining in the sign. This gives us l2°/yr times 28°,
+the ascension of Capricom, or 1 Io 12’. From there to 26° Aquarius is 26°/3oo times
+24°, the ascension of Aquarius, or 20°48‘, the sum being 32. 1 Lacuna in text.
+2 L 74, IV in Neugebauer. Not all of the planets are given, but Neugebauer
+gets Apri! 19, 74 C.E. at about 7 A.M. [RH]
+3 L 115, Gêmeos in Neugebauer at about Júpiter A.M. on Feb. 15, 115 C.E. The chart
+is incomplete. [RH] 66 11. Concerning the Lot of Fortune in Regard to the Matter of
+Length of Life with Illustrations, in which are also the Least
+Years of the Stars
+I have also found this choice for length of life to have been entwined1
+in a variety of ways by the ancients, but I have made my own judgment
+after conducting an investigation based on experience, and I believe that
+it is more satisfactory than most. For in the 13th book, after the
+prooemium and the disposition of the zõidia, the king2 attacks the Lot
+of Fortune from the Sun, the Moon, and the Hõroskopos, which he
+mostly works with and makes mention of throughout the whole book,
+and which he judges to be a supreme place.3 Concerning the Lot of
+Fortune, he has indeed presented the inversion and reversal as a riddle.
+“And the Sun, beginning for all eternity from the morning, hands
+over the vault4 when it completes the circle in the evening, during
+which time it is visible, but when night is coming on, the Moon
+does not always happen to be bringing light, but sometimes in the
+evening it is setting while being visible, sometimes it remains
+[visible] up to some part of the night, and sometimes it makes its
+passages through the completion of the night, wherefore it has
+entirely entrusted the circle to the Sun.”
+Different [writers] have said different things about this thought, but
+it seems to me that for a diurnal nativity one should take degrees from
+the Sun to the Moon and an equal amount from the Hõroskopos.
+However, for a noctumal nativity, as often as the Moon is above the
+earth (that is, up to the point where it sets), one should take from it to
+the Sun and an equal amount from the Hõroskopos; but after the
+Moon's setting, from the Sun to it.5 For to say “on which account it has 1 It is odd how the weaving, braiding, sowing motifs keep recurring.
+2 Evidently another refercnce to the text of Nechepso and Petosiris.
+3 Compare the quote from section 3 of Book 2, also attributed to the very
+same 13th book of Nechepso and Petosiris. Júpiter kutos.
+5 This text clearly States that the diurnal formula for the Lot of Fortune
+should be used whenever the Moon has set, even if the Sun is below the
+horizon. The problem is that nowhere in this book, or in any of the others we 67 entirely entmsted1 the circle to the Sun” seems to mean this.2 And it
+will be necessary to examine in what sort of place the Lot fell out and
+to surmise the lord for this place. Then, it will be necessary to survey
+in what kind of zõidion the lord of this zõidion happened to be; third,
+the ruler of this [zõidion]. For from these three places and their rulers,
+the longevity will be found in accordance with the three terms.3
+For example, each of the stars has mastery over its own
+period—Kronos, then, 30 years, Zeus 12, Ares 15, the Sun 19,
+Aphrodite 8, Hermes 20, the Moon 25. Similarly also, each [of the
+zõidia\ has mastery over its own ascensions by zone. It will be
+necessary to compare [with theml by zone, then, whether the Lot is
+upon a pivot point and having dealings, or post-ascensional, or
+declining, and [to compare] the rulers of the zõidia, just as the ancient
+one4 mentioned when he said: “Every star that is upon a pivot point
+gives the totality of its own times, but when not on a pivot point it
+imparts as much as remains in arrears from its own numbers.” And they
+will also impart their complete periods and ascensions whenever they
+should happen to be well situated. But also sect-mates5 that are have seen thus far, has Valens folio wed this method. Instead he folio ws the
+more common practice of using the noctumal formula whenever the Sun is
+below the horizon. [RH]
+1 paregguaõ.
+2 This passage confirms that writers such as Valens had to interpret a
+written text that is often enigmatical. They were not basing their remarks on an
+oral tradition. In the present case, the ambiguity in the root text gave rise to
+radically different calculations for the Lot of Fortune. We may surmise that
+other signifícant differences amongst the Greek astrologers may be due to
+different readings of the same passages.
+3 horos. See second paragraph below. We are not íalking about the dignity
+here, but the least, mean, and greatest periods, which are the “terms” in this
+relative proportion, and are perhaps so named because they have to do with the
+“term” or limit of one’s life. This may give a clue as to the meaning of the
+word horion (bound) used of the dignity, which is either a diminutive or a
+locative formed from the present word (just as zõidion is either a diminutive or
+locative formed from zõion). Since the total number of horia assigned to each
+planet is equal to the number of years in its complete period, which is a horos,
+perhaps each horion is regarded as a lesser version of that horos. Júpiter Nechepso and Petosiris again.
+5 Stars of the same sect. 68 co-present, or should be witnessing, or should happen to be in their own
+Zõidia impart [their times] together, uniess both sects should be doing
+the imparting.
+And he [said] similarly. First it is necessary to reckon the numbers,
+hours, days, months, then years, and make use of the three terms—least,
+mean, complete—additionally setting together the first with the second,
+or the second with the third. For often this procedure imparted days,
+that one months, that one years [depending on] the differences of the
+profitable zõidia and the rulers, or the differences in the causes of
+affliction and opposition. And beyond the years they additionally impart
+months equal to the numbers.
+The Spirit and the hõroskopic place ha ve the same role as the Lot
+in the distribution whenever the places that pertain to the lots or their
+lords should fali amiss, especially whenever the Lot should yield up the
+distribution to the Spirit. For, the stars also yield to each other in turn.
+And we will clarify in regard to distributions in the forthcoming
+account.1
+As an illustration, let the Sun, Aphrodite be in Câncer; the Moon,
+the Hõroskopos in Pisces; Kronos in Sagittarius; Zeus in Capricom;
+Ares in Scorpio; Hermes in Leo; the Lot of Fortune in Câncer
+occupying the Good Spirit. The lady of the Lot was found upon a pivot
+point. It established the 25 least years of the Moon, and the ascension
+of Câncer in the second zone,
+32 years, and with Zeus being
+the ruler of the Moon, 12
+years; these come to the same
+69 years. He died at just so
+many years.2
+Another. The Sun
+in
+Aquarius; the Moon, the
+Hõroskopos in Virgo, and
+likewise Ares; Kronos, Zeus,
+Hermes all in Capricom;
+Aphrodite in Pisces; the Lot of
+Fortune declining in Aquarius.
+Since the lord occupied the 1 That is, Book Júpiter .
+2 This is L75 again. See page 46 and note Júpiter . 69 Good Fortune, it imparted its own 30 years and same number of months
+since it was in its own zõidion. Zeus, being present along with it,
+imparted a year. He died in his 34th year.1
+[Commentary by RH] The 30 years of Aquarius is not from its ascension but
+from Kronos, its ruler. Here we also see a method for determining when a ruler
+gives months instead of years. From this and later writings we see in general
+that any planetary period that can be measured in years can also be measured
+in months or days. This is perhaps the ancestor of the reasoning that has led to
+modem progressions in which days and months are substituted for years,
+although the direction of the substitution is in the reverse direction. For every nativity, then, one must observe the precepts written
+above in the beginning, and the phases and the degrees, so that we
+should not be found guilty of mentioning and writing the same things
+for each type, as I was indeed under the necessity of attaching nativities
+by way of illustration. 12. Concerning Crisis Times2
+There are also crisis times according to lots, and especially when
+maiefics are co-present or witnessing the Fortune: in a diameter, every
+seven years;3 in a triangle on the right, every Mercúrio years; in a triangle on
+the left, every 5 years; in a square on the right, every 10 years; in the
+square on the left, every Júpiter years; when they are causing harm in a
+hexagon on the right, every 11 years; in a hexagon on the left, every 3
+years; when preceding the Fortune, every 12 years; and when in contact
+with it, every 2 years.
+If the planet allotted the Fortune should be present upon Aries, [a
+crisis] will obtain every 19 years, upon Taurus every 25 years, upon 1 L 135, 1 in Neugebauer at about 8 Plutão .M. on Jan. 20, 135 C.E. There is a
+typo in Neugebauer. The text references this chart as being in Book Gêmeos .
+2 klimaktêr. Literally, ‘rungs,’ (as on a ladder).
+3 dia íõn ebdomadõn eniautõn. This phrase could mean either ‘every seven
+years,’ or ‘for seven years.’ The former seems more likely since the crises we
+have talked about earlier occur in certain years at regular intervals. However,
+there is no way of deciding on the basis of context alone. The same remark
+applies to the phrasing in the next paragraph. 70 Gemini every 20 years, upon Câncer every 25 years, upon Leo every 12
+years, upon Virgo every 8 years, upon Libra every 30 years, upon
+Scorpio every 15 years, upon Sagittarius every 12 years, upon Capricorn
+every 8 years, upon Aquarius every 30 years, and upon Pisces every 15
+years.
+[Commentary by RH] In the first of the two preceding paragraphs, the periods
+are clearly derived from profections through the houses. In the second of the
+two paragraphs each of the periods is the small or minor period of one of the
+triplicity rulers of the sign in question. What is not quite clear is why the
+particular one of the three possible triplicity rulers has been selected in each
+case. 13. Mean Years of the Stars
+The mean years of the stars are these: Kronos, 45; Zeus, 49; Ares, 42;
+Aphrodite, 46; Hermes, 48; Sun, 64; [Moon, 67]. They impart these
+years, then, along with the periods and ascensions of the zõidia,
+whenever they happen to be having dealings.1
+The mean years in a different manner: By setting together the great
+period and the least period of each star you will flnd the mean years.
+For example, the complete years of Kronos are 57 and the least 30; they
+come to 87, half of which is 43'/2. The complete years of Zeus are 79
+and the least 12; they come to 91, half of which is 45l/2. And similarly
+for the remaining stars.
+Since the ascensions of the zõidia according to Hypsiscle's
+Ascensional fail if the time should amount to a year or two, [. . .].2 For,
+the king explicated the ascensions of the lst zone only. 1 This is the first time we have seen these mean periods for the planets.
+Unfortunately we have no idea whence they are derived. The ones in the next
+paragraph are the ones usually presented in other books. [RH]
+2 Lacuna in text. 71 For example, let the Sun,
+Aphrodite, Hermes be in
+Câncer; the Moon in Taurus;
+Kronos in Pisces; Zeus, Ares in
+Leo; the Hõroskopos in Virgo.
+The ascension of Virgo in the
+lst zone is 38'A.1 And since
+the lord, Hermes, occupies the
+Good Spirit in Câncer, it gave
+an ascension of 312/3. These
+come to 70. He lived for just
+so many years.2 Another. The Sun, Hermes
+in Taurus; the Moon in Pisces;
+Kronos in Scorpio; Zeus, Ares,
+Aphrodite
+in ' Aries;
+the
+Hõroskopos in Gemini. The
+ascension of the 2nd zone is
+28. Hermes gave 24, the
+ascension of Taurus; also Ares,
+Aphrodite of Aries gave 15.3
+He died in his 67th year. Júpiter [Commentary by RH] The
+ascension of Gemini is of course
+28°. Hermes rules Gemini and is
+in Taurus which has an ascension
+of 24°. Aphrodite rules Taurus and is conjunct Ares in Aries which it rules. 1 The usual value is 38°53,20". [RH]
+2 This is L 82 in Neugebauer again which appeared in Book Gêmeos , chapter 22.
+It has been dated to about noon on July Mercúrio , 82 C.E. However, here Aphrodite
+has been misplaced in Câncer instead of Virgo. This rendition of the chart goes
+along with the text as it does not affect the methodology. [RH]
+3 Apparently Ares gives its small years to the sum because it is the lord of
+the zõidion of Aphrodite and it is in Aries, its own sign. [RH] Júpiter L 102, IV, a in Neugebauer, dated to about 8 A.M. on April 30, 102 C.E.
+[RH]
+72 Ares gives 15 years from its small period. Hence the total. Another. The same position
+of the stars only at a different
+nativity, except that the Hõroskopos was in Capricom, the
+Lot of Fortune in Pisces. The
+ascension of the 2nd zone is
+20, and the period of Zeus
+being 12, and since it is in
+Aries with an ascension of 20,
+and the period of Ares being
+15, these come to 67. He lived
+for just so many years.1
+[Commentary
+by
+RH]
+This
+example shows the rather complex
+way in which periods of planets and the ascensions of zõidia can be combined
+into a sum for computing a life expectancy. The central difficulty is that it hard
+to tell when one should employ one method of combining the periods over
+another.
+Though I would have preferred that the books compiled by me were
+more specific, since they have been addressed to my young pupils so
+that they might have an easily grasped introduction, I did not have the
+time to rearrange them more clearly because of having strained my
+vision and having had my intellect weakened by much suffering with
+the loss of my most esteemed pupil. Whence one must make
+allowances. The 3rd book of the Anthology of Vettius Valens has been
+completed. 1 L 102, IV, b in Neugebauer dated to about 10 Plutão .M. on April 30, 102 C.E.
+just as the previous chart but with the different Moon and Hõroskopos. [RH]
+73 Appendix I
+Translation Conventions
+The following words consistently translate the indicated Greek word.
+ruier, rulership: oikodespotês, oikodespoteia
+ruier: kurios
+master, mastership: despotês, despoteia
+-lord: -kratõr (as in horatokratõr, lord of boundaries)
+-steward: -dektõr (as in oikodektõr, steward of the house)
+co-ruler: sunoikodespotês, see notes to chapter 13 of Hephaistio, Book I.
+zõidion: zõidion (See General Notes in Paulus Alexandrinus and Vettius Valens Book I.)
+place: topos (See General Note in Paulus Alexandrinus.)
+sect: hairesis
+boundaries: horia
+face: prosõpon
+trigon: trigõnon, i.e., triplicity.
+house: oikos
+kinship, familarity, congeniality: oikeiõsis.
+affiliation: sunoikeiõsis.
+dwelling: oikotêr
+exaltation: hupsõma
+depression: tapeinõma
+figure: schêma
+figuration: schêmatismos
+configuration: suschêmatismos
+to figure: schêmatizõ
+to configure: suschêmatizõ
+to come to the attention of (by application, etc): hupodedeiktai
+east: heõios (also sometimes translated as ‘morning’)
+west: hesperios (also sometimes translated as ‘evening’)
+oriental: anatolikos
+orient: anatolé (sometimes in plural)
+Occidental: dutikos 74 occident: dusmos (sometimes in plural)
+to contemplate: theõreõ
+to regard: epitheõreõ
+to scrutinize: katopteuõ
+to testify or bear witness to: epimarturõ
+All four of the abo ve words appear to refer to aspect relationships. The
+words theoreõ and katopteuõ refer to aspects in either direction, i.e.,
+into preceding and succeeding signs. However, katopteuõ seems to have
+a negative overtone suggesting that it refers particularly to difficult
+aspects. The word epitheõreõ is limited to aspects into the succeeding
+signs but, like theoreõ, can refer to both difficult and good aspects.
+hurling of rays: aktinobolê
+superiority: kathuperterêsis
+to ti the (in the active sense of to levy a tax): epidekateuõ
+hõroskopos: hõroskopos
+to mark the birth-hour: horoskõpeõ
+to divide the hour: Hõronomeõ See the General Note to the Anonymous.
+midheaven: mesouranema
+to culminate: mesouraneõ
+pivot: kentron
+pre-ascension: proanophora
+post-ascension: epanophora
+decline: apoklima i>. ri se: anatellõ
+arise: epitellõ
+set: duneõ
+hide: kruptõ
+co-rise: paranatellõ See General Note in the Anonymous.
+ascend, (of nodes): anabibazõ
+descend, (of nodes): katabibazõ
+contact: kollêsis
+application: sunaphê 75 separation: apporoia
+circumambulation: peripaíos
+degree: moira (See General Notes in Paulus Alexandrinus and Vettius
+Valens Book I.)
+monomoiria: monomoiria (See the sections in Paulus Alexandrinus on
+monomoiria.) crisis: klimaktêr
+to take delight in, rejoice: chairõ
+to have dealings with: chrêmatizõ
+Such dealings evidently include any or all of the administrative or
+goveming functions (i.e., dispositions) performed by the planetary ruler.
+master, lord or steward. Possibly the planet's role as spear bearer, and
+any configuration it enters into.
+enclosure: perischesis
+containment: emperischesis
+illustration: hupodeigma
+A somewhat irregular word for ‘example’, that has just a trace of ‘sign’
+or ‘token.’
+image: eikõn
+Another irregular word for example that may have the sense of a
+visualization.
+occupancy: Epochê See the General Note in the Anonymous.
+under bond: sundesmos.
+Literally, that which ties together. Evidently a more general kind of
+connection than conjunction (sunodos). See Paulus, Chapter 35. 76 commencement: katarchê
+beginning: archê
+aphesis, apheta, aphetic: aphesis, aphetês, aphetikos. Apheta is a
+Latinized form of aphetês. Derived from aphesis which has been
+replaced by the word ‘prorogation’ in later literature, although the two
+words do not have the same root meaning. Hence apheta = prorogator,
+and aphetic = prorogatory. Aphesis is actually a ‘releasing’ or
+‘discharging’ or ‘starting’, literally ‘a hurling away from’. The word
+was later also replaced by the term ‘hyleg’, which is conceptually very
+different meaning the ‘giver of life’, although the usages of the hyleg
+and the apheta makes them functional equivalents.
+We are not yet secure enough in the exact meaning of the word to
+give it a real English translation, however, these slightly Latinized forms
+are found in later post-Greek astrological literature. See TransIator’s
+Preface. 77 The Goldm HindPress Lua

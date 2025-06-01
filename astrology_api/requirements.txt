@@ -1,0 +1,15 @@
+# Requisitos para a API de Astrologia
+fastapi>=0.100.0
+uvicorn[standard]>=0.20.0,<0.30.0
+kerykeion>=4.26.2,<5.0.0
+python-dotenv>=1.0.0,<2.0.0
+pydantic>=2.0.0,<3.0.0
+pytz>=2023.3
+python-multipart>=0.0.5
+scikit-learn>=1.3.0  # Para TF-IDF e outras funcionalidades de NLP
+scipy>=1.11.3  # Dependência para scikit-learn
+numpy>=1.24.0  # Dependência para computação numérica
+# Para implementação futura do RAG
+langchain>=0.0.200
+faiss-cpu>=1.7.4
+sentence-transformers>=2.2.2
